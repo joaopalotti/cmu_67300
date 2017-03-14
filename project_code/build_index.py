@@ -6,9 +6,13 @@ class IIndex:
 
     def __init__(self, files):
         """
-            Parameters:
+            Input Parameter:
 
-            * files: a list of path to files. ["simplecollection/simple000001.txt", "simplecollection/simple0000002.txt", ...]
+            * files: the location of the collection in your computer.
+
+            This will create a internal variable called 'files' (accessiable with self.files),
+            which will contain all the files from the collection:
+            ["<...path...>/simplecollection/simple000001.txt", "<...path...>/simplecollection/simple0000002.txt", ...]
 
         """
         self.files = glob.iglob(os.path.join(files, "*"))
