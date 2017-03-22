@@ -1,0 +1,15 @@
+Diesel-electric
+
+A  diesel-electric   engine  is a  diesel engine  that drives an electric  generator .  The generator feeds  electric power  to an  electric motor  which turns a  driveshaft .  Its  efficiency  is higher than when an engine drives a shaft through  gear s.  Most  locomotive s and many  ship s use diesel-electric drive.
+
+Many diesel-electric drives, especially small ones, store the electricity in a  battery . Some designs also store  braking energy  in a  flywheel , which can also charge a battery. However, these add even more  complexity  and weight to the vehicle, so are more appropriate for  city driving  where  service station s are always available and there is much  stop and go driving .
+
+Because they do not require any change or  investment  in stations nor much in  vehicle design , diesel-electric vehicles are believed to be the most likely replacement for today's  internal combustion engine . When properly tuned, they have low  toxic emission s and they use only about one-third of the  fossil fuel  of most  gasoline  engines powering similar vehicles.
+
+ Honda  and  Toyota  are presently delivering consumer priced diesel-electric cars. By contrast,  hydrogen infrastructure  is thought to be decades off, and is not fully implemented even in  Iceland  where there is abundant free  geothermal electricity .
+
+Many  activist s feel that promoting hydrogen is a stall, a way to avoid forcing the shift to diesel-electric vehicles in the nearer term.
+
+ Transport-stub 
+
+ Category:Motors

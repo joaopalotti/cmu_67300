@@ -1,0 +1,15 @@
+Radio telescope
+
+File:CSIRO ScienceImage 3881 Five Antennas at Narrabri - restoration1.jpg thumb|right|300px| Australia Telescope Compact Array : a  radio telescope 
+A  radio telescope  is like a huge  satellite   dish . An ordinary  telescope  allows people to see light from distant objects. Stars shine and the light can be seen with a telescope, but they also give off  radio wave s.  Scientist s with radio telescopes receive these radio waves and use  computer s to learn about the stars. Other things like  black hole s also give off radio waves and radio telescopes are useful for learning about them too.
+
+The dish is sometimes constructed of a  conductive  wire mesh whose openings are smaller than a wavelength. The information received by several radio telescopes in different places can be combined. This gives similar results to having a single dish as big as the distance between the telescopes, so even very faint signals can be received. Scientists are also trying to do this with ordinary telescopes.
+
+The radio telescope at the  Parkes Observatory ,  Parkes, New South Wales  was used by  NASA  to receive messages from the  Apollo 11  moon landings.
+
+  Related pages  
+   Atacama Large Millimeter Array 
+
+ tech-stub 
+
+ Category:Telescopes

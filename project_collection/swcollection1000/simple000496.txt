@@ -1,0 +1,245 @@
+Universe
+
+Cosmology 
+The  universe  is commonly defined as everything that  existence exist s. ref 
+ cite book url http://www.yourdictionary.com/universe title Webster's New World College Dictionary
+ year 2010 publisher Wiley Publishing, Inc. ref  It includes all kinds of physical  matter  and  energy , the  planet s,  star s,  galaxies , and all the contents of  Outer space space . ref cite book url http://www.yourdictionary.com/universe title The American Heritage(r) Dictionary of the English Language edition 4th year 2010
+ publisher Houghton Mifflin Harcourt Publishing Company ref ref cite book url http://dictionary.cambridge.org/dictionary/british/universe title Cambridge Advanced Learner's Dictionary ref 
+
+ Astronomers  can use  telescopes  to look at very distant galaxies. Like this they see what the universe looked like a long time ago. This is because the light from distant parts of the universe takes a very long time to reach us. From these observations, it seems the  physical law s and  constant s of the universe have not changed.
+
+Physicists are currently unsure if anything existed before the Big Bang. They are also unsure whether the size of the universe is infinite.
+
+  History  
+Many people in history had ideas to explain the universe. Most early  wikt:model model s had the Earth at the centre of the Universe. Some  ancient Greece ancient Greeks  thought that the Universe has infinite space and has existed forever. They thought it had a set of  sphere s which corresponded to the fixed stars, the  Sun  and various  planet s. The spheres circled about a spherical but unmoving  Earth . 
+
+Over the centuries, better observations and better ideas of gravity led to  Copernicus 's  Sun -centred model. This was hugely controversial at the time, and was fought long and hard by authorities of the  Roman Catholic Church Christian church  (see  Giordano Bruno  and  Galileo ).
+
+The invention of the  telescope  in the  Netherlands , 1608, was a milestone in astronomy. By the mid-19th century they were good enough for other galaxies to be distinguished. The modern optical (uses visible light) telescope is still more advanced. Meanwhile, the  Isaac Newton Newtonian   dynamics  ( equation s) showed how the  Solar System  worked. 
+
+The improvement of telescopes led astronomers to realise that the Solar System is in a  galaxy  made of billions of stars, the  Milky Way , and that other galaxies exist outside it, as far as we can see. Careful studies of the distribution of these galaxies and their  spectral line s have led to much of  physical cosmology modern cosmology . Discovery of the  redshift  showed that the Universe is expanding (see  Hubble ). 
+
+ File:HubbleUltraDeepFieldwithScaleComparison.jpg thumb|right|200px|High-resolution image of the  Hubble  ultra deep field. It shows a variety of  Galaxy galaxies , each made of  wikt:billion billion s of  star s. The equivalent area of sky that the picture occupies is shown in the lower left corner. The smallest, reddest galaxies, about 100, are some of the most distant galaxies to have been photographed. They formed shortly after the Big Bang. 
+
+  Big Bang  
+The most used scientific model of the Universe is known as the  Big bang Big Bang  theory. The Universe  wikt:expanded expanded  from a very hot, dense phase called the  Planck epoch , in which all the matter and energy of the Universe was concentrated. Several independent experimental measurements support the expansion of space and, more generally, the Big Bang idea. Recent observations support the idea that this expansion is happening because of  dark energy . Most of the matter in the Universe may be in a form which cannot be detected by present methods. This has been named  dark matter .
+
+Just to be clear, dark matter and energy have not been detected directly (that is why they are called 'dark'). Their existence is  inference inferred  by  deduction  from observations which would be difficult to explain otherwise.
+
+Current thinking in cosmology is that the  age of the Universe  is 13.73 (+- 0.12) billion years, ref cite news url http://www.nytimes.com/2008/03/09/science/space/09cosmos.html title Gauging Age of Universe Becomes More Precise last Chang first Kenneth date 2008-03-09 work New York Times accessdate 2008-09-24 ref  and that the diameter of the Universe is at least 93 billion  light year s, or 8.80  E 26   metre s. ref name ly93 cite web   last   Lineweaver   first   Charles   coauthors   Tamara M. Davis   year   2005   url    http://www.sciam.com/article.cfm?id=misconceptions-about-the-2005-03&page=5    title   Misconceptions about the Big Bang   publisher    Scientific American    accessdate   2008-11-06 ref  
+
+According to  general relativity , space can get bigger faster than the speed of light, but we can view only part of the universe because of the speed of light. We cannot see space beyond the limitations of light (or any  electromagnetic radiation ).
+
+  Etymology, synonyms and meaning  
+The word  Universe  comes from the  Old French  word  Univers , which comes from the  Latin  word  universum . ref The Compact Edition of the Oxford English Dictionary , volume II, Oxford: Oxford University Press, 1971, p.3518. ref  The Latin word was used by  Cicero  and later Latin authors in many of the same senses as the modern  English language English  word is used. 
+
+A different  wikt:interpretation interpretation  (way to interpret) of  unvorsum  is "everything rotated as one" or "everything rotated by one". This refers to an early Greek model of the Universe. In that model, all matter was in rotating spheres centered on the Earth; according to  Aristotle , the rotation of the outermost sphere was  wikt:responsible responsible  for the motion and change of everything within. It was natural for the Greeks to assume that the Earth was stationary and that the heavens rotated about the  Earth , because careful  astronomy astronomical  and physical measurements (such as the  Foucault pendulum ) are required to prove otherwise.
+
+The most common term for "Universe" among the ancient Greek philosophers from  Pythagoras  onwards was  to pan  (The All), defined as all matter ( to olon ) and all space ( to kenon ). ref Liddell and Scott, pp.1345-1346. ref 
+
+  Broadest meaning  
+The broadest word meaning of the Universe is found in  De divisione naturae  by the  Middle Ages medieval   philosopher   Johannes Scotus Eriugena , who defined it as simply everything: everything that exists and everything that does not exist.
+
+Time is not considered in Eriugena's definition; thus, his definition includes everything that exists, has existed and will exist, as well as everything that does not exist, has never existed and will never exist. This all-embracing definition was not adopted by most later philosophers, but something  wikt:similar similar  is in  quantum physics . ref name path_integral cite book   author   Feynman RP, Hibbs AR   year   1965   title   Quantum physics and path integrals   publisher   McGraw-Hill   location   New York   isbn   0-07-020650-3 br cite book   author   Zinn Justin J   year   2004   title   Path integrals in quantum mechanics   publisher   Oxford University Press   isbn   0-19-856674-3   oclc   212409192 ref 
+
+  Definition as reality  
+ See also Reality Physics 
+
+Usually the Universe is thought to be everything that exists, has existed, and will exist. ref cite book title The Oxford companion to cosmology authors Andrew Liddle, Jon Loveday isbn 978-0-19-956084-4 ref  This definition says that the Universe is made of two elements:  Space (physics) space  and  time , together known as  space-time  or the  vacuum ; and  matter  and different forms of  energy  and  momentum   wikt:occupying occupying   space-time . The two kinds of elements behave according to  physical law s, in which we describe how the elements interact. 
+
+A similar definition of the term  Universe  is everything that exists at a single moment of time, such as the present or the beginning of time, as in the sentence "The Universe was of size 0".
+
+In  Aristotle 's book  The Physics , Aristotle divided to  pan  (everything) into three roughly analogous elements:  matter  (the stuff of which the Universe is made),  form  (the arrangement of that matter in space) and  change  (how matter is created, destroyed or altered in its properties, and similarly, how form is altered).  Physical law s were the rules governing the properties of matter, form and their changes. Later philosophers such as  Lucretius ,  Averroes ,  Avicenna  and  Baruch Spinoza  altered or refined these divisions. For example, Averroes and Spinoza have  active  principles governing the Universe which act on  passive  elements.
+
+  Space-time definitions  
+It is possible to form  space-time s, each existing but not able to touch, move, or change ( wikt:interact interact  with each other. An easy way to think of this is a group of separate  soap bubble s, in which people living on one soap bubble cannot interact with those on other soap bubbles. According to one common terminology, each "soap bubble" of space-time is denoted as a universe, whereas our particular  space-time  is denoted as  the Universe , just as we call our moon  the  Moon . The entire collection of these separate space-times is denoted as the  multiverse . ref name EllisKS03 cite journal  last   Ellis G.F.R; Kirchner U. & Stoeger W.R. 2004   title   Multiverses and physical cosmology   journal   Monthly Notices of the Royal Astronomical Society   volume   347   pages   921-936   url    http://arxiv.org/abs/astro-ph/0305292    doi  10.1111/j.1365-2966.2004.07261.x   format   subscription required ref  In principle, the other unconnected universes may have different  dimension alities and  topology topologies  of  space-time , different forms of  matter  and  energy , and different  physical law s and  physical constant s, although such possibilities are  speculation s.
+
+  Observable reality  
+According to a still-more-restrictive definition, the Universe is everything within our connected  space-time  that could have a chance to interact with us and vice versa. 
+
+According to the  general relativity general idea of relativity , some regions of  Outer space space  may never interact with ours even in the lifetime of the Universe, due to the finite  speed of light  and the ongoing expansion of space. For example, radio messages sent from Earth may never reach some regions of space, even if the Universe would exist forever; space may expand faster than light can traverse it. 
+
+It is worth emphasizing that those distant regions of space are taken to exist and be part of reality as much as we are; yet we can never interact with them, even in principle. ref Even with most of the visible universe, we cannot interact with it in practice. A relatively simple task, so it might seem, would be to communicate within our own galaxy. Even if we knew how to send a message successfully, it would be about 200,000 years before a reply could come back from the far end of the Milky Way, whose diameter is 100,000  light year s. galaxy. ref  The spatial region within which we can affect and be affected is denoted as the  observable universe . 
+
+Strictly speaking, the observable universe depends on the location of the observer. By traveling, an observer can come into contact with a greater region of space-time than an observer who remains still, so that the observable universe for the former is larger than for the latter. Nevertheless, even the most rapid traveler may not be able to interact with all of space. Typically, the 'observable universe' means the universe seen from our vantage point in the Milky Way Galaxy.
+
+  Basic data on the Universe  
+ File:Cosmological composition.jpg thumb|300px|The universe is thought to be mostly made of  dark energy  and  dark matter , both of which are not understood right now.  Less than 5% of the universe is ordinary matter . 
+ File:Elementary particle interactions.svg thumb|right|300px|The  elementary particle s from which the Universe is constructed. Six  lepton s and six  quark s comprise most of the  matter ; for example, the  proton s and  neutron s of  atomic nucleus atomic nuclei  are composed of quarks, and the ubiquitous  electron  is a lepton. These particles interact via the  gauge boson s shown in the middle row, each corresponding to a particular type of gauge  symmetry . The  Higgs boson  (as yet unobserved) is believed to confer  mass  on the particles with which it is connected. The  graviton , a supposed gauge boson for  gravity , is not shown. 
+
+The Universe is huge and possibly  infinite  in volume. The matter which can be seen is spread over a space at least 93 billion  light years  across. ref cite web   last   Lineweaver   first   Charles   coauthors   Tamara M. Davis   year   2005   url    http://www.sciam.com/article.cfm?articleID=0009F0CA-C523-1213-852383414B7F0147&pageNumber=5  title   Misconceptions about the Big Bang   publisher    Scientific American    accessdate   2007-03-05 ref  For comparison, the diameter of a typical  galaxy  is only 30,000 light-years, and the typical distance between two neighboring galaxies is only 3 million  light-years . ref Rindler (1977), p.196. ref  As an example, our  Milky Way  Galaxy is roughly 100,000 light years in diameter, ref cite web
+   last   Christian
+   first   Eric
+   last2   Samar
+   first2   Safi-Harb
+   title   How large is the Milky Way?
+   url http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/980317b.html 
+   accessdate   2007-11-28  ref  and our nearest sister galaxy, the  Andromeda Galaxy , is located roughly 2.5 million light years away. ref cite journal
+   author I. Ribas  et al 
+   title First Determination of the Distance and Fundamental Properties of an Eclipsing Binary in the Andromeda Galaxy
+   journal Astrophysical Journal
+   year 2005
+  volume 635
+   pages L37-L40
+   url http://adsabs.harvard.edu/abs/2005ApJ...635L..37R 
+   doi   10.1086/499161
+ br cite journal
+   author McConnachie A.W.  et al 
+   tile Distances and metallicities for 17 Local Group galaxies
+   journal Monthly Notices of the Royal Astronomical Society
+   year 2005
+  volume 356
+  issue 4
+   pages 979-997
+   url http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2005MNRAS.356..979M 
+   doi   10.1111/j.1365-2966.2004.08514.x
+ ref  There are probably more than 100 billion (10 sup 11 sup )  Galaxy galaxies  in the observable universe. ref cite web   last   Mackie   first   Glen  date  February 1, 2002   url    http://astronomy.swin.edu.au/~gmackie/billions.html    title   To see the Universe in a grain of Taranaki sand   publisher   Swinburne University   accessdate   2006-12-20  ref  Typical galaxies range from dwarf galaxys with as few as ten million ref cite web   date 2000-05-03   url    http://www.eso.org/outreach/press-rel/pr-2000/pr-12-00.html 
+   title   Unveiling the secret of a Virgo Dwarf Galaxy
+   publisher   ESO   accessdate   2007-01-03  ref  (10 sup 7 sup )  star s up to giants with one  trillion ref name M101 cite web   date 2006-02-28   url    http://www.nasa.gov/mission_pages/hubble/science/hst_spiral_m10.html    title   Hubble's largest galaxy portrait offers a new high-definition view
+   publisher   NASA   accessdate   2007-01-03  ref  (10 sup 12 sup ) stars, all orbiting the galaxy's center of mass. Thus, a very rough estimate from these numbers would suggest there are around one sextillion (10 sup 21 sup ) stars in the observable universe; though a 2003 study by Australian National University astronomers resulted in a figure of 70 sextillion (7 x 10 sup 22 sup ). ref cite web   date 2003-07-17   url    http://info.anu.edu.au/ovc/media/Media_Releases/2003/030717StarCount 
+   title   Star Count: ANU Astronomer makes best yet
+   accessdate   2010-02-19  ref 
+
+The matter that can be seen is spread throughout the universe, when averaged over distances longer than 300 million light-years. ref cite journal   author N. Mandolesi P.  et al.    title Large-scale homogeneity of the Universe measured by the microwave background   journal Letters to Nature   year 1986  volume 319   pages 751-753   doi  10.1038/319751a0  ref  However, on smaller length-scales, matter is observed to form 'clumps', many  atoms  are condensed into  star s, most stars into galaxies, most galaxies into galaxy groups and clusters and, lastly, the largest-scale structures such as the  Great Wall  of galaxies. 
+
+The present overall  density  of the Universe is very low, roughly 9.9 x 10 sup -30 sup  grams per cubic centimetre. This mass-energy appears to consist of 73%  dark energy , 23% cold  dark matter  and 4% ordinary matter. The density of atoms is about a single hydrogen atom for every four cubic meters of volume. ref cite web   last   Hinshaw   first   Gary  date  February 10, 2006   url    http://map.gsfc.nasa.gov/m_uni/uni_101matter.html    title   What is the Universe made of?   publisher   NASA WMAP   accessdate   2007-01-04 ref  The properties of dark energy and dark matter are not known. Dark matter slows the expansion of the Universe. Dark energy makes its expansion faster.
+
+The Universe is old, and changing. The best good guess of the Universe's age is 13.798+-0.037 billion years old, based on what was seen of the  cosmic microwave background radiation . ref name NASA_age cite web   title   Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Data Processing, Sky Maps, and Basic Results   url http://lambda.gsfc.nasa.gov/product/map/dr3/pub_papers/fiveyear/basic_results/wmap5basic.pdf format PDF publisher nasa.gov accessdate 2008-03-06 ref ref name planck_overview cite arXiv author Planck Collaboration  coauthors   year 2013  title Planck 2013 results. I. Overview of products and scientific results  class astro-ph.CO  eprint 1303.5062 ref ref name arxiv-20121220 cite arXiv  last Bennett  first C.L.  coauthors et al.   year 2013  title Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: final maps and results  eprint 1212.5225  class astro-ph.CO ref  Independent estimates (based on measurements such as  radioactive dating ) agree, although they are less precise, ranging from 11-20 billion years ref cite web
+   author  Britt RR
+   title  Age of Universe revised, again
+   publisher  space.com 
+   date   2003-01-03
+   url    http://www.space.com/scienceastronomy/age_universe_030103.html 
+   accessdate   2007-01-08 ref 
+to 13-15 billion years. ref cite web
+   author   Wright EL
+   title  Age of the Universe
+   publisher  UCLA 
+   year   2005
+   url    http://www.astro.ucla.edu/~wright/age.html 
+   accessdate   2007-01-08
+ br cite journal
+   author   Krauss LM, Chaboyer B
+   title  Age Estimates of Globular Clusters in the Milky Way: constraints on cosmology
+   journal  Science
+   volume   299
+   issue   5603
+   pages   65-69
+   publisher  American Association for the Advancement of Science
+   date   2003
+   url    http://www.sciencemag.org/cgi/content/abstract/299/5603/65?ijkey=3D7y0Qonz=GO7ig.&keytype=3Dref&siteid=3Dsci 
+   accessdate   2007-01-08
+   doi  10.1126/science.1075631
+   pmid  12511641 ref  
+
+The universe has not been the same at all times in its history. This getting bigger accounts for how Earth-bound people can see the light from a galaxy 30 billion light years away, even if that light has traveled for only 13 billion years; the very space between them has expanded. This expansion is consistent with the observation that the light from distant galaxies has been  redshift ed; the  photon s emitted have been stretched to longer  wavelength s and lower  frequency  during their journey. The rate of this spatial expansion is accelerating, based on studies of Type Ia  supernova e and other data.
+
+The relative amounts of different  chemical element s -- especially the lightest atoms such as  hydrogen ,  deuterium  and  helium -- seem to be identical in all of the universe and throughout all of the history of it that we know of. ref cite web   last   Wright   first   Edward L.  date  2004   url    http://www.astro.ucla.edu/~wright/BBNS.html    title   Big Bang Nucleosynthesis   publisher   UCLA   accessdate   2007-01-05  br cite journal   author M. Harwit, M. Spaans   title Chemical composition of the early Universe   journal The Astrophysical Journal   year 2003  volume 589  issue 1   pages 53-57   url http://adsabs.harvard.edu/abs/2003ApJ...589...53H    doi   10.1086/374415 br cite journal   author C. Kobulnicky & E.D. Skillman   title Chemical composition of the early Universe   journal Bulletin of the American Astronomical Society   year 1997  volume 29   pages 1329   url http://adsabs.harvard.edu/abs/1997AAS...191.7603K   ref  The universe seems to have much more  matter  than  antimatter . ref cite web  date  October 28, 2003   url    http://www.pparc.ac.uk/ps/bbs/bbs_antimatter.asp    title   Antimatter   publisher   Particle Physics and Astronomy Research Council   accessdate   2006-08-10  ref  The Universe appears to have no net  electric charge .  Gravity  is the dominant interaction at cosmological distances. The Universe also seems to have no net  momentum  or  angular momentum . The absence of net charge and momentum is expected if the universe is finite. ref Landau and Lifshitz 1975. p361 ref 
+
+The Universe appears to have a smooth  space-time continuum  made of three  Space (physics) spatial   dimension s and one temporal ( time ) dimension. On the average, space is very nearly flat (close to zero  curvature ), meaning that  Euclidean geometry  is experimentally true with high accuracy throughout most of the Universe. ref name Shape http://map.gsfc.nasa.gov/m_mm/mr_content.html WMAP Mission: Results - Age of the Universe ref  However, the universe may have more dimensions and its spacetime may have a multiply connected global topology. ref name _spacetime_topology cite conference
+   first   Jean-Pierre
+   last   Luminet
+   authorlink  
+   coauthors   Boudewijn F. Roukema
+   title   Topology of the Universe: theory and observations
+   booktitle   Proceedings of Cosmology School held at Cargese, Corsica, August 1998
+   pages  
+   publisher  
+   year   1999
+   location  
+   url    http://arxiv.org/abs/astro-ph/9901364 
+   doi  
+   id  
+   accessdate   2007-01-05
+ br cite journal
+   last   Luminet, J-P.  et al 
+   title   Dodecahedral space topology as an explanation for weak wide-angle temperature correlations in the cosmic microwave background
+   journal   Nature
+   volume   425
+   issue  
+   pages   593
+   publisher  
+   year 2003
+   url    http://arxiv.org/abs/astro-ph/0310253 
+   doi  10.1038/nature01944
+   id  
+   accessdate   2007-01-09
+   format   subscription required ref 
+
+The Universe has the same  physical law s and  physical constant s throughout. ref cite web   last   Strobel   first   Nick  date  May 23, 2001   url    http://www.astronomynotes.com/starprop/s7.htm    title   The composition of stars   publisher   Astronomy Notes   accessdate   2007-01-04  br cite web   url http://www.faqs.org/faqs/astronomy/faq/part4/section-4.html    title   Have physical constants changed with time?   publisher   Astrophysics (Astronomy Frequently Asked Questions)   accessdate   2007-01-04  ref  According to the prevailing  Standard Model  of physics, all matter is composed of three generations of  lepton s and  quark s, both of which are  fermion s. These  elementary particle s interact via at most three fundamental interactions: the  electroweak  interaction which includes  electromagnetism  and the  weak nuclear force ; the  strong nuclear force  described by quantum  chromodynamics ; and  gravity , which is best described at present by  general relativity . 
+
+ Special relativity  holds in all the universe in local space and time. Otherwise,  general relativity  holds. There is no explanation for the particular values that  physical constant s appear to have throughout our Universe, such as  Planck's constant   h  or the  gravitational constant   G . Several  conservation law s have been identified, such as the conservation of  charge , conservation of  momentum , conservation of  angular momentum  and conservation of  energy .
+
+  Theoretical models  
+  General theory of relativity  
+ Main General relativity 
+
+Accurate predictions of the universe's past and future require an accurate theory of gravitation. The best theory available is  Albert Einstein 's general theory of relativity, which has passed all experimental tests so far. However, since rigorous experiments have not been carried out on  cosmological  length scales, general relativity could conceivably be inaccurate. Nevertheless, its predictions appear to be consistent with observations, so there is no reason to adopt another theory.
+
+General relativity provides of a set of ten nonlinear partial differential equations for the spacetime metric ( Einstein field equations Einstein's field equations ) that must be solved from the distribution of  mass-energy  and  momentum  throughout the universe. Since these are unknown in exact detail, cosmological models have been based on the  cosmological principle , which states that the universe is homogeneous and isotropic. In effect, this principle asserts that the gravitational effects of the various galaxies making up the universe are equivalent to those of a fine dust distributed uniformly throughout the universe with the same average density. The assumption of a uniform dust makes it easy to solve Einstein's field equations and predict the past and future of the universe on cosmological time scales.
+
+Einstein's field equations include a  cosmological constant  (Lamda:  L ), ref name einstein_1917 Einstein A. 1917. "Kosmologische Betrachtungen zur allgemeinen Relativitatstheorie".  Preussische Akademie der Wissenschaften, Sitzungsberichte  1917 (part 1): 142-152. 
+ ref ref Rindler (1977), pp. 226-229. ref  that is related to an energy density of empty space. ref Landau and Lifshitz (1975), pp. 358-359. ref  Depending on its sign, the cosmological constant can either slow (negative  L ) or accelerate (positive  L ) the  expansion of space expansion of the universe . Although many scientists, including Einstein, had speculated that  L  was zero, ref cite journal   last   Einstein   first   A   authorlink   Albert Einstein   year   1931   title   Zum kosmologischen Problem der allgemeinen Relativitatstheorie   journal   Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse   volume   1931   pages   235-237 br cite journal   author    Albert Einstein Einstein A. ,  Willem de Sitter de Sitter W.    year   1932   title   On the relation between the expansion and the mean density of the universe   journal   Proceedings of the National Academy of Sciences   volume   18   pages   213-214   doi   10.1073/pnas.18.3.213   pmid   16587663   issue   3   pmc   1076193 ref  recent astronomical observations of type Ia  supernova e have detected a large amount of  dark energy  that is accelerating the universe's expansion. ref http://hubblesite.org/newscenter/archive/releases/2004/12/text/ Hubble Telescope news release ref  Preliminary studies suggest that this dark energy is related to a positive  L , although alternative theories cannot be ruled out as yet. ref http://news.bbc.co.uk/1/hi/sci/tech/6156110.stm BBC News story: Evidence that dark energy is the cosmological constant ref 
+
+  Big Bang model  
+ Main Big Bang Nucleosynthesis 
+
+The prevailing Big Bang model accounts for many of the experimental observations described above, such as the correlation of distance and  redshift  of galaxies, the universal ratio of hydrogen:helium atoms, and the ubiquitous, isotropic microwave radiation background. As noted above, the redshift arises from the  metric expansion of space ; as the space itself expands, the wavelength of a  photon  traveling through space likewise increases, decreasing its energy. The longer a photon has been traveling, the more expansion it has undergone; hence, older photons from more distant galaxies are the most red-shifted. Determining the correlation between distance and redshift is an important problem in experimental  physical cosmology .
+
+Other experimental observations can be explained by combining the overall expansion of space with  nuclear physics nuclear  and  atomic physics . As the universe expands, the energy density of the  electromagnetic radiation  decreases more quickly than does that of  matter , since the energy of a photon decreases with its wavelength. Thus, although the energy density of the universe is now dominated by matter, it was once dominated by radiation; poetically speaking, all was  light . As the universe expanded, its energy density decreased and it became cooler; as it did so, the  elementary particle s of matter could associate stably into ever larger combinations. Thus, in the early part of the matter-dominated era, stable  proton s and  neutron s formed, which then associated into  atomic nuclei . At this stage, the matter in the universe was mainly a hot, dense  Plasma (physics) plasma  of negative  electron s, neutral  neutrino s and positive nuclei.  Nuclear reaction s among the nuclei led to the present abundances of the lighter nuclei, particularly  hydrogen ,  deuterium , and  helium . Eventually, the electrons and nuclei combined to form stable atoms, which are transparent to most wavelengths of radiation; at this point, the radiation decoupled from the matter, forming the ubiquitous, isotropic background of microwave radiation observed today.
+ File:Primordial nucleosynthesis.svg thumb|250px|Chief nuclear reactions responsible for the relative amounts of light  atomic nucleus atomic nuclei  observed in the universe. 
+
+Other observations are not clearly answered by known physics. According to the prevailing theory, a slight imbalance of  matter  over  antimatter  was present in the universe's creation, or developed very shortly thereafter. Although the matter and antimatter mostly annihilated one another, producing  photon s, a small residue of matter survived, giving the present matter-dominated universe. 
+
+Several lines of evidence also suggest that a rapid  cosmic inflation  of the universe occurred very early in its history (roughly 10 sup -35 sup  seconds after its creation). Recent observations also suggest that the  cosmological constant  ( L ) is not zero and that the net  mass-energy  content of the universe is dominated by a  dark energy  and  dark matter  that have not been characterized scientifically. They differ in their gravitational effects. Dark matter gravitates as ordinary matter does, and thus slows the expansion of the universe; by contrast, dark energy serves to accelerate the universe's expansion.
+
+  Multiverse  
+ Main Multiverse 
+
+Some people think that there is more than one Universe. They think that there is a  set theory set  of universes called the  multiverse . By definition, there is no way for anything in one universe to affect something in another.
+The multiverse is not yet a scientific idea because there is no way to test it. An idea that cannot be tested is not science.
+
+  Further reading  
+  Edward Robert Harrison 2000.  Cosmology  2nd ed. Cambridge University Press.
+   cite book   author   Misner C.W., Thorne K. Wheeler, J.A.   title   Gravitation   location   San Francisco   publisher   W.H. Freeman   year   1973   isbn   978-0-7167-0344-0   pages   703-816   The classic text for a generation.
+   cite book   author   Rindler W.   year   1977   title   Essential relativity: special, general, and cosmological   publisher   Springer Verlag   location   New York   isbn   0-387-10090-3   pages   193-244 
+   cite book   author   Weinberg S.   year   1993   title   The first three minutes: a modern view of the origin of the Universe   edition   2nd updated   publisher   Basic Books   location   New York   isbn   978-0465024377   oclc   28746057  For lay readers.
+  -------- 2008.  Cosmology . Oxford University Press. Challenging.
+
+  Related pages  
+   Anthropic principle 
+   Big Bang 
+   Cosmology 
+   Multiverse 
+   Omniverse 
+   Reality 
+
+  References  
+ Reflist 2 
+
+  Other websites  
+ Commons category Space 
+ wikiquote 
+   HSW hole-in-universe Is there a hole in the universe? 
+   http://www.space.com/scienceastronomy/age_universe_030103.html Age of the Universe  at Space.Com
+   http://www.pbs.org/wnet/hawking/html/home.html Stephen Hawking's Universe - Why is the universe the way it is?
+   http://www.astro.ucla.edu/~wright/cosmology_faq.html Cosmology FAQ 
+   http://www.shekpvar.net/~dna/Publications/Cosmos/cosmos.html Cosmos - An "illustrated dimensional journey from microcosmos to macrocosmos" 
+   http://www.co-intelligence.org/newsletter/comparisons.html Illustration comparing the sizes of the planets, the sun, and other stars 
+   http://www.astro.princeton.edu/~mjuric/universe/ Logarithmic Maps of the Universe 
+   http://www.slate.com/id/2087206/nav/navoa/ My So-Called Universe - Arguments for and against an infinite and parallel universes
+   http://www.hep.upenn.edu/~max/multiverse1.html Parallel Universes  by Max Tegmark
+   http://cosmology.lbl.gov/talks/Ho_07.pdf The Dark Side and the Bright Side of the Universe  Princeton University, Shirley Ho
+   http://www.atlasoftheuniverse.com/ Richard Powell:  An Atlas of the Universe - Images at various scales, with explanations
+   http://www.npr.org/templates/story/story.php?storyId=1142346 Multiple Big Bangs 
+   http://www.exploreuniverse.com/ic/ Universe - Space Information Centre 
+   http://www.nasa.gov/topics/universe/index.html Exploring the Universe  at Nasa.gov
+ 
+  Videos  
+   http://www.youtube.com/watch?v=17jymDn0W6U The Known Universe  created by the  American Museum of Natural History 
+
+ Earth's location 
+ Nature nav 
+
+ Category:Universe   
+ Category:Reality

@@ -1,0 +1,70 @@
+Continent
+
+File:Continents vide couleurs.png thumb|right|300px|A map showing the continents: br span style background: #00cc00; span  North America br span style background: #008000; span  South America br span style background: #0040ff; span  Antarctica br span style background: #fed52e; span  Africa br span style background: #c10000; span  Europe br span style background: #f33e01; span  Asia br span style background: #c04080; span  Oceania 
+
+A  continent  is a large area of the  land  on  Earth  that is joined together. In general it is agreed there are seven continents:  Africa ,  Antarctica ,  Asia ,  Europe ,  North America ,  Australasia  or  Oceania , ref Either are accepted terms ref  and  South America . ref http://www.britannica.com/EBchecked/topic/134805/continent Continent  (2009). In  Encyclopaedia Britannica . Retrieved 12 December 2009. ref ref name NatlGeo cite web url http://travel.nationalgeographic.com/places/continents/ title Continents: What is a Continent? publisher National Geographic accessdate 2009-08-22  "Most people recognize seven continents--Asia, Africa, North America, South America, Antarctica, Europe, and Australia, from largest to smallest--although sometimes Europe and Asia are considered a single continent, Eurasia." ref 
+ List of continents 
+
+ class wikitable sortable colspan 4  Continents of the world ref cite web title Map And Details Of All 7 Continents url http://www.worldatlas.com/aatlas/infopage/contnent.htm work worldatlas.com accessdate 6 March 2016 ref 
+ rowspan 2  Continent
+ colspan 2  Area
+ rowspan 2  Population
+  km2
+  mi2
+   Asia 
+ align right  44,579,000
+ align right convert 44,579,000 km2 disp output number only 
+ align right 4,298,723,000
+   Africa 
+ align right  30,221,532
+ align right convert 30,221,532 km2 disp output number only 
+ align right 1,110,635,000
+   North America 
+ align right  24,709,000
+ align right convert 24,709,000 km2 disp output number only 
+ align right 565,265,000
+   South America  
+ align right  17,840,000
+ align right convert 17,840,000 km2 disp output number only 
+ align right 406,740,000
+   Antarctica 
+ align right  14,000,000
+ align right convert 14,000,000 km2 disp output number only 
+ align right 4,490
+   Europe 
+ align right  10,180,000
+ align right convert 10,180,000 km2 disp output number only 
+ align right 742,452,000
+   Oceania Australia/Oceania 
+ align right  8,525,989
+ align right convert 8,525,989 km2 disp output number only 
+ align right 38,304,000
+ 
+
+  Alternative versions  
+  Australia  
+Some sources say that Australia is one of the seven continents. ref https://www.cia.gov/library/publications/the-world-factbook/geos/as.html#Geo World fact book - Australia ref  Others say that Australia is part of  Oceania .    Oceania  is a region which includes  Australia ,  New Zealand  and the  Pacific Islands . ref http://worldatlas.com/webimage/countrys/au.htm Worldatlas.com - Australia ref  The third alternative is the term  Australasia , which includes at least all countries on the Australian  continental plate . This includes the islands of  New Guinea ,  Tasmania , New Zealand and a number of smaller islands. It is on the south-eastern side of the  Wallace Line , with distinct differences in its biology from the Asian side of the line.
+
+ "It includes all the islands of the Malay Archipelago... as well as the various groups of islands in the Pacific. The term has been used in very different senses". ref Wallace, Alfred Russel 1893.  Australasia , vol 1. London: Stanford. Chapter 1: Definition. ref 
+
+  North and South America  
+North America and South America are often described as "the Americas". This has the advantage of including  Central America  and the  Caribbean  islands. Otherwise, Central America is counted as part of North America.
+
+  Eurasia  
+ Eurasia  is not really an alternative, it is a recognition that the landmass of Europe and Asia are continuous, and some of its largest countries are in both continents.  Russia  extends from eastern Europe to the far east of Asia without a break. The  Ural Mountains , which run roughly north/south, are the traditional dividing-line between Europe and Asia. For many purposes it is convenient to consider the great landmass as a single continent, Eurasia.
+
+When  Britain British  people talk about "the Continent" (or "Continental" things) they mean the  Europe European mainland . ref cite web  url http://encarta.msn.com/dictionary_/continent.html   title Encarta World English Dictionary  accessdate 2008-08-05  year 2007 publisher Bloomsbury Publishing Plc. archiveurl http://www.webcitation.org/5kwRKDyZ6 archivedate 2009-10-31 deadurl yes ref  This meaning is not used as much as it used to be, but is still seen in phrases like "Continental  breakfast " ( bread rolls  with  cheese ,  jam  etc. as distinct from an "English breakfast" which is a cooked breakfast).
+
+Continents not only move but also sometimes move against each other. The Indian subcontinent has been colliding with the Eurasian continent for a while now. As these continents push against each other, they buckle and bend. Because of this, the  Himalaya Mountains , where  Mount Everest  is, are still being made today. ref name holt cite book   last     first     authorlink     coauthors     title   Earth Science  publisher   Holt, Rinehart and Winston  date   2001  location   United States of America  pages   211  url     doi     id     isbn   0-03-055667-8 ref 
+
+  Afro-Eurasia  
+Afro-Eurasia is made of Africa and Eurasia.
+
+ Related pages 
+   List of countries by continents 
+
+  References  
+ Reflist 
+
+ Category:Continents   
+ Category:Geology

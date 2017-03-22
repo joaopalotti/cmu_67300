@@ -1,0 +1,54 @@
+Wave (physics)
+
+File:2006-01-14 Surface waves.jpg 250px|thumb| Surface wave  in water. 
+A  wave  is a kind of  oscillation  (disturbance) that travels through  space  and  matter . Wave motions transfer  energy  from one place to another.
+
+  Examples  
+Waves are found everywhere in the  natural   world . Examples of waves:
+   sound 
+
+   water  waves
+   seismic wave  ( earthquake s)
+   electromagnetic  wave
+   light wave 
+   radio wave 
+
+  Properties  
+ File:Wave.png thumb|Here is a picture of a sine wave. 
+Waves have  properties  that can be  measure d. All waves can be pictured by adding  sine wave s.
+
+Sine waves can be measured too. The shape of a sine wave is given by its  amplitude ,  phase ,  wavelength  and  frequency . The  speed  that the sine wave moves can be measured. The amplitude and wavelength of the sine wave is shown in the picture.
+
+The highest point on a wave is called the peak. The lowest point is called the trough. The peak of a wave and the trough of a wave are always twice the wave's amplitude apart from each other. The part of the wave half way in between the peak and the trough is called the baseline.
+
+Complicated wave forms (like the sound waves of music) can be made by adding up sine waves of different frequencies. This is how mp3 audio files are converted from their compressed form into music we can hear.
+
+  Waves and matter  
+Some waves can move through  matter  while others cannot. For instance, some waves can move through empty  Space (physics) space ,  light wave s for example. Sound waves, on the other hand, cannot move through empty space. Inherently, all waves carry  energy  from one place to another when they move. In some applications of technology, waves may carry meaningful  information  from one place to another, such as news on the radio. 
+
+Usually, after a wave moves through matter, the matter is the same as it was before the wave was introduced, though in some cases, matter can be affected by waves traveling through it. In 1922, Louis de Broglie found out that all waves are also  particles , and all particles are also waves.
+
+  Types  
+In matter:
+   Transverse wave : the  vibration s of  particle s are  perpendicular  [?] to the direction of travel of the wave. Transverse waves have  crest s and  trough s. Wave crests and troughs move along a travelling transverse wave.
+   Longitudinal wave : the vibrations of particles are parallel to the direction of travel of wave. Longitudinal waves have  compression s and  rarefaction rarefactions . Compressions and rarefactions move along a travelling longitudinal wave.
+   Standing wave : a wave that remains in a constant position.
+   Travelling wave : The blue waves move off to the right. They are traveling waves. The red waves do not move. They are standing waves.
+   Solitary wave : Solitary waves are hard to explain. They were first observed in a river channel in 1834. Something gets a bulge of water starting moving up the channel and the bulge on the surface of the water continues to move up the stream. At first, physicists did not believe the story they heard from the man  who observed it.
+ Light wave s can move through  Space (physics) space . Light is different from wind or water because light sometimes acts like waves and sometimes it acts as little bits called " particles ." The nature of light is a big part of  quantum mechanics .
+
+ gallery 
+File:Transverse wave.png|Transverse wave
+File:PSM V13 D180 Compressed air shells of sound wave.jpg|Longitudinal wave
+File:Circular Standing Wave.gif|Standing waves
+File:Traveling wave.gif|Travelling waves
+File:Messina-waves-image.jpg|Solitary wave
+ gallery 
+
+ Related pages 
+   List of wave topics 
+
+  Notes  
+ reflist 
+
+ Category:Wave physics

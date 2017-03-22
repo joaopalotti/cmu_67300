@@ -1,0 +1,39 @@
+Web browser
+
+A  web browser  is a  computer program  application found on all modern computers.  They are also now a common feature of mobile phones or other  mobile_device  mobile devices  and  tablet computer   tablet computers  like the  iPad  or  Android (operating system)   Android  tablets.
+
+Web browsers are used by people to find and look at  web site s on the  Internet .  The first web browser was created in 1990.  Many different web browsers are available for free.  All web browsers can go to websites but each browser has good things and bad things about it.  For example, some browsers focus on  Information security data security  and keeping computers safe from  computer virus viruses .  Other browsers are made so that web pages appear on screen faster.
+
+Some popular web browsers available to download:
+ File:Wikipedia page by Flock browser.jpg thumb|305px|Print-Screen of a  Simple Wikipedia  page by  Flock Flock browser . 
+   Internet Explorer 
+   Google Chrome  
+   Mozilla Firefox 
+   Opera (web browser) Opera 
+   Safari 
+
+Other browsers are:
+   Flock 
+   Maxthon 
+   Epiphany (software) Epiphany 
+   Galeon 
+   Lynx (web browser) Lynx 
+   Sleipnir (web browser) Sleipnir 
+
+  Web browsers and HTML  
+A web page is one page of a  website .  Every web page has a  Uniform Resource Locator web address .
+
+Web pages are mostly  text  (words),  image images  and  hyperlink links  to other web pages.
+
+Most web pages are in the  HTML  (HyperText Markup Language) format.  HTML files contain computer language about how the text, pictures and links on a web page should look.
+
+A web browser goes to a web page using a web address.  It downloads the HTML file stored at that address. It then reads and translates the HTML file.  The browser will then show the webpage on the screen as text,  image s and clickable links. 
+ commonscat Internet applications 
+
+ Other websites 
+   http://www.youtube.com/watch?v=HgULe_we-J0&feature=player_embedded What is browser? Video by Google 
+   http://taligarsiel.com/Projects/howbrowserswork1.htm How browsers work 
+   http://en.citizendium.org/wiki/Web_browser Web Browser  -Citizendium 
+
+ DEFAULTSORT:Web Browser 
+ Category:Web browsers  

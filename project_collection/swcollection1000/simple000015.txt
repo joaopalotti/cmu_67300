@@ -1,0 +1,247 @@
+Australia
+
+Infobox country
+ conventional_long_name   Commonwealth of Australia
+ common_name          Australia
+ image_flag           Flag of Australia (converted).svg
+ alt_flag             A blue field with the Union Flag in the upper hoist quarter, a large white seven-pointed star in the lower hoist quarter, and constellation of five white stars in the fly - one small five-pointed star and four, larger, seven-pointed stars.
+ image_coat           Coat of Arms of Australia.svg
+ alt_coat              
+ national_anthem      " Advance Australia Fair " lower 0.2em #tag:ref Australia's  royal anthem  is " God Save the Queen ", played in the presence of a member of the  House of Windsor Royal family  when they are in Australia. In all other appropriate contexts, the  national anthem  of Australia, " Advance Australia Fair ", is played. ref http://www.itsanhonour.gov.au/symbols/anthem.cfm It's an Honour - Symbols - Australian National Anthem  and  http://www.dfat.gov.au/facts/nat_anthem.html DFAT - "The Australian National Anthem" ;  cite book  title Parliamentary Handbook of the Commonwealth of Australia  edition 29th  origyear 2002 year 2005  chapter National Symbols  chapterurl https://web.archive.org/web/20070611101901/http://www.aph.gov.au/library/handbook/40thparl/national+symbols.pdf   accessdate 7 June 2007 ref name "anthem explanation" group "N" br center File:U.S. Navy Band, Advance Australia Fair (instrumental).ogg center 
+ image_map            Australia_(orthographic_projection).svg
+ alt_map               
+ map_width            220px
+ capital               Canberra 
+ latd 35  latm 18.48  latNS S  longd 149  longm 7.47  longEW E
+ largest_city          Sydney 
+ official_languages   None #tag:ref English does not have  de jure  status. ref name language name "official language" group "N" 
+ languages_type        National language 
+ languages             Australian English English ref name official language group N 
+ demonym               hlist  Australians Australian   Aussie ref See entry in the  Macquarie Dictionary . ref ref cite book  title Collins English Dictionary   year 2009  publisher HarperCollins   location Bishopbriggs, Glasgow  isbn 978-0-00-786171-2  page 18  ref 
+ government_type       Federal monarchy Federal   Parliamentary system parliamentary   constitutional monarchy 
+ leader_title1         Monarchy of Australia Monarch 
+ leader_name1          Elizabeth II 
+ leader_title2         nowrap Governor-General of Australia Governor-General 
+ leader_name2          Peter Cosgrove Sir Peter Cosgrove 
+ leader_title3         Prime Minister of Australia Prime Minister 
+ leader_name3          Malcolm Turnbull 
+ leader_title4         Chief Justice of Australia Chief Justice 
+ leader_name4          Robert French 
+ legislature           Parliament of Australia Parliament 
+ upper_house           Australian Senate Senate 
+ lower_house           Australian House of Representatives House of Representatives 
+ sovereignty_type     Independence
+ sovereignty_note     from the United Kingdom
+ established_event1    Federation of Australia Federation ,  Constitution of Australia Constitution 
+ established_date1    1 January 1901
+ established_event2    Statute of Westminster Adoption Act 1942 Statute of Westminster Adoption Act 
+ established_date2     nowrap 9 October 1942  small (with effect br from 3 September 1939) 
+ established_event3    Australia Act 1986 Australia Act 
+ established_date3    3 March 1986
+ area_rank            6th
+ area_magnitude       1 E12
+ area_km2             7692024
+ population_estimate    formatnum: data Australia poptoday ref name popclock cite web url http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/1647509ef7e25faaca2568a900154b63?OpenDocument title Population clock work Australian Bureau of Statistics  website publisher Commonwealth of Australia accessdate 1 January 2015  The population estimate shown is automatically calculated daily at 00:00 UTC and is based on data obtained from the population clock on the date shown in the citation. ref 
+ population_estimate_rank   51st
+ population_estimate_year    CURRENTYEAR 
+ population_census          21,507,717 ref Census 2011 AUS id 0 name Australia accessdate 21 June 2012 quick on ref 
+ population_census_year     2011
+ population_density_km2     2.8
+ population_density_rank    233rd
+ GDP_PPP               nowrap $1.100 trillion ref name IMF cite web  url http://www.imf.org/external/pubs/ft/weo/2014/02/weodata/weorept.aspx?pr.x=76&pr.y=13&sy=2014&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=   title Australia  publisher International Monetary Fund  date April 2014  accessdate 1 November 2014 ref 
+ GDP_PPP_rank         19th
+ GDP_PPP_year         2014
+ GDP_PPP_per_capita   $46,631 ref name IMF 
+ GDP_PPP_per_capita_rank   15th
+ GDP_nominal           nowrap $1.483 trillion ref name IMF 
+ GDP_nominal_rank     12th
+ GDP_nominal_year     2014
+ GDP_nominal_per_capita   $62,822 ref name IMF 
+ GDP_nominal_per_capita_rank   5th
+ Gini             33.6 
+ Gini_ref          ref cite web title OECD Economic Surveys: Norway 2012 url http://www.keepeek.com/Digital-Asset-Management/oecd/economics/oecd-economic-surveys-norway-2012/gini-coefficients-before-and-after-taxes-and-transfers_eco_surveys-nor-2012-graph1-en#page1 ref 
+ Gini_rank        19th
+ Gini_year        2012
+ Gini_change       
+ HDI              0.933 
+ HDI_ref           ref name HDI cite web  url http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf   title 2014 Human Development Report Summary  date 2014  accessdate 27 July 2014  publisher United Nations Development Programme   pages 21-25 ref 
+ HDI_rank         2nd
+ HDI_year         2013 
+ HDI_change       steady 
+ currency          Australian dollar 
+ currency_code    AUD
+ time_zone         Time in Australia various ref name time group N There are minor variations from three basic time zones; see  Time in Australia . ref 
+ utc_offset       +8 to +10.5
+ time_zone_DST     Time in Australia various ref name time group N 
+ utc_offset_DST   +8 to +11.5
+ date_format      dd-mm-yyyy
+ drives_on         Right- and left-hand traffic#Australia left 
+ cctld             .au 
+ calling_code      +61 
+ 
+
+ Australia , officially called the  Commonwealth of Australia , is a  country  and  sovereign state  in the  southern hemisphere , located on its own  continent  between the  Pacific Ocean  and the  Indian Ocean . Its  capital city  is  Canberra .
+
+Australia is the  List of countries by area sixth biggest country in the world  by land area, and is part of the  Oceania Oceanic  and  Australasia n regions. Australia,  New Zealand ,  New Guinea  and other islands on the Australian  tectonic plate  are together called  Australasia , which is one of the world's great  ecozone s. When other Pacific islands are included with Australasia, it is called  Oceania .
+
+23 ndash 24 million people live in Australia, and about 80% of them live on the east coast. The country is divided up into six  States of Australia states , and more than half of Australia's  population  lives in and around the cities of  Sydney ,  Melbourne ,  Brisbane ,  Perth, Western Australia Perth  and  Adelaide .
+
+Australia is known for its  mining , its production of  wool , and as the world's largest producer of  bauxite . ref cite web url http://mams.rmit.edu.au/0wzm6liriybr1.PDF title Alcola World Alumina Australia publisher MAMS.RMIT.edu.au accessdate December 11, 2014 ref  Its  emblem  is a flower called the Golden Wattle.
+
+  Geography  
+ File:As-map.png thumbnail|left|Map of Australia 
+Australia's landmass of 7,617,930 square kilometers is on the  Indo-Australian Plate Indo-Australian plate . ref cite book   last Turner   first Kate   year 2008   title National Geographic Australia   publisher Horupu   location Tokyo   page pp.8 ref 
+The continent of Australia, including the island of Tasmania, was separated from the other continents of the world many millions of years ago. Because of this, many  animals  and  plants  live in Australia that do not live anywhere else. These include animals like the  kangaroo , the  koala , the  emu , the  kookaburra , and the  platypus .
+
+People first arrived in Australia more than 50,000 years ago. These native Australians are called the  Australian Aborigine s. For the history of Australia, see  History of Australia .
+
+Most of the Australian colonies, having been settled from  Britain , became mostly independent democratic states in the 1850s and all six combined as a federation on 1 January 1901. The first  Prime Minister of Australia  was  Edmund Barton  in 1901. Australia is a member of the  United Nations  and the  Commonwealth of Nations . It is a  Parliamentary system parliamentary democracy  and a  constitutional monarchy  with  Queen Elizabeth II Elizabeth II  as Queen of Australia and Head of State and a  Governor-General of Australia Governor-General  who is chosen by the Prime Minister to carry out all the duties of the Queen in Australia.
+
+  Regions and cities  
+ Other pages List of Cities in Australia 
+Australia has six states, two major mainland territories, and other minor territories. The states are  New South Wales ,  Queensland ,  South Australia ,  Tasmania ,  Victoria (Australia) Victoria , and  Western Australia . ref cite book   last Cummins   first Brian R.   year 1990   title Australia   publisher  the Australian Government Publishing Service   location Canberra   pages  16-17  ref  The two major mainland territories are the  Northern Territory  and the  Australian Capital Territory  (ACT).
+
+In 2013 according to world bank Australia had just over 23.13 million people. Most Australians live in cities along the coast, such as  Sydney ,  Melbourne ,  Brisbane ,  Perth, Western Australia Perth ,  Darwin, Australia Darwin ,  Hobart  and  Adelaide . The largest inland city is  Canberra , which is also the nation's capital. The largest city is Sydney. ref cite book   title  Oceania South Pole   author  Tanabe Yu   year  1997   publisher  Asakura Bookstore   location  Shinjyuku ward   page  3179  ref 
+
+Australia is a very big country, but much of the land is very dry, and the middle of the continent is mostly  desert . Only the areas around the east, west and south coast have enough rain and a suitable  climate  (not too hot) for many  farm s and  cities .
+
+  History  
+  Aboriginal people  
+ File:Corroboree.jpg thumb|Photograph of Arrernte men of Central Australia in a  Corroboree  in 1900. 
+
+The  Australian Aborigine Australian Aboriginal  people arrived in Australia about 50,000 years ago or even earlier. ref Hesp, Patrick A.  et al  1999. Aboriginal occupation on Rottnest Island, Western Australia, provisionally dated by aspartic acid racemisation assay of land snails to greater than 50 ka.  Australian Archaeology , No 49 (1999) ref ref cite web  url   http://www.stonepages.com/news/archives/000236.html   title Stone Pages Archaeo News: Australia colonized earlier than previously thought?  first   last   work stonepages.com  year 2003  accessdate 28 March 2013 ref ref cite book   title The history of Australia  author Takao Fujikawa  year 2004 publisher Yuhikaku ARMA  location Tokyo  page 4 ref  Until the arrival of British settlers in 1788, the Aboriginal people lived by hunting and gathering food from the land. They lived in all sorts of climates and managed the land in different ways. An example of Aboriginal land management was the  Cumberland Plain  where Sydney is now. Every few years the Aboriginal people would burn the grass and small trees. Citation  This meant that a lot of grass grew back, but not many big trees. Kangaroos like to live on grassy plains, but not in forests. The kangaroos that lived on the plain were a good food supply for the Aboriginal people. Sometimes, Aborigines would name a person after an animal, and they could not eat that animal to help level out the food population.
+
+Aboriginal people did not usually build houses, except huts of grass, leaves and bark. They did not usually build walls or fences, and there were no horses, cows or sheep in Australia that needed to be kept in pens. The only Aboriginal buildings that are known are fish-traps made from stones piled up in the river, and the remains of a few stone huts in  Victoria, Australia Victoria  and  Tasmania . Citation  The Aboriginal people did not use metal or make pottery or use bows and arrows or weave cloth. In some parts of Australia the people used sharp flaked-stone spearheads, but most Aboriginal spears were made of sharply pointed wood. Australia has a lot of trees that have very hard wood that was good for spear making. The  boomerang  was used in some areas for sport and for hunting.
+
+The Aboriginal people did not think that the land belonged to them. They believed that they had grown from the land, so it was like their mother, and they belonged to the land.
+
+  Terra Australis  
+In the 1600s,  Dutch people Dutch  merchants traded with the islands of  Batavia  (now  Indonesia ), to the north of Australia and several different Dutch ships touched on the coast of Australia. The Dutch governor, van Diemen, sent  Abel Tasman  on a voyage of discovery and he found  Tasmania , which he named  Van Diemen's Land . Its name was later changed to honour the man who discovered it.
+
+The  British Government  was sure that there must be a very large land in the south, that had not been explored. They sent Captain  James Cook  to the  Pacific Ocean . His ship,  HMS Endeavour , carried the famous scientists, Sir  Joseph Banks  and Dr Solander who were going to  Tahiti  where they would watch the planet  Venus (planet) Venus  pass in front of the  Sun . Captain Cook's secret mission was to find " Terra Australis " (the Land of the South).
+
+The voyage of discovery was very successful, because they found  New Zealand  and sailed right around it. Then they sailed westward. At last, a boy, William Hicks, who was up the mast spotted land on the  horizon . Captain Cook named that bit of land  Point Hicks . They sailed up the coast and Captain Cook named the land that he saw "New South Wales". At last they sailed into a large open bay which was full of fish and stingrays which the sailors speared for food. Joseph Banks and Dr. Solander went ashore and were astonished to find that they did not know what any of the plants or birds or animals that they saw were. They collected hundreds of plants to take back to England.
+
+Captain Cook saw the Aboriginal people with their simple way of life. He saw them fishing and hunting and collecting grass seeds and fruit. But there were no houses and no fences. In most parts of the world, people put up a house and a fence or some marker to show that they own the land. But the Aboriginal people did not own the land in that way. They belonged to the land, like a baby belongs to its mother. Captain Cook went home to England and told the government that no-one owned the land. This would later cause a terrible problem for the Aboriginal people.
+
+  Settlement  
+ File:The Founding of Australia. By Capt. Arthur Phillip R.N. Sydney Cove, Jan. 26th 1788.jpg thumb|Captain  Arthur Phillip  raises the British flag at  Sydney  in 1788. 
+
+In the 1700s, in England, laws were tough, many people were poor and  gaol s ( jail s) were full. A person could be sentenced to death for stealing a loaf of bread. Many people were hung for small crimes. But usually they were just thrown in gaol. Often they were sent away to the British colonies in America. But by the 1770s, the colonies in America became the United States. They were free from British rule and would not take England's convicts any more, so England needed to find a new and less populated place.
+
+By the 1780s the gaols of England were so full that convicts were often chained up in rotting old ships. The government decided to make a settlement in New South Wales and send some of the convicts there. In 1788 the  First Fleet  of eleven ships set sail from  Portsmouth  carrying convicts, sailors, marines, a few free settlers and enough food to last for two years. Their leader was Captain  Arthur Phillip . They were to make a new colony at the place that Captain Cook had discovered, named Botany Bay because of all the unknown plants found there by the two scientists.
+
+Captain Phillip found that  Botany Bay  was flat and windy. There was not much fresh water. He went with two ships up the coast and sailed into a great harbor which he said was "the finest harbor in the world!" There were many small bays on the harbor so he decided on one which had a good stream of fresh water and some flat shore to land on. On 26 January 1788, the flag was raised and New South Wales was claimed in the name of  George III of the United Kingdom King George III  of England, and the new settlement was called Sydney.
+
+For the first few years of the settlement, things were very difficult. No-one in the British Government had thought very hard about what sort of convicts should be sent to make a new colony. Nobody had chosen them carefully. There was only one man who was a farmer. There was no-one among the convicts who was a builder, a brick-maker or a blacksmith. No-one knew how to fix the tools when they broke. All of the cattle escaped. There were no cooking pots. All the plants were different so no-one knew which ones could be eaten. It was probable that everyone in the new colony would die of starvation.
+
+Somehow, the little group of tents with a hut for the Governor, Arthur Phillip, and another hut for the supply of food, grew into a small town with streets, a bridge over the stream, a windmill for grinding grain and wharves for ships. By the 1820s there was a fine brick house for the Governor. There was also a hospital and a convict barracks and a beautiful church which are still standing today. Settlements had spread out from Sydney, firstly to  Norfolk Island  and to  Van Diemen's Land  (Tasmania), and also up the coast to Newcastle, where coal was discovered, and inland where the missing cattle were found to have grown to a large herd. Spanish Merino sheep had been brought to Sydney, and by 1820, farmers were raising fat lambs for meat and also sending fine wool back to the factories of England.
+
+While the settlement was growing in New South Wales, it was also growing in Tasmania. The climate in Tasmania was more like that in England, and farmers found it easy to grow crops there.
+
+  Exploration  
+ File:Ln-Governor-Lachlan macquarie.jpg thumb|Governor  Lachlan Macquarie  was the 5th  governor of New South Wales  and one who though that Australia could be a rich and free place. 
+
+Because Australia is such a very large land, it was easy to think that it might be able to hold a very large number of people. In the early days of the colony, a great number of explorers went out, searching for good land to settle on.
+When the settlers looked west from Sydney, they saw a range of mountains which they called the  Blue Mountains (New South Wales) Blue Mountains . They were not very high and did not look very rugged but for many years no-one could find their way through them. In 1813  Gregory Blaxland ,  William Lawson (explorer) William Lawson  and a 17-year-old called  William Charles Wentworth  crossed the Blue Mountains and found land on the other side which was good for farming. A road was built and the governor,  Lachlan Macquarie  founded the town of  Bathurst, New South Wales Bathurst  on the other side, 100 miles from Sydney.
+
+Some people, like Captain  Charles Sturt  were sure that there must be a sea in the middle of Australia and set out to find it. Many of the explorers did not prepare very well, or else they went out to explore at the hottest time of year. Some died like Burke and Wills.  Ludwig Leichhardt  got lost twice. The second time, he was never seen again. Major  Thomas Mitchell  was one of the most successful explorers. He mapped the country as he went, and his maps remained in use for more than 100 years. He travelled all the way to what is now western Victoria, and to his surprise and annoyance found that he was not the first white person there. The  Henty Brothers Henty brothers  had come from  Tasmania , had built themselves a house, had a successful farm and fed the Major and his men on roast lamb and wine.
+
+ Self government 
+
+The gold rushes of New South Wales and Victoria started in 1851 leading to large numbers of people arriving to search for gold. The population grew across south east Australia and made great wealth and industry. By 1853 the gold rushes had made some poor people, very rich.
+
+The transportation of convicts to Australia ended in the 1840s and 1850s and more changes came. The people in Australia wanted to run their own country, and not be told what to do from London. The first governments in the colonies were run by governors chosen by London. Soon the settlers wanted local government and more democracy.  William Wentworth  started the Australian Patriotic Association (Australia's first political party) in 1835 to demand  Parliamentary democracy democratic government . In 1840, the city councils started and some people could vote.  New South Wales Legislative Council  had its first elections in 1843, again with some limits on who could vote. In 1855, limited self-government was given by London to New South Wales, Victoria, South Australia and Tasmania. In 1855, the  right to vote  was given to all men over 21 in  South Australia . The other colonies soon followed. Women were given the vote in the  Parliament of South Australia  in 1895 and they became the first women in the world allowed to stand in elections. ref name aec.gov.au cite web url http://www.aec.gov.au/Voting/indigenous_vote/indigenous.htm   title AEC.gov.au  publisher AEC.gov.au  date 25 Oct. 2007  accessdate 27 Jun. 2010 ref ref http://foundingdocs.gov.au/item.asp?dID=8 Documenting Democracy   WebCite url http://www.webcitation.org/60vtMmmE7 date  2011-08-14 ref 
+
+Australians had started parliamentary democracies all across the continent. But voices were getting louder for all of them to come together as one country with a national parliament.
+
+  The Commonwealth of Australia  
+ File:Opening of the first parliament.jpg thumb|300px|A painting of the opening of the first  Parliament of Australia , 9 May 1901, painted by  Tom Roberts . Australia has had democracy since the 1850s. 
+ File:Australian PR COB 2006.PNG right|300px|thumb|Countries of birth of Australian estimated resident population, 2006. br Source:Australian Bureau of Statistics ref http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/E0A79B147EA8E0B5CA2572AC001813E8/$File/34120_2005-06.pdf Australian Bureau of Statistics . Retrieved 9 December 2007. ref 
+
+Until 1901, Australia was not a  nation , it was six separate  colony colonies  governed by Britain. They voted to join together to form one new country, called the Commonwealth of Australia, in 1901. Australia was still part of the  British Empire , and at first wanted only British or Europeans to come to Australia. But soon it had its own money, and its own Army and Navy.
+
+In Australia at this time, the  trade union s were very strong, and they started a political party, the  Australian Labor Party . Australia passed many laws to help the  worker s. ref http://aec.gov.au/Elections/Australian_Electoral_History/wright.htm Women and the Right to Vote in Australia - Australian Electoral Commission ref 
+
+In 1914, the  World War I First World War  started in Europe. Australia joined in on the side of Britain against  Germany ,  Austria-Hungary  and the  Ottoman Empire . Australian soldiers were sent to  Gallipoli Campaign Gallipoli , in the  Ottoman Empire . They fought bravely, but were beaten by the Turks. Today Australia remembers this battle every year on  ANZAC Day . They also fought on the  Western Front . More than 60,000 Australians were killed.
+
+Australia had a really hard time in the  Great Depression  of the 1930s and joined Britain in a war against  Nazi Germany  when Hitler invaded Poland in 1939. But in 1941 lots of Australian soldiers were captured in the  Japanese Occupation of Singapore Fall of Singapore  by Japan. Then Japan started attacking Australia and people worried about invasion. But with help from the  United States Navy , the Japanese were stopped. After the war, Australia became a close friend of the United States.
+
+When the war ended, Australia felt that it needed many more people to fill the country up and to work. So the government said it would take in people from Europe who had lost their homes in the war. It did things like building the  Snowy Mountains Scheme . Over the next 25 years, millions of people came to Australia. They came especially from  Italy  and  Greece , other countries in Europe. Later they also came from countries like  Turkey  and  Lebanon . An important new party, the  Liberal Party (Australia) Liberal Party of Australia  was made by  Robert Menzies  in 1944 and it won lots of elections from 1949 until in 1972, then  Gough Whitlam  won for the  Australian Labor Party Labor Party . Whitlam made changes, but he made the  Australian Senate Senate  unhappy and the  Governor-General of Australia Governor-General  sacked him and forced an election in 1975. Then  Malcolm Fraser  won a few elections for the  Liberal Party of Australia Liberal Party .
+
+In the 1960s many people began coming to Australia from  China ,  Vietnam ,  Malaysia  and other countries in  Asia . Australia became more  multicultural . In the 1950s and 1960s Australia became one of the richest countries in the world, helped by mining and wool. Australia started trading more with America, then Japan. Australia supported the United States in wars against  dictatorship s in  Korea  and  Vietnam  and later  Iraq . Australian soldiers also helped the  United Nations  in countries like  East Timor  in 1999.
+
+In 1973, the famous  Sydney Opera House  opened. In the 1970s, 80s and 90s lots of  Australian cinema Australian movies , actors and  Australian music singers  became famous around the world. In the year 2000,  2000 Summer Olympics Sydney had the Summer Olympics .
+
+In the 1980s and 90s, the Labor Party under  Bob Hawke  and  Paul Keating , then the Liberal Party under  John Howard  made lots of changes to the economy. Australia had a bad  recession  in 1991, but when other Western countries  Global financial crisis of September-October 2008 had trouble with their economies in 2008 , Australia stayed strong.
+
+Today Australia is a rich, peaceful and democratic country. But it still has problems. Around 4-5% of Australians could not get a job in 2010. A lot of land in Australia (like  Uluru ) has been returned to Aboriginal people, but lots of Aborigines are still poorer than everybody else. Every year the government chooses a big number of new people from all around the world to come as  immigrant s to live in  Australia. These people may come because they want to do business, or to live in a democracy, to join their family, or because they are  refugee s. Australia took 6.5 million immigrants in the 60 years after  World War Two , including around 660,000 refugees. ref http://www.dfat.gov.au/aib/overview.html Australia in Brief: Australia - an overview - Department of Foreign Affairs and Trade ref 
+
+ Julia Gillard  became the first woman  Prime Minister of Australia  in 2010 when she replaced her colleague  Kevin Rudd  of the Labor Party.
+
+  Politics  
+ File:Australian house of representatives04.jpg thumb|left|The chamber of the  Australian House of Representatives  in  Canberra . 
+
+Australia is made up of six  state s and three mainland  wikt:territory territories . Each state and territory has its own  Parliament  and makes its own local  law s. The  Parliament of Australia  sits in Canberra and makes laws for the whole country, also known as the Commonwealth or  Federation .
+
+The  Federation Federal  government is led by the  Prime Minister of Australia , who is the member of Parliament chosen as leader. The current Prime Minister is  Malcolm Turnbull .
+
+The leader of Australia is the Prime Minister, although the  Governor-General of Australia Governor-General  represents the Queen of Australia, who is also the Queen of Great Britain, as head of state. The Governor-General, currently  His Excellency   Peter Cosgrove Sir Peter Cosgrove , is chosen by the Prime Minister.
+
+  Culture  
+ File:Sydney Opera House Night.jpg thumb| center The  Sydney Opera House  was officially opened in 1973. center 
+
+Australia was  Colonisation colonised  by people from  Britain , ref cite book title A New History of Australia  authors Takao Fujikawa  year 2004  publisher ARMA  location Tokyo  page pp. 40  ref  but today people from all over the world live there. English is the main spoken language, and Christianity is the main religion, though all religions are accepted and not everybody has a religion. Australia is  multiculturalism multicultural , which means that all its people are encouraged to keep their different languages, religions and ways of life, while also learning  English language English  and joining in with other Australians.
+
+Famous  Australian literature Australian writers  include the bush balladeers  Banjo Paterson  and  Henry Lawson  who wrote about life in the Australian bush. More modern famous writers include  Peter Carey (novelist) Peter Carey ,  Thomas Keneally  and  Colleen McCullough . In 1973,  Patrick White  won the  Nobel Prize in Literature , the only Australian to have achieved this; he is seen as one of the great English-language writers of the twentieth century.
+
+ Australian music  has had lots of world-wide stars, for example the opera singers  Nellie Melba  and  Joan Sutherland , the rock and roll bands  Bee Gees ,  AC/DC  and  INXS , the folk-rocker  Paul Kelly (musician) , the pop singer  Kylie Minogue  and  Australian country music  stars  Slim Dusty  and John Williamson.  Australian Aboriginal music  is very special and very ancient: it has the famous  digeridoo  woodwind instrument.  File:didgeridoo.jpg thumb| didgeridoo 
+
+Australian TV has produced many successful programs for home and overseas - including  Skippy the Bush Kangaroo ,  Home and Away  and  Neighbours  - and produced such well known TV stars as  Barry Humphries  ( Dame Edna Everage ),  Steve Irwin  ( The Crocodile Hunter ) and  The Wiggles . Major Australian subgroups such as the Bogan have been shown on Australian TV in shows such as  Bogan Hunters  and  Kath & Kim . ref cite web url http://theconversation.com/our-fascination-with-bogans-will-be-televised-25262   title "Our fascination with "Bogans" will be televised"  publisher The Conversation (website) The Conversation   last Smith  first Michelle  date 4 April 2014  accessdate 19 November 2014 ref 
+
+Australia has two public broadcasters (the ABC and the multi-cultural SBS), three commercial television networks, three pay-TV services, and numerous public, non-profit television and radio stations. Each major city has its daily newspapers, and there are two national daily newspapers,  The Australian  and  The Australian Financial Review .
+
+ Australian cinema Australian movies  have a very long history. The world's first feature movie was the Australian movie  The Story of the Kelly Gang  of 1906. ref http://aso.gov.au/titles/features/story-kelly-gang Video Overview The Story of the Kelly Gang (1906) on ASO - Australia's audio and visual heritage online ref   In 1933,  In the Wake of the Bounty , directed by  Charles Chauvel (filmmaker) Charles Chauvel , had  Errol Flynn  as the main actor. ref http://aso.gov.au/titles/features/wake-bounty/ Video Overview In the Wake of the Bounty (1933) on ASO - Australia's audio and visual heritage online ref  Flynn went on to a celebrated career in Hollywood. The first Australian Oscar was won by 1942's  Kokoda Front Line! , directed by  Ken G. Hall . ref http://aso.gov.au/titles/newsreels/kokoda-front-line/ Video Overview Kokoda Front Line! (1942) on ASO - Australia's audio and visual heritage online ref  In the 1970s and 1980s lots of big Australian movies and movie stars became world famous with movies like  Picnic at Hanging Rock ,  Gallipoli (1981 movie) Gallipoli  (with  Mel Gibson ),  The Man from Snowy River (1982 movie) The Man From Snowy River  and  Crocodile Dundee . ref http://wwwmcc.murdoch.edu.au/ReadingRoom/film/Croc.html "Fair Dinkum Fillums": the Crocodile Dundee Phenomenon ref   Russell Crowe ,  Cate Blanchett  and  Heath Ledger  became global stars during the 1990s and  Australia (2008 movie) Australia  starring  Nicole Kidman  and  Hugh Jackman  made a lot of money in 2008.
+
+  Sport  
+ File:DonaldBradman.jpg thumb|150px| Don Bradman . 
+
+Sport is an important part of Australian culture because the climate is good for outdoor activities. 23.5% Australians over the age of 15 regularly take part in organised sporting activities. ref cite web url http://www.ndca.asn.au/other-information/about-australia/ title About Australia publisher NDCA accessdate 2013-06-18 ref  In international sports, Australia has very strong teams in  cricket ,  hockey ,  netball ,  rugby league  and  rugby union , and performs well in  cycling ,  rowing  and  swimming . Local popular sports include  Australian Rules Football , horse racing, soccer and motor racing. Australia has participated in every summer  Olympic Games  since 1896, and every  Commonwealth Games . Australia has hosted the  1956 Summer Olympics 1956  and  2000 Summer Olympics , and has ranked in the top five medal-winners since 2000. Australia has also hosted the 1938, 1962, 1982 and 2006  Commonwealth Games  and are to host the 2018 Commonwealth Games. Other major international events held regularly in Australia include the  Australian Open , one of the four  Grand Slam (tennis) Grand Slam  tennis tournaments, annual international cricket matches and the  Formula One   Australian Grand Prix . Corporate and government sponsorship of many sports and elite athletes is common in Australia. Televised sport is popular; some of the highest-rated television programs include the  Summer Olympic Games  and the grand finals of local and international football competitions.
+
+The main sporting leagues for males are the  Australian Football League ,  National Rugby League ,  A-League  and  National Basketball League (Australasia) NBL .
+For women, they are  ANZ Netball Championships ,  W-League (Australia) W-League  and  WNBL .
+
+Famous Australian  sports  players include the  cricket er Sir  Donald Bradman , the  swimming swimmer   Ian Thorpe  and the  Sportsperson athlete   Cathy Freeman .
+
+  Art festivals  
+
+Just 60 years ago, Australia had only one big art festival. Now Australia has hundreds of smaller community-based festivals, and national and regional festivals that focus on specific art forms. ref cite web   url http://www.dfat.gov.au/facts/arts_festivals.html    title Art festivals   author Australian government   accessdate 15 November 2010 ref 
+
+  Wildlife  
+Australia is home to many animals that can be found nowhere else on Earth, which include: the  koala , the  kangaroo , the  wombat , the  numbat , the  emu , among many others. Most of the  Marsupial marsupials  in the world are found only on the continent. File:Numbat.jpg thumb| Numbat 
+
+ References 
+ Notes
+ references group N 
+
+ References
+ reflist refs 
+ ref name language cite web url http://www.immi.gov.au/media/publications/multicultural/confer/04/speech18b.htm title Pluralist Nations: Pluralist Language Policies? work 1995 Global Cultural Diversity Conference Proceedings, Sydney publisher Department of Immigration and Citizenship accessdate 11 January 2009  archiveurl   http://web.archive.org/web/20081220020910/http://www.immi.gov.au/media/publications/multicultural/confer/04/speech18b.htm  archivedate  20 December 2008   deadurl  no  "English has no de jure status but it is so entrenched as the common language that it is de facto the official language as well as the national language." ref 
+ 
+
+  Other websites  
+ sisterlinks Australia voy Australia 
+   http://www.australia.com Official website for australia travel  Official website for Australia travel.
+   http://www.australien-links.ch Australia travel informations  User generated guide to Australia.
+
+ Continents of the world 
+ Oceania 
+ Commonwealth nations 
+ Australia 
+
+ Category:Australia   
+ Category:Australasia 
+ Category:Gondwana 
+ Category:Commonwealth realms 
+ Category:English-speaking countries 
+ Category:Federations

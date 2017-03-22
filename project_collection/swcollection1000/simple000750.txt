@@ -1,0 +1,130 @@
+Sweden
+
+Infobox country
+ native_name native name sv Konungariket Sverige icon no 
+ conventional_long_name Kingdom of Sweden
+ common_name Sweden
+ image_flag Flag of Sweden.svg
+ image_coat Great coat of arms of Sweden.svg
+ image_map EU-Sweden.svg
+ map_caption map caption location_color dark green region Europe region_color dark grey subregion the  European Union subregion_color green legend EU-Sweden.svg 
+ national_motto span style line-height:1.33em; Royal mottos of Swedish monarchs (Royal) " lang sv For Sverige i tiden " Ref label aaa a br small "For Sweden - With the Times" small span 
+ national_anthem lang sv Du gamla, du fria Ref label bbb b br small Thou ancient, thou free small 
+ royal_anthem lang sv Kungssangen br small The Song of the King small 
+ official_languages Swedish language Swedish Ref label ccc c 
+ demonym Swedish people Swedish  or Swedes
+ ethnic_groups 90.8%  Swedish people Swedes ref name SCB Bef cite web url http://www.scb.se/Pages/Product____25785.aspx?produktkod=BE0101&displaypressrelease=true&pressreleaseid=257212 title Befolkningsstatistik publisher www.scb.se accessdate 2009-06-16 ref Ref label ddd d br ~3%  Finns ref name Finns cite web url http://www.scb.se/Pages/PressRelease____255905.aspx title Pa lordag kan 440 000 flagga blatt och vitt publisher www.scb.se language Swedish date 2008-12-05 accessdate 2009-06-16 ref  and  Finnish language Finnish  is recognized as a minority language. ref name Swedish2 cite web url http://www.thelocal.se/20404/20090701/ title Swedish becomes official 'main language' last Landes first David date 2009-07-01 work The Local publisher thelocal.se accessdate 2009-07-15 ref br ~1% other  Nordic countries Nordics   br 
+~5,2%  :Category:Ethnic groups in Sweden other  (2011) ref cite web url http://www.scb.se/Pages/TableAndChart____26041.aspx title Summary of Population Statistics 1960-2008 publisher www.scb.se accessdate 2010-06-03 ref ref Note that  Swedish-speaking Finns  or other Swedish-speakers born outside Sweden might self-identify as  Swedish  despite being born abroad. Moreover, people born within Sweden may not be ethnic Swedes. ref 
+ capital Stockholm 
+ latd 59 latm 21 latNS N longd 18 longm 4 longEW E
+ largest_city capital
+ government_type Constitutional monarchy ,  br Unitary state Unitary   Parliamentary system parliamentary   representative democracy 
+ leader_title1 Monarch of Sweden Monarch 
+ leader_name1 Carl XVI Gustaf of Sweden King Carl XVI Gustaf 
+ leader_title2 Prime Minister of Sweden Prime Minister 
+ leader_name2 Stefan Lofven  ( Swedish Social Democratic Party SDP )
+ leader_title3 Speaker of the Riksdag Speaker of br the riksdag 
+ leader_name3 Per Westerberg  ( Moderate Party M )
+ sovereignty_type Consolidation of Sweden Consolidation 
+ sovereignty_note  Middle Ages
+ legislature Parliament of Sweden Riksdag 
+ EUseats 19
+ area_rank 57th
+ area_magnitude 1 E+11
+ area_km2 449,964
+ area_sq_mi 173,745
+ percent_water 8.7
+ population 
+  population_estimate_rank   88th
+  population_census   9,514,406 ref name population cite web url http://www.scb.se/Pages/Product____25799.aspx title Befolkningsstatistik publisher Statistiska centralbyran accessdate 2010-05-18 ref 
+  population_census_year   2012
+ population_density_km2 20.6
+ population_density_sq_mi 53.8
+  population_density_rank   195th
+  GDP_PPP   $381.719 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=92&pr.y=3&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=144&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= title Sweden publisher International Monetary Fund accessdate 2012-04-22 ref 
+ GDP_PPP_rank  
+  GDP_PPP_year   2011
+  GDP_PPP_per_capita   $40,393 ref name imf2 
+ GDP_PPP_per_capita_rank 
+  GDP_nominal   $538.237 billion ref name imf2 
+ GDP_nominal_rank  
+  GDP_nominal_year   2011
+  GDP_nominal_per_capita   $56,956 ref name imf2 
+  GDP_nominal_per_capita_rank   
+  Gini   23
+  Gini_ref   
+  Gini_year   2005
+  Gini_category    span style color:#090; low span 
+  HDI   0.885
+  HDI_change   increase 
+  HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf title Human Development Report 2010 year 2010 publisher United Nations accessdate 5 November 2010 ref 
+  HDI_rank   9th
+  HDI_year   2010
+  HDI_category    span style color:#090; very high span 
+ currency Swedish krona 
+ currency_code SEK
+ country_code SWE
+ time_zone Central European Time CET 
+ utc_offset +1
+ time_zone_DST Central European Summer Time CEST 
+ utc_offset_DST +2
+ date_format yyyy-mm-dd
+ drives_on right Ref label eee e 
+ cctld .se Ref label fff f 
+ calling_code Telephone numbers in Sweden 46 
+ footnotes 
+a.  note aaa   lang sv For Sverige - I tiden  has been adopted by Carl XVI Gustaf as his personal motto. br 
+b.  note bbb   lang sv Du gamla, du fria  has never been officially adopted as national anthem, but is so by convention. br 
+c.  note ccc  Since 1 July 2009. ref name Swedish2 ref name Swedish cite web url http://www.sprakforsvaret.se/sf/fileadmin/PDF/spraklagen_200509.pdf title Spraklagen date 2009-07-01 work Sprakforsvaret language Swedish accessdate 2009-07-15 ref  Five other languages are  European Charter for Regional or Minority Languages officially recognized as minority languages . ref cite web url http://www.sprakradet.se/servlet/GetDoc?meta_id=2119#item100400 title Ar svenskan ocksa officiellt sprak i Sverige? publisher Sprakradet (Language Council of Sweden) date 2008-02-01 accessdate 2008-06-22 language Swedish ref  They are:  Finnish language Finnish ,  Meankieli ,  Romani language Romani ,  Sami languages Sami  and  Yiddish language Yiddish . The  Swedish Sign Language  also has a special status. br 
+d.  note ddd  As of 2008, 18% of the population had foreign origins (13% if excluding Finns and 9% if also excluding other Scandinavians), with 14% foreign-born and another 4% born in Sweden of two foreign-born parents. ref http://www.scb.se/Pages/TableAndChart____26041.aspx Summary of Population Statistics 1960 - 2008 - Statistics Sweden  (proportion of foreign background, including foreign-born and Swedish-born with two foreign-born parents) ref br 
+e.  note eee  Since  Dagen H 3 September 1967 .
+f.  note fff  The  .eu  domain is also used, as it is shared with other  European Union  member states. The  .nu  domain is another commonly used top-level domain ("nu" means "now" in Swedish).
+ 
+
+ Sweden  ( lang-sv Sverige ) is a  Nordic countries Nordic country  in the part of  Europe  called  Scandinavia . Its neighbors are  Finland  and  Norway . Sweden is also connected to  Denmark  in the south by a bridge. It is a  developed country . It is famous for its  welfare state . People who live in Sweden are called Swedes.
+
+Sweden's  capital (city) capital   city  is  Stockholm . Sweden is a  constitutional monarchy  because it has a king,  Carl XVI Gustaf of Sweden Carl XVI Gustaf , but he does not have any real power. Sweden is a parliamentary state meaning that the  government  is  election elected  by the  parliament  which is appointed by the people. The country is  democracy democratically  ruled by a government headed by an elected  prime minister .  Stefan Lofven  was elected  Prime minister Prime Minister  in September 2014. He took office in October 2014.
+
+The population of Sweden is about 9.9 million people. ref name &quot;stats sweden&quot; cite web url https://sweden.se/quick-facts/population/ title Sweden website first last date 31 May 2013 website publisher Statistics Sweden website accessdate 27 July 2013 ref   
+
+Sweden has an official majority language, (called  svenska  in  Swedish language Swedish ).  Sweden has five official  minority language s,  Finnish language Finnish ,  Yiddish ,  Sami language Sami ,  Meankieli  and  Romani .
+
+Sweden became a member of the  European Union  on 1 January  1995 .  It is not a member of the  Eurozone .  Sweden has not begun to use the  euro  as currency. This is because the people have voted against this. The  currency  remains the  Swedish krona  (Swedish crown).
+
+Sweden has 25 historical provinces ( landskap ). They are found in three different regions:
+ Norrland  in the North,  Svealand , the central region, and  Gotaland  in the South.
+
+  History  
+Sweden has been a country for a thousand years. In the Middle Ages Sweden had the same king as Denmark and Norway. In the early 16th century Sweden got its own king, Gustav Vasa. During the 17th century Sweden was a great power. Sweden had taken Estonia, Latvia and Finland and parts of Norway, Germany and Russia. In the 18th century Sweden became weaker and lost these places. In the early 19th century Sweden's king died without an heir and the Swedish parliament voted for Jean Baptiste Bernadotte as the new king. Bernadotte fought Denmark and made them allow Norway to enter a  Union of Sweden and Norway personal union with Sweden . 
+
+This was Sweden's last war and Sweden has not been at war for 200 years. In 1905, the Swedish-Norwegian personal union was dissolved. In many wars, including  World War I  and the  Cold war , the country was neutral, meaning it did not take sides.  During  World War II , it traded with both the  British  and the  Germans  in order to protect its neutrality.
+
+  Divisions  
+Sweden is divided into twenty-one counties.  They are  Stockholm County Stockholm ,  Uppsala County Uppsala ,  Sodermanland County Sodermanland ,  Ostergotland County Ostergotland ,  Jonkoping County Jonkoping ,  Kronoberg County Kronoberg ,  Kalmar County Kalmar ,  Gotland County Gotland ,  Blekinge County Blekinge ,  Skane County Skane ,  Halland County Halland ,  Vastra Gotaland County Vastra Gotaland ,  Varmland County Varmland ,  Orebro County Orebro ,  Vastmanland County Vastmanland ,  Dalarna County Dalarna ,  Gavleborg County Gavleborg ,  Vasternorrland County Vasternorrland ,  Jamtland County Jamtland ,  Vasterbotten County Vasterbotten  and  Norrbotten County Norrbotten .
+
+  Religion  
+Sweden has been Christian for a thousand years. Sweden is traditionally a Protestant country, but it is now one of the least religious countries in the world. 46-85% of all people in Sweden are  agnostic s or  atheism atheists . This means they do not believe in a  god . ref Zuckerman, Phil (2007), Atheism: Contemporary Rates and Patterns PDF i Cambridge Companion to Atheism. Cambridge: Cambridge University Press. ISBN 0-521-60367-6 ref  About 6.4 million people in Sweden, that is 67% of all, are members of the  Church of Sweden , but only 2% of members go to church often. ref http://www.svenskakyrkan.se/SVK/eng/liturgy.htm "Liturgy and Worship" , Church of Sweden ref 
+
+  Music  
+In  popular music ,  ABBA ,  Roxette , Entombed, At the gates, Dark Tranquillity, Hypocrisy, Grave, Dissection, Avicii, Tove Lo, Watain and  Ace of Base  have had several hits throughout the years.
+
+  Sports  
+ see also Sweden at the Olympics Sweden national football team 
+
+Sweden is a country with many talents in sports, such as soccer player  Zlatan Ibrahimovic . Sweden has two bronze medals and one silver medal from the World Cup in football (soccer) - 1950, 1958 and 1994. The soccer league in Sweden is called  Allsvenskan . Sweden has also performed well in ice hockey along with the USA, Canada, Finland, Russia, Slovakia and the Czech Republic. The men's ice hockey top division in Sweden is called  Swedish Hockey League SHL . Sweden has also had several successful table tennis players, including  Stellan Bengtsson  and  Jan-Ove Waldner , as well as alpine skiers like  Ingemar Stenmark ,  Pernilla Wiberg  and  Anja Parson , as well as biathlete  Magdalena Forsberg  and tennis players  Bjorn Borg ,  Mats Wilander  and  Stefan Edberg .
+
+Sweden also has great success in cross country skiing, having won several medals in the Olympic games.
+
+  References  
+ reflist 
+
+ Other websites 
+ commons-inline Sweden 
+ Wikivoyage-inline Sweden 
+ Europe 
+ European Union 
+
+ Category:Sweden   
+ Category:European Union member states 
+ Category:Nordic countries 
+ Category:Current monarchies

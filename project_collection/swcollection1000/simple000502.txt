@@ -1,0 +1,95 @@
+United States customary units
+
+U.S customary units  is the  system of measurement system of units of measurement  used to  measurement measure  things in the  United States . The system of  Imperial units  is similar and in some parts identical.
+
+Length or distance units include the  inch ,  Foot (unit of length) foot ,  Yard (unit of length) yard  and  mile .
+
+Land units include  square miles  (2589998.47032 square meter) and  acres  (4046.8726 square meter).
+
+Common  volume  units are the  teaspoon ,  tablespoon  (3 teaspoons),  fluid ounce  (two tablespoons),  Cup (unit) cup  (8 ounces),  pint  (2 cups, or 16 fluid ounces),  quart  (2 pints, or 32 fluid ounces), US  gallon  (16 cups, 128 fluid ounces, or 3.8  litre liter s).
+
+A  barrel (unit) barrel  is the unit to measure  oil .
+
+Temperature is measured in degrees  Fahrenheit  (degF). To convert from Celsius to Fahrenheit: take the Celsius, multiply by nine, divide by five, and add thirty-two.
+
+Units of  weight  include the  pound  (453.6  gram s), which contains 16 ounces. This should not be confused with the  British pound  which is a type of money. The different uses of the word  pound  can cause confusion.
+
+Some people have been trying change these units in favour of the  SI metric system  since the  1820s . Much  infrastructure  was built in past centuries using the old measures by both British and Americans. During the 20th century some segments such as science, medicine and the  military of the United States  converted to the metric system but the old units are still used for daily purposes by Americans. On the other hand, world trade is conducted using the metric system and except for the U.S., the world uses the metric system for all purposes.
+
+ class wikitable collapsible autocollapse  colspan 3  Length
+  unit    equal to   Metric
+ 1 point (p)    0.4 mm
+ 1 pica (P)    12 points  4.2 mm
+ 1 inch (in)   6 picas   2.5 cm
+ 1 foot (ft)   12 inches  3 dm
+ 1 yard (yd)   3 feet  0.9 m
+ 1 mile (mi)   1760 yards    1.6 km
+ 
+
+ class wikitable collapsible autocollapse colspan 3  Area
+  Unit   Equal to   Metric
+ 1 square survey foot (sq ft or ft2)     0.9 dm
+ 1 square chain (sq ch or ch2)   4356 sq ft   4 dam
+ 1 acre   10 sq ch   4 hm
+ 1 section   640 acres   2.6 km
+ 1 survey township (twp)   36 sections   93.2 km
+ 
+
+ class wikitable collapsible autocollapse colspan 3 Capacity Volume 
+ Unit   Equal to   Metric
+ 1 cubic inch (cu in) or (in3)     1.6 cl
+ 1 cubic foot (cu ft) or (ft3)   1728 cu in   2.8 dal
+ 1 cubic yard (cu yd) or (yd3)   27 cu ft   0.8 kl
+ 1 acre-foot (acre ft)   1613.333 cu yd   1.2 kl
+ 
+
+ class  wikitable collapsible autocollapse colspan 3 Liquid Volume 
+ Unit   Equal to   Metric
+ 1 minim (min)   1 drop    0.1 ml
+ 1 US fluid dram (fl dr)   60 min   3.7 ml
+ 1 teaspoon (tsp)   80 min   4.9 ml
+ 1 tablespoon (Tbsp)   3 tsp   1.5 cl
+ 1 US fluid ounce (fl oz)   2 Tbsp   3 cl
+ 1 US shot (jig)   3 Tbsp   4.4 cl
+ 1 US gill (gi)   4 fl oz   1.2 dl
+ 1 US cup (cp)   2 gi or   2.4 dl
+ 1 (liquid) US pint (pt)   2 cp   4.7 dl
+ 1 (liquid) US quart (qt)   2 pt   0.9 l
+ 1 (liquid) US gallon (gal)   4 qt   3.8 l
+ 1 (liquid) barrel (bbl)   31.5 gal   1.2 hl
+ 1 oil barrel (bbl)   42 gal   1.6 hl
+ 1 hogshead   63 gal   2.4 hl
+ 
+
+ class wikitable collapsible autocollapse colspan 3  Dry Volume
+  Unit   Equal to   Metric
+ 1 (dry) pint (pt)     0.6 l
+ 1 (dry) quart (qt)   2 pt   1.1 l
+ 1 (dry) gallon (gal)   4 qt   4.4 l
+ 1 peck (pk)   2 gal   0.8 dal
+ 1 bushel (bu)   4 pk   3.5 dal
+ 1 (dry) barrel (bbl)   3.281 bu   1.1 hl
+ 
+
+ class wikitable collapsible autocollapse colspan 3  Mass
+  Unit   Equal to   Metric 
+ colspan 3  Avoirdupois
+ 1 grain (gr)     0.6 dg
+ 1 dram (dr)   27 11/32 gr   1.8 g
+ 1 ounce (oz)   16 dr   2.8 dag
+ 1 pound (lb)   16 oz   4.5 hg
+ 1 US hundredweight (cwt)   100 lb   45.6 kg
+ 1 long hundredweight   112 lb   50.8 kg
+ 1 ton (short ton)   20 US cwt    907.2 kg
+ 1 long ton   20 long cwt    1016 kg
+ colspan 3 Troy 
+ 1 grain (gr)     6.5 cg
+ 1 pennyweight (dwt)   24 gr   1.5 g
+ 1 troy ounce (oz t)   20 dwt   3.1 dag
+ 1 troy pound (lb t)   12 oz t   7.3 dag
+ 
+
+ Other pages 
+ Units of measurement 
+
+ Category:Measurement

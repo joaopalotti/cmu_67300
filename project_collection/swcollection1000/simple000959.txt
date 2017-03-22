@@ -1,0 +1,38 @@
+Gas
+
+File:Gas particle movement.svg thumb|right|200px|An illustration of the random way gas molecules move, without being attached to each other. 
+A  gas  is one of the four most common  states of matter . In a gas the  molecule s move freely and are  wikt:independent independent  of each other. This makes it different from a  liquid  where the molecules are loosely attached. It is also different from a  solid  where the bonds are strong and hold the molecules together.
+
+In a pure gas, each molecule may be made of an individual  atom . It may be elemental, where each molecule is made of more than one of the same atom bound together. It may be  chemical compound compounds  where molecules are made of many types of atoms together. An example of a  monoatomic  gas is  neon , an example of an elemental gas is  hydrogen  and an example of a compound gas is  carbon dioxide . 
+
+A gas  mixture  contains a mix of any of the above types, for example  air  which is 78%  nitrogen , 20%  oxygen  and 2%  argon  and  carbon dioxide . ref citeweb url http://mistupid.com/chemistry/aircomp.htm title Composition of Air ref 
+
+ Poison gas es were used as  chemical weapon s in  World War I  but were later banned.
+
+  Physical Characteristics  
+
+All gases can  Flux flow , like liquids. This means the molecules move about independently of each other. Most gases are colourless, like hydrogen. ref citeweb url http://www.newton.dep.anl.gov/askasci/chem03/chem03787.htm title Colours of Gases ref  Gas particles will spread about, or  diffuse , in order to fill all the space in any container such as a bottle or a room. Compared to liquids and solids, gases have a very low  density  and  viscosity . We cannot directly see most gases since they aren't coloured. However it is possible to measure their  density ,  volume ,  temperature  and  pressure .
+
+  Pressure  
+ main Pressure 
+Pressure is the measure of how much pushing  Force (physics) force  something is putting on another object. In a gas, this is usually the gas pushing on the container of the object or, if the gas is heavy, something inside the gas. Pressure is measured in  Pascal (unit) pascals . Because of  Newton's third law , we can change the pressure of a gas by putting force on the object containing it. For example squeezing a bottle with air inside pressurises (gives more pressure) to the air inside.
+
+When talking about gas, pressure is often related to the container. A lot of gas in a small container would have very high pressure. A small amount of a gas in a big container would have low pressure. 
+Gas can create pressure itself when there is a lot of it. The  weight  of the gas creates pressure on anything underneath it, including other gas. On a  planet , this is called  atmospheric pressure .
+
+  Temperature  
+ main temperature 
+The temperature of a gas is how hot or cold it is.  In  physics  it is usually measured in  kelvin s although degrees  Celsius  are more used elsewhere.  In a gas, the average velocity (how fast they move) of the molecules is related to the temperature. The faster the gas molecules are moving, the more they collide, or smash into each other. These  collision s release  energy , which in a gas comes in the form of  heat .  Conversely if the temperature around the gas becomes hotter then the gas particles will convert the  thermal energy  to  kinetic energy , making them move faster and making the gas hotter. ref citeweb url http://id.mind.net/~zona/mstm/physics/mechanics/energy/heatAndTemperature/heatAndTemperature.html title Heat and temperature ref 
+
+  State changes  
+A gas can go through two different state changes. If the temperature is low enough the gas can  condensation condense  and turn into a  liquid . Sometimes, if the temperature is low enough it can go through  deposition , where it changes straight to a  solid . Normally a gas must first condense to a liquid, and then  freezing freeze  to become a solid, but if the temperature is very low it can skip the liquid stage and instantly become solid. Frost on the ground in winter is caused by this.  Water vapour  (a gas) goes into the air which is very cold, and instantly becomes  ice  due to deposition.
+
+  Related pages  
+   Ideal gas 
+
+  References  
+ reflist 
+
+ States of matter 
+
+ Category:Gases  

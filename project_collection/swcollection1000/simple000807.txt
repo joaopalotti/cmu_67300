@@ -1,0 +1,132 @@
+Luxembourg
+
+for the province of Belgium Luxembourg (Belgium) 
+ Infobox country
+ native_name    plainlist 
+   native name lb Groussherzogtum Letzebuerg 
+   native name fr Grand-Duche de Luxembourg 
+   native name de Grossherzogtum Luxemburg 
+ 
+ conventional_long_name   Grand Duchy of Luxembourg
+ common_name   Luxembourg
+ image_flag   Flag_of_Luxembourg.svg
+ image_coat   Coat of Arms of Luxembourg.svg
+ national_motto    " Mir welle bleiwe wat mir sinn " spaces 2 small ( Luxembourgish language Luxembourgish ) br "We want to remain what we are" small 
+ national_anthem    Ons Heemecht small br "Our Homeland" small br http://www.luxembourg.public.lu/fr/politique/symboles/hymne/multimedia/Instrumental.mp3 center File:Luxembourg National Anthem.ogg nstrumental version of Ons Heemecht center 
+ royal_anthem    De Wilhelmus smallsup 1 
+ image_map   EU-Luxembourg.svg
+ map_caption    map_caption  location_color dark green  region Europe   region_color dark grey  subregion the  European Union   subregion_color green  legend EU-Luxembourg.svg 
+ capital    Luxembourg (city) Luxembourg 
+ latd 49  latm 36  latNS N  longd 6  longm 7  longEW E
+ largest_city   capital
+ official_languages    Luxembourgish language Luxembourgish br French language French br German language German 
+ non_official_languages    Dutch language Dutch 
+ demonym    Luxembourgers 
+ government_type    Unitary state Unitary   Parliamentary system parliamentary democracy  and  constitutional monarchy 
+ leader_title1    Grand Duke of Luxembourg Grand Duke 
+ leader_title2    Prime Minister of Luxembourg Prime Minister 
+ leader_name1    Henri, Grand Duke of Luxembourg Henri   small ( List of Grand Dukes of Luxembourg List ) small 
+ leader_name2    Xavier Bettel   small ( List of Prime Ministers of Luxembourg List ) small 
+ legislature Chamber of Deputies of Luxembourg Chamber of Deputies 
+ sovereignty_type    Independence 
+ established_event1   From  First French Empire French empire   ( Treaty of Paris (1815) Treaty of Paris ) 
+ established_date1   9 June 1815
+ established_event2    Treaty of London (1839) 1st Treaty of London 
+ established_date2   19 April 1839
+ established_event3    Treaty of London (1867) 2nd Treaty of London 
+ established_date3   11 May 1867
+ established_event4   End of  personal union 
+ established_date4   23 November 1890
+ accessionEUdate   25 March 1957
+ area_km2   2,586.4
+ area_sq_mi   998.6  
+ area_magnitude   1 E9
+ area_rank   175th
+ percent_water   0.60%
+ population_estimate   511,840 ref http://www.statistiques.public.lu/fr/actualites/population/population/2011/05/20110503/index.html "Population: 511 840 habitants au 1er janvier 2011" ,  Le Portail des statistiques: Grand-Duche de Luxembourg , 3 May 2011.  Fr icon  Retrieved 4 May 2011. ref 
+ population_estimate_year   2011
+ population_census   439,539
+ population_census_year   2001
+ population_estimate_rank   170th
+ population_density_km2   194.1
+ population_density_sq_mi   501.3  
+ population_density_rank   67th
+ GDP_PPP_year   2011
+ GDP_PPP   $41.221 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=47&pr.y=10&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=137&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Luxembourg publisher International Monetary Fund accessdate 19 April 2012 ref 
+ GDP_PPP_rank   94th
+ GDP_PPP_per_capita   $80,119 ref name imf2 
+ GDP_PPP_per_capita_rank   2nd
+ GDP_nominal   $58.412 billion ref name imf2 
+ GDP_nominal_rank   69th
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $113,533 ref name imf2 
+ GDP_nominal_per_capita_rank   1st
+ HDI   0.867
+ HDI_year   2011
+ HDI_change   increase 
+ HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf title Human Development Report 2011 year 2011 publisher United Nations accessdate 5 November 2011 ref 
+ HDI_rank   25th
+ HDI_category    span style color:#090; very high span 
+ currency    Euro  ( Euro sign EUR ) smallsup 2 
+ currency_code   EUR
+ country_code   LUX
+ time_zone    Central European Time CET 
+ utc_offset   +1
+ time_zone_DST    Central European Summer Time CEST 
+ utc_offset_DST   +2
+ drives_on   right
+ cctld    .lu smallsup 3 
+ calling_code    Telephone numbers in Luxembourg 352 
+ footnote1   Not the same as the  Het Wilhelmus  of the Netherlands.
+ footnote2   Before 1999:  Luxembourgish franc .
+ footnote3   The  .eu  domain is also used, as it is shared with other  European Union  member states.
+ 
+ Luxembourg  is a  country  in  Western Europe ; its official name is the  Grand Duchy of Luxembourg  ( lang-lb Groussherzogtum Letzebuerg ,  lang-fr Grand-Duche de Luxembourg ,  lang-de Grossherzogtum Luxemburg ). It is a small  country . It was one of the first countries in the  European Union . It is also a member of the  Benelux . The countries next to Luxembourg are  Belgium ,  Germany , and  France . Its  population  is 442,972. Which is big for its country's size.
+
+ Timeline 
+  963 - Luxembourg was founded.  Sigefroid ,  Count  of  Ardennes , came to own the ruins of an old  Ancient Rome Roman   fort  called "Castellum Lucilinburhuc" ("Little Castle") from the  monk s of the  St. Maximin's Abbey, Trier Abbey of St. Maximin in Trier .
+  1354 - The emperor  Charles IV  made Luxembourg a  duchy .
+  1437 - There were no people in the ruling family alive. The castle was given to the  Habsburg s.
+  1443 - Luxembourg was captured by  Philip of Burgundy .
+  1482 -  Mary of Burgundy  died. Luxembourg was ruled by the  Habsburg s again.
+  1795 - After the  French revolution  Luxembourg was taken over by  France . It became a  departement  of  France .
+  1815 - Luxembourg became a  grand duchy . It was ruled by the  king of the Netherlands .
+  1815-1866 - Luxembourg became a member of the  German Confederation .
+  1890 - After the death of  William III , Luxembourg passed to the  House of Nassau-Weilburg .
+  1914-1918 - Luxembourg was conquered by  Germany  during  World War I .
+  1940 - The Germans returned during  World War II , and in  1942  Luxembourg became part of the  Third Reich .
+  1944 - Luxembourg became independent in  September  because the  United States Army  arrived.
+  1945 - Luxembourg joined the  United Nations 
+  1957 - Luxembourg became one of the first six members of the  European Economic Community . That is now called the  European Union .
+
+ Government 
+Luxembourg is a  parliamentary democracy  lead by a  constitutional monarch . Under the  constitution  of 1868,  executive power  is in the hands of the  Governor  and the  cabinet , which consists of several other  minister s.
+
+ Districts, cantons, and communes 
+Luxembourg is divided into 3  Districts of Luxembourg districts , which are further divided into 12  Cantons of Luxembourg cantons  and then 116  Communes of Luxembourg communes . Twelve of the communes have  List of cities in Luxembourg city status , of which the city of  Luxembourg (city) Luxembourg  is the largest.
+
+ Districts 
+The districts are
+ Diekirch (district) Diekirch 
+ Grevenmacher (district) Grevenmacher 
+ Luxembourg (district) Luxembourg 
+
+ Related pages 
+ List of rivers of Luxembourg 
+ Luxembourg at the Olympics 
+ Luxembourg national football team 
+
+ References 
+ commons Luxembourg 
+ references 
+
+ Europe 
+ European Union 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:Luxembourg   
+ Category:European Union member states 
+ Category:Benelux 
+ Category:Current monarchies 
+ Category:French-speaking countries 
+ Category:German-speaking countries

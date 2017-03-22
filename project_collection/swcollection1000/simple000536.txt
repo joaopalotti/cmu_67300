@@ -1,0 +1,13 @@
+Width
+
+Width  is the  distance  between the farthest left part of an object to the farthest right part.
+
+For example, the distance between the left side and right side of a  chair  is the width of it.
+
+ Related pages 
+ Height 
+ Depth 
+
+ physics-stub 
+
+ Category:Physical quantity

@@ -1,0 +1,40 @@
+Apple Macintosh
+
+
+ File:IMac vector.svg thumb|An  iMac . Unlike most computers, it has a computer system with the screen inside it. 
+
+The  Apple Macintosh  or just "Mac" is a line of  personal computer s made by the American company  Apple Inc. Apple Inc . The Macintosh was one of the first computers in which the people could use a mouse for pointing on a screen which had icons. This new way of working with a computer ( interface ) was known as  graphical user interfaces and consoles graphical user interface . It was this feature of the Macintosh that made it so popular.
+
+  History  
+  Processor history  
+ See  Apple Intel transition . 
+
+Macintoshes were different than other personal computers for many years based on their  central processor unit  (CPU). At the start, Macs used  Motorola 68000  chips instead of  Intel  chips. Later, Macs used  PowerPC  chips. In 2006, Macs started to use Intel chips. Today, Macs are sold with Intel quad-core  Intel Core i7 i7  chips.
+
+  Macintoshes  
+ class wikitable      Compact  (portable)    Consumer  ( wikt:end user end user )    Professional 
+   Desktop     Mac Mini     iMac     Mac Pro 
+   Portable  ( MacBook )    MacBook Air     MacBook Air     MacBook Pro 
+   Server     Mac Mini  (server)     Mac Mini  (server)    Mac Pro  (server)
+ 
+
+  Software  
+The Mac does not have the  Microsoft Windows Windows  operating system installed on it. It has its own range of operating systems, known as  OS X . The newest operating system is known as "Sierra". Macs can run both Windows and OS X at the same time with help of a program called "Boot Camp", which comes on every Mac.
+
+  General opinion  
+In general, Macintosh computers cost more than other computers of the same size. But people say they have very good quality, which explains why they're really expensive.
+
+ Related pages 
+   iMac 
+   MacBook 
+   MacBook Air 
+   MacBook Pro    
+  Other popular products of Apple include  iPod ,  iPhone  and  iPad .   
+
+ Commons Apple Macintosh 
+
+
+ Tech-stub 
+
+ Category:Computers 
+ Category:Apple hardware Macintosh

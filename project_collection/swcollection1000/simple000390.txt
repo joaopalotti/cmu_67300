@@ -1,0 +1,75 @@
+Potato
+
+Taxobox
+  name   Potato
+  image   Potato and cross section.jpg
+  image caption   The inside and outside of a potato
+  image_width   250px
+  regnum    Plant ae
+  divisio    flowering plants Magnoliophyta 
+  classis    dicotyledon Magnoliopsida 
+  subclassis    Asteridae 
+  ordo    Solanales 
+  familia    Solanaceae 
+  genus    Solanum 
+  binomial    Solanum tuberosum 
+  binomial_authority    Carolus Linnaeus L. 
+
+A  potato  is a  root vegetable , the  Solanum tuberosum . It is a small plant with large  leaf leaves . The part of the potato that people eat is a  tuber  that grows under the  ground .
+
+A potato contains a lot of  starch  and other  carbohydrate s. Potato usually has a light- brown  or yellowish  skin  and is  white  or  yellow  inside. If the potato gets light on it, the tuber turns green and will be  poisonous . ref name aus cite web url http://www.potato.com.au/ title Potato - growing potatoes in Australia. publisher www.potato.com.au accessdate 2009-07-05 ref ref cite web title Potato plant poisoning - green tubers and sprouts url https://www.nlm.nih.gov/medlineplus/ency/article/002875.htm publisher U.S. National Library of Medicine accessdate 1 June 2016 ref 
+
+ File:BIO EXTRA CREDIT.svg thumb|1. Sprout 2. Dormant bud 3. Periderm 4. Cortex 5. Vascular Ring 6. Perimedulla 7. Outer medulla 
+
+  History  
+The potato is originally from the high and cool areas of the  Andes  of  Peru . It was grown as a food crop more than 7,000 years ago. ref name pothis cite web url http://www.indepthinfo.com/potato/history.shtml title Potato - History publisher www.indepthinfo.com accessdate 2009-07-05 last first ref  When Spanish  conquistador es came to South America in the 1500s they took potatoes back to  Europe . ref name pothis  
+
+It took nearly 200 years for the potato to become a widely grown crop. In the 1780s the farmers in  Ireland  began growing potatoes because they grew well in the poor soils. They also have most of the  vitamin s that people need to survive. The Irish became so  wikt:dependent dependent  on the potato that when the crop failed in 1845 there was a  famine  and many people  starvation starved  to death. ref name pothis ref cite web url http://www.historyplace.com/worldhistory/famine/begins.htm title The History Place - Irish Potato Famine publisher www.historyplace.com accessdate 2009-07-05 last first ref 
+
+The potato plant is now grown in many different parts of the world. Captain  William Bligh  planted potatoes on Bruny Island,  Tasmania  in 1792. ref cite web url http://www.dpiw.tas.gov.au/inter.nsf/webpages/ttar-5vs5t4?open title DPIW - Tasmania's potato history publisher www.dpiw.tas.gov.au accessdate 2009-07-05 last first ref  In  Australia  they are now the largest vegetable crop. ref name aus 
+
+  Types  
+
+  Yukon Gold - developed in Canada ref 
+ cite web
+ url http://homecooking.about.com/od/foodhistory/a/yukongoldhistry.htm 
+ title Yukon Gold Potato History
+ publisher homecooking.about.com
+ accessdate 2009-07-05
+ last 
+ first 
+ ref 
+  Norgleam ref cite web url http://www.ag.ndsu.nodak.edu/plantsci/potatoes/potatolinks/Norgleam.htm   title Norgleam  publisher Ag.ndsu.nodak.edu  date   accessdate 2010-08-27 ref ref cite web url http://www.encyclo.co.uk/define/Norgleam   title Norgleam - Dictionary  publisher Encyclo.co.uk  date 2007-10-15  accessdate 2010-08-27 ref 
+  Bismark ref name tas 
+ cite web
+ url http://www.dpiw.tas.gov.au/inter.nsf/WebPages/TTAR-5P7VJY?open 
+ title DPIW - Potato Varieties
+ publisher www.dpiw.tas.gov.au
+ accessdate 2009-07-05
+ last 
+ first 
+ 
+ ref 
+  Coliban ref name tas 
+  Russet
+  Pontiac ref name tas 
+  Sequoia ref name tas 
+  Desiree ref name tas  - cream colored flesh, red skin ref name hub cite web url http://www.hub-uk.com/cooking02/tipspotato-types.htm title Potato types - varieties of potatoes widely available publisher www.hub-uk.com accessdate 2009-07-05 last first ref 
+  Bintje ref name tas 
+
+Scientists in  Germany  have used  genetic engineering  to make a potato called the Amflora, which could be grown to make starch for making other things in factories. ref cite web url http://www.flex-news-food.com/pages/14339/European-Union/GMO/Potato/eu-clashes-authorising-gmo-maize-types-potato.html title EU Clashes Over Authorising GMO Maize Types, Potato - Food Industry News publisher www.flex-news-food.com accessdate 2009-07-05 last first ref 
+
+  Cooking  
+Potatoes are almost always eaten cooked. People  cook  potatoes by  boiling ,  baking ,  roast ing, or  frying  them.  French fry French fries  or " chips (food) chips " are potatoes cut into long pieces and fried until they are soft.  Potato chip s, often called crisps, are potatoes cut into very thin round pieces and fried until they are hard. 
+
+ William Shakespeare  wrote that the potato was an  aphrodisiac , ref cite web  url http://www.theage.com.au/news/entertainment/books/book-reviews/the-untold-history-of-the-potato/2009/04/09/1239222986145.html title The Untold History of the Potato - Book Reviews - Books - Entertainment publisher theage.com.au accessdate 2009-07-05 last first ref  but there is no evidence to show this is true.
+
+ File:Solanum toberosum Clusius 1583.png thumb|right|image by Clusius (1583) 
+
+  References  
+ reflist 
+
+ Commonscat Potatoes 
+
+ Category:Solanum 
+ Category:Root vegetables

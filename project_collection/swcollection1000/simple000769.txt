@@ -1,0 +1,69 @@
+Names of numbers in English
+
+Here are some  word s for small  number s. Words in  bold  are  irregular numbers irregular .
+
+ style background:transparent valign top 
+ class wikitable  0   zero
+  1   one
+  2   two
+  3   three
+  4   four
+  5   five
+  6   six
+  7   seven
+  8   eight
+  9   nine
+ 
+ valign top 
+ class wikitable  10   ten
+  11    eleven 
+  12    twelve 
+  13    thirteen 
+  14   fourteen
+  15    fifteen 
+  16   sixteen
+  17   seventeen
+  18    eighteen 
+  19   nineteen
+ 
+ valign top 
+ class wikitable  20    twenty 
+  30    thirty 
+  40    forty 
+  50    fifty 
+  60   sixty
+  70   seventy
+  80    eighty 
+  90   ninety
+ 
+ 
+
+When writing other numbers between 21 and 99, you must use a hyphen (-).
+  21: twenty-one
+  29: twenty-nine
+  64: sixty-four
+  99: ninety-nine
+
+The number 100 is written as "one hundred", but sometimes people say "a hundred".
+
+To write a number from 100 to 999:
+   First write how many hundreds.
+   Then write the word "hundred".
+   Then, if anything is left over, write whatever is left over. Some times people use "and" to show the left overs.
+Examples:
+  101: one hundred one
+  101: one hundred one ( or  one hundred and one)
+  102: one hundred two ( or  one hundred and two)
+  175: one hundred seventy-five
+  200: two hundred
+  300: three hundred
+  512: five hundred twelve
+  987: nine hundred eighty-seven
+
+  Other pages  
+
+   Names of ordinal numbers in English 
+   Names for large numbers 
+   Names for small numbers 
+
+ Category:Numbers

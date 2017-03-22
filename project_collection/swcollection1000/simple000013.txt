@@ -1,0 +1,59 @@
+Addition
+
+redirect Add other articles with the same name ADD (disambiguation) 
+ Image:Addition.gif thumb|220px|Addition  
+
+ Addition  is the  mathematics mathematical  way of putting things together.
+
+  Arithmetic  
+
+In  arithmetic , addition is finding the total of two or more  number s. The sign for addition is "+". The name for the sign "+" is "plus".  
+Another name for the total is the  sum .
+
+  Counting examples  
+For example, there are  wikt:object objects  in two  group s. The objects are small circles: "o". One group has five of these objects. The other group has 3 of these objects. To find the total number of objects in both groups, the objects can be counted. Another way to find the number of objects in both groups is to add the numbers in each group.  
+
+ Adding 
+
+Another method is to add the numbers of objects in group A and group B, since they are already counted. In symbols:
+
+ math 5 + 3 
+
+There are  rule s for adding numbers that people  learn . There are also rules for adding numbers that are built into machines ( binary adder ). The rule says that:
+
+ math aao 5 3 + 
+
+In another counting example, Sally and Bill have 2 children. Sally and Bill get 3 more children. Sally and Bill have added three children to their two children and now have five children.
+
+ Vertical Addition 
+
+The animation above demonstrates the addition of seven hundred and eighty six and four hundred and sixty seven, the problems digits have been separated into units, tens and hundreds ( place value ).  First the units 6 and 7 are added together to make 13, so 1 ten and 3 units, the 3 is written below and the 1 ten is carried to the tens column. Next in the tens column the 1, 8 and 6 are added together to make 15 tens, so 1 hundred and 5 tens, the 5 is written below and the 1 hundred is carried to the hundreds column. Finally in the hundreds column 1, 7 and 4 are added together to make 12 hundreds, so 1 thousand and 2 hundreds, the 2 is written below and the 1 thousand is carried to the thousand column. Giving the answer one thousand two hundred and fifty three.
+
+ A measurement example 
+Tom wants to know the distance between his house and Sally's house. Bob's house is 300 meters  east of Tom's house. Sally's house is 120 meters east of Bob's house:
+
+ Tom's house<------------300 meters-------------->Bob's house<-----120 meters----->Sally's house
+
+The distance from Tom's house to Sally's house can be found by adding the distances already measured. The distance from Tom's house to Bob's house added to the distance from Bob's house to Sally's house is the same as the distance from Tom's house to Sally's house. That is, three hundred (300) meters plus 120 meters.
+ math aao 300 120 + 
+
+  Addition as increase  
+Addition can also mean to make bigger.
+
+  Example of addition as increase  
+  For example, Tom has a house. Tom puts a new room on the house. This new room is called an addition.
+
+  John is making  food . To make the food  taste  better, John puts  salt  in the food. That is, John adds salt to the food. The  salt  is a  food additive  or addition to the food.
+
+ Addition table 
+ Addition table 
+
+  Other websites  
+   http://www.aaamath.com/add.html AAA Math web page on teaching addition 
+   http://www.aplusmath.com/Flashcards/addition.html addition flashcard website 
+   http://www.dositey.com/addsub/addition.htm Addition facts and games 
+
+ Category:Basic English 850 words 
+ Category:Arithmetics 
+ Category:Hyperoperations 
+ wikt

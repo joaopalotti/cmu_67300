@@ -1,0 +1,85 @@
+Metaphor
+
+Metaphor   is a term for a  figure of speech . ref http://rhetoric.byu.edu "Metaphor" at Rhetoric.byu.edu ; retrieved 2012-1-14. ref  It does not use a word in its basic literal sense. Instead, it uses a word in a kind of comparison. We run, and we also say rivers run. We may run into trouble, especially if we run up a bill at the bar.  
+
+So a metaphor uses words to make a picture in our mind. It takes a word from its original  context , and uses it in another.
+ "I beat him with a stick" = literal meaning of 'beat'.
+ "I beat him in an argument" = metaphorical meaning of 'beat'.
+
+Metaphors are an essential part of language: it is not possible to speak or write without them. ref McArthur, Tom 1992.  The Oxford companion to the English language . Oxford University Press. Metaphor, p653, especially section 'The universality of metaphor', p654. ISBN 0-19-214183-X  ref ref Lakoff G & Johnson M. 1980, 2003.  The metaphors we live by . University of Chicago Press. ISBN 978-0-226-46800-6 ref  A simple example is the word "run". This has a basic meaning of "moving quickly" or "go with quick steps on alternate feet, never having both feet on the ground at the same time". ref Concise Oxford Dictionary, 9th ed. ref  The  Concise Oxford Dictionary  then gives 
+34 other uses as a verb; 21 uses as a noun; about 50 uses in short phrases. All of these are metaphors, although we do not usually notice this.  
+
+We use metaphors to make  indirect   :wikt:comparison comparisons , but without using ' like ' or ' as ' - because that would be a  simile . A simile is a  direct  comparison: "Jane is like a child".
+
+A metaphor very often uses the  verb  ' to be ': "love  is  war", for example, not "love  is like  war" (that is a simile).
+ Poetry  includes much metaphor, usually more than  prose .
+
+ Spam  is an example that any  email  user knows about - this word was originally a metaphor, from 'Spam', a type of canned meat.  Server s putting unwanted email into somebody's inbox was similar to waiters putting unwanted Spam into food.  This was originally suggested by a  Monty Python  scene. When we use a metaphor very often and we forget the old meaning, or forget that the two meanings are connected, this is a 'dead metaphor'.
+
+Originally  metaphor  was a  Greece Greek  word for 'transfer'. It came from  meta  ('beyond') and  pherein  ('carry'). So the word  metaphor  in English was a metaphor, too. Today in Greek,  metaphor  is a  trolley  (a thing that is pushed for carrying shopping or bags).
+
+ Most metaphors are concepts:  see  conceptual metaphor .
+
+ Idiom s use metaphors, or are metaphors: for example, the  English language English  phrase  to kick the bucket  means  to  death die .
+
+  Simple metaphors  
+  Description  
+
+A simple metaphor has a single link between the subject and the metaphoric vehicle. The vehicle thus has a single meaning which is transferred directly to the subject.
+
+  Examples  
+ Cool down! [Cool = temperature]
+ He was mad. [mad = anger]
+ I'll chew on it. [chew = think]
+ It was raining cats and dogs. [cats and dogs = rain]
+ Max was an angel. [angel = lovely person]
+In the simple metaphor, the effort to understand what the author or speaker intends is relatively low, and hence it may easily be used with a wider and less sophisticated audience.
+
+  Complex metaphors  
+  Description  
+A complex metaphor happens where a simple metaphor is based on a secondary metaphoric element. For example using a metaphor of 'light' for 'understanding' may be complexified by saying 'throwing light' rather than 'shining light'. 'Throwing' is an extra metaphor for how light arrives. 
+
+  Examples  
+ That lends weight to the argument.
+ They stood alone, frozen statues on the plain.
+ The ball happily danced into the net.
+ "But at my back I always hear /  br Time's winged chariot hurrying near /  br And yonder all before us lie /  br Deserts of vast eternity". br From 17th century English poet  Andrew Marvell 's poem  To His Coy Mistress .
+
+  Compound metaphors  
+  Description  
+A compound metaphor is one where there are multiple parts in the metaphor that are used to snag the listener. These parts may be enhancement words such as adverbs, adjectives, etc.
+
+Each part in the compound metaphor may be used to signify an additional item of meaning.
+
+  Examples  
+ Thick, primal, blind fog descended before his eyes.
+ The car screeched in hated anguish, its flesh laid bare in the raucous collision.
+
+Compound metaphors are like a multiple punch, hitting the listener repeatedly with metaphoric elements. Where the complex metaphor uses stacked layers to enhance the metaphor, the compound metaphor uses sequential words. The compound metaphor is also known as a loose metaphor.
+
+  Live and dead metaphors  
+A live metaphor is one which a reader notices. A dead metaphor is one no-one notices because it has become so common in the language. 
+
+  Examples  
+Two people walk off a tennis court. Someone asks the loser: "What happened?".
+ "He won" . Literal truth.
+ "He beat me" . Obviously a dead metaphor.
+ "He thrashed me" . This one is slightly alive.
+
+ The river runs . Dead, and many variations on this theme.
+ Electricity is a fluid . Nearly dead.
+ All our efforts are running into the sand . Live.
+
+ Related pages 
+   Trope 
+
+ References 
+ reflist 
+
+ Other websites 
+ A short history of metaphor.   http://web.archive.org/web/20070101145805/http://tscp.open.ac.uk/t185/html/resources/r2history.htm 
+ Rhetorical figures in sound:  http://www.americanrhetoric.com/figures/metaphor.htm 
+
+
+ Category:Metaphors   
+ Category:Words

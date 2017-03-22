@@ -1,0 +1,25 @@
+Molecule
+
+File:Glucose.PNG 200px|thumb|right|This is a  sugar  molecule. Carbon atoms are made blue, oxygen atoms are made red and hydrogen atoms are made white to show the difference. In reality atoms do not have a color. 
+A  molecule  is the smallest amount of a  chemical substance  that can exist. If a molecule were split into smaller pieces, it would be a different substance. 
+
+Molecules are made up of  atom s that are stuck together in a particular shape or  form . Not all combinations of atoms are usually possible; atoms like certain shapes, but not others. Also, they like certain arrangements of atoms. For example,  oxygen  atoms always have two bonds with other atoms,  carbon  atoms always have four bonds with other atoms, and  nitrogen  atoms always have three bonds with other atoms.
+
+In  gas es like  air , the molecules are just flying around. In  liquid s like  water , the molecules are stuck together but they can still move. In  solid s like  sugar , the molecules can only  vibrate . There is also another state of matter known as plasma where the molecules fly around crazier and faster than those in a gas. 
+With a  molecular formula , you can write down the numbers of all atoms in a molecule. For example, the molecular formula of  glucose  is C sub 6 sub H sub 12 sub O sub 6 sub . That means that one molecule of glucose is made up of six carbon atoms, twelve hydrogen atoms and six oxygen atoms.
+
+  Bonding  
+
+For a molecule to exist,  atoms  have to stick together. This happens when two atoms share  electron s. Instead of circling just one atom, the electron now circles around two. This is called bonding. The shared electrons are called 'bonds'. Sometimes, more than one electron is shared. The more electrons are shared, the stronger the bond gets and the stronger the atoms stick together.
+
+Bonds can also be broken apart. Since most bonds require energy to form, they also give off energy when they are broken. But before most bonds break, the molecule has to be heated. Then the atoms start to move, and when they move too much, the bond breaks. Molecules that require less energy to break than they give off when broken are called fuels. For example, a candle will just sit there and nothing happens. But when you use a match to light it, it will burn for a long time. The match brings the energy to break the first bonds, which release enough energy to break the bonds below them, until the candle has burned down.
+
+
+ Elementary 
+
+  Other websites  
+   http://www.chm.bris.ac.uk/motm/motm.htm Molecule of the Month  - School of Chemistry, University of Bristol
+   http://www.accessexcellence.org/RC/VL/GG/antiBD_mol.html Antibody Molecule  - The National Health Museum
+   http://www.ecosci.jp/ec.html Data Book of Molecules  - Home Page for Learning Environmental Chemistry
+
+ Category:Chemistry

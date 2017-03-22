@@ -1,0 +1,106 @@
+Mercury (planet)
+
+Infobox Planet
+  bgcolour   #D8BBA6
+  name   Mercury
+  symbol    File:mercury symbol.svg 25px|Astronomical symbol of mercury 
+  image    File:Mercury in color - Prockter07 centered.jpg 240px|Mercury 
+  caption   Mercury
+  orbit_ref  ref name horizons cite web
+    date April 7 ,  2008    first Donald K.   last Yeomans
+    url http://ssd.jpl.nasa.gov/?horizons 
+    title HORIZONS System
+    publisher NASA JPL   accessdate 2008-04-07  ref 
+  epoch   J2000
+  aphelion   69,816,900 km br 0.466 697  Astronomical unit AU 
+  perihelion   46,001,200 km br 0.307 499 AU
+  semimajor   57,909,100 km br 0.387 098 AU
+  eccentricity   0.205 630 ref name nssdcMercury 
+  period   87.969 1  day d br (0.240 846  julian year (astronomy) a )
+  synodic_period   115.88 d ref name nssdcMercury cite web title Mercury Fact Sheet url http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html publisher NASA  Goddard Space Flight Center   date November 30 ,  2007   accessdate 2008-05-28 ref 
+  avg_speed   47.87 km/s ref name nssdcMercury 
+  inclination   7.005deg to  Ecliptic br 3.38deg to  Ecliptic#Ecliptic and planets Sun's equator br 6.34deg to  Invariable plane ref name meanplane cite web
+   date 2009-04-03
+   title The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+   url http://home.comcast.net/~kpheider/MeanPlane.gif 
+   accessdate 2009-04-03  (produced with  http://chemistry.unina.it/~alvitagl/solex/ Solex 10  written by Aldo Vitagliano; see also  Invariable plane ) ref 
+  asc_node   48.331deg
+  arg_peri   29.124deg
+  mean_anomaly   174.796deg
+  satellites   None
+  physical_characteristics   yes
+diameter = 4,880 km
+  mean_radius   2,439.7 +- 1.0 km ref name nasa cite web
+    date May 28, 2009   first Kirk   last Munsell
+    coauthors Smith, Harman; Harvey, Samantha
+    url http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mercury&Display=Facts 
+    title Mercury: Facts & Figures
+    work Solar System Exploration
+    publisher NASA   accessdate 2008-04-07  
+ ref ref name Seidelmann2007 cite journal
+    last  Seidelmann  first  P. Kenneth
+    coauthors  Archinal, B. A.; A'hearn, M. F.; et al.
+    title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+    journal  Celestial Mechanics and Dynamical Astronomy
+    volume 90   pages 155-180   year 2007
+    doi 10.1007/s10569-007-9072-y
+    url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y 
+    accessdate 2007-08-28  ref br 0.3829 Earths
+  flattening   < 0.0006 ref name Seidelmann2007   
+  surface_area   7.48 e 7 km2 br 0.147 Earths ref name nasa 
+  volume   6.083 e 10 km3 br 0.054 Earths ref name nasa 
+  mass   3.3022 e 23 kg br 0.055 Earths ref name nasa 
+  density   5.427 g/cm3 ref name nasa 
+  surface_grav   3.7 Acceleration m/s2 br 0.38  g-force g ref name nasa 
+  escape_velocity   4.25 km/s ref name nasa 
+  sidereal_day   58.646 day br 1407.5 hour h ref name nasa 
+  rot_velocity    convert 10.892 km/h m/s abbr on 
+  axial_tilt   2.11' +- 0.1' ref name Margot2007 cite journal  last Margot   first L.J.  coauthors Peale, S. J.; Jurgens, R. F.; Slade, M. A.; Holin, I. V.  title Large Longitude Libration of Mercury Reveals a Molten Core  journal Science  year 2007   volume 316   pages 710-714  doi 10.1126/science.1140514
+  url http://adsabs.harvard.edu/abs/2007Sci...316..710M  pmid 17478713 ref 
+  right_asc_north_pole   18 h 44 min 2 s br 281.01deg ref name nssdcMercury 
+  declination   61.45deg ref name nssdcMercury 
+  albedo   0.119 ( Bond albedo bond ) br 
+0.106 ( Geometric albedo geom. ) ref name nssdcMercury 
+  magnitude   up to -1.9 ref name nssdcMercury 
+  angular_size   4.5" - 13" ref name nssdcMercury 
+  temperatures   yes
+  temp_name1   0degN, 0degW  
+  min_temp_1   100 K
+  mean_temp_1   340 K
+  max_temp_1   700 K
+  temp_name2   85degN, 0degW
+  min_temp_2   80 K
+  mean_temp_2   200 K
+  max_temp_2   380 K
+  pronounce     IPA-en 'merkj@ri en-us-Mercury.ogg 
+    atmosphere_composition   42% Molecular  oxygen br 29.0%  sodium br 22.0%  hydrogen br 6.0%  helium br 0.5%  potassium br Trace amounts of  argon ,  nitrogen ,  carbon dioxide ,  Water water vapor ,  xenon ,  krypton , &  neon ref name nssdcMercury 
+ 
+
+ Mercury  is the smallest  planet  in the  Solar System . ref cite web  url   http://nineplanets.org/mercury.html   title Mercury  l  Mercury facts, pictures and information.  first   last   work nineplanets.org  year 2011 [last update]  accessdate 7 March 2012 ref ref cite web  url   http://www.bbc.co.uk/science/space/solarsystem/sun_and_planets/mercury_(planet)   title BBC Solar System - Mercury: A tortured world close to our blazing Sun  first   last   work bbc.co.uk  year 2012 [last update]  accessdate 7 March 2012 ref ref Pluto  was once thought to be the smallest, but, as of 2006, Pluto is now known as a  dwarf planet . ref  It is the closest planet to the sun. ref name sciencefact citation title Space Science: Journey to the Innermost Planet newspaper Scientific American pages 26-31 date March 2011 location New York volume 304 issue 3 author1 Murchie, Scott L. author2 Vervack Jr., Ronald J. author3 Anderson, Brian J. ref  It makes one  orbit trip  around the  Sun  once every  87.969  days. ref name nssdcMercury ref http://image.gsfc.nasa.gov/poetry/venus/VTratesExt.html ref  Mercury is bright when it is visible from  Earth , ranging from -2.0 to 5.5 in  apparent magnitude . It cannot be easily seen as it is usually too close to the Sun. Because Mercury is normally lost in the glare of the Sun (except during a  solar eclipse ), Mercury can only be seen in the morning or evening  twilight . ref name hiw cite book title How it Works Book of Space date 2010 publisher Imagine Publishing isbn 9781906078829 page 36-37 ref 
+
+Compared to what is known about the other planets in the  Solar System , little is known about Mercury.  Telescope s on the Earth show only a small, bright crescent. The first of two  spacecraft  to visit the planet was  Mariner 10 Mariner 10 , ref http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1973-085A ref  which mapped only about 45% of the planet's surface from 1974 to 1975. The second is the  MESSENGER  spacecraft, which finished mapping the planet in March 2013. 
+
+Mercury looks a lot like Earth's  Moon . It has many  crater s with areas of smooth plains, no moons around it and no  atmosphere  as we know it. However, Mercury does have an extremely thin atmosphere, known as an exosphere. ref name sciencefact  Unlike Earth's moon, Mercury has a large  iron   planetary core core , which gives off a  magnetic field  about 1% as strong as that of the  Earth . ref cite web  url http://www-spc.igpp.ucla.edu/personnel/russell/papers/merc_mag/ title Mercury magnetic field publisher C. T. Russell & J. G. Luhmann accessdate 2007-03-16 ref  It is a very dense planet due to the large size of its core. Surface temperatures can be anywhere from about 90 to  nowrap 700  Kelvin K  (-183 degC to 427 degC, -297 degF to 801 degF), ref name ESAs&t cite web url http://sci.esa.int/science-e/www/category/index.cfm?fcategoryid=4586 title Background Science publisher European Space Agency accessdate 2008-05-23 ref  with the  subsolar point  being the hottest and the bottoms of craters near the  Geographical pole poles  being the coldest.
+
+Known sightings of Mercury date back to at least the first millennium BC. Before the 4th century BC, Greek  astronomers  thought that Mercury was two different objects: one able to be seen only at sunrise, which they called  Apollo ; the other that was only able to be seen at sunset, which they called  Hermes . ref name Dunne cite book title The Voyage of Mariner 10 -- Mission to Venus and Mercury author Dunne, J. A. and Burgess, E. chapterurl http://history.nasa.gov/SP-424/ch1.htm publisher NASA History Office year 1978 chapter Chapter One url http://history.nasa.gov/SP-424/ ref  The English name for the planet is from the  Ancient Rome Romans , who named it after the Roman  Roman mythology god   Mercury (mythology) Mercury , which they thought to be the same as the Greek god  Hermes . The symbol for Mercury is based on Hermes'  Staff (stick) staff . ref cite book title Astronomy: A Textbook first John Charles last Duncan year 1946 publisher Harper & Brothers pages 125 quote The symbol for Mercury represents the Caduceus, a wand with two serpents twined around it, which was carried by the messenger of the gods. ref 
+
+Even though Mercury is the closest planet to the Sun, it is not the warmest. This is because it has no  greenhouse effect , so any heat that the Sun gives to it quickly escapes into space. ref cite web   url http://www.bbc.co.uk/newsround/14143062    title CBBC Newsround   publisher British Broadcasting Corporation   accessdate February 04, 2012 ref 
+
+  Inside Mercury  
+Mercury is one of four  inner planet s in the  Solar System , and has a rocky body like the  Earth . It is the smallest planet in the Solar System, with a  radius  of  cvt 2439.7 km mi ref name nssdcMercury  Mercury is even smaller than some of the largest moons in the solar system, such as  Ganymede  and  Titan (moon) Titan . However, it has a greater mass than the largest moons in the solar system. Mercury is made of about 70%  metal lic and 30%  silicate  material. ref name strom cite book  title Exploring Mercury: The Iron Planet  last Strom  first Strom, Robert G. coauthors Sprague, Ann L.  year 2003  page 52  isbn  1852337311 ref  Mercury's density is the second highest in the Solar System at 5.427 g/cm3, only a little bit less than Earth's. ref name nssdcMercury 
+
+  Other pages  
+   List of planets 
+
+  Other websites  
+   http://www.solarviews.com/eng/mercury.htm SolarViews.Com 
+   http://stevechallis.net/Mercury.php Mercury 
+   http://www.planetfacts.net/Mercury-Facts.html www.planetfacts.net 
+
+  References  
+ reflist 
+
+ Solar System 
+
+ Category:Solar System planets 
+ Category:Terrestrial planets

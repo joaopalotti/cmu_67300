@@ -1,0 +1,47 @@
+Nene
+
+for the basketball player Nene 
+ Taxobox
+  name   Hawaiian Goose
+  status   VU
+  status_system   IUCN3.1
+  trend   up
+  image   Branta sandvicensis -Kilauea Point National Wildlife Refuge, Hawaii, USA-8.jpg
+  image_width   200px
+  regnum    Animal ia
+  phylum    Chordate Chordata 
+  classis    Bird Aves 
+  ordo    Anseriformes 
+  familia    Anatidae 
+  genus    Branta 
+  species    B. sandvicensis 
+  binomial    Branta sandvicensis 
+  binomial_authority   ( Nicholas Aylward Vigors Vigors , 1833)
+ 
+
+The  Nene , or  Hawaiian Goose  ( Branta sandvicensis ) is a  species  of  goose . It is found today on only three  Hawaiian islands . ref name bbc Cite web
+  url   http://news.bbc.co.uk/local/wear/low/people_and_places/nature/newsid_8549000/8549716.stm 
+  title BBC - Wear - Rare bird lays first spring eggs
+  work news.bbc.co.uk
+  accessdate 22 March 2010
+ ref  It gets its name from its soft call.
+
+This is an unmistakable species, with its generally brown plumage (feathers) and darker head. Its strong toes have much reduced webbing (skin between the toes), an adjustment to the  lava  flows on which it breeds. ref name fifty  The Nene goes about on land much more than other water birds. When moulting (dropping old feathers and growing new ones), the Nene cannot fly, as do other geese, a factor which made it vulnerable to hunting.
+
+The Nene was once among the most  wikt:threaten threatened   waterfowl   species  around the world. ref cite web  url   http://www.ducks.org/hunting/waterfowl-id/hawaiian-nene-goose   title Hawaiian 'Nene' Goose Facts, Figures, Description and Photo  work ducks.org  accessdate 7 April 2011 ref  Once common, hunting and  predator s brought to the islands such as  mongoose s,  pig s and  cat s reduced the population to only 30 birds in the 1950s. ref name bbc  However, this species breeds well in captivity (zoos and bird parks), and has been successfully re-introduced. There are also good numbers in wild bird collections.
+
+The Nene is the state bird of  Hawaii . ref name fifty Cite web
+  url   http://www.50states.com/bird/nene.htm 
+  title Hawaii State Bird - Nene - Hawaiian Goose
+  work 50states.com
+  accessdate 22 March 2010
+ ref 
+
+ References 
+ reflist 
+
+
+ biology-stub 
+
+ DEFAULTSORT:Nene 
+ Category:Geese

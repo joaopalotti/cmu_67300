@@ -1,0 +1,95 @@
+Argon
+
+Elementbox
+ name argon
+ pronounce IPAc-en ' ar g a n 
+ number 18
+ symbol Ar
+ left chlorine 
+ right potassium 
+ above neon Ne 
+ below krypton Kr 
+ series noble gas
+ group 18
+ period 3
+ block p
+ appearance colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field
+ image name Argon discharge tube.jpg
+ image name comment Vial containing a violet glowing gas
+ image name 2 Argon Spectrum.png
+ image name 2 comment Spectral lines of argon
+ atomic mass 39.948
+ atomic mass 2 1
+ electron configuration neon Ne  3s sup 2 sup  3p sup 6 sup 
+ electrons per shell 2, 8, 8
+ phase gas
+ density gplstp 1.784
+ density gpcm3bp 1.40
+ melting point K 83.80
+ melting point C -189.35
+ melting point F -308.83
+ boiling point K 87.30
+ boiling point C -185.85
+ boiling point F -302.53
+ triple point K 83.8058
+ triple point kPa 69
+ critical point K 150.87
+ critical point MPa 4.898
+ heat fusion 1.18
+ heat vaporization 6.43
+ heat capacity 5 Gas constant R /2 = 20.786
+ vapor pressure 1 
+ vapor pressure 10 47
+ vapor pressure 100 53
+ vapor pressure 1 k 61
+ vapor pressure 10 k 71
+ vapor pressure 100 k 87
+ vapor pressure comment 
+ crystal structure face-centered cubic
+  oxidation states  0 
+ electronegativity no data
+ number of ionization energies 4
+ 1st ionization energy 1520.6
+ 2nd ionization energy 2665.8
+ 3rd ionization energy 3931
+ covalent radius 1 E-10 m 106+-10 
+ Van der Waals radius 1 E-10 m 188 
+ magnetic ordering diamagnetic ref http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds , in Handbook of Chemistry and Physics 81st edition, CRC press. ref 
+ thermal conductivity 17.72x10 sup -3 sup 
+ speed of sound (gas, 27 degC) 323
+ CAS number 7440-37-1
+ isotopes 
+ Elementbox_isotopes_stable   mn 36   sym Ar   na 0.337%   n 18  
+ Elementbox_isotopes_decay   mn 37   sym Ar
+   na synthetic radioisotope syn    hl 35  day d 
+   dm Electron capture e    de 0.813   pn 37   ps chlorine Cl   
+ Elementbox_isotopes_stable   mn 38   sym Ar   na 0.063%   n 20  
+ Elementbox_isotopes_decay   mn 39   sym Ar
+   na trace radioisotope trace    hl 1 E9 s 269   year y 
+   dm beta emission b sup - sup    de 0.565    pn 39   ps potassium K   
+ Elementbox_isotopes_stable   mn 40   sym Ar   na 99.600%   n 22  
+ Elementbox_isotopes_decay   mn 41   sym Ar
+   na synthetic radioisotope syn    hl 109.34  minute min 
+   dm b sup - sup    de 2.49   pn 41   ps potassium K   
+ Elementbox_isotopes_decay   mn 42   sym Ar
+   na synthetic radioisotope syn    hl 32.9  year y 
+   dm b sup - sup    de 0.600   pn 42   ps potassium K   
+ isotopes comment 
+ discovered by Lord Rayleigh  and  William Ramsay 
+ discovery date 1894
+ first isolation by Lord Rayleigh and William Ramsay
+ first isolation date 1894
+ 
+ Argon  is a  chemical element . The symbol for argon is  Ar , and its  atomic number  (or  proton  number) is 18. It is a  noble gas  and no  electron s or protons can be lost or gained from this atom.
+
+Argon  atom s are found in  air . About 1% of the  Earth 's  atmosphere  (the air around us) is argon.
+
+ Related pages 
+   List of common elements 
+   Periodic table 
+
+ Sources 
+ reflist 
+ Periodic Table 
+
+ Category:Noble gases

@@ -1,0 +1,58 @@
+Creative Commons
+
+About the organisation their published licences Creative Commons licenses 
+
+ Infobox Non-profit
+  Non-profit_name     Creative Commons
+  Non-profit_logo      Image:CC-logo.svg Creative Commons logo|200px 
+  Non-profit_type      Non-profit organization 
+  founded_date        2001
+  founder              Lawrence Lessig 
+  location             San Francisco, California br USA 
+  origins             
+  key_people          
+  area_served         
+  product            
+  focus               Expansion of "reasonable", flexible copyright
+  method               Creative Commons licenses 
+  revenue             
+  endowment           
+  num_volunteers      
+  num_employees       
+  num_members         
+  subsib              
+  owner               
+  Non-profit_slogan   
+  homepage             http://creativecommons.org/ 
+  dissolved           
+  footnotes           
+ 
+The  Creative Commons  is a  non-profit  organisation that tries to make creative work available for others to use and share.
+
+  Aim  
+Their website allows  copyright  holders to give some of their rights to any other people. They still keep some other rights. They do this through  license s and  contract s. Some of these make the work  public domain  or  open content . They do this because  copyright law  can stop people sharing information.
+
+The project has different free licenses. A person who has copyright can choose which one they want to use when they publish their work. They also provide  Resource Description Framework RDF / XML   metadata . These say what the licenses are and make it easier to automatically sort out and find work that has these licenses. They also provide a 'Founder's Copyright' contract. ref http://creativecommons.org/%20projects/founderscopyright Founders' Copyright - Creative Commons ref  This aims to give the same effects as the original  United States US  Copyright did.
+
+  History  
+Creative Commons was officially started in  2001 .
+
+ Lawrence Lessig  is the founder and chairman of Creative Commons. Lessig started it as a way of reaching the goals of his Supreme Court case,  Eldred v. Ashcroft .
+
+  Localisation  
+The  iCommons  (International Commons) is one of the Creative Commons projects. They improve the wording of the licenses and make them usable in other countries. The first ones dealt with US law only. As of February 4,  2004 ,  Brazil , the  People's Republic of China ,  Finland ,  France ,  Italy ,  Japan , the  Republic of China  (Taiwan), the  Republic of Ireland , and the  United Kingdom  have joined this project. ref   http://wiki.creativecommons.org/CC_Affiliate_Network CC Affiliate Network - CC Wiki ref 
+
+Projects that use Creative Commons licenses include  LOCA Records ,  Magnatune ,  Opsound ,  Opcopy ,  Wikitravel ,  iRATE radio  and the fiction of  Cory Doctorow .
+
+  References  
+ Reflist 
+
+  Other websites  
+   :en:Creative Commons License Article on the Creative Commons License on the English Wikipedia 
+   http://creativecommons.org/ The creativecommons.org website 
+   http://mirrors.creativecommons.org/ A short Flash animation talking about Creative Commons 
+   http://www.creativecommons.org/projects/international International Commons: Creative Commons initiatives outside the United States .
+
+ Category:Non-profit organizations of the United States 
+ Category:2001 establishments 
+ Category:San Francisco, California

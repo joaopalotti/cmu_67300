@@ -1,0 +1,187 @@
+Egypt
+
+Infobox country
+ native_name   jmhwry@ mSr l`rby@  br transl ar DIN Gumhuriyyat Masr al-'Arabiyyah 
+ conventional_long_name   Arab Republic of Egypt
+ common_name   Egypt
+ image_flag   Flag of Egypt.svg
+ image_coat   Coat of arms of Egypt (Official).svg
+ image_map   Egypt in its region (undisputed).svg
+ national_anthem    center File:Bilady, Bilady, Bilady.ogg center br " Bilady, Bilady, Bilady " br small "My country, my country, my country" small  
+ official_languages    Modern Standard Arabic Arabic ref label offlang a 
+ demonym   Egyptian
+ capital    Cairo 
+ latd 30  latm 2  latNS N  longd 31  longm 13  longEW E
+ largest_city    Cairo 
+ government_type  Provisional government 
+ leader_title1    President of Egypt President 
+ leader_name1    Abdel Fattah el-Sisi ref name dm cite web last Gupta first Kancha title President Sisi must stop Egypt from becoming just another radicalised Arab state  Read more:  http://www.dailymail.co.uk/indiahome/indianews/article-4038692/President-Sisi-stop-Egypt-just-radicalised-Arab-state.html#ixzz4TE6UcriZ   Follow us: @MailOnline on Twitter   DailyMail on Facebook url http://www.dailymail.co.uk/indiahome/indianews/article-4038692/President-Sisi-stop-Egypt-just-radicalised-Arab-state.html publisher Daily Mail accessdate 18 December 2016 date 15 December 2016 ref 
+ leader_title2    Prime Minister of Egypt Prime Minister 
+ leader_name2    Sherif Ismail ref name bloomberg cite web title Egypt Appoints New Prime Minister After Government Resigns url https://www.bloomberg.com/news/articles/2015-09-12/egypt-appoints-new-prime-minister-after-government-resigns publisher Bloomberg accessdate 18 December 2016 author Ahmed A Namatalla coauthors Abdel Latif Wahba date September 12, 2015 ref 
+ established_event1    Upper and Lower Egypt Unified state ref Cite book  last1 Goldschmidt  first1 Arthur  title Modern Egypt: The Formation of a Nation-State  url http://books.google.com/books?id=YmZyAAAAMAAJ&q=state   year 1988  publisher Westview Press  location Boulder, CO  isbn 9780865311824  page 5  quote Among the peoples of the ancient Near East, only the Egyptians have stayed where they were and remained what they were, although they have changed their language once and their religion twice. In a sense, they constitute the world's oldest nation. For most of their history, Egypt has been a state, but only in recent years has it been truly a nation-state, with a government claiming the allegiance of its subjects on the basis of a common identity. ref ref name U.S.Dept of State/Egypt 
+ legislature    Parliament of Egypt Parliament  ( dissolved )
+ upper_house    Shura Council  ( dissolved )
+ lower_house    Egypt House of Representatives House of Representatives  ( dissolved )
+ established_event1    nowrap Unification of  Upper and Lower Egypt Upper br and Lower Egypt ref name U.S.Dept of State/Egypt cite web  url http://www.state.gov/r/pa/ei/bgn/5309.htm   title Background Note: Egypt  date 10 November 2010  publisher United States Department of State  Bureau of Near Eastern Affairs  accessdate 20 February 2014 ref ref cite book  last1 Goldschmidt  first1 Arthur  title Modern Egypt: The Formation of a Nation-State  url http://books.google.com/books?id=YmZyAAAAMAAJ&q=state   year 1988  publisher Westview Press  location Boulder, CO  isbn 978-0-86531-182-4  page 5  quote Among the peoples of the ancient Near East, only the Egyptians have stayed where they were and remained what they were, although they have changed their language once and their religion twice. In a sense, they constitute the world's oldest nation. For most of their history, Egypt has been a state, but only in recent years has it been truly a nation-state, with a government claiming the allegiance of its subjects on the basis of a common identity. ref 
+ established_date1    Circa c.  3200 BC
+ established_event2    Muhammad Ali Dynasty  inaugurated
+ established_date2   9 July 1805 ref name Crabites cite book  author Pierre Crabites  title Ibrahim of Egypt  url http://books.google.com/books?id=1NbCRckI3EoC&pg=PA1   accessdate 20 February 2014  year 1935  publisher Routledge  isbn 978-0-415-81121-7  page 1  quote ... on July 9, 1805, Constantinople conferred upon Muhammad Ali the pashalik of Cairo ... ref 
+ established_event3    nowrap Unilateral Declaration of Egyptian Independence Independence  from br the  United Kingdom of Great Britain and Ireland United Kingdom 
+ established_date3   28 February 1922
+ established_event4    Egyptian Revolution of 1952 Republican regime 
+ established_date4   18 June 1953
+ established_event5    Egyptian Revolution of 2011 Revolution Day 
+ established_date5   25 January 2011
+ established_event6    Egyptian Constitution of 2014 Current Constitution 
+ established_date6   18 January 2014
+ area_rank   30th
+ area_magnitude   1 E12
+ area_km2   1,002,450
+ area_sq_mi   387,048
+ percent_water   0.632
+ population_estimate   90,120,000 ref name popclock 
+ population_estimate_year   2015
+ population_estimate_rank   14th
+ population_census   76,699,427 ( Demographics of Egypt total ) ref cite web  url http://www.msrintranet.capmas.gov.eg/ows-img2/htms/pdf/finalpop/5,7.pdf   title Indicators from final results of 2006 pop. Census compared with 1996 Census  publisher Central Agency for Public Mobilization and Statistics  format PDF  accessdate 15 April 2011 ref br incl. 3,901,396  Egyptian diaspora abroad 
+ population_census_year    Census in Egypt#2006 2006 
+ population_density_km2    Physiological density Real density : ref label density c br 2,755.2/km sup 2 sup  ( List of countries by real population density (based on food growing capacity) 38th ) br 7,136/sq mi br Population density Arithmetic density : br 76.3
+ population_density_sq_mi   197.5  
+ population_density_rank   126th
+ GDP_PPP_year   2011
+ GDP_PPP   $508.265 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=82&pr.y=11&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=469&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= title Egypt publisher International Monetary Fund accessdate 19 September 2011 ref 
+ GDP_PPP_rank  
+ GDP_PPP_per_capita   $6,361 ref name imf2 
+ GDP_PPP_per_capita_rank  
+ GDP_nominal   $231.111 billion ref name imf2 
+ GDP_nominal_rank  
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $2,892 ref name imf2 
+ GDP_nominal_per_capita_rank  
+ HDI_year   2010
+ HDI   0.620
+ HDI_change   increase
+ HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf title Human Development Report 2010 year 2010 publisher United Nations accessdate 5 November 2010 ref 
+ HDI_rank   101st
+ HDI_category    span style color:#fc0; medium span 
+ Gini   34.5
+ Gini_ref   
+ Gini_year   1999-00
+ Gini_category   medium
+ currency    Egyptian pound 
+ currency_code   EGP
+ time_zone    Eastern European Time EET 
+ utc_offset   +2 (No  Daylight saving time DST  Since 2011)
+ drives_on   right
+ cctld    .eg ,  mSr. 
+ calling_code    +20 
+ footnotes  
+a. note offlang   Modern Standard Arabic Literary Arabic  is the sole official language.  Egyptian Arabic  is the national  spoken language . Other  Languages of Egypt dialects and minority languages  are used regionally. br b. note Tantawi   De facto  interim  head of state . ref Cite journal  last Hope  first Christopher  coauthors Swinford, Steven  date 15 February 2011  title WikiLeaks: Egypt's new man at the top 'was against reform'  journal The Daily Telegraph   accessdate 5 March 2011  url http://www.telegraph.co.uk/news/worldnews/wikileaks/8326225/WikiLeaks-Egypts-new-man-at-the-top-was-against-reform.html ref ref cite web  url http://www.sis.gov.eg/En/Story.aspx?sid=53709   title The Supreme Council of the Armed Forces: Constitutional Proclamation  date 13 February 2011  publisher Egypt State Information Service  accessdate 5 March 2011  quote The Chairman of the Supreme Council of the Armed Forces shall represent it internally and externally. ref br c. note density  Densities are based on 2006 population figures. The gap between arithmetic and real densities is due to the fact that 98% of Egyptians live on 3% of the territory. ref Cite book  last1 de Blij  first1 H. J.   last2 Murphy  first2 Alexander B.  last3 Fouberg  first3 Erin H.  title Human Geography: People, Place, and Culture  edition 8th  year 2006  publisher John Wiley & Sons  location New York  isbn 9780471679516  page 38 ref 
+ 
+ for the ancient civilization Ancient Egypt 
+
+ Egypt is our topic next year. 
+
+ History 
+Egypt has been an independent country since 1922. It is a member of the  United Nations  and the  Arab League . It was a  republic  from 1952 after the  revolution  of 1952 led by  general officer General   Muhammad Naguib , who became the first  President .
+
+ Geography 
+Egypt, is a large country, but a large portion of it is  desert . Most people live in areas around the coast of the  Mediterranean Sea  and along the  Nile  River. This includes the cities of  Cairo ,  Alexandria ,  Aswan , and  Port Said . Not many people live in the desert. Today, Egypt has about 90 million people.
+
+Egypt is divided into 29 areas, called  Governorates of Egypt .
+
+ Politics 
+Egypt is a country which has had many different rulers and many political systems. Here is a summary of its political history since  World War II . After this war, Egypt was ruled by a king,  Farouk of Egypt  (11 February 1920 - 18 March 1965). He was the last ruler of the  Muhammad Ali Pasha Muhammad Ali   dynasty .
+
+Farouk was overthrown on 23 July 1952 by a military coup. The coup was led by Muhammad Naguib, and  Gamal Abdel Nasser . From then on, Egypt had military rulers or rulers who had the backing of the army and many citizens. 
+
+Nasser became President, from 1956 to 1970. Later rulers were  Anwar Sadat , and  Hosni Mubarak . After Mubarak came a change. In 2012, an attempt was made to have a democratic election for the post of President. The winner was the  Moslem Brotherhood  candidate,  Mohamed Morsi . The events which followed are still controversial, but one aspect stands out. Morsi issued a declaration that in effect gave him unlimited powers. He had the power to legislate (make laws) without any legal overview by the courts. This caused widespread protests. On 3 July 2013 he was unseated by a military coup council (a  coup d'etat ). After an election in June 2014,  Abdel Fattah el-Sisi  became President of Egypt. Islamist movements, such as the Muslim Brotherhood, rejected the change of regime as a military coup, and not democratic. 
+
+Mohamed Morsi is currently under sentence of death, though this may not be carried out.
+
+  Revolution of 2011  
+ Main 2011 Egyptian revolution 
+In January 2011, thousands of  protest ers gathered in  Cairo . They wanted  Hosni Mubarak  to leave office. He had been the  President  for almost 30 years. On February 11, 2011,  Vice President   Omar Suleiman  made an announcement. He said that Mubarak agreed to leave office. ref name MebarakResignes cite news  title Mubarak Resigns as Egyptian President  first Ahmed A   last Namatalla  coauthors Mariam Fam and Zainab Fattah  newspaper Bloomberg  date 2011-02-11  url http://www.bloomberg.com/news/2011-02-11/mubarak-leaves-presidency-hands-power-to-egypt-s-military-suleiman-says.html   accessdate 2011-02-11  ref 
+
+  Demographics  
+  Religion  
+Today, the people of Egypt are mostly  Sunni Muslims . There are still many Christians in Egypt today. Many of these belong to the  Coptic Orthodox Church of Alexandria .
+
+  Languages  
+The official language in Egypt is  Arabic language Arabic . A high percentage of the population, however, speaks  English language English .  French language French  and  German language German  are also taught in Egypt as second language.
+
+ Famous people 
+Many famous people are from Egypt. Some of these include  Omar Sharif , who was an international actor,  Boutros Boutros-Ghali , who was the first person from  Africa  to lead the  United Nations , and four  Nobel Prize  winners:  Anwar Sadat , who won the  Nobel Peace Prize  in 1978,  Naguib Mahfouz , who won the  Nobel Prize in Literature  in 1988,  Ahmed Zewail , who won the  Nobel Prize in Chemistry  in 1999, and  Mohamed ElBaradei , who won the Nobel Peace Prize in 2005.
+
+ Governorates 
+Egypt is divided into 27  governorates . The governorates are divided into regions. The regions have towns and villages. Each governorate has a capital. Sometimes capital has the same name as the governorate.
+
+ style background:none; font-size:95%; cellspacing 0 cellpadding 0 valign top 
+ class wikitable  Governorate                                     Capital               Location
+   Al Iskandariyah Governorate Alexandria        Alexandria         Northern
+   Aswan Governorate Aswan                       Aswan              Upper
+   Asyut Governorate Asyut                       Asyut              Upper
+   Beheira Governorate Beheira                   Damanhur           Lower
+   Beni Suef Governorate Beni Suef               Beni Suef          Upper
+   Cairo Governorate Cairo                       Cairo              Middle
+   Dakahlia Governorate Dakahlia                 Mansura            Lower
+   Damietta Governorate Damietta                 Damietta           Lower
+   Faiyum Governorate Faiyum                     Faiyum             Upper
+   Gharbia Governorate Gharbia                   Tanta              Lower
+   Giza Governorate Giza                         Giza               Upper
+   Ismailia Governorate Ismailia                 Ismailia           Canal
+   Kafr el-Sheikh Governorate Kafr el-Sheikh     Kafr el-Sheikh     Lower
+   Luxor Governorate Luxor                       Luxor              Upper
+ 
+ 
+ class wikitable  Governorate                                     Capital                       Location
+   Matruh Governorate Matruh                     Mersa Matruh               Western
+   Minya Governorate Minya                       Minya, Egypt Minya         Upper
+   Monufia Governorate Monufia                   Shibin el-Kom              Lower
+   New Valley Governorate New Valley             Kharga                     Western
+   North Sinai Governorate North Sinai           Arish                      Sinai
+   Port Said Governorate Port Said               Port Said                  Canal
+   Qalyubia Governorate Qalyubia                 Banha                      Lower
+   Qena Governorate Qena                         Qena                       Upper
+   Red Sea Governorate Red Sea                   Hurghada                   Eastern
+   Sharqia Governorate Sharqia                   Zagazig                    Upper
+   Sohag Governorate Sohag                       Sohag                      Upper
+   South Sinai Governorate South Sinai           el-Tor                     Sinai
+   Suez Governorate Suez                         Suez                       Canal
+ 
+ style padding-top:8px; 
+ 
+
+  Culture  
+Egypt is a country with an immense cultural mix. There are many differences between life in the countryside as compared with life in the large cities. There are differences between the families which are  Muslim , and the smaller number which are  Coptic Orthodox Church of Alexandria Coptic Christians . There are noticeable differences in the standards of education. Families are close-knit, and look after each other.
+
+  Tourism  
+ File:Giza Plateau - Pyramid of Menkaure.JPG thumb|Pyramid of Menkaure|236x236px 
+Tourism is one of the most important national incomes in Egypt. In 2008, about 12 million tourists visited Egypt providing nearly $12 billion of national income to Egypt. Tourism affects the economy of the country as a whole. ref http://www.reuters.com/article/2009/10/20/ozabs-tourism-egypt-idAFJOE59J0PG20091020?sp=true "Egypt tourism numbers to fall less than feared" , Reuters Africa. (2009-10-20) ref 
+
+ Giza Necropolis  is one of Egypt's iconic sites. It is a popular destination for tourists to visit. It includes the  Great Pyramid of Giza , one of the  Seven Wonders of the World .
+
+  Transport  
+There are methods of transport in Egypt.
+
+  Metro  
+ File:Cairo Metro Sadat plathome.jpg thumb|238x238px|Cairo Metro, Sadat Station 
+ Cairo Metro  is one of the most important projects in Egypt. It consists of 3 lines. Metro is the most preferable transport in Egypt due to persistent major traffic jams in the streets of Cairo. ref http://www.nytimes.com/2012/05/04/world/middleeast/cairos-subway-is-efficient-orderly-and-dependable.html "Underground, Everything That Life Above Is Not" , NY Times.  Retrieved May 3, 2012 ref ref http://english.ahram.org.eg/NewsContent/1/140/55017/Egypt/The-Balance-Sheet/Egypts-traffic-The-problem-grinds-on.aspx "Egypt's traffic: The problem grinds on" , AhramOnline.  Retrieved 8 Oct 2012 ref 
+
+A Metro line 4 is right now being developed and expected to be active in future reaching New Cairo District. ref http://www.railway-technology.com/projects/cairo-metro/ "Cairo Metro, Egypt" , Railway Technology. ref 
+
+  Air transport  
+Egypt is a country that puts air transport at the forefront. It established  EgyptAir  in 1932. The airline is based in  Cairo International Airport  and is owned by the government.
+
+  References  
+ Reflist refs 
+ ref name popclock cite web  url http://www.capmas.gov.eg/?lang=2   title Population Clock  date 27 April 2013  publisher Central Agency for Public Mobilization and Statistics  accessdate 27 April 2013 ref 
+
+ Other websites 
+ commonscat-inline 
+ wikivoyage-inline 
+
+ Africa 
+ Middle East 
+
+
+ Category:Egypt  

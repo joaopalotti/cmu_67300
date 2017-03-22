@@ -1,0 +1,64 @@
+Ebola virus
+
+Image:Ebola virus em.png thumb|right|180px| Electron microscope  picture of the Ebola virus 
+ File:SAG Ebola.jpg thumb|264x264px|A 3D medical animation still of Ebola Virus 
+ infobox disease
+  Name             Ebola virus disease 
+  Image            7042 lores-Ebola-Zaire-CDC Photo.jpg
+  Caption          1976 photograph of two nurses standing in front of  Mayinga N'Seka Mayinga N. , a person with Ebola virus disease; she died only a few days later.
+  Width   150
+  DiseasesDB       18043
+  ICD10             ICD10 A 98 4 a 90 
+  ICD9              ICD9 065.8 
+  MedlinePlus      001339
+  eMedicineSubj    med
+  eMedicineTopic   626
+  MeshID           D019142 
+ File:What you should know about Ebola.webm thumb|261x261px|A simple video explanation of Ebola virus 
+ Ebola virus  is a very dangerous  virus . It belongs to the Filoviridae family and is responsible for a severe disease characterized by the sudden onset of hemorrhagic fever accompanied by other nonspecific signs and symptoms.  "Hemorrhagic" means that the victim will bleed a lot, inside and outside their body. The virus attacks almost every organ and tissue of the human body resulting in multi-organ dysfunction. Out of every 10 people who get Ebola, on average five to nine die. There are four kinds of Ebola virus that can cause the disease. The virus was first found in  Sudan . It is found in  Africa , with very few cases in  Europe  and the  United States . ref cite journal url http://wwwnc.cdc.gov/eid/article/19/2/12-0524_article title Ebola virus antibodies in fruit bats, Bangladesh publisher CDC year 2013 journal Emerging Infectious Disease volume 19 issue 2 authors Kevin J. Olival  et al   doi 10.3201/eid1902.120524 ref 
+
+  Transmission  
+The Ebola virus that makes people sick lives in the  blood  and other liquids and wet things in some kinds of non-human animals without killing them. Scientists think the animals it lives in are mainly some kinds of monkeys or  fruit bat s. When people touch animals that have the virus, or wet things that came out of those animals, they can get sick. ref name WHO2014 cite web title Ebola virus disease  Fact sheet Ndeg103 url http://www.who.int/mediacentre/factsheets/fs103/en/ work World Health Organization accessdate 12 April 2014 date March 2014 ref  
+
+Ebola cannot be caught through the air, or by being near sick people. ref name WHOAir2014 cite web title 2014 Ebola virus disease (EVD) outbreak in West Africa url http://www.who.int/ith/updates/20140421/en/ website WHO accessdate 3 August 2014 date April 21 2014 ref  The virus can only go from  liquid liquids  into people's bodies. This means Ebola can be caught by touching a sick person's  blood ,  saliva ,  mucus ,  semen ,  diarrhea ,  vomit , or other fluids that come out of a sick person's body.
+
+If a person does not die from the disease, he can still give other people the infection by having  sex  for nearly another two months after they stop being sick. This is because the virus can still be in the man's  semen  after a long time. 
+
+ Pathogenesis Pathogenesis 
+
+1. Once the virus enters the human body via mucosal surfaces, abrasions or injuries in the skin or by direct parental transmission, it fuses with the cells lining the respiratory tract, eyes, or body cavities.
+
+2. It invades the macrophages and dendritic immune cells and releases its genetic content. The cell explosion triggers the secretion of proinflammatory cytokines initiating a 'cytokine storm'. The genetic material takes over the cell machinery to replicate itself; new copies of the virus are formed and released into the system.
+
+3. The virus then, goes on to attack spleen, kidneys and even the brain. The blood vessels leak blood and fluid into the surrounding tissues. This atypical clotting and bleeding at the same time manifests externally in the form of rashes.
+
+4. The virus causes the shutdown of other vital organs such as liver and lungs too. In fact, it is able to invade almost all human cells through different attachment mechanisms for each cell type (except for lymphocytes). The very cells that are meant to fight infection are used as carriers to spread infection to other body parts
+
+5. It has been found that the ebola-infected cells do not undergo normal apoptosis, but exhibit vacuolization and signs of necrosis.
+
+  Symptoms  
+When people get Ebola the first  symptom s look like some other diseases. People get a  fever  and feel very tired. Their  headache head ,  stomach ,  joint joints , and  throat  might hurt. Sometimes, people think they have other diseases like  malaria  or  typhoid fever .
+
+Later, people get much sicker. They bleed both inside and outside their bodies. They have  blood  in their  diarrhea  and  vomit . They bleed from their  nose s,  mouth s, and  genital s/sex organs. They get  Shock (circulatory) shock : low  blood pressure , fast pulse ( heart  rate), and low  circulatory system blood circulation  to the body. Their  Organ (anatomy) organs  might stop working. Ebola also causes stiffness throughout the body which makes it hard for sick people to move. 
+
+Five to nine out of every ten people who get sick with Ebola die.
+
+  Treatment  
+There is no cure for Ebola, but if people get care quickly from  Medical doctor doctors  and  nurse s at a  hospital , more of them live. People with Ebola need a lot of fluids to replace fluids lost from  diarrhea ,  vomiting , and bleeding. The most important care is giving them water with a very small amount of salt and sugar in it. This is called  oral rehydration therapy oral rehydration . It helps to replace their fluids and blood. It is also important to give medicines in case they get bad  blood pressure  and blood circulation.
+
+  Prevention  
+In December 2016, a study found the VSV-EBOV vaccine to be very effective (in the neighborhood of 70-100%) against the Ebola virus, making it the first vaccine against the disease.
+
+Many Ebola vaccine candidates had been developed in the decade prior to 2014, but as of October 2014, none had yet been approved by the United States Food and Drug Administration (FDA) for use in humans.
+
+  Research  
+ World Community Grid  is a computing project that is seeking possible drug treatments. People donate the spare time on their computers to the project.
+
+  Reference  
+ Commons Ebola Ebola virus 
+ reflist 
+
+
+
+ Category:Infectious diseases 
+ Category:Diseases caused by viruses

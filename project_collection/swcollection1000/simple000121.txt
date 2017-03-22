@@ -1,0 +1,32 @@
+Dimension
+
+File:Squarecubetesseract.png right|thumb|385px|From left to right, the  square (geometry) square , the  cube , and the  tesseract . The square is bounded by 1-dimensional lines, the cube by 2-dimensional areas, and the tesseract by 3-dimensional volumes. A  Projection (linear algebra) projection  of the cube is given since it is viewed on a two-dimensional screen. The same applies to the tesseract, which additionally can only be shown as a projection even in three-dimensional space. 
+ File:Dimension levels.svg right|thumb|400px|A diagram of the first four spatial dimensions. 
+
+ Dimensions  are a concept from  mathematics  and  physics : One way to define a dimension is to look at the  degree of freedom degrees of freedom  a movement has in a specific space. There are different concepts where the term dimension is used and there are also different definitons. There is no definition that can satisfy all concepts. 
+
+In a  vector space , a dimension is equal to the   cardinality  of the minimal  Generator (mathematics) generator . It is also equal to the cardinality of the maximal set of  linear independence linearly independent   vector s of that space. "Normal" objects in everyday life are specified by three dimenensions, which are usually called  length ,  width  and  depth . Mathematicians call this concept  Euclidean space .
+
+Dimensions can be used to measure  position  too. The  distance  to a position from a  start ing place can be measured in the length, width and height  direction s. These distances are a measure of the position.
+
+Sometimes a fourth ( 4D ) dimension,  time , is used to show the  position  of an  event  in  time  and  Space (physics) space .
+
+ Other Dimensions 
+In  modern   science , people use other dimensions.
+
+Dimensions like  temperature  and  weight  can be used to show the position of something in less simple  Space (physics) spaces .
+
+ Mathematician s also use dimensions. In mathematics, dimensions are more general. Dimensions in mathematics might not measure things in the  world . The  rule s for doing  arithmetic  with dimensions in mathematics might be different than usual arithmetic rules.
+
+ Dimensions and vectors 
+ Vector s are used to show distances and directions. Vectors are often used in  engineering  and  science , and sometimes in   mathematics .
+
+A vector is a list of  number s. There is one number for each dimension. There are arithmetic rules for vectors.
+
+For example, if Jane wants to know the position of Sally, Sally can give Jane a vector to show the position. If Jane and Sally are in the world, there are three dimensions. Therefore, Sally gives Jane a list of three numbers to show her position. The three numbers in the vector Sally gives Jane might be:
+  Sally's distance north of Jane
+  Sally's distance east of Jane
+  Sally's height above Jane
+
+ Category:Geometry 
+ Category:Algebra

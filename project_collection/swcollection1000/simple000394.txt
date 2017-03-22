@@ -1,0 +1,23 @@
+Probability
+
+File:Galton Box.svg thumb|In a  bean machine  or Galton box most balls end up close to the center. In the long run, they will show a  normal distribution 
+ Probability  is a part of  mathematics . It has to do with chance, the study of things that might happen or might not happen. 
+
+For example, using probability, you can show that if you throw a coin up in the air and let it land, half of the time it will land with one side facing up, and half the time with the other side facing up. Many coins have a picture of the face of a famous person on one side, and something else on the other side. Often people call the side with the face "heads", and the other side "tails".
+
+ The probability (p) of an event is always between zero (impossible) and one (certain). 
+
+If we roll a  dice die  ( plural :  dice ), then the chance that it will land on 1 is 1/6 (This is because there are 6 numbers on a die). Also, the chance it will land on 2 is 1/6. This is because it can land on 1, 2, 3, 4, 5, or 6. 
+The chance of any number between 1 and 6 landing is 1. Every time we roll the die, it will always land on a number between 1 and 6.
+
+Probability can be figured out using  mathematics . For example if you roll six dice, the chance of you getting a number more than ten is not obvious, but can be figured out using math and science.
+
+One of the most interesting things about chance is that to figure out the probability that two things will both happen you multiply their two probabilities together. For instance, suppose that you want to know the probability of rolling two dice and getting a certain combination (it could be two 6s or a 3 then a 5, just any two). The possibility of getting a 3 is one in six ( 1/6 ) and the possibility of getting a 5 is also one in six, so the chances of getting a 3 then a 5 is  1/6 x 1/6 = 1/36. If that number is expressed as somewhere between 0 and 1, it equals 0.027...7, which is fairly low. The possibility of getting a 3, then a 5, and then a 2 would be  1/6 x 1/6 x 1/6 = 1/216 or 0.00463, which is a much lower probability.Possible event is 1, whereas impossible event is 0.
+
+  Ideas of probablity  
+People like  Jacob Bernoulli ,  Pierre-Simon Laplace , or  Christiaan Huygens  used the word probability, as described above. Other people thought about frequencies; ther notion of probability is usually called  Frequency probability .
+
+  Other pages  
+   List of mathematics topics 
+
+ Category:Mathematics

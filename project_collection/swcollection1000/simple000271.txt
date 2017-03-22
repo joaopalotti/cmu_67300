@@ -1,0 +1,16 @@
+Leap year
+
+A  leap year  is a  year  in which an extra  day  is added to the  Gregorian calendar , which is used by most of the world. While an ordinary year has 365  day s, a leap year has 366 days. The extra day,  February 29 , is added to the  month  of  February . In an ordinary year, February has 28 days, but in a leap year, it has 29 days. The extra 29th day, called a leap day, is the same day of the week as the first day of the month,  February 1 . Also, in a leap year, the months of  January ,  April , and  July  all start on the same day of the week.
+
+A leap year comes once every four years. Because of this, a leap year can always be evenly  Division (mathematics) divided  by four. For example,  2012  was a leap year. But a year is not a leap year if it can be evenly divided by 100 but cannot also be evenly divided by 400. This is why  1600 ,  2000 , and  2400  are leap years, but  1700 ,  1800 , and  1900  were not.
+
+We have leap years because instead of 365 days, the  Earth  really takes a few minutes less than 365-1/4 days (365.24219) to go completely around the  Sun . Without leap years, the  season s would start one day earlier on the calendar every four years. After 360 years, spring (which usually begins on March 21) would begin on December 21 (which is when winter presently begins).
+
+A number of countries use a  lunar calendar  (based on the  moon , instead of the  Sun , like our  solar calendar  is). They have leap years when they add an extra lunar month. Different calendars add the extra month in different ways.
+
+ Related pages 
+   February 29 
+   Common year 
+   Century leap year 
+
+ Category:Years

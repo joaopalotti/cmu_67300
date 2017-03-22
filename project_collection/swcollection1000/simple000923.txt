@@ -1,0 +1,22 @@
+Asteroid belt
+
+wiktionary 
+The  asteroid belt  or  main belt  is a ring of small and large rocks and dust between the  orbit s of  Mars (planet) Mars  and  Jupiter (planet) Jupiter . The biggest object in the asteroid belt is  Ceres(planet) Ceres , a  dwarf planet . The  Kirkwood gap s separate the asteroid belt into several groups.
+
+Most asteroids orbit at 2 to 3 times the distance between Earth and the Sun. Planets that are "inside" - or before - the asteroid belt (which means they are closer to the sun) are called  inner planets.  Planets that are "outside" - that is, after - the asteroid belt are called  outer planets : so  Mercury (planet) Mercury ,  Venus ,  Earth , and  Mars  are  inner planets,  while  Jupiter ,  Saturn (planet) Saturn ,  Uranus  and  Neptune  are the  outer planets. 
+
+  Origin  
+In 1802, shortly after discovering  2 Pallas ,  Heinrich Olbers  suggested to  William Herschel  that  Ceres  and  Pallas  were fragments of a much larger planet that once occupied the Mars-Jupiter region, this planet having suffered an internal explosion or a cometary impact many million years before. ref cite web title A brief history of asteroid spotting work Open2.net url http://www.open2.net/sciencetechnologynature/planetsbeyond/asteroids/history.html accessdate 2007-05-15 ref  This  hypothesis  has fallen from favor. The large amount of energy needed to destroy a planet, and with the belt's low combined mass (only about 4% of the mass of the  Moon ) do not support the hypothesis. Also, the significant chemical differences between the asteroids are difficult to explain if they come from the same planet. ref cite web  author Masetti, M.; and Mukai, K.  date  2005  url http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/980810a.html  title Origin of the Asteroid Belt  publisher NASA Goddard Spaceflight Center  accessdate 2007-04-25 ref  Today, most scientists accept that the asteroids never formed a planet at all.
+
+In general, the  formation and evolution of the Solar System  happened when a cloud of interstellar dust and gas collapsed under the influence of  gravity  to form the Sun and  planetesimal s, and eventually the planets. ref cite web  last   Watanabe  first   Susan  date   2001  url  http://www.jpl.nasa.gov/news/features.cfm?feature=520  title  Mysteries of the Solar Nebula  publisher   NASA  accessdate   2007-04-02 ref  This gravitational accretion led to the formation of the rocky planets and the  gas giant s.
+
+ Planetesimal s in the region which would become the asteroid belt were too strongly disturbed by Jupiter's gravity to form a planet. Instead they continued to orbit the Sun as before, while occasionally colliding. ref name icarus153 cite journal  author Petit, J.-M.; Morbidelli, A.; and Chambers, J.  title The primordial excitation and clearing of the Asteroid Belt  journal Icarus  year 2001  volume 153  issue 2  pages 338-347  url http://www.gps.caltech.edu/classes/ge133/reading/asteroids.pdf  format PDF  accessdate 2007-03-22    doi   10.1006/icar.2001.6702  bibcode 2001Icar..153..338P  archiveurl   http://web.archive.org/web/20070221085835/http://www.gps.caltech.edu/classes/ge133/reading/asteroids.pdf  archivedate  21 February 2007   deadurl  no ref  In regions where the velocity of the collisions was too high, the shattering of planetesimals was more common than accretion, ref cite journal  author Edgar, R.; and Artymowicz, P.  title Pumping of a planetesimal disc by a rapidly migrating planet  journal Monthly Notices of the Royal Astronomical Society  year 2004  volume 354  issue    pages 769-772  url http://www.astro.su.se/~pawel/edgar+artymowicz.pdf  format PDF  accessdate 2007-04-16    doi   10.1111/j.1365-2966.2004.08238.x  bibcode 2004MNRAS.354..769E arxiv   astro-ph/0409017  ref  preventing the formation of planet-sized bodies. 
+
+ Commons category Main Belt asteroids 
+
+  References  
+ reflist 
+
+ Solar System 
+
+ Category:Asteroids

@@ -1,0 +1,45 @@
+Mile
+
+A  mile  is a unit of length. There are many different kinds of mile but  mile  on its own usually means the  statute  mile.  
+
+ Statute mile  
+In the  United States US  and the  United Kingdom UK  the word  mile  usually means the statute mile. 
+
+ class wikitable   Foot (unit) Feet     Yard     Chain (unit) Chain     Furlong    Mile   Kilometre Kilometres 
+  5,280   1,760   80   8   1   1.609344
+ 
+
+ Nautical mile 
+The nautical mile is used for sea or air travel. 
+
+The nautical mile was originally defined as one minute of arc along a line of  longitude  of the Earth.  There are 60 minutes of arc in one degree or arc (60' = 1deg). So there were 10,800 nautical miles from the North Pole to the South Pole.
+
+Now the nautical mile is defined as 1,852  metre s.
+
+ {|
+|-
+|1 nautical mile||= 1,852  metre s (by definition)
+|-
+|||[?]  formatnum: #expr:1852/0.3048round0  feet
+|-
+|||[?]  #expr:1.852/1.609344round3  statute miles
+|}
+The speed of a ship that travels one nautical mile in one hour is called one  Knot (speed) knot 
+ Roman mile 
+The mile was first used by the  Ancient Rome Roman s.  It comes from the  Latin  phrase  mille passus  (plural:  milia passuum ).  This means "one thousand paces". A pace is the distance each foot moves when taking one step.
+
+ {|
+|-
+|1 Roman mile||= 1,000 Roman paces (by definition)
+|-
+|||[?] 1,479 metres
+|-
+|||[?] 4,852 feet
+|}
+
+ Other miles 
+Different miles have been used throughout history in various parts of the world. In Norway and Sweden, for example, a mil is a unit of length which is equal to 10 kilometres.
+
+ math-stub 
+ Category:Imperial units 
+ Category:Units of length 

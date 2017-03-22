@@ -1,0 +1,33 @@
+Server
+
+File:Server Linux.jpg thumb|180px|A stack of servers 
+ A server is also a person who serves, like a  waiter  at a restaurant or in a hotel 
+  
+In  net jargon , a  server  is a  computer  that serves many things to  :wikt:user user , or  client  machines. Usually a server will only do a few things. Every type of thing a server does is called a service. Services are used by other computers that are called clients. The relationship between the client and the server is called a  client-server  relationship. For example, Wikipedia has a web server which has a service for sending web pages over the Internet. Your client computer talks to the Wikipedia's web page service to get web pages for you. A server can also host internet games and allow file sharing. In simple words, the individual computers are connected to some powerful computers called servers. These store files and information in the form of website. These files can be accessed by different users anywhere from the world using an internet connection.
+
+So that servers and clients can talk to each other, they need to be connected to a  computer network network , and they need to use the same  protocol . In networks, a protocol is a set way for machines to talk to other machines. It is just like a language. For example, the Wikipedia server runs the  HTTP  ( H yper t ext  T ransfer  P rotocol) to send  web site s to your  computer , and your computer uses the HTTP Protocol to ask Wikipedia for pages.
+
+Usually, servers are specially made to be more powerful and reliable, and they are much more expensive than normal computers. Sometimes, servers can be clustered, which means that lots of servers work together to do one service.
+
+The server might slow down if there are too many people accessing the server at the same time, resulting in a high load. It might also be unable to take the high load, so it will automatically shut down.
+
+In a  peer-to-peer  system, every computer is both a client and a server to each other. This is commonly put into  file sharing  and  VOIP . However, this can help in attempts at  copyright infringement piracy .
+Many game servers use a large server for players to store their gaming data and can access them anytime with an internet connection. 
+
+Typical server operating systems are  Linux ,  FreeBSD ,  NetBSD , and  OpenBSD . Unlike other computers, a server often has no monitor, keyboard, or mouse. When a server doesn't have to do very much, server software can run on a computer that is also doing other things.
+
+ Web server 
+
+A  web server  is a type of server that is used to  host   website s. Some examples of web servers are  Apache HTTP Server Apache  or  Internet information services IIS . A web server can have one, or many, websites that it hosts. The  default   port_(networking) port  for a web server to  listen  to is port 80 ( HTTP ) or 443 ( HTTPS ).
+
+Web servers have different things they can do more than just serving a web page. For example, some web servers have something called  Server side include SSI  that makes  build ing a website easier.
+
+Web servers use  service s like  Common gateway interface CGI  to let  software  on the server make web pages. Some of the  programming language s that can use CGI are  scripting  languages like  Perl ,  Python ,  PHP , or  ASP . Some are  compile d languages like  C++  or  Java .
+
+  Related pages   
+ File server 
+
+ tech-stub 
+
+ Category:Internet 
+ Category:Servers

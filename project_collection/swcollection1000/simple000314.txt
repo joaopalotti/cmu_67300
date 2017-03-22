@@ -1,0 +1,11 @@
+Help:Minor change
+
+shortcut WP:MINOR 
+
+A  minor change  on Simple Wikipedia means that the changes you make to an article are very small and no one would argue with them.  For example, fixing  grammar  or  spelling  would be a small change. Any change to an article that changes its meaning is not a small change. Any change to the information, pictures, or other things in the article is  not  small, and should not be marked as small. For example, adding simple  wikt:format formatting , fixing  mw:Help:Links wikilinks , and removing  WP:VANDAL vandalism  are small changes. Writing a comment on a talk page is not a small change.
+
+To mark something as a small change, tick the box beside the text saying "This is a minor change". This will help other editors know that it is not a big change if they are looking for something. 
+
+ Category:Help 
+
+ fr:Aide:Toujours commenter vos modifications dans la boite de resume#Modification mineure

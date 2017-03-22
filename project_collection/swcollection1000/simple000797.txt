@@ -1,0 +1,37 @@
+Developmental biology
+
+File:Views of a Foetus in the Womb.jpg thumb|right|250px|"Views of a Fetus in the Womb",  Leonardo da Vinci , ca. 1510-1512. The subject of prenatal development is a major subset of developmental biology. 
+
+ Developmental biology  is the study of the process by which organisms grow and develop. 
+
+Modern developmental biology studies the  genome  genetic  control of  cell growth ,  cellular differentiation differentiation  and  morphogenesis . ref Morphogenesis gives rise to  tissue (biology) tissue s,  organ (anatomy) organ s and  anatomy . ref  These are the  process es which turn a  zygote  into an adult animal.
+
+  Cell differentiation  
+ Cellular differentiation Differentiation  is the formation of cell types, from what is originally one cell - the  zygote  or  spore . The formation of cell types like  nerve cell s occurs with a number of intermediary, less differentiated cell types. A cell stays a certain cell type by maintaining a particular pattern of  gene expression . ref name Lewis cite book   title Principles of development  edition 2nd  author Wolpert, Lewis; Beddington R, Jessell T, Lawrence P, Meyerowitz E, Smith J  year 2002  pages  publisher Oxford University Press  isbn 0-19-879291-3 ref sup 293-5 sup  This depends on regulatory genes.
+
+  Embryonic development  
+ File:HumanEmbryogenesis.svg thumb|270px|The initial stages of human embryogenesis. 
+ Embryogenesis  is the step in the  life cycle  after  fertilisation  - the development of the  embryo , starting from the  zygote  (fertilised egg). Organisms can differ drastically in the how embryo develops, especially when they belong to different  phylum phyla . 
+
+  Growth  
+Growth is the enlargement of a tissue or organism. Growth continues after the embryonic stage, and occurs through  cell division , enlargement of cells or accumulation of extracellular material. In plants, growth results in an adult organism that is strikingly different from the embryo. The dividing cells tend to be distinct from differentiated cells (see  stem cell ). 
+
+In some tissues dividing cells are restricted to special areas, such as the  growth plate s of  bone s. ref name Lewis sup 467-482 sup  But some stem cells move to where they are needed, from the  bone marrow  to form muscle, bone or adipose (fat) tissue. ref name stem cite journal  title Concise review: mesenchymal stem cells: their phenotype, differentiation capacity, immunological features, and potential for homing  journal Stem Cells  volume 25  issue 11  pages 2739-49  year 2007  month November  pmid 17656645  doi 10.1634/stemcells.2007-0197  author1 Chamberlain G  author2 Fox J  author3 Ashton B  author4 Middleton J  author-separator , ref 
+
+  Metamorphosis  
+ File:Frog lifecycle.jpg thumb| Frog  lifecycle 
+
+Many animals have a  larva l stage, with a body plan different from that of the adult organism. The larva abrubtly develops into an adult in a process called  metamorphosis . For example,  caterpillar s (butterfly larvae) are specialized for feeding whereas adult butterflies ( imago s) are specialised for flight and reproduction. When the caterpillar has grown enough, it turns into an immobile  pupa . Here, the imago develops from  imaginal disc s found inside the larva. ref name Gilbert cite book   title Developmental biology  edition 7th  author Gilbert SF  year 2003  pages  publisher Sinauer  isbn 0-87893-258-5 ref sup 575-585 sup 
+
+  Regeneration  
+ Regeneration  is the reactivation of development so that a missing body part grows back. This phenomenon has been studied particularly in  salamander s, where the adults can reconstruct a whole limb after it has been amputated. ref name Gilbert  Researchers hope to one day be able to induce regeneration in humans. ref cite journal  author Stocum DL  title Development. A tail of transdifferentiation  journal Science  volume 298  issue 5600  pages 1901-3  year 2002  month December  pmid 12471238  doi 10.1126/science.1079853 ref  There is little spontaneous regeneration in adult humans, although the  liver  is a notable exception. Like for salamanders, the regeneration of the liver involves reversing some cells to an earlier state. ref name Gilbert cite book   title Developmental biology  edition 7th  author Gilbert SF  year 2003  pages  publisher Sinauer  isbn 0-87893-258-5 ref sup 592-601 sup 
+
+  Related pages  
+ Evolutionary developmental biology 
+
+  References  
+ Reflist 
+
+
+
+ Category:Developmental biology  

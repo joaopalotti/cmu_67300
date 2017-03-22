@@ -1,0 +1,33 @@
+Paradox
+
+Image:Boyle'sSelfFlowingFlask.png thumb| Robert Boyle 's self-flowing flask fills itself in this picture, but  Perpetual motion perpetual motion machines  cannot exist. 
+ File:Pinocchio paradox.jpg thumb|The  Pinocchio paradox  is a variant of the  Liar paradox 
+
+A  paradox  is a sentence in  logic  that cannot be  true  but also cannot be  false .  Many famous problems of this kind exist.
+
+One of most famous paradoxes is called the  liar's paradox .  It is the  simple sentence  "This sentence is a  lying lie ."
+
+If the sentence is true, then it is a lie, as it says.  But if it is a lie, how can it be true?  A lie cannot also be the  truth .  So the sentence being true makes it a lie.
+
+If the sentence is a lie, then it is not as it says, it is true.  But that is just what the sentence says.  So that makes it true.  So the sentence being a lie makes it true.
+
+This paradox is not just true in English but in any language powerful enough for a sentence to make a claim about itself.  This is true of  mathematics  as well.  Paradox can never be removed from any  symbol  system that makes claims about itself.
+
+Another example is the statement that "there is no cabal".  Only a  cabal  can know if there is no cabal, so this is either a guess, or, it is a cabal trying to pretend it does not exist.
+
+Other famous examples:
+
+ Xeno's paradox  of  motion (physics) motion 
+ Simpson's paradox  in  statistics 
+
+A paradox can also arise in  ethics .  Taking  Influence power  over others is often also required to protect them, but also, one of the things being protected is their ability to do as they please, which this power interferes with.  There is another article on  ethical dilemma  which means "a paradox arising in ethics".
+
+Because a paradox forces us to think "out of the box", about possibilities other than true or false in  logic , right or wrong in  morality , it is considered very important in  education .  People who do not see a paradox where others do, are likely to be too  wikt:Certain certain  they are right.
+
+ Other pages 
+ Irony 
+ Oxymoron 
+ Buttered cat paradox 
+
+
+ Category:Logical paradoxes  

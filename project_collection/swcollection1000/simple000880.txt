@@ -1,0 +1,343 @@
+Poland
+
+Infobox country
+ conventional_long_name   Republic of Poland
+ native_name    native name pl Rzeczpospolita Polska icon no   Ref label a a none 
+ common_name   Poland
+ flag_border   Flag of Poland (normative).svg
+ image_flag   Flag of Poland.svg
+ image_coat   Herb Polski.svg
+ image_map   EU-Poland.svg
+ map_caption    map_caption  location_color dark green  region Europe  region_color dark grey  subregion the  European Union   subregion_color green  legend Location Poland EU Europe.png 
+ national_anthem  center Poland Is Not Yet Lost Mazurek Dabrowskiego br small Poland Is Not Yet Lost center 
+ languages_type    Official language 
+ languages    Polish language Polish ref wikisource:en:Constitution of the Republic of Poland/Chapter 1 Constitution of the Republic of Poland , Article 27. ref 
+ languages2_type    Languages of Poland Regional language 
+ languages2    Kashubian language Kashubian 
+ capital    Warsaw 
+ latd 52  latm 13  latNS N  longd 21  longm 02  longEW E
+ largest_city   capital
+ ethnic_groups  
+  unbulleted list
+    93.52%  Poles Polish 
+    1.09%  Silesians Silesian 
+    0.13%  German minority in Poland German 
+    0.10%  Belarusian minority in Poland Belarusian 	
+    0.09%  Ukrainians in Poland Ukrainian 
+    0.04%  Kashubians Kashubian 
+    0.03%  Romani people Romani 
+    0.02%  Lemkos Lemko 
+    4.86% other
+  
+ ethnic_groups_year   2011
+ demonym    hlist  List of Polish people Polish Poles Pole 
+ government_type    Parliamentary republic 
+ leader_title1    President of Poland President 
+ leader_name1    nowrap Andrzej Duda 
+ leader_title2    Prime Minister of Poland Prime Minister 
+ leader_name2    Beata Szydlo 
+ legislature    National Assembly (Poland) National Assembly 
+ upper_house    Senate of Poland Senate 
+ lower_house    Sejm 
+ accessionEUdate   1 May 2004
+ EUseats   54
+ area_rank   71st
+ area_magnitude   1 E11
+ area_km2   312679
+ area_sq_mi   120,696.41  
+ area_footnote    ref label a a 
+ percent_water   3.07
+ population_estimate  38,483,957  ref Central Statistical Office data  http://demografia.stat.gov.pl/bazademografia/Tables.aspx ref 
+ population_estimate_rank   34th
+ population_estimate_year   30 June 2014
+ population_census   38,511,824 ref National Census 2011  http://stat.gov.pl/spisy-powszechne/nsp-2011/wyniki-spisu-nsp-2011 ref 
+ population_census_rank   34th
+ population_census_year   2011
+ population_density_km2   123
+ population_density_sq_mi   319.9  
+ population_density_rank   83rd
+ GDP_PPP_year   2015
+ GDP_PPP   $1.004 trillion ref name imf-gdp cite web title 5. Report for Selected Countries and Subjects url http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?pr.x=64&pr.y=5&sy=2014&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=964&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= publisher International Monetary Fund accessdate October 2015 ref 
+ GDP_PPP_rank   21st
+ GDP_PPP_per_capita   $26,402
+ GDP_PPP_per_capita_rank   49th
+ GDP_nominal_year   2015
+ GDP_nominal   $481.235 billion ref name imf-gdp 
+ GDP_nominal_rank   23rd
+ GDP_nominal_per_capita   $12,662
+ GDP_nominal_per_capita_rank   54th
+ Gini_year   2013
+ Gini_change   increase  
+ Gini   32.73  
+ Gini_ref    ref name UNDP cite web title Human Development Indicators of Poland url http://hdr.undp.org/en/countries/profiles/POL website UNITED NATIONS DEVELOPMENT PROGRAMME accessdate 10 May 2015 ref 
+ Gini_rank   
+ HDI_year   2013 
+ HDI_change    
+ HDI   0.834  
+ HDI_ref    ref name HDI cite web  url http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf   title 2014 Human Development Report Summary  date 2014  accessdate 27 July 2014  publisher United Nations Development Programme   pages 21-25 ref 
+ HDI_rank   35th
+ sovereignty_type   Formation
+ established_event1    Baptism of Poland Christianization ref label b b 
+ established_date1   14 April 966
+ established_event3    Kingdom of Poland (1025-1385) Kingdom of Poland 
+ established_date3   18 April 1025
+ established_event4    Polish-Lithuanian Commonwealth 
+ established_date4   1 July 1569
+ established_event5    Partitions of Poland Partition of Poland 
+ established_date5   24 October 1795
+ established_event6    Duchy of Warsaw 
+ established_date6   22 July 1807
+ established_event7    Congress Poland 
+ established_date7   9 June 1815
+ established_event8    History of Poland (1918-39) Reconstitution of Poland 
+ established_date8   11 November 1918
+ established_event9    Invasion of Poland , World War II
+ established_date9   1 September 1939
+ established_event10    People's Republic of Poland Communist Poland 
+ established_date10   8 April 1945
+ established_event11    History of Poland (1989-present) Republic of Poland 
+ established_date11   13 September 1989
+ established_event12    2004 enlargement of the European Union Joined  the  European Union 
+ established_date12   1 May 2004
+ currency    Polish zloty Zloty 
+ currency_code   PLN
+ time_zone    Central European Time CET 
+ utc_offset   +1
+ time_zone_DST    Central European Summer Time CEST 
+ utc_offset_DST   +2
+ drives_on   right
+ calling_code    Telephone numbers in Poland 48 
+ cctld    .pl 
+ footnote_a    note a a  The area of Poland, as given by the Central Statistical Office, is  convert 312679 km2 sqmi abbr on , of which  convert 311888 km2 sqmi abbr on  is land and  convert 791 km2 sqmi abbr on  is internal water surface area. ref name CSO_2008 
+ footnote_b    note b b  The adoption of Christianity in Poland is seen by many Poles, regardless of their religious affiliation or lack thereof, as one of the most significant events in their country's history, as it was used to unify the tribes in the region. ref cite book url https://books.google.com/books?id=39SoSG4NGAoC&pg=PA77&lpg=PA77&dq=poland%27s+millennium&sig=uQ-qK9oxqMuHmVvZJj8lszrm1   title Disruptive Religion: The Force of Faith in Social-movement Activism  work Books.google.com  date   accessdate 9 September 2013 ref 
+
+ Poland  is a country in  Central Europe . ref name unee cite web url http://unstats.un.org/unsd/methods/m49/m49regin.htm#europe title Standard Country and Area Codes Classifications (M49) accessdate 17 April 2014 publisher United Nations Organization date 1 April 2010 author UN Statistics Division ref  It is on the east of  Germany   (along  Oder  and  Lusatian Neisse ). The  Czech Republic  and  Slovakia  are to the south,  Ukraine  and  Belarus  to the east, and the  Baltic Sea ,  Lithuania , and  Russia  to the north. The total land area of Poland is about 312,679 km sup 2 sup ref name CIAWFBook CIA World Factbook link pl Poland ref  (120,728 mi sup 2 sup ), slightly larger than Oman. This makes Poland the 77th largest country  ref name CIAWFBook  in the world with over 38.5 million people. Most Polish people live in large cities, including the capital,  Warsaw  ( Polish language Polish :  Warszawa ),  Lodz ,  Krakow Cracow  ( Polish language Polish :  Krakow ), the second capital of Poland (first was  Gniezno ),  Szczecin ,  Gdansk ,  Wroclaw  and  Poznan .
+
+The word "Poland" was written officially for the first time in 966. In 1569, Poland formed a strong union with Lithuania called the  Polish-Lithuanian Commonwealth . At some point in its history, it was the largest  state  in Europe and became very influential. Much of the territory that now makes up Central European states used to belong to that Commonwealth. Eventually, after a slow decline, the Commonwealth  Partitions of Poland collapsed  in 1795. Poland regained its  independence  in 1918 after  World War I . In 1921, Poland defeated Soviet Russia in the  Polish-Soviet War  that started in 1919.
+
+However, Poland lost independence again not long after the beginning of  World War II , after suffering a defeat by both the  USSR  and  Nazi Germany . Although the government collapsed, the Polish people fought on by forming the largest and most effective resistance movement in Nazi-occupied Europe. It is most notable for disrupting German supply lines to the Eastern Front of WWII, providing military intelligence to the  United Kingdom British , and for saving more  Jews Jewish  lives in the  Holocaust  than any other  Allies of World War II Allied  organization or government. After the war, Poland regained "independence" and became a  People's Republic of Poland communist country  within the  Eastern Bloc . The new government was appointed by  Joseph Stalin  and was under the control of the  Soviet Union .
+
+In 1989, Poland ceased being a communist country and became a  liberal democracy . Its change of government was the first in a series of events that led to the states of Eastern and Central Europe regaining their  independence  and the fall of the USSR in 1991. After the  democratic consolidation , Poland joined the  European Union  on 1 May 2004. Poland is also a member of  NATO , the  United Nations , and the  World Trade Organization .
+
+  History  
+ main History of Poland 
+  Before Piasts  
+The first sign of humans in Polish lands was 500,000 years ago. The  Bronze Age  started around 2400-2300  BC . The  Iron Age  started around 750-700  BC . At that time the Polish lands were under the influence of the  Lusatian culture . About 400 BC  Celts Celtic  and  Germanic people Germanic  tribes lived there. Those people had trade contacts with the  Roman Empire .
+
+Over time,  Slavs  came to Polish lands. Some of those Slavs, now commonly referred to as Western Slavs (though in reality a diverse group of tribes with shared ethnic and cultural features), stayed there and started to create new nations. The most powerful tribe was called the  Polans , who united all of the other Slavic tribes living there, and this is where the name "Poland" comes from.
+
+  Piast and Jagiellon dynasties  
+ File:Poland1020.png thumb|left|Poland around 1020 
+Poland began to form into a country around the middle of the  10th century  in the  Piast dynasty . In 966, Prince  Mieszko I  became a  Christian , and so the Polish people also became Christians. The next king was  Boleslaw I of Poland  (called Boleslaw the Brave). He conquered many lands and he became the first King of Poland.  Casimir I of Poland  changed the Polish capital from  Gniezno  to  Krakow . In the 12th century Poland broke into some smaller  states  after the death of King  Boleslaw III Wrymouth  in  1138  because of his  will (law) will . Those states were later attacked by  Mongol  armies in  1241 , which slowed down the unification of the small states into the big country of Poland. This happened eighty years later, in  1320 , when  Wladyslaw I of Poland Wladyslaw I  became the King of the United Poland. His son  Casimir III  the Great reformed the Polish economy, built new castles and won the war against the  Ruthenian Dukedom . Many people  emigration emigrated  to Poland, becoming a haven for emigrants . A large number of  Jewish  people also moved into Poland during that time. The  Black Death , which affected many parts of  Europe  from  1347  to  1351 , did not come to Poland. ref name REF03 Teeple, J. B. (2002).  Timelines of World History . Publisher: DK Adult. ref 
+
+After the death of the last Piast on the Polish throne,  Casimir III of Poland Casimir III ,  Louis I of Hungary  and his daughter  Jadwiga of Poland  began their rule. She married the  Lithuania n prince  Jogaila . Their marriage started a new dynasty in Poland: the  Jagiellon dynasty . Under the  Jagiellon dynasty , Poland made an alliance with its neighbor  Lithuania .
+
+  Polish-Lithuanian Commonwealth to II Republic of Poland  
+ File:Rzeczpospolita.png thumb|left|180px|The Polish-Lithuanian Union when it was largest. 
+In the 17th century  Sweden  attacked almost all of Poland (this was called "the Deluge"). Many wars against the  Ottoman Empire ,  Russia ,  Cossacks ,  Transylvania  and  Brandenburg-Prussia  ended in  1699 . For the next 80 years, the government and the nation were weak, making Poland dependent on Russia. Russian  tsars  took advantage of this by offering money to dishonest members of the Polish  government , who would block new ideas and solutions.  Russia ,  Prussia , and  Austria  broke Poland into three pieces in  1772 ,  1793  and  1795 , which dissolved the country. Before the second split, a  Constitution  called " The Constitution of 3 May " was made in 1791. The Polish people did not like the new kings, and often rebelled (two big  rebellion s in 1830 ref name REF03  and 1863 fact date April 2009 ).
+ Napoleon  made another Polish state, "the  Duchy of Warsaw ", but after the  Napoleonic wars , Poland was split again by the countries at the  Congress of Vienna . The eastern part was ruled by the Russian tsar. 
+During  World War I  all the  Allies of World War I Allies  agreed to save Poland. Soon after the surrender of Germany in November  1918 , Poland became the  Second Polish Republic  ( II Rzeczpospolita Polska ). It got its freedom after several military conflicts; the largest was in  1919 - 1921   Polish-Soviet War .
+
+  World War II  
+ File:Rzeczpospolita 1922.png thumb|left|Poland 1922-1938 
+On  September 1 ,  1939 ,  World War II  started when  Nazi Germany  attacked Poland. The  Soviet Union  attacked Poland on September 17, 1939.  Warsaw  was defeated on  September 28 , 1939. Poland was split up into two pieces, one half owned by Nazi Germany, the other by the Soviet Union. More than 6 million Polish people died, and half of these people were  Polish Jews Jewish . Most of these deaths were part of the  Holocaust , in which 6 million Jews were killed. At the war's end, Poland's borders were moved west, pushing the eastern border to the  Curzon line . ref In first version of that line western  Ukraine  with  Lviv  may come to Poland ref  The western border was moved to the  Oder-Neisse line . The new Poland became 20% smaller by 77,500 square kilometers (29,900 sq mi). The shift forced millions of Poles, Germans, Ukrainians, and Jews to move.
+
+ clear left 
+  After the war  
+ File:Curzon line en.svg thumb|right|Poland's current boundaries were made after 1945. The grey areas went from Poland to the Soviet Union. The pink areas from Germany to Poland 
+ File:Poland topo.jpg thumb|right|Physical land features of Poland. 
+
+After these events Poland gradually became a  communism communist  country. It was supposedly an independent country.  But in reality the new government was appointed by  Joseph Stalin .  It was also under the control of the  Soviet Union . The country was then renamed the  People's Republic of Poland . There are many Poles in the neighboring countries  Ukraine ,  Belarus , and Lithuania (these three countries were part of the Soviet Union until 1991), as well as in other countries. The most Poles outside of Poland are in the United States, especially in  Chicago . Germany and the  United Kingdom  are also home to a large Polish diaspora. The most recent mass emigration of Poles to western countries began after 1989.
+
+In 1989  Solidarity  - a  trade union  led by  Lech Walesa  - helped defeat the communist government in Poland. Even before that event, Lech Walesa was given a  Nobel Prize  for leading the first non-communist trade union fighting for democracy in the  Eastern Bloc Communist Block . When Communism ended in Poland there were many improvements in human rights, such as  freedom of speech ,  democracy , etc. In 1991 Poland became a member of the  Visegrad Group  and joined  NATO  in 1999 along with the  Czech Republic  and  Hungary . Polish voters then voted to join the  European Union  in a vote in June 2003. The country joined the  EU  on May 1, 2004.
+
+Currently, the Prime Minister is  Ewa Kopacz . On 10 April 2010 the President  Lech Kaczynski  died in a government plane crash in  Smolensk  in  Russia . The president is elected directly by the citizens for a five-year  term . The Prime Minister is appointed by the President and confirmed by the "Sejm". The Sejm is the lower chamber of Parliament  legislature  for the country. It has 460 deputies  elect ed every four years.
+
+  Geography  
+Poland's territory is a  plain  reaching from the  Baltic Sea  in the north to the  Carpathian Mountains  in the south. Within that plain, the land varies from east to west.
+
+The Polish Baltic coast is mostly smooth but has natural  harbor s in the  Tricity Gdansk-Gdynia  region and  Szczecin  in the far northwest. This coast has several  spit s,  dune s and coastal lakes. Coast lakes are former  bay s that have been cut off from the sea. These areas are sometimes called lagoons.  Szczecin Lagoon  is on the western border with  Germany . The  Vistula Lagoon  is on the eastern border with  Kaliningrad , province of  Russia . The longest river in Poland, the  Vistula  river, empties into the  Vistula Lagoon  and also directly into the  Baltic Sea .
+
+The northeastern region is densely wooded, sparsely populated and lacks agricultural and industrial resources. The geographical region has four hilly  district s of  moraine s and lakes created by moraines. These formed during and after the  Pleistocene   ice age . The Masurian Lake District is the largest of the four districts and covers much of northeastern Poland.
+
+Poland has many lakes. In Europe only  Finland  has more lakes. The largest lakes are  Sniardwy  and  Lake Mamry Mamry . In addition to the lake districts in the north, there is also a large number of mountain lakes in the  Tatras Mountains Tatras mountains .
+
+South of the northeastern region is the regions of  Silesia  and  Masovia , which are marked by broad ice age river  valley s. Silesia region has many resources and people.  Coal  is abundant. Lower Silesia has large  copper  mining.  Mazovian Lowland Masovian Plain  is in central Poland. It is in the valleys of three large rivers:  Vistula ,  Bug River Bug  and  Narew .
+
+Further south is the Polish mountain region. These mountains include the  Sudetes  and the  Carpathian Mountains . The highest part of the Carpathians is the Tatra mountains which is along Poland's southern border. The tallest mountain in Poland,  Rysy  at 2,503 m (8,210 ft), is in the  High Tatras .
+
+Poland is made of sixteen  region s known as  voivodeship s ( wojewodztwa , singular -  wojewodztwo ). They are basically created from the country's historical regions, whereas those of the past two decades (till  1998 ) had been focused on and named for separate cities. The new units range in areas from under 10,000 km sup 2 sup  (Opole Voivodeship) to over 35,000 km sup 2 sup  (Masovian Voivodeship). Voivodeships are controlled by voivod governments, and their legislatures are called  voivodeship sejmik s.
+
+The sixteen voivodeships that make up Poland are further divided into  powiat y  (singular  powiat ), second-level units of  Local government administration , which are about the same as to a  county ,  district  or  prefecture  in other countries.
+ valign top 
+ style width:420px; background:transparent;  
+ class wikitable style width:100%; font-size:95%; colspan 2   Voivodeship   rowspan 2  Capital city or cities
+ width 26%   width 29%   Polish language in Polish 
+   Kuyavian-Pomeranian Voivodeship Kuyavia-Pomerania     Kujawsko-Pomorskie 
+ style font-size:90%;   Bydgoszcz /  Torun 
+   Greater Poland Voivodeship Greater Poland     Wielkopolskie   style font-size:90%;   Poznan 
+   Lesser Poland Voivodeship Lesser Poland     Malopolskie   style font-size:90%;   Krakow 
+   Lodz Voivodeship Lodz     Lodzkie   style font-size:90%;   Lodz 
+   Lower Silesian Voivodeship Lower Silesia     Dolnoslaskie   style font-size:90%;   Wroclaw 
+   Lublin Voivodeship Lublin     Lubelskie   style font-size:90%;   Lublin 
+   Lubusz Voivodeship Lubusz     Lubuskie   style font-size:90%;   Gorzow Wielkopolski /  Zielona Gora 
+   Masovian Voivodeship Masovia     Mazowieckie   style font-size:90%;   Warsaw  (National Capital)
+   Opole Voivodeship Opole     Opolskie   style font-size:90%;   Opole 
+   Podlasie Voivodeship Podlasie     Podlaskie   style font-size:90%;   Bialystok 
+   Pomeranian Voivodeship Pomerania     Pomorskie   style font-size:90%;   Gdansk 
+   Silesian Voivodeship Silesia     Slaskie   style font-size:90%;   Katowice 
+   Subcarpathian Voivodeship Subcarpathia     Podkarpackie   style font-size:90%;   Rzeszow 
+   Swietokrzyskie Voivodeship Swietokrzyskie     Swietokrzyskie   style font-size:90%;   Kielce 
+   Warmian-Masurian Voivodeship Warmia-Masuria     Warminsko-Mazurskie 
+ style font-size:90%;   Olsztyn 
+   West Pomeranian Voivodeship West Pomerania     Zachodniopomorskie 
+ style font-size:90%;   Szczecin 
+ 
+ 
+ valign top 
+ File:Wojewodztwa.svg 350px 
+ 
+ 
+
+  Literature  
+ File:Henryk Sienkiewicz 02.jpg thumb|120px| Henryk Sienkiewicz 
+Almost no Polish literature remains before  Christianity Christianisation  in the  10th century . Polish literature was written in the  Latin language  during the  Middle Ages . The  Polish language  was accepted as equal to Latin after the  Renaissance  for literature.
+
+ Jan Kochanowski  was a leading poet of  Renaissance European Renaissance  literature in the  16th century . Other great Polish poets include  Adam Mickiewicz  who wrote  Pan Tadeusz  epic in 1834.
+
+Several Polish novelists have won the Nobel prize.  Henryk Sienkiewicz  won in 19dramatized versions of famous events in Polish history.  Wladyslaw Reymont  won a Nobel prize in 1924. He wrote the novel  Chlopi . Two polish poets won Nobel prize as well. One is  Wislawa Szymborska  (1996) and the second  Czeslaw Milosz  (1980).
+
+ Stanislaw Lem  is a famous  science fiction  author in the modern era. His  Solaris (novel) Solaris  novel was made twice into a feature  Movie film .
+
+  People  
+ main Poles 
+In the past, Poland was inhabited by people from different nations and of different religions (mainly  Roman Catholicism Catholics ,  Eastern Orthodox Church Orthodox  and  Judaism ). This changed after  1939 , because of the  Nazism Nazi   Holocaust  which killed many Polish Jews. After  World War II , the country was changed into a  Communism communist  country, by the  Warsaw Pact  which included most central European countries and Russia  Russia .
+
+Today 38,038,000 people live in Poland (2011). In 2002 96.74% of the population call themselves Polish, while 471,500 people (1.23%) claimed another nationality. 774,900 people (2.03%) did not declare any nationality. Nationalities, or  ethnicity ethnic groups  in Poland are  Silesians ,  Germans  (most in the former  Opole Voivodeship ),  Ukraine Ukrainians ,  Lithuania ns,  Russia ns,  Jew s and  Belarus ians. The  Polish language  is part of the  West Slavs West Slavic  section of the  Slavic languages . It is also the  official language  of Poland.  English language English  and  German language German  are the most common second languages studied and spoken.
+
+In the past few years, Poland's population has gone down because of an increase in  emigrate emigration  and a sharp drop in the birth rate. In  2006 , the census office estimated the total population of Poland at 38,536,869, a very small rise on the 2002 figure of 38,230,080. Since Poland's accession to the  European Union , a large number of Polish people have moved to work in Western European countries like the  United Kingdom  and the  Republic of Ireland . Some organizations state people have left because of high  unemployment  (10.5%) and better opportunities for work somewhere else. In April 2007, the Polish population of the  United Kingdom  had risen to about 300,000 people and estimates predict about 65,000 Polish people living in the  Republic of Ireland . However, in recent years strong growth of Polish economy and increasing value of Polish currency (PLN) makes many Polish immigrants to go back home. In 2007, the number of people leaving the country was lower than people who are coming back. Poland became an attractive place to work for people from other countries (mainly Ukraine).
+
+A Polish minority is still present in neighboring countries of Ukraine, Belarus, and Lithuania, as well as in other countries. The largest number of ethnic Poles outside of the country can be found in the  United States .
+
+  Famous people  
+   Frederic Chopin Fryderyk Chopin , a music composer.
+   Joseph Conrad , born Jozef Teodor Konrad Korzeniowski, an acclaimed author who however wrote in English.
+   Nicolaus Copernicus , an  astronomer  who showed that the  Earth  moves around the  Sun .
+   Marie Curie Maria Sklodowska-Curie  discovered  radium  and  polonium .
+   Anna Jagodzinska , a model
+   Franciszek Kamienski , discovered  mycorrhiza .
+   Michal Kosciuszko , famous rally driver
+   Tadeusz Kosciuszko , an army commander who fought for  United States USA 's and Poland's independence.
+   Joanna Krupa , a model
+   Weronika Ksiazkiewicz , an actress
+   Robert Kubica , a  Formula 1 F1  driver.
+   Stanislaw Lem , a science fiction writer.
+   Adam Malysz , a rally driver, earlier he was a ski-jumper.
+   Pope John Paul II  (earlier Karol Wojtyla). Before he became Pope, he was a  Bishop  in  Krakow .
+   Agnieszka Radwanska , female tennis player
+   Anja Rubik , a model
+   Wislawa Szymborska , a writer
+   Lech Walesa , leader of "Solidarnosc" ("Solidarity"), he helped defeat the communist government in Poland and  USSR  influence in Central and Eastern Europe
+   Caroline Wozniacki Karolina Wozniacka , a female tennis player
+   Robert Lewandowski , a football player
+   Czeslaw Milosz , a poet
+
+  Urban demographics  
+ File:Warsaw - Royal Castle Square.jpg thumb|200px|right| Warsaw , the castle and the cathedral in the background. 
+ File:Lodz manufaktura 01.jpg thumb|200px|right| Lodz , Izrael's Poznanski Factory. 
+
+ File:Wroclaw 1.jpg thumb|200px|right| Wroclaw . 
+ File:Poznan Poland.jpg thumb|200px|right|Old Market square in  Poznan . 
+ File:Gdansk Glowne Miasto.jpg thumb|200px|right|Old town in  Gdansk . 
+ File:Szczecin town hall.jpg thumb|200px|right|Old town in  Szczecin . 
+ File:Torun01CenterWithWall.JPG thumb|200px|right| Torun . 
+ File:Bielsko-Biala Town Hall.jpg thumb|160px|Town Hall in  Bielsko-Biala . 
+
+The lists below show the population count of Poland's largest cities based on  2005  estimates.
+
+ class wikitable bgcolor #DDDDDD   
+   Agglomeration  or  conurbation 
+   Voivodeship 
+  Inhabitants  br (Estimated, 2005)
+ align left   1    Katowice  ( Upper Silesian Industrial Area USIA )   Silesian Voivodeship Silesia   align right   3,487,000 
+ align right   2    Warsaw  (Warszawa)    Masovian Voivodeship Masovia   align right  2,679,000
+ align right   3    Krakow     Lesser Poland Voivodeship Lesser Poland   align right  1,400,000
+ align right   4    Lodz     Lodz Voivodeship Lodz   align right  1,300,000
+ align right   5    Tricity     Pomeranian Voivodeship Pomerania   align right  1,100,000
+ align right   6    Poznan     Greater Poland Voivodeship Greater Poland   align right  1,000,000
+ 
+ class wikitable bgcolor #DDDDDD   
+  City
+   Voivodeship 
+  Inhabitants br May 20 ,  2002 
+  Inhabitants br December 31 ,  2004  
+ align left    1    Warsaw  (Warszawa)    Masovian Voivodeship Masovia   align right   1,671,670   align right   1,692,854 
+ align left    2    Lodz     Lodz Voivodeship Lodz   align right  789,318  align right  774,004
+ align left    3    Krakow     Lesser Poland Voivodeship Lesser Poland   align right  758,544  align right  757,430
+ align right   4    Wroclaw     Lower Silesian Voivodeship Lower Silesia   align right  640,367  align right  636,268
+ align right   5    Poznan     Greater Poland Voivodeship Greater Poland   align right  578,886  align right  570,778
+ align right   6    Gdansk     Pomeranian Voivodeship Pomerania   align right  461,334  align right  459,072
+ align right   7    Szczecin     West Pomeranian Voivodeship Western Pomerania   align right  415,399  align right  411,900
+ align right   8    Bydgoszcz     Kuyavian-Pomeranian Voivodeship Kuyavia-Pomerania   align right  373,804  align right  368,235
+ align right   9    Lublin     Lublin Voivodeship Lublin   align right  357,110  align right  355,998
+ align right  10    Katowice     Silesian Voivodeship Silesia   align right  327,222  align right  319,904
+ align right  11    Bialystok     Podlasie Voivodeship Podlasie   align right  291,383  align right  292,150
+ align right  12    Gdynia     Pomeranian Voivodeship Pomerania   align right  253,458  align right  253,324
+ align right  13    Czestochowa     Silesian Voivodeship Silesia   align right  251,436  align right  248,032
+ align right  14    Sosnowiec     Silesian Voivodeship Silesia   align right  232,622  align right  228,192
+ align right  15    Radom     Masovian Voivodeship Masovia   align right  229,699  align right  227,613
+ align right  16    Kielce     Swietokrzyskie Voivodeship Swietokrzyskie   align right  212,429  align right  209,455
+ align right  17    Torun     Kuyavian-Pomeranian Voivodeship Kuyavia-Pomerania   align right  211,243  align right  208,278
+ align right  18    Gliwice     Silesian Voivodeship Silesia   align right  203,814  align right  200,361  
+ align right  19    Zabrze     Silesian Voivodeship Silesia   align right  195,293  align right  192,546
+ align right  20    Bytom     Silesian Voivodeship Silesia   align right  193,546  align right  189,535
+ align right  21    Bielsko-Biala     Silesian Voivodeship Silesia   align right  178,028  align right  176,987
+ align right  22    Olsztyn     Warmian-Masurian Voivodeship Warmia-Masuria   align right  173,102  align right  174,550
+ align right  23    Rzeszow     Subcarpathian Voivodeship Subcarpathia   align right  160,376  align right  159,020
+ align right  24    Ruda Slaska     Silesian Voivodeship Silesia   align right  150,595  align right  147,403
+ align right  25    Rybnik     Silesian Voivodeship Silesia   align right  142,731  align right  141,755
+ align right  26    Tychy     Silesian Voivodeship Silesia   align right  132,816  align right  131,547
+ align right  27    Dabrowa Gornicza     Silesian Voivodeship Silesia   align right  132,236  align right  130,789
+ align right  28    Opole     Opole Voivodeship Opole   align right  129,946  align right  128,864
+ align right  29    Plock     Masovian Voivodeship Masovia   align right  128,361  align right  127,841
+ align right  30    Elblag     Warmian-Masurian Voivodeship Warmia-Masuria   align right  128,134  align right  127,655
+ align right  31    Walbrzych     Lower Silesian Voivodeship Lower Silesia   align right  130,268  align right  127,566
+ align right  32    Gorzow Wielkopolski     Lubusz Voivodeship Lubusz   align right  125,914  align right  125,578
+ align right  33    Wloclawek      Kuyavian-Pomeranian Voivodeship Kuyavia-Pomerania   align right  121,229  align right  120,369
+ align right  34    Tarnow     Lesser Poland Voivodeship Lesser Poland   align right  119,913  align right  118,267
+ align right  35    Zielona Gora     Lubusz Voivodeship Lubusz   align right  118,293  align right  118,516
+ align right  36    Chorzow     Silesian Voivodeship Silesia   align right  117,430  align right  115,241
+ align right  37    Kalisz     Greater Poland Voivodeship Greater Poland   align right  109,498  align right  108,792
+ align right  38    Koszalin     West Pomeranian Voivodeship Western Pomerania   align right  108,709  align right  107,773
+ align right  39    Legnica     Lower Silesian Voivodeship Lower Silesia   align right  107,100  align right  106,143
+ align right  40    Slupsk     Pomeranian Voivodeship Pomerania   align right  100,376  align right  99,827
+ align right  41    Grudziadz     Kuyavian-Pomeranian Voivodeship Kuyavia-Pomerania   align right  99,943  align right  98,757
+ align right  42    Jaworzno     Silesian Voivodeship Silesia   align right  98,780  align right  96,600
+ 
+
+  Other pages  
+ List of rivers of Poland 
+ Poland at the Olympics 
+ Poland national football team 
+
+  References  
+ reflist refs 
+
+ ref name CSO_2008 cite web title Concise Statistical Yearbook of Poland, 2008 publisher Central Statistical Office (Poland) date 28 July 2008 url http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_maly_rocznik_statystyczny_2008.pdf format PDF accessdate 2008-08-12 ref 
+ 
+
+  Other websites  
+ sisterlinks Poland 
+   http://www.pot.gov.pl:80/potgov_front_page Tourist information portal 
+   http://www.poland.gov.pl/ Poland.gov.pl - Polish national portal 
+   http://www.msz.gov.pl/ Ministry of Foreign Affairs 
+   https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html Poland at the World Factbook 
+   http://www.state.gov/r/pa/ei/bgn/2875.htm Background Note: Poland 
+   http://wiki.worldflicks.org/poland.html WorldFlicks in Poland: photos and interesting places on Google Maps 
+
+ Europe 
+ European Union 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:Poland   
+ Category:European Union member states

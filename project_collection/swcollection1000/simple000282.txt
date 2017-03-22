@@ -1,0 +1,31 @@
+Linear algebra
+
+Linear algebra  is a branch of  mathematics . It came from  mathematicians  trying to solve systems of  linear equation s.  Vectors  and  matrix matrices  are used to solve these systems. The main objects of study currently are  vector space s and  linear mapping s between vector spaces. Linear algebra is useful in other branches of mathematics (e.g.  differential equations  and  analytic geometry ). It can also be applied to the real world in areas such as  engineering ,  physics  and  economics .
+
+Linear  algebra  describes ways to  wikt:solve solve  and manipulate (rearrange) systems of linear  equation s.
+
+For example, consider the following equations:
+
+ math \begin{matrix}
+ x &+& y &=& 0 \\
+ x &-& 2y &=& 3
+\end{matrix} math 
+
+These two equations form a system of linear equations.
+It is linear because none of the  variable s are raised to a  exponentiation power .
+The  graph  of a  linear  equation in two variables is a  straight   line .
+The solution to this system is:
+
+ math \begin{matrix}
+ x &=& 1 \\
+ y &=& -1
+\end{matrix} math 
+
+since it makes all of the original equations valid, that is, the  value  on left side of the  equals sign  is exactly the same as the value on the right side for both equations.
+
+Linear algebra uses a system of notation for describing system behavior, called a  matrix (mathematics) matrix . For the previous example, the  coefficient s of the equations can be stored in a coefficient matrix.
+
+
+ Math-stub 
+
+ Category:Linear algebra  

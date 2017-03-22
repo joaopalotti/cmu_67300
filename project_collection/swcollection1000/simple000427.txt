@@ -1,0 +1,43 @@
+Sound
+
+unsimple date July 2012 
+ Sound can also mean a body of  water , like a  bay  or  Canal channel . 
+
+We can define a sound wave as a disturbance which travels through some medium.
+ Sound  is the term to describe what is  hearing heard  when sound  wave (physics) waves  pass through a  Media medium  to the  ear . All sounds are made by  vibration s of molecules through which the sound travels. For instance, when a  drum  or a  cymbal  is struck, the object  vibration vibrates . These vibrations make  air   molecule s move. Sound waves move away from their source (where they came from), traveling on the  air   molecule s. When the vibrating air molecules reach our  ear s, the  eardrum  vibrates, too. The bones of the ear vibrate in the same way that of the object that started the sound wave. 
+
+These vibrations let you hear different sounds. Even  music  is vibrations. Irregular vibrations are  noise . People can can make very complex sounds. We use them for  speech .
+
+Sound waves are  longitudinal wave s with two parts:  compression  and  rarefaction . Compression is the part of the sound waves where the molecules of air are pushed ( compressed ) together. Rarefaction is the part of the waves where the molecules are far away from each other. Sound waves are a  sequence  of compressions and rarefactions.
+
+  The speed of sound  
+ Main Speed of sound 
+Sound waves can travel through  solid s,  liquid s, and  gas es, but it cannot travel through a  vacuum  (a place with nothing in it). This is why  astronaut s can not talk to each other in space: they need a  radio  to hear each other. Sound can travel through water faster than through air; and they travel even faster in solids like  stone ,  iron , and  steel . Sound travels at 335 metres (1,100 feet) per second in the air. ref name whee The Earth and the Universe  LIFEPAC Science, p. 33 ref 
+
+  Pitch and Intensity  
+
+ Pitch  is the highness or lowness of sound.  Pitch (music) Pitch  is how humans hear different frequencies.  Frequency  is determined by the number of vibrations per second. The highest key on a  piano , for instance, vibrates 4,000 times per second. It has a frequency of 4000  hertz  (Hz), or 4 kilohertz (kHz). Lower keys have lower frequencies. A note an  octave  higher than another note has twice the frequency of that note. ref name whee  
+
+The intensity of a sound is how much sound energy goes through a square meter in one second. Sound waves with higher amplitude (bigger vibration) have higher intensity. The intensity of a sound is higher closer to the sound source. Farther away, it's less intense. The  inverse-square law  shows how sound intensity becomes smaller, farther from the source. "Inverse square" says that when distance gets multiplied by a number, sound intensity gets divided by that number squared (the number times itself). ref name whee  Thus, twice the distance means a quarter the intensity. 
+
+Sound intensities can be very different. They can range from 0.000000000001, which are barely heard, to 1 W/m sup 2 sup   (painfully loud). The  decibel  scale makes sound intensity numbers easier to work with. A 0.000000000001 W/m sup 2 sup  intensity is 0 dB (decibels). When the decibel number increases by 10, the intensity is ten times as much. So, a 1 W/m sup 2 sup  intensity is 120 dB.
+
+Loudness is how people sense the intensity of sound. Loudness depends on sound intensity, sound frequency, and the person's hearing.
+
+  Heard and not seen  
+
+Audible sound has  frequency frequencies  between 20  Hertz Hz  to 20 kHz.  Human being s can hear audible sound. Sound waves with frequency above 20 kHz are called  ultrasound  waves. Sound waves with frequency below 20 Hz are called  infrasound  waves. Human beings cannot hear ultrasound waves and infrasound waves, but some animals, like  bat s and  dolphin s, use them. Older people have an even smaller hearing range. People are best at hearing sounds between 1000 Hz and 6000 Hz.
+
+ The Doppler Effect 
+When a sound source is moving towards someone, the frequency seems to increase. The same thing happens when someone moves toward the sound source. Frequency seems to decrease when someone moves away from a sound source. It also seems to decrease when the sound source moves away from someone. This is called the  Doppler effect .
+
+  References  
+Halpern, Alvin, Erich Erlbach (1998).  Beginning Physics II: Waves, Electromagnetism, Optics, and Modern Physics,  pg. 50-56
+ references 
+
+  Other websites  
+ http://www.sengpielaudio.com/calculator-soundlevel.htm Conversion of sound units and levels 
+ http://www.sengpielaudio.com/Calculations03.htm Sound calculations 
+
+ Category:Basic English 850 words 
+ Category:Sound  

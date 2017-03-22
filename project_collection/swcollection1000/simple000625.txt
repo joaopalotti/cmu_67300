@@ -1,0 +1,5 @@
+United States Of America
+
+REDIRECT  United States 
+
+ R from capitalization

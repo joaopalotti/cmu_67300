@@ -1,0 +1,58 @@
+Catalan language
+
+refimprove date February 2013 
+ Infobox language
+ name Catalan
+ nativename       catala 
+ pronunciation    IPA-ca k@t@'la  ( Eastern Catalan EC ) ~  IPA-ca kata'la  ( Western Catalan WC )
+ states           Andorra ,  France ,  Italy ,  Spain 
+ region           See  Paisos Catalans geographic distribution of Catalan 
+ ethnicity        Catalan people 
+ speakers        11.5 million 
+ ref             e16
+ date            2009
+ familycolor     Indo-European
+ fam2             Italic languages Italic 
+ fam3             Romance languages Romance 
+ fam4             Western Romance languages Western 
+ fam5             Gallo-Iberian languages Gallo-Iberian 
+ fam6             Gallo-Romance languages Gallo-Romance ref name alternative classification Some Iberian scholars may alternatively classify Catalan as an Iberian Romance languages|Ibero-Romance language/East Iberian. ref 
+ fam7             Occitano-Romance languages Occitano-Romance ref name alternative classification 
+ stand1          Catalan (regulated by the  Institut d'Estudis Catalans IEC )
+ stand2           Valencian language Valencian  (regulated by the  Academia Valenciana de la Llengua AVL )
+ script           Latin script Latin  ( Catalan alphabet )
+ nation           Latin Union 
+ 
+ flag Andorra br 
+ flag Spain   small (co-official language in the  Balearic Islands ,  Catalonia  and the  Valencian Community ) small 
+ minority         flag France   small (co-official language of the department of the  Pyrenees-Orientales  and the city of  Perpignan ) small br 
+ flag Italy   small (official language of the  comune  of  Alghero  in  Sardinia ) small br 
+ flag Aragon  ( Spain )
+ agency           Institut d'Estudis Catalans br Academia Valenciana de la Llengua 
+ iso1            ca
+ iso2            cat
+ iso3            cat
+ lingua          51-AAA-e
+ map             Global Catalan Countries.svg
+ mapsize         260
+ notice          IPA 
+ File:Catalan in Europe.png thumb|right|250px|Where Catalan is spoken. 
+
+The  Catalan language  is a  Romance languages Romance language  spoken in  Catalonia ,  Valencia (autonomous community) Valencian Community , the eastern part of  Aragon , the  Balearic Islands , a small zone of  Murcia (autonomous community) Murcia  (all of them in  Spain ),  Andorra ,  North Catalonia  (in  France ) and in the  Italy Italian  city of  L'Alguer . These places are often called the  Catalan Countries . 
+
+The language most like Catalan is  Occitan language Occitan . It is also a bit similar to  Spanish language Spanish ,  Italian language Italian ,  French language French  and  Portuguese language Portuguese .
+
+There are about 6 million Catalan native speakers and about 10 million people who can speak Catalan. The Catalan language is the 6th most spoken romance language and also is the most spoken language of the  European Union  that is not official.
+ File:Linguistic map Southwestern Europe.gif thumb|400px|right| Chronology Chronological   map  showing the development of the languages of southeastern Europe, including Catalan 
+
+ References 
+ Reflist 
+
+ Romance languages 
+
+
+ Europe-stub 
+
+ Category:Languages of Europe 
+ Category:Romance languages 
+ Category:Catalonia

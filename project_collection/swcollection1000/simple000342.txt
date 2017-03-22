@@ -1,0 +1,98 @@
+Noun
+
+ExamplesSidebar 35% 
+  The  dog  slept.
+  That is  John .
+  This is the  Alton   police   station .
+  The  pay  of the  job  is high.
+  Go there on  Monday .
+  I like  pumpkins .
+ 
+A  noun  is a kind of  word  (see  part of speech ) that is usually the  name  of something such as a  person ,  place ,  thing ,  quality , or  idea . In  English language English , nouns can be  singular  or  plural .
+
+Nouns often need a word called an  article (grammar) article  or  determiner  (like  the  or  that ). These words usually do not go with other kinds of words like  verb s or  adverb s. (For example, people do not also describe nouns). In English, there are more nouns than any other kind of word.
+
+Every language in the world has nouns, but they are not always used in the same ways. They also can have different properties in different languages. For example, in some other languages, nouns do not change for singular and plural, and sometimes there is no word for  the .
+
+Some examples of nouns in English are:  time, people, way, year, government, day, world, life, work, part, number, house, system, company, end, party, information .
+
+  The history of the word  noun   
+The word 'noun' comes from the  Latin   nomen  meaning " name ." Words like nouns were described in early days by the  Sanskrit  grammarian  Panini (grammarian) Panini  and ancient Greeks like  Dionysios Thrax .
+
+  Uses of nouns  
+In English  sentence s, nouns can be used as a  subject ,  object (grammar) object , or  complement . They often come after  preposition s, as the 'object of preposition'.
+
+Nouns can sometimes describe other nouns (such as a  soccer  ball). When they do this, they are called  modifier s or adjuncts.
+
+There are also  verb  forms that can be used in the same way as nouns (such as 'I like  running .)  These are called  verbals  or  verbal nouns , and include  participle s  (which can also be adjectives) and  infinitive s .
+
+  Kinds of nouns and how they are ordered  
+Nouns are ordered into  common nouns , and  proper nouns . There are also  pronoun s. These have commonly been considered a different part of speech from nouns, but in the past some grammars have included them as nouns ref "noun, a.1"  The Oxford English Dictionary . 2nd ed. 1989. OED Online. Oxford University Press. < http://dictionary.oed.com/cgi/display/00327657?keytype=ref&ijkey=56n3orQ0BYHJo >. ref  as do many modern  Linguistics linguists . ref Huddleston, R. & Pullum, G. K. (2002).  The Cambridge Grammar of the English Language . Cambridge: Cambridge UP. ref 
+
+  Proper nouns  
+A  proper noun  (also called  proper name ) is a name given to individual people, places, companies, or brands. Some examples of proper nouns are:  London, John, God, October, Mozart, Saturday, Coke, Mr. Brown, Atlantic Ocean 
+
+Proper nouns begin with an  upper case  ( Majuscule capital ) letter in  English language English  and many other languages that use the  Roman alphabet .  (However, in  German language German , all nouns begin with an upper case letter.) The word "I" is really a pronoun, although it is capitalized in English, like a proper noun.
+
+Some common nouns (see below) can also be used as proper nouns. For example, someone might be named 'Tiger Smith' -- even though he is not a  tiger  or a  smith .
+
+  Common nouns  
+ Common nouns  are all other nouns that are not proper nouns. Sometimes the same word can be either a common noun or a proper noun, depending on how it is used; for example:
+  there can be many  gods , but there is only one  God .
+  there can be many  internets  (two or more networks connected together), but the largest internet in the world is the  Internet .
+
+  Number and countability  
+In English and many other languages, nouns have 'number'. But some nouns are only  singular  (such as  furniture, physics ) and others are only  plural  (such as  clothes, police ). Also, some nouns are 'countable' (they can be counted, for example,  one piece, two pieces ) but others are not (for example, we do not say  one furniture, two furnitures ).
+
+  Possessives  
+Nouns are words for things, and since things can be possessed, nouns can also change to show possession in grammar. In English, we usually add an  apostrophe  and an  s  to nouns to make them  possessive , or sometimes just an apostrophe when there is already an  s  at the end, like this:
+  This is Sam. This is  Sam's  cat.
+  The  woman's  hair is long.
+  There are three cats. The  cats'  mother is sleeping.
+
+  How adjectives become nouns  
+
+Most adjectives become nouns by adding the  suffix   ness . Example: Take the adjective 'natural', add 'ness' to get 'naturalness', a noun. To see a list of 100 adjectives used in  Basic English ,  adjective#100 adjectives used in Basic English click here 
+
+  Plural Nouns  
+The plural form of most nouns is created simply by adding the letter  s. 
+  more than one snake = snakes
+  more than one ski = skis
+  more than one Barrymore = Barrymores
+ 
+
+Note that some dictionaries list "busses" as an acceptable plural for "bus." Presumably, this is because the plural "buses" looks like it ought to rhyme with the plural of "fuse," which is "fuses." "Buses" is still listed as the preferable plural form. "Busses" is the plural, of course, for "buss," a seldom used word for "kiss."
+
+There are several nouns that have irregular plural forms. Plurals formed in this way are sometimes called  mutated (or mutating) plurals .
+  more than one child = children
+  more than one woman = women
+  more than one man = men
+  more than one person = people
+  more than one goose = geese
+  more than one mouse = mice
+  more than one barracks = barracks
+  more than one deer = deer
+And, finally, there are nouns that maintain their Latin or Greek form in the plural. (See media and data and alumni, below.)
+  more than one nucleus = nuclei
+  more than one syllabus = syllabi
+  more than one focus = foci
+  more than one fungus = fungi
+  more than one cactus = cacti ( cactuses  is acceptable)
+  more than one thesis = theses
+  more than one crisis = crises*
+  more than one phenomenon = phenomena
+  more than one index = indices ( indexes  is acceptable)
+  more than one appendix = appendices ( appendixes  is acceptable)
+  more than one criterion = criteria
+ more than one octopus = octopuses 
+ Related pages 
+   Name 
+
+  References  
+ Reflist 
+3. Plural Noun Forms."  Plural Noun Forms . N.p., n.d. Web. 09 Sept. 2014.
+
+ Other websites 
+ http://nounsstarting.com/ Nouns 
+
+ Category:Parts of speech

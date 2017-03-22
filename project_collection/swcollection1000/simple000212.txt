@@ -1,0 +1,16 @@
+Height
+
+Image:Height.svg thumb|right|Height 
+ Height  is the  distance  between the lowest end and highest end of an  wikt:object object .
+
+For example, people consider the bottom of the foot a person's lowest end, and the top of the head a person's highest end. If the distance between the bottom of a person's foot and the top of that person's head is 64  inch es, then that person's height is 64 inches.
+
+ Related pages 
+   Width  
+   Depth 
+   Elevation 
+
+
+ Math-stub 
+
+ Category:Physical quantity

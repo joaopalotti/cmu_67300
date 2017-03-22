@@ -1,0 +1,68 @@
+Russian language
+
+Infobox Language
+ name Russian
+ nativename Russkii iazyk (Russkiy yazik)
+ states   Russia , and some of the  Commonwealth of Independent States  
+ speakers primary language: about 147 million br secondary language: 113 million (1999 WA, 2000 WCD)
+ rank 8 (native)
+ familycolor Indo-European
+ fam2 Balto-Slavic languages Balto-Slavic 
+ fam3 Slavic languages Slavic 
+ fam4 East Slavic languages East Slavic 
+ script Cyrillic alphabet 
+ nation Russia ,  Belarus ,  Kazakhstan ,  Kyrgyzstan ,  Abkhazia ,  South Ossetia ,  Transnistria  ( Moldova ) and  Gagauzia  ( Moldova ).
+ agency none
+ iso1 ru iso2 rus iso3 rus map RussianLanguageMap.png 
+
+ Russian  (Russian:  lang ru russkii iazyk ,  transliteration :  russkiy yaz'ik ) is the main language of  Russia . It is also spoken in other parts of the former  Soviet Union . It is spoken by many people in  Ukraine ,  Belarus ,  Kazakhstan ,  Uzbekistan ,  Tajikistan ,  Kyrgyzstan ,  Moldova ,  Latvia ,  Lithuania ,  Turkmenistan  and  Estonia . Russian is one of the  Slavic languages . The Slavic languages belong to the family of  Indo-European languages . Russian is one of the three  East Slavic languages . The other two are  Ukrainian language Ukrainian  and  Belarusian language Belarusian . More people speak Russian than any other Slavic language.
+
+Written Russian does not use the  Latin alphabet  like English and the  West Slavic languages  do. It uses a script called  Cyrillic alphabet Cyrillic , whose letters, like that of Latin, came from  Greek alphabet Greek , but look different from them. The other East Slavic languages, as well as some of the  South Slavic languages , use the same script.
+
+Russian is an  official language  of  Russia ,  Belarus ,  Kazakhstan ,  Kyrgyzstan  and  Uzbekistan . It is one of the six official languages of the  United Nations , along with  English language English ,  Spanish language Spanish ,  French language French ,  Arabic language Arabic , and  Chinese language Chinese .
+
+  Standard Russian  
+Standard Russian is also called modern literary Russian (Sovremennyi russkii literaturnyi iazyk). It first appeared at the beginning of the 18th century. At that time  Peter the Great  was working to make the Russian state more modern. Standard Russian grew out of the  dialect  of Russian spoken by people in  Moscow  and the area around Moscow. (A dialect is a local form of a language.) In some ways, Standard Russian was also like the Russian used in government offices in earlier centuries. 
+
+ Mikhail Lomonosov Lomonosov  put together the first book on Russian  grammar  in 1755. The  Russian Academy of Sciences  published the first full dictionary of Russian in 1783. The grammar,  vocabulary , and  pronunciation  of Russian became stable and were standardized at the end of the 18th and in the 19th century. This was the "Golden Age" of  Russian literature . Russian literature became famous throughout the world. 
+
+All of Russia began to use Russian as its language of literature, education, and official communication. Until the 20th century, only the upper  social class classes  and people in cities spoke the literary language. Russians from the countryside continued to speak their local dialects. Starting in the 20th century, all children were required to go to school. Many people had radios and televisions. This helped spread Standard Russian. In the 20th century the dialects of Russian mostly disappeared. They were gone by the middle of the century. Standard Russian replaced them almost completely.
+
+  Naming  
+In Russian, a person's name has three parts. These are the first name, the second name and the family name. 
+
+Parents choose the first name for their child. Some common Russian names for boys are Ivan, Vladimir, Mikhail, and Nikolai. Some common Russian names for girls are Anna, Anastasia, Svetlana and Yekaterina.
+
+The second name is called the  patronymic . It comes from the first name of one's father. The Russian word for this is  otchestvo . Take, for example, a boy whose father is named  Ivan . The boy's patronymic is  Ivanovich . Another example: a boy's father is named  Nikolai . The boy's patronymic is  Nikolaevich . If a girl's father is named  Ivan , her patronymic is  Ivanovna . If her father is named  Nikolai , her patronymic is  Nikolaevna . The patronymic of a boy ends with  ovich  or  evich . The patronymic of a girl ends with  ovna  or  evna . 
+
+Boys have the same family name as their fathers. Girls also use their father's family name, but with one difference. An  a  is put on the end of the name. Take, for example, a man with the family name  Romanov . His son's family name is  Romanov . His daughter's family name is  Romanova . 
+
+Another example: A man's name is  Nikolai Alexandrovich Romanov . He has a son named  Aleksei  and a daughter named  Anastasia . 
+The son's full name is  Aleksei Nikolaevich Romanov . 
+The daughter's full name is  Anastasia Nikolaevna Romanova .
+
+There are also many people in  Russia  with family names that are not Russian. Some of these names have only one form. That means the family name is the same for sons and daughters. Some examples are Glushko (a  Ukrainian language Ukrainian  name), Rubinstein (a  German language German / Hebrew language Hebrew  name) or Shevardnadze (a  Georgian language Georgian  name).
+
+  Grammar  
+
+ Case 
+
+Like  Latin ,  Greek language Greek , and  German language German , Russian has a  Case (grammar) case system . In Russian the case system applies to  nouns ,  pronoun s,  adjective s,   numeral s and  participle s. The case system is a set of word endings (sounds/letters attached to the ends of words) that show the grammatical roles of words in a sentence. Because the grammatical roles are shown by the endings, the order of words in a sentence is more free in Russian than, for example, in English. There are six cases in Russian. The nominative case, which is the form listed in the dictionary, is used for the  subject (grammar) subject  of the sentence. The  genitive  case often shows ownership. The  accusative  case is used for a direct object, the  dative  case for an indirect object. The  instrumental  case is used for the tool or instrument with which something is done. The  prepositional  case is used after certain prepositions, such as "in" and "on", but other prepositions may require the use of other cases. Each of the cases has other uses besides the basic ones just listed.
+
+ Gender and Number 
+
+In Russian, nouns have one of three genders: masculine, feminine, or neuter. Masculine nouns usually end in consonants, neuter nouns usually end in -o or -e, and feminine nouns usually end in -a or -ia. There is also the plural, which acts much like a fourth gender - when a word is made into the plural, its gender does not matter as far as the case system is concerned.
+
+ Adjectives 
+
+In Russian, an adjective (a describing word) must agree with the word it describes in gender and number. In the nominative case, adjectives that describe feminine words usually end in -aia or -iaia. Ones that describe masculine words usually end in -yi, -ii or -oi. Ones that describe neuter words usually end in -oe or -ee. Ones that describe plural words usually end in -ye or -ie. These endings change depending on the case.
+
+ commonscat 
+ InterWiki code ru 
+ Official UN languages 
+
+ Category:Slavic languages 
+ Category:Languages of Russia 
+ Category:Languages of Azerbaijan 
+ Category:Languages of Asia 
+ Category:Languages of Europe

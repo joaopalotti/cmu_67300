@@ -1,0 +1,25 @@
+Microscope
+
+File:Microscope.jpg thumb|right|200px|A  1915  Bausch and Lomb  Light microscope 
+ File:Microscope-IMG 0518.jpg right|thumb|Electron microscope 
+
+A  microscope  is a  science scientific   tool instrument . It makes things normally too small to be seen look larger. This way they can be seen better and examined correctly. People who use microscopes commonly in their jobs include  Medical doctor doctors  and  scientist s. Microscopes are commonly used in schools to help students in science classes such as  biology  or  chemistry .
+
+The earliest microscopes had only one  Lens (optics) lens  and are called  simple microscopes .  Compound microscopes  have at least two lenses. In a compound microscope, the lens closer to the eye is called the  eyepiece . The lens at the other end is called the  objective . The lenses multiply up, so a 20x eyepiece and a 60x objective together give 1200x magnification.
+
+Microscopes make things seem larger than they are, to about 1000 times larger. This is much stronger than any  magnifying glass .
+
+  Types of microscopes  
+There are many different types of microscopes. The most common are compound  light microscope s and  electron microscopes . In a compound light microscope, the object is illuminated: light is thrown on it. The image formed by the object is looked at. Light passes through two lenses and makes the image bigger. 
+
+ Electron microscope s come in different types.  electron microscope#Transmission electron microscopes (TEM) Transmission electron microscopes  (TEMs) fire  electron s into the object being looked at. This carries information about how the object looks into a magnetic "lens". The image is then magnified onto a  television screen .  Scanning electron microscope s also fire electrons at the object, but in a single beam. These lose their power when they strike the object, and the loss of power results in something else being generated--usually an  X-ray . This is sensed and magnified onto a screen.
+
+  Other websites  
+   http://www.microbehunter.com/ Microscopy Information  Information relating to optics, techniques and specimen preparation for teachers, students, amateur scientists.
+   http://www.mos.org/sln/SEM/index.html Scanning electron microscope 
+
+ - 
+ LaboratoryEquipment 
+
+
+ Category:Microscopes  

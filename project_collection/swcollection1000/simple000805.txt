@@ -1,0 +1,12 @@
+Centripetal force
+
+Centripetal force  (or acceleration) is a type of  Force (physics) force  that acts on any body that revolves around a centre. This force contributes to keeping the body in circular motion. This force is always directed towards the centre.
+
+The opposite force (by  Isaac Newton 's third law of motion) is called  centrifugal force . This is the force that acts on the body in a direction away from the centre, which contributes to making the body try to fly away. When you hold a rope with a heavy object attached to it, and rotate it around, the rope becomes tight and keeps the body from flying away. This is caused by centripetal force.
+An example is a roller coaster which uses centripetal force to keep the carts going in a circular motion.
+
+
+ physics-stub 
+
+ Category:Force 
+ Category:Mechanics

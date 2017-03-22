@@ -1,0 +1,145 @@
+Plant
+
+Taxobox
+  name   Plants
+  fossil_range    Cambrian  to Recent
+  image  
+  image_width   250px
+  image_caption   Diversity of plants
+  domain    Eukaryote Eukaryota 
+  regnum    Plant ae
+  regnum_authority    Ernst Haeckel Haeckel , 1866
+  subdivision_ranks   Divisions
+  subdivision  
+   Bryophyte Non-vascular land plants 
+   Marchantiophyta --liverworts
+   Hornwort Anthocerotophyta --hornworts
+   Moss Bryophyta --mosses
+   Vascular plant s 
+   fern Pteridophyta --ferns and horsetails
+   Seed plants  (spermatophytes)
+   Gymnosperm s--conifers
+   Flowering plant Magnoliophyta --flowering plants
+ 
+
+ File:Narcissus 2005 spring 002.jpg thumb|A  Daffodil  plant|180px 
+
+ Plants  are one of five big groups ( kingdom (biology) kingdoms ) of living things. They are  autotroph ic  eukaryote s, which means they have complex  cell (biology) cells , and make their own food. Usually they cannot move (not counting  Cell growth growth ).
+
+Plants include familiar types such as  tree s,  herb s,  Shrub bushes ,  grass es,  vine s,  fern s,  moss es, and  green algae . The scientific study of plants, known as  botany , has identified about 350,000  extant  (living)  species  of plants.  Fungus Fungi  and non-green  algae  are not  biological classification classified  as plants. 
+
+Most plants grow in the ground, with  Plant stem stem s above the atmosphere, and  root s below. Some float on water. Water and some nutrients come from the roots. Then climb the stem and reach the leaves. The evaporation of water from pores in the  leaf leaves  pulls water through the plant. This is called  transpiration . 
+
+A plant needs  sunlight ,  carbon dioxide , minerals and  water  to make food by  photosynthesis . A green substance in plants called  chlorophyll  traps the  energy  from the Sun needed to make food. Chlorophyll is mostly found in leaves, inside  plastid s, which are inside the  leaf   Cell (biology) cells . The leaf can be thought of as a food factory. Leaves of plants vary in shape and size, but they are always the plant organ best suited to capture solar energy. Once the food is made in the leaf, it is transported to the other parts of the plant such as stems and roots. ref Asimov, Isaac 1968.  Photosynthesis . Basic Books, New York, London. ISBN 0-465-05703-9.  
+ ref ref Intermediate Learn Science, grades 5-6, by Mike Evans and Linda Ellis ref 
+
+The word "plant" can also mean to put something in the earth. For example,  farm ers plant  seed s in the ground.
+
+Photosynthesis is a process that is taken place by the leaves on the plant. The leaves are the only parts of a plant that can do this process (as they adapted). This is also known as how the plant gets its food.
+
+  Types of plants  
+ Green algae :
+ Chlorophyta 
+ Charophyta 
+
+Land plants (embryophytes)
+  Non-vascular plants ( bryophyte s):
+   Liverwort s
+   Moss es
+   Hornwort s
+  +Horneophytopsida
+
+ Vascular plant s (tracheophytes)
+  Lycopodiophyta-- clubmoss es
+  Pteridophyta: the  fern s
+  Pteridopsida: the typical ferns
+  Sphenopsida: the  horsetail s
+  Marattiopsida: a divergent group of ferns
+  Psilotopsida: sister-group to all other ferns
+  +Rhyniophyta--rhyniophytes
+  +Zosterophyllophyta--zosterophylls
+  +Trimerophytophyta--trimerophytes
+  +Progymnospermophyta
+   Seed plant s (spermatophytes)
+  + Pteridospermatophyta : the  seed fern s
+  Pinophyta: the  conifer s
+  Cycadophyta: the  cycad s
+  Ginkgophyta: the  ginkgo s
+   Gnetophyta : sister group to the Angiosperms
+   Magnoliophyta  or  Angiosperm s (flowering plants)
+   Dicotyledon s
+   Monocotyledon s
+
+ + Nematophyte s
+
+  The plant food factory  
+ File:Plagiomnium affine laminazellen.jpeg thumb|250px|Chloroplasts visible in the cells of  Plagiomnium affine 
+At least some plant cells contain  photosynthetic   organelle s ( plastid s) which enable them to make  food  for themselves. With  sunlight ,  water , and  carbon dioxide , the plastids make  sugar s, the basic  molecule s needed by the plant. Free  oxygen  (O sub 2 sub ) is produced as a by-product of photosynthesis. ref Smith A.L. 1997.  Oxford dictionary of biochemistry and molecular biology . Oxford University Press. p508 ISBN 0-19-854768-4. "Photosynthesis -- the synthesis by organisms of organic chemical compounds, esp. carbohydrates, from carbon dioxide using energy obtained from light rather than the oxidation of chemical compounds". ref  
+
+Later, in the cell cytoplasm, the sugars may be turned into  amino acids  for  protein s,  nucleotide s for  DNA  and  RNA , and  carbohydrate s such as  starch . This process needs certain  mineral s:  nitrogen ,  potassium ,  phosphorus ,  iron  and  magnesium . ref Rabinowitch E. and Govindjee 1969.  Photosynthesis . Wiley, London. ISBN 0-471-70424-5 ref 
+
+  Plant nutrients  
+Plant nutrition is the study of the  chemical element s that are necessary for plant growth. 
+
+Macronutrients:
+  N =  Nitrogen  (proteins)
+  P =  Phosphorus  ( ATP  and the energy cycle)
+  K =  Potassium  (water regulation)
+  Ca =  Calcium  (transport of other nutrients)
+  Mg =  Magnesium  ( enzyme s)
+  S =  Sulfur  (some  amino acid s)
+  Si =  Silicon  (cell walls)
+
+Micronutrients (trace elements) include:
+  Cl =  Chlorine  ( osmosis  and  ion  balance)
+  Fe =  Iron  (photosynthesis ans enzyme co-factor)
+  B =  Boron  ( sugar  transport and  cell division )
+  Mn =  Manganese  (building chloroplasts)
+  Na =  Sodium  (various)
+  Zn =  Zinc  (many enzymes)
+  Cu =  Copper  (photosynthesis)
+  Ni=   Nickel  (an enzyme)
+  Mo =  Molybdenum  (enzyme co-factors)
+
+  Roots  
+The  root s of plants perform two main functions. First, they anchor the plant to the ground. Second, they absorb  water  and various  nutrient s dissolved in water from the  soil . Plants use the water to make food. The water also provides the plant with support. Plants that lack water become very limp and their stems cannot support their  Leaf leaves . Plants which specialise in  desert  areas are called  xerophyte s or phreatophytes, depending on the type of root growth.
+
+
+Water is transported from the roots to the rest of the plant through special vessels in the plant. When the water reaches the leaves, some of it  evaporate s into the air. Many plants need the help of  fungi  to make their roots work properly. This plant/fungi  symbiosis  is called  mycorrhiza .  Rhizobia   bacteria  in root nodules help some plants get  nitrogen . ref Mauseth, James D. 2003.  Botany: an introduction to plant biology . Jones & Bartlett, Boston. ref 
+
+  Flowering plant reproduction  
+ main Flowering plant sexuality 
+  Flowers and pollination  
+ Flowers  are the reproductive organ only of  flowering  plants ( Angiosperm s). The petals of a flower are often brightly colored and scented to attract  insect s and other pollinators. The  stamen  is the male part of the plant. It is composed of the  filament  (a stalk) that holds the  anther , which produces the pollen.  Pollen  is needed for plants to produce seeds. The  carpel  is the female part of the flower. The top part of the carpel contains the  stigma (botany) stigma . The  Carpel style  is the neck of the carpel. The  ovary (botany) ovary  is the swollen area at the bottom of the carpel. The ovary produces the seeds. The  sepal  is a leaf that protects a flower as a bud.
+
+The process by which pollen gets transferred from one flower to another flower is called  pollination . This transfer can happen in different ways. Insects such as  bee s are attracted to bright, scented flowers. When bees go into the flower to gather  nectar , the spiky pollen sticks to their back legs. The sticky stigma on another flower catches the pollen when the bee lands or flies nearby it. 
+
+Some flowers use the wind to carry pollen. Their dangling stamens produce lots of pollen that is light enough to be carried by the wind. Their flowers are usually small and not highly coloured. The stigmas of these flowers are feathery and hang outside the flower to catch the pollen as it falls. ref Pous, Dinora.  Science and plants . Blue Planet. ref 
+
+  Seed travellers  
+A plant produces many  spore s or  seed s. Lower plants such as  moss  and  fern s produce spores. The  seed plant s are the  Gymnosperm s and Angiosperms. If all the seeds fell to the ground besides the plant, the area might become overcrowded. There might not be enough water and minerals for all the seeds. Seeds usually have some way to get to new places. Some seeds can be dispersed by the wind or by water. Seeds inside juicy fruits are dispersed after being eaten. Sometimes, seeds stick to animals and are dispersed that way. ref Fenner, Michael and Thompson, Ken 2005.  The ecology of seeds . Cambridge. ISBN 978-0-521-65368-8 ref 
+
+  Fossils  
+The question of the earliest plant fossils depends on what is meant by the word "plant". 
+ If by plants we mean  phototroph s using  chlorophyll , then  cyanobacteria  in  stromatolites  are the first fossils, 3,450 million years ago (mya) in the  Archaean   eon . The remarkable precision is possible because the fossils were sandwiched between  lava  flows that could be precisely  radiometric dating dated  from embedded  zircon   crystals . ref J. William Schopf 1999.  Cradle of Life: the discovery of Earth's earliest fossils . Princeton U. Press (pages 87-89 and figure 3.9) ISBN 0-691-00230-4 ref ref Knoll, Andrew H. 2004.  Life on a young planet: the first three billion years of evolution on Earth . Princeton, N.J. ISBN 0-691-12029-3 ref 
+ If by plants we mean green plants,  Viridiplantae , then the first fossils are  green algae . This is probably the majority position amongst professional botanists. There is convincing evidence for the  monophyly  of  charophyte   green algae  and  embryophytes . ref cite journal  quotes no  author Lewis L.A & R.M. McCourt 2004  title Green algae and the origin of land plants journal American Journal of Botany  volume 91  issue 10  pages 1535-1556  url http://www.amjbot.org/cgi/reprint/91/10/1535?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&searchid=1&FIRSTINDEX=0&sortspec=relevance&volume=91&firstpage=1535&resourcetype=HWCIT ref  There are still two choices:
+ Acritarch s (a group of organic-walled microfossils) may be reproductive  cyst s of green algae. If so, they are present in the  Neoproterozoic   era , 1000 mya. ref name Willis Willis K.J. & McElwain J.C. 2002.  The evolution of land plants . Oxford University Press, 38. ISBN 0-19-850065-3 ref 
+ Otherwise, there is a large increase in  plankton ic algae around 540 mya in the  Cambrian  period. ref name Willis 
+ If by plants we mean  land plants , the first fossils are in the  Silurian . ref name Wellman Wellman, Charles H.; Osterloff, Peter L. & Mohiuddin, Uzma 2003. Fragments of the earliest land plants.  Nature   425 : 282-285.  http://www.nature.com/nature/journal/v425/n6955/full/nature01884.html ref  
+
+By the  Silurian , fossils of whole plants are preserved, including the  lycophyte   Baragwanathia longifolia . From the  Devonian , detailed fossils of  rhyniophyte s have been found. Early fossils of these ancient plants show the individual cells within the plant tissue. The Devonian period also saw the evolution of the first tree in the fossil record,  Wattezia . This fern-like tree had a trunk with  fronds, and produced  spores .
+
+The  Coal measure s are a major source of  Palaeozoic  plant fossils, with many groups of plants in existence at this time. The spoil heaps of coal mines are the best places to collect;  coal  itself is the remains of fossilised plants, though structural detail of the plant fossils is rarely visible in coal. In the Fossil Forest at Victoria Park in  Glasgow  the stumps of  Lepidodendron  trees are found in their original growth positions.
+
+  Related pages  
+   Spore 
+   Seed 
+   Germination 
+
+  References  
+ commonscat Plantae 
+ wikispecies Plantae 
+ reflist 
+
+ Category:Basic English 850 words 
+ Category:Plants  

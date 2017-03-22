@@ -1,0 +1,86 @@
+Textual difficulty
+
+Textual difficulty  means how easy or hard a text is to read. Research has shown that two main factors affect the ease with which texts are read. ref name Klare George R. Klare Klare G.R.  1963.  The measurement of readability . Iowa State University Press, Ames IA. ref 
+ How difficult the words are: this is  Lexicon lexical  difficulty. Rare words are less well known than common words. Rare, difficult words are often longer than common, easy words. 
+ How difficult the sentences are: this is  Syntax syntactical  difficulty. Long, complicated sentences cause more difficulty than short,  simple sentence s.
+
+  Readability predictions  
+A  readability test  is a way to measure a text for how easy it is to read. Readability tests give a  prediction  as to how difficult readers will find a particular text. They do this by measuring one or both of the two main causes, as follows:
+
+  Word difficulty  
+Word difficulty is usually measured by vocabulary lists or word length. 
+In 1923, Bertha A. Lively and  Sidney L. Pressey  published the first reading ease  formula. They had been concerned that science textbooks in junior high school had so many technical words. They felt that teachers spent all class time explaining their meaning. They argued that their formula would help to measure and reduce the "vocabulary burden" of textbooks. Their formula used the  Thorndike  word list as a basis. ref Thorndike E.L. 1921  The teacher's word book . 1932  A teacher's word book of the twenty thousand words found most frequently and widely in general reading for children and young people . 1944 (with J.E. Lorge)  The teacher's word book of 30,000 words . ref  Manually, it took three hours to apply the formula to a book. ref name Lively Lively, Bertha A. and Pressey S.L. 1923. A method for measuring the 'vocabulary burden' of textbooks.  Educational administration and supervision   9 :389-398. ref 
+
+  Vocabulary lists   
+Several  vocabulary  lists have been published by researchers. These lists are based on samples of published texts in English, and (less often) samples of recorded spoken language. The lists differ slightly according to the sources chosen, but they are very reliable. ref In this context, 'reliable' means something like: if the research was repeated, you would get a very similar result. ref ref 500 most common words:  http://www.world-english.org/english500.htm ref ref Top 1000 words:  http://www.bckelk.ukfsn.org/words/uk1000n.html ref  The items listed may represent more than one actual word; they are  Lemma (linguistics) lemma s. For instance the entry "be" contains within it the occurrences of "is", "was", "be" and "are". ref name langlog  Benjamin Zimmer:  http://itre.cis.upenn.edu/~myl/languagelog/archives/003274.html Time after time after time...  Language Log. Retrieved 22 June 2006.  ref  The top 100 lemmas account for 50% of all the words in the Oxford English Corpus. ref name langfacts   http://www.askoxford.com/oec/mainpage/oec02/?view=uk AskOxford.com: Language Facts . Retrieved 22 June 2006.  ref 
+
+ The Reading Teachers Book of Lists  claims that the first 25 words make up about one-third of all printed material in English, and that the first 100 make up about one-half of all written material. ref First 100 words:  http://www.duboislc.org/EducationWatch/First100Words.html ref 
+
+One of the first readability tests, the  Dale-Chall formula , used a vocabulary list. It counted the number of listed words in a passage, and applied a  formula  which gave a  grade level . It was used to rate textbooks for grade levels in US school districts.
+
+It is easy, in principle, to use a vocabulary list as part of a computer-based readability measure. The list is organised as a  look-up table . The  percentage  of listed words in a passage gives the data for the formula, and the user is presented with a grade level.
+
+  Word length  
+This is called an  index , or a  proxy . ref A proxy is one person or thing standing for another. ref  This is because word length is  correlation correlated  with word  frequency , and word frequency is correlated with word difficulty.  Longer words are,  on average , harder than short words . 
+
+Word length is measured by counting the letters in each word, or by counting  syllable s. Since most syllables have one  vowel , some computer programs count vowels per average word. A few tests measure the percentage of words on a list; the list is based on the known frequency of words in a language.
+
+  Sentence difficulty  
+Sentence difficulty is usually measured by sentence length. This again is an index, because longer sentences are, on average, harder than short sentences. Computers count the number of words between full stops, but this is a second-best method. Humans can judge whether a semi-colon or colon should count as the end of a sentence for testing purposes.
+
+Since both factors may vary independently of each other, the best prediction is gained by devising a formula with makes use of both indices. What this means is that a single score is produced for a text, and that score is looked up on a table or graph. That tells you how difficult the text is in terms of either a) an American school grade level, or b) an artificial scale of 0% to 100%. Either way is effective. What really makes a difference is:
+ Methods using both indices are more reliable than methods using only one index. ref name Klare 
+
+  Direct measurement  
+It is possible to get a good prediction by getting a group of subjects to read through a passage, followed by multiple-choice questions. Even better is a method called  cloze , where subjects fill in blanks on a text they have not seen before. The percentage of correctly completed blanks is an outstandingly good predictor of text difficulty. ref Taylor W.L. 1953. Cloze procedure: a new tool for measuring readability.  Journalism Quarterly ,  30 , 415-433. ref 
+
+Naturally, this kind of direct measure requires subjects and a skilled experimenter. It also requires the prior preparation of texts suitable for the chosen sample of subjects. The method is therefore too expensive for widespread use.
+
+  Types of tests  
+ see also List of readability tests 
+
+A person can perform readability tests himself by  counting  and doing some  math , or by using word-processing software. 
+
+  Tests on subjects  
+  Multiple-choice questions
+  Cloze test
+
+  Test on texts  
+  Two-variable formulae  
+   Dale-Chall readability formula 
+   Flesch Reading Ease  (Flesch Readability Test)
+  Flesch-Kincaid Reading Level (Flesch-Kincaid Grade Index)
+   Fry readability formula 
+
+   Gunning Fog Index 
+   Spache 
+
+  One-variable formulae  
+   Fog Index 
+   SMOG Index 
+
+  Use on Wikipedia  
+Wikipedia Signposts 2015-06-24 surveyed recent studies of web information on medical topics, including articles in English wiki. ref Vargas, Christina R.  et al   2015. Online patient resources for liposuction: a comparative analysis of readability.  Annals of Plastic Surgery :  1 . ref ref Vargas, Christina R.  et al  2015. Assessment of online patient materials for breast reconstruction.  Journal of Surgical Research .  http://www.journalofsurgicalresearch.com/article/S0022-4804(15)00501-6/abstract ref 
+
+Their summary was:
+ "The authors concluded that the readability of online patient information for ' liposuction ' and ' breast reconstruction ' is 'too difficult' for many patients as the readability scores of all 20 websites (10 each) far exceeds that of a 6th-grade reading level. The average score for the most popular 'liposuction' websites was determined equal to 13.6-grade level. As a comparison 'tattoo information' scored at the 7.8-grade level".
+
+ "Health care information available at the most popular websites for 'breast reconstruction' had an average readability score of 13.4, with 100% of the top 10 websites providing content far above the recommended 6th grade reading level. Wikipedia.org readability scores aligned at the higher readability range for both terms, with scores above the 14 grade level for 'liposuction', and above grade 15 for 'breast reconstruction'".
+
+That shows these articles, and presumably many other medical articles on English wiki, are written in prose far too difficult for the average member of the public. 
+
+  Related pages  
+ Most common words in English 
+
+  References  
+ Reflist 
+
+  Other websites  
+  Is Wikipedia too difficult? comparative analysis of Wikipedia, Simple Wikipedia and Britannica.  http://www.dl.kuis.kyoto-u.ac.jp/~adam/cikm12a.pdf 
+   http://resources.aellalei.com/writer/sample.html Writing Sample Analyzer , reports on the Flesch Reading Ease, Fog Scale Level, and Flesch-Kincaid Grade Level for a given piece of text.
+   http://www.online-utility.org/english/readability_test_and_improve.jsp Online Textual Difficulty Calculator  - reports ARI, SMOG, Flesch-Kincaid Readability Test, Coleman-Liau Index, Gunning-Fog Index, etc.
+ BYU Words and phrases: highlights text.  http://www.wordandphrase.info/  and  http://corpus.byu.edu/coca/ 
+
+
+ Category:Written communication 
+ Category:Linguistics

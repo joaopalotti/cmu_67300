@@ -1,0 +1,106 @@
+List of fruits
+
+Fruits  on this list are defined as the word is used in everyday speech. It does not include  vegetable s, whatever their origin. 
+ columns-list 3 
+ Apple 
+ Apricot 
+ Avocado 
+ Banana 
+ Bilberry 
+ Blackberry 
+ Blackcurrant 
+ Blueberry 
+ Boysenberry 
+ Currant 
+ Cherry 
+ Cherimoya 
+ Cloudberry 
+ Coconut 
+ Cranberry 
+ Cucumber 
+ Custard apple 
+ Damson 
+ Date palm Date 
+ Dragonfruit 
+ Durian 
+ Elderberry 
+ Feijoa 
+ Fig 
+ Goji berry 
+ Gooseberry 
+ Grape 
+ Raisin 
+ Grapefruit 
+ Guava 
+ Honeyberry 
+ Huckleberry 
+ Jabuticaba 
+ Jackfruit 
+ Jambul 
+ Jujube 
+ Juniper berry 
+ Kiwi 
+ Kumquat 
+ Lemon 
+ Lime 
+ Loquat 
+ Longan 
+ Lychee 
+ Mango 
+ Marionberry 
+ Melon 
+ Cantaloupe 
+ Honeydew (melon) Honeydew 
+ Watermelon 
+ Miracle fruit 
+ Mulberry 
+ Nectarine 
+ Nance 
+ Olive (fruit) Olive 
+ Orange (fruit) Orange 
+ Blood orange 
+ Clementine  
+ Mandarine 
+ Tangerine 
+ Papaya 
+ Passionfruit 
+ Peach 
+ Pear 
+ Persimmon 
+ Physalis 
+ Plantain 
+ Plum 
+ Prune  (dried plum)
+ Pineapple 
+ Plumcot  (or Pluot)
+ Pomegranate 
+ Pomelo 
+ Purple mangosteen 
+ Quince 
+ Raspberry 
+ Salmonberry 
+ Rambutan 
+ Redcurrant 
+ Salal  berry
+ Salak  
+ Satsuma 
+ Star fruit 
+ Solanum quitoense 
+ Strawberry 
+ Tamarillo 
+ Tamarind 
+ Ugli fruit 
+ Yuzu 
+
+The following things are fruits according to the scientific definition, but are more like vegetables when it comes to cooking and nutrition:
+ Eggplant /Aubergine
+ Pumpkin 
+ Tomato 
+
+ - 
+ Fruits 
+
+ DEFAULTSORT:fruits 
+ Category:Fruits * 
+ Category:Food-related lists 
+ Category:Lists of plants

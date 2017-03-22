@@ -1,0 +1,100 @@
+Star
+
+File:Starsinthesky.jpg right|260px|thumb|A star-forming region in the  Large Magellanic Cloud .  NASA / ESA  image 
+ File:Pismis 24.jpg thumb|right|260px|The open star cluster  Pismis 24  is in the  nebula   NGC 6357 . It has some of the largest stars known. Pismis 24-1 has nearly 300 times the  mass  of the  Sun . It is a multiple system of at least three stars.  br 
+The strange shapes taken by the clouds are a result of the vast  radiation  emitted by these huge, hot stars.  br This image combines image data with three different  filter s in visible light from the 1.5-metre  Denmark Danish  telescope at the ESO La Silla Observatory in  Chile . 
+ Image:Crab Nebula.jpg thumb|250px|right|The  Crab Nebula , remains of a  supernova  that was first seen around 1050 AD 
+
+A  star  is a giant ball of very hot gas. That gas is called  plasma (physics) plasma . Stars are held together by  gravity . They give out heat and light because they are so hot.
+
+Special reactions happen in a star. Those reactions are called  nuclear fusion .  Nuclear fusion makes light and heat and makes bigger and bigger  chemical element s. Stars have a lot of  hydrogen . Nuclear fusion changes  hydrogen  into  helium . When a star gets old, it starts to change the  helium  into other bigger chemical elements, like  carbon  and  oxygen . Fusion makes a lot of energy. The energy makes the star very hot. The energy produced by stars moves ( radiation radiates ) away from them. The energy leaves as light which we call  electromagnetic radiation .
+
+  Earth's Sun  
+The star nearest to  Earth  is the  Sun . The energy from the Sun supports  Black smoker#Ecosystems almost all life  on Earth by providing light for plants. Plants turn the light into energy in a process called  photosynthesis . ref name Simon2001 
+ Cite book
+  last Simon A. 2001
+  title The real science behind the X-Files: microbes, meteorites, and mutants
+  url http://books.google.com/?id=1gXImRmz7u8C&pg=PA26&dq=bacteria+that+live+with+out+the+sun 
+  pages 25-27
+  publisher Simon & Schuster
+  isbn 0684856182
+ ref  The energy from the Sun also causes  weather  on Earth. 
+
+We can see other stars in the night sky when the Sun goes down. Like the Sun, they are made mostly of hydrogen and a little bit of helium plus other elements.  Astronomer s often compare those other stars to the Sun. For example, their  mass  is given in  solar mass es. A small star may be 0.2 solar masses, a big one 4.0 solar masses.
+
+  Planets  
+The Earth and other planets move around ( orbit ) the Sun. The Sun and all things that orbit the Sun are called the  Solar System . Many other stars have  planet s orbiting them: those planets are called  exoplanets . If you were on an exoplanet, our Sun would look like a star in the sky, but you could not see the Earth because it would be too far away.
+
+  Numbers, distances  
+ Proxima Centauri  is the star that is closest to our Sun. It is 39.9  trillion   kilometre s away. This is 4.2  light year s away. This means that light from Proxima Centauri takes 4.2  year s to reach Earth.
+
+ Astronomer s think there are a very large number of stars in the  Universe . They estimate (guess) that there are at least 70  sextillion  stars. That is 70,000,000,000,000,000,000,000, which is over 200 billion times the few hundred billion stars in the  Milky Way  (our  galaxy ). 
+
+Most stars are very old. They are usually thought to be between 1 billion and 10 billion years old. The oldest stars are 13.7 billion years old. That is as old as the Universe. Some young stars are only a few million years old. Young stars are mostly brighter than old ones. 
+
+Stars are different sizes. The smallest stars are  neutron star s, which are actually dead stars. They are no bigger than a city. The neutron star has a large amount of mass in a very small space.  
+
+ Hypergiant star s are the largest stars in the Universe. They have a  diameter  over 1,500 times bigger than the Sun. If the Sun was a hypergiant star, it would reach out to as far as  Jupiter .
+The star  Betelgeuse  is a red  supergiant  star. Although these stars are very large, they also have low  density .
+
+ Image:Star-sizes.jpg left|thumb|Stars have many sizes 
+
+Some stars look brighter than other stars. This difference is measured in terms of  apparent magnitude . There are two reasons why stars have different apparent magnitude. If a star is very close to us it will appear much brighter. This is just like a candle. A candle that is close to us appears brighter. The other reason a star can appear brighter is that it is hotter than another cooler star.
+
+Stars give off light but also give off a  solar wind  and  neutrino s. These are very small  particle s of matter.
+
+Stars are made of mass and mass makes  gravity . Gravity makes planets orbit stars. This is why the Earth orbits the Sun. The gravity of two stars can make them go around each other. Stars that orbit each other are called  binary stars . Scientists think there are many binary stars. There are even groups of three or more stars that orbit each other. Proxima Centauri is a small star that orbits other stars.
+
+Stars are not spread evenly across all of space. They are grouped into  galaxy galaxies . A galaxy contains hundreds of billions of stars.
+
+  History of seeing stars  
+ Image:Dibuix de Leo.png thumb|220px|right|People have seen patterns in the stars since long ago. ref name forbes  This, from 1690, is the  constellation  of Leo the lion, as imagined by  Johannes Hevelius . ref cite book
+   first Johannis   last Hevelius   year 1690
+   title Firmamentum Sobiescianum, sive Uranographia
+   location Gdansk  ref 
+
+Stars have been important to people all over the world for all of  history . Stars have been part of  religion religious  practices. Long ago, people believed that stars could never die.
+
+Astronomers organized stars into groups called constellations. They used the constellations to help them see the motion of the  planet s and to guess the position of the Sun. ref name forbes cite book   author Forbes, George   title History of Astronomy   publisher Watts & Co.   location London   year 1909   format  Free e-book from  Project Gutenberg    url http://www.gutenberg.org/etext/8172    isbn 1153627744  ref  The motion of the Sun and the stars was used to make calendars. The calendars were used by farmers to decide when to plant crops and when to harvest them. ref cite web   last   Tondering   first   Claus   url    http://webexhibits.org/calendars/calendar-ancient.html    title   Other ancient calendars   publisher   WebExhibits   accessdate   2006-12-10  ref 
+
+  The life of stars 
+ main Stellar evolution 
+Stars are made in  nebula s. These are areas that have more gas than normal space. The gas in a nebula is pulled together by gravity. The  Orion nebula  is an example of a place where gas is coming together to form stars.
+
+Stars spend most of their lives combining (fusing) hydrogen with hydrogen to make energy. When hydrogen is fused it makes  helium  and it makes a lot of energy. To fuse hydrogen into helium it must be very hot and the  pressure  must be very high. Fusion happens at the center of stars, called "the core".
+
+The smallest stars ( red dwarf s) fuse their hydrogen slowly and live for 100 billion years. Red dwarfs live longer than any other type of star. At the end of their lives, they become  wikt:dim dimmer  and dimmer. Red dwarfs do not explode.
+
+When very heavy stars die, they explode. This explosion is called a  supernova . When a supernova happens in a nebula, the explosion pushes the gas in the nebula together. This makes the gas in the nebula very thick (dense). Gravity and exploding stars both help to bring the gas together to make new stars in nebulas.
+
+Most stars use up the hydrogen at their core. When they do, their core becomes smaller and becomes hotter. It becomes so hot it pushes away the outer part of the star. The outer part expands and it makes a  red giant  star. Astro-physicists think that in about 5 billion years, the Sun will be a red giant. Our Sun will be so large it will eat the Earth. After our Sun stops using hydrogen to make energy, it will use helium in its very hot core. It will be hotter than when it was fusing hydrogen. Heavy stars will also make elements heavier than helium. As a star makes heavier and heavier elements, it makes less and less energy.  Iron  is a heavy element made in heavy stars. 
+
+Our star is an average star. Average stars will push away their outer gases. The gas it pushes away makes a cloud called a  planetary nebula . The core part of the star will remain. It will be a ball as big as the Earth and called a  white dwarf . It will fade into a black dwarf over a very long time. 
+
+Later in large stars,  heavier elements are made by fusion. Finally the star makes a  supernova  explosion. Most things happen in the universe so slowly we do not notice. But supernova explosions happen in only 100 seconds. When a supernovae explodes its flash is as bright as a 100 billion stars. The dying star is so bright it can be seen during the day. Supernova means "new star" because people used to think it was the beginning of a new star. Today we know that a supernova is the death of an old star. The gas of the star is pushed away by the explosion. It forms a giant cloud of gas called a  planetary nebula . The  crab nebula  is a good example. All that remains is a  neutron star . If the star was very heavy, the star will make a  black hole . Gravity in a black hole is extremely strong. It is so strong that even light cannot escape from a black hole.
+
+The heaviest elements are made in the explosion of a supernova. After billions of years of floating in space, the gas and dust come together to make new stars and new planets. Much of the gas and dust in space comes from supernovae. Our Sun, the Earth, and all living things are made from star dust.
+
+  Colors  
+Astronomers have known for centuries that stars have different colors. When looking at an electromagnetic spectrum, ultraviolet waves are the shortest, and infrared are the longest. ref Cite web url http://www.darvill.clara.net/emag/ title The Electromagnetic Spectrum first last date website Andy Darvill's Science Site publisher accessdate 6/6/2016 ref    The  visible spectrum  has  wavelength s between these two extremes.  
+
+Modern instruments can measure very precisely the color of a star.  This allows astronomers to determine that star's temperature, because a hotter star's  black-body radiation  has shorter wavelengths.  The hottest stars are blue and violet, then white, then yellow, and the coolest are red. ref Cite web url http://oneminuteastronomer.com/708/star-colors-explained/ title Star Colors Explained first last date December 23, 2008 website One Minute Astronomer publisher accessdate 6/6/2016 ref  Knowing the color and  absolute magnitude , astronomers can place the star on the  Hertzsprung-Russell diagram , and estimate its  habitable zone  and other facts about it. 
+
+For example, our Sun is white, and the Earth is the perfect distance away for life. If our Sun was a hotter, blue star, however, Earth would have to be much farther away or else it would be too hot to have water and sustain life.
+
+  References  
+ reflist 
+
+  Related websites  
+ Wiktionary 
+   commonscat-inline 
+   cite web   last Green   first Paul J   year 2005   title Star   work World Book Online Reference Center   publisher World Book, Inc   url http://www.nasa.gov/worldbook/star_worldbook.html    accessdate 2010-08-20  
+   cite web   last Kaler   first James   title Portraits of Stars and their Constellations   publisher University of Illinois   url http://www.astro.uiuc.edu/~kaler/sow/sow.html    accessdate 2010-08-20  
+   cite web   title Query star by identifier, coordinates or reference code   work SIMBAD   publisher Centre de Donnees astronomiques de Strasbourg   url http://simbad.u-strasbg.fr/sim-fid.pl    accessdate 2010-08-20  
+   cite web   title How To Decipher Classification Codes   publisher Astronomical Society of South Australia   url http://www.assa.org.au/sig/variables/classifications.asp    accessdate 2010-08-20  
+   cite web   title Live Star Chart   publisher Dobsonian Telescope Community   url http://www.mydob.co.uk/community_star.php    accessdate 2010-08-20   View the stars above your location
+   cite web   author Prialnick, Dina; Wood, Kenneth; Bjorkman, Jon; Whitney, Barbara; Wolff, Michael; Gray, David; Mihalas, Dimitri   title Stars: Stellar Atmospheres, Structure, & Evolution   date 2001   publisher University of St. Andrews   url http://www-star.st-and.ac.uk/~kw25/teaching/stars/stars.html    accessdate 2010-08-20   
+
+
+ Category:Stars   
+ Category:Astrophysics

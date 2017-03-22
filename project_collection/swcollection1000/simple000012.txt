@@ -1,0 +1,25 @@
+Arithmetic
+
+Arithmetic  is a name for working with  number s. It is a part of  mathematics . The four basic arithmetic operations are  addition ,  subtraction ,  multiplication , and  Division (mathematics) division .
+
+Harder arithmetic includes working with  signed number s,  Fraction (mathematics) fractions , and  decimal s, and taking  power (math) powers  and  root (math) roots .
+
+Most people learn arithmetic in  primary school , but some people do not learn arithmetic and others forget the arithmetic they learned. Many jobs require a knowledge of arithmetic, and many employers complain that it is hard to find people who know enough arithmetic. A few of the many jobs that require arithmetic include  carpenter s,  plumber s,  automobile mechanic auto mechanics ,  accountant s,  architect s,  Medical doctor doctors , and  nurse s. Arithmetic is needed in all areas of mathematics,  science , and  engineering . 
+
+A  calculator  can be used to do arithmetic.  Computer s can do it more quickly, which is one reason  Global Positioning System  receivers have a small computer inside. 
+
+  Examples of arithmetic  
+
+  2 + 3 = 5 (adding is  commutative property commutative : 2 + 3 is the same as 3 + 2)
+
+  7 - 5 = 2 (subtracting is not commutative: 7 - 5 is different from 5 - 7)
+
+  3 * 4 = 12 (multiplying is commutative: 3 * 4 is the same as 4 * 3)
+
+  6 / 2 = 3 (dividing is not commutative: 6 / 2 is different from 2 / 6)
+
+
+ Math-stub 
+
+
+ Category:Arithmetics

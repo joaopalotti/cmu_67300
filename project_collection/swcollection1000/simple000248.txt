@@ -1,0 +1,308 @@
+Japan
+
+Infobox country
+ native_name   Ri Ben Guo   br Nippon-koku  or  Nihon-koku 
+ conventional_long_name   Japan
+ Kyujitai_name   Ri Ben Guo 
+ image_flag   Flag of Japan.svg
+ alt_flag   Centered red circle on a white rectangle.
+ common_name   Japan
+ linking_name   Japan
+ image_coat   Imperial Seal of Japan.svg
+ alt_coat   Golden circle subdivided by golden wedges with rounded outer edges and thin black outlines.
+ symbol_type   Imperial Seal
+ other_symbol_type    Government Seal of Japan 
+ other_symbol    File:Goshichi no kiri.svg 75x75px|Seal of the Office of the Prime Minister and the Government of Japan   br small Nihongo Wu Qi Tong  Go-Shichi no Kiri small 
+ image_map   Japan (orthographic projection).svg
+ map_width   220px
+ national_anthem    center File:Kimi ga Yo instrumental.ogg center Kimigayo br ( Nihongo Jun gaDai  )
+ official_languages   None ref cite web url http://houseikyoku.sangiin.go.jp/column/column068.htm title Fa Zhi Zhi Wu koramuJi [Fa Lu toGuo Yu Ri Ben Yu ]  publisher Legislative Bureau of the House of Councillors accessdate 19 January 2009 language Japanese ref 
+ languages_type    National language 
+ languages    Japanese language Japanese 
+ regional_languages    small Aynu itak ,  Ryukyuan languages ,  Eastern Japanese ,  Western Japanese , and several other  Japanese dialects small 
+ demonym   Japanese
+ ethnic_groups   98.5% Japanese people Japanese , 0.5% Koreans in Japan Korean , 0.4% Chinese people in Japan Chinese , 0.6% other ref name cia cite web title World Factbook: Japan url https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html publisher CIA accessdate 15 January 2011 ref 
+ capital    Tokyo  ( de facto )
+ latd   35
+ latm   41
+ latNS   N
+ longd   139
+ longm   46
+ longEW   E
+ largest_city   capital
+ government_type    Unitary state Unitary   parliamentary system parliamentary democracy  and  constitutional monarchy 
+ leader_title1    Emperor of Japan Emperor 
+ leader_name1    Akihito 
+ leader_title2    Prime Minister of Japan Prime Minister 
+ leader_name2    Shinzo Abe 
+ legislature    Diet of Japan Diet of Japan (Kokkai) 
+ upper_house    House of Councillors  (Sangiin)
+ lower_house    House of Representatives of Japan  (Shugiin)
+ area_footnote    ref cite web title Japan Statistical Yearbook 2010 publisher Statistics Bureau accessdate 15 January 2011 url http://www.stat.go.jp/data/nenkan/pdf/yhyou01.pdf page 17 ref 
+ area_rank   62nd area_magnitude   1 E11
+ area_km2   377,944
+ area_sq_mi    convert 377944 km2 sqmi disp output number only 
+ percent_water   0.8
+ population_estimate   127,960,000 ref cite web url http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm   title Official Japan Statistics Bureau estimate  publisher Statistics Bureau  accessdate 25 August 2010 ref 
+ population_estimate_year   2011
+ population_estimate_rank   10th
+ population_census   128,056,026 ref cite web url http://www.e-stat.go.jp/SG1/estat/ListE.do?bid=000001029548&cycode=0 title Preliminary Counts of the Population and Households  publisher Statistics Bureau  accessdate February 25, 2011 ref 
+ population_census_year   2010
+ population_density_km2   337.1
+ population_densitymi2   873.1  
+ population_density_rank   36th
+ GDP_PPP_year   2011
+ GDP_PPP   $4.396 trillion ref name imf2 cite web  title Japan publisher International Monetary Fund accessdate 30 September 2011  year 2011  url http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2010&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=25&pr1.y=8&c=158&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= ref 
+ GDP_PPP_rank   4th
+ GDP_PPP_per_capita   $34,362 ref name imf2 
+ GDP_PPP_per_capita_rank   25th
+ GDP_nominal   $5.855 trillion ref name imf2 
+ GDP_nominal_rank   3rd
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $45,774 ref name imf2 
+ GDP_nominal_per_capita_rank   18th
+ sovereignty_type    History of Japan Formation 
+ established_event1    National Foundation Day 
+ established_date1   February 11, 660 BC ref According to legend, Japan was founded on this date by  Emperor Jimmu , the country's first emperor. ref 
+ established_event2    Meiji Constitution 
+ established_date2   November 29, 1890
+ established_event3    Constitution of Japan Current constitution 
+ established_date3   May 3, 1947
+ established_event4    Treaty of San Francisco Treaty of br San Francisco 
+ established_date4    br April 28, 1952
+ HDI_year   2011
+ HDI   0.901
+ HDI_change   increase
+ HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf title Human Development Report 2011 year 2011 publisher United Nations UN accessdate 5 November 2011 ref 
+ HDI_rank   12th
+ HDI_category    span style color:#090; very high span 
+ Gini   37.6
+ Gini_year   2008
+ Gini_ref    ref cite web title World Factbook: Gini Index url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html publisher CIA accessdate 11 May 2011 ref 
+ currency   International Symbol  Y=   Pronounced  ( Japanese yen Yen ) br Japanese Symbol  lang ja Yuan  or lang ja Yuan    Pronounced   transl ja ( Japanese yen En ) 
+ currency_code   JPY
+ country_code   JPN
+ time_zone    Japan Standard Time JST 
+ utc_offset   +9
+ time_zone_DST   not observed
+ utc_offset_DST   +9
+ date_format   yyyy-mm-dd br yyyyNian mYue dRi  br Japanese era name Era yyNian mYue dRi  ( Common Era CE -1988)
+ drives_on   left
+ cctld    .jp 
+ calling_code    Telephone numbers in Japan 81 
+ ISO_3166-1_alpha2   JP
+ ISO_3166-1_alpha3   JPN
+ ISO_3166-1_numeric   392
+ sport_code   JPN
+ vehicle_code   J
+ 
+ wiktionary Japan 
+ Japan  (Ri Ben , Nippon or Nihon) is a  country  in  Asia . It has many  island s. Four of them are big, and the biggest is the 7th largest island in the  world . This island is called  Honshu . The islands are near the east Asian coast, in the western part of the  Pacific Ocean . ref name CIA Factbook 
+
+Japanese  people  call their country "Nihon" or "Nippon", ref name CIA Factbook cite web url https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html title Japan publisher CIA accessdate 2016-06-19 work CIA World Factbook ref  which means "the origin of the Sun" in Japanese. Japan has a constitutional democratic government, of which system is called parliamentary cabinet system, where the cabinet exercises political power with parliamentary confidence. ref name CIA Factbook  Japan also has a  Prime minister  and an Emperor and Empress. ref name CIA Factbook  About 13 million people live in Tokyo, which is the capital city of Japan.
+
+ History 
+ Main History of Japan 
+The earliest records on Japan are from  China Chinese  documents. One of those records said there were many small countries (in Japan) which had wars between them and later a country, ruled by a queen, became the strongest, unified others, and brought peace.
+
+The Japanese began to write their own history after the  5th century 5th  and  6th century 6th centuries , when people from  Korea  and China taught Japan about the  Chinese writing system . Japan's neighbours also showed them the ways of  Buddhism . ref name Japan history cite web url http://www.japan-guide.com/e/e2131.html   title Early Japan (until 710)  accessdate 2009-06-16  work japan-guide.com  ref  The Japanese changed Buddhism in many ways, for example, by building strongly on ideas such as  Zen , which came from mainland Asia. ref name Japan history 
+
+In the ancient and the  Middle Ages , China gave Japan many new cultural ideas, but their friendship became weaker later. In the late  13th century ,  Mongol Empire Mongolians  from China tried to invade Japan twice, but they could not. br 
+The  samurai  and  shogun  of Medieval Japan are similar to knights and lords in Medieval  Europe .
+
+Japan had some contact with the Europeans in the  16th century . The  Portugal Portuguese  were the first Europeans to visit Japan. Later, the  Spain Spanish ,  England English  and  Holland Dutch  came to Japan to trade. Also, they brought  Christianity . Japan's leaders welcomed them at first, but because Europeans had conquered many places in the world, the Japanese were scared they would conquer Japan too. So the Japanese did not let the Europeans come into Japan anymore, except in a small area in  Nagasaki  city. Many Christians were killed. Only the Chinese, Korean and Dutch people were allowed to visit Japan, in the end, and they were under careful control of the Japanese government. Japan was opened for visitors again in  1854  by Commodore  Matthew C. Perry Matthew Perry , when the  United States Americans  wanted to use Japanese ports for American  whale  boats. Perry brought steamships with guns, which scared the Japanese into making an agreement with him. ref cite web  url   http://www.history.navy.mil/branches/teach/ends/opening.htm   title Perry & Opening of Japan  work history.navy.mil  year 2009 [last update]  accessdate December 1, 2011 ref 
+
+This new contact with Europeans and Americans changed the Japanese culture. The  Meiji Restoration  of  1868  stopped some old ways and added many new ones. The  Empire of Japan  was created, and it became a very powerful nation and tried to invade the countries next to it. It invaded and  annexation annexed   Ryukyu Islands Ryukyu  Kingdom,  Taiwan , and Korea. It had wars with China and Russia: the  First Sino-Japanese War , the  Boxer Rebellion  the  Russo-Japanese War , and the  Second Sino-Japanese War , which grew to become a part of  World War II  when Japan became allies with  Nazi Germany  and Fascist Italy.
+
+In 1941, Japan attacked  Pearl Harbor  in  Hawaii , a water base of the United States, and destroyed or damaged many ships and airplanes. This started the United States' involvement in  World War II . American and Japanese forces fought each other in the Pacific. Once airbases were established within range of the Japanese mainland, America began to win, and started dropping bombs on Japanese cities. America was able to bomb most of the important cities and quickly brought Japan close to defeat. To make Japan surrender, the United States dropped two  atomic bomb s on the cities of  Hiroshima  and  Nagasaki , killing 150,000 Japanese citizens. Soon after this the  Soviet Union  began to fight against Japan, and the Japanese army in  Manchuria  lost. Japan surrendered and gave up all the places it took from other countries, accepting the  Potsdam Conference Potsdam  Proclamation. The United States occupied Japan and forced it to write a new  constitution , in which it promised to never go to war again.
+
+ Geography 
+ File:Mountfujijapan.jpg thumb| Mount Fuji  with  cherry blossom  trees and a  shinkansen  in the foreground--all three are iconic of Japan 
+Japan is a group of islands in the Western  Pacific , off the coast of China. The four biggest islands are  Honshu ,  Hokkaido ,  Shikoku , and  Kyushu , and there are about 6,000 smaller islands there. Japan is separated from the Asian continent by the  Sea of Japan  and the East China Sea. Honshu, which means 'Mainland' in the  Japanese language , is the biggest island. Hokkaido is the island north of Honshu. Kyushu is the island west of Honshu. Shikoku is the island to the south-west of Honshu. ref name CIA Factbook 
+
+In the middle of Japan there are mountains. ref name CIA Factbook  They cover the middle of the islands and leave a very narrow strip of flat land on most coasts. Many of the mountains are extinct  volcano es, but some are still active. The highest of these mountains is the beautiful, volcano-shaped Mt Fuji (3776m or 12,389 feet high). Japan has many earthquakes, in fact there are about 1500 of these every year. ref name CIA Factbook  The most recent big earthquake was in 2011 - called '2011 Tohoku Earthquake'. It caused great damage to several power plants forcing Japan to shut down all its nuclear plants. There was nuclear core meltdown which caused a serious health risk to nearby villages and cities.
+
+90% of the people living in Japan live in just 10% of the  land , near the coast. The other 10% of the people in Japan live away from the coast.
+
+Over 10 cities have more than a million people in them. The biggest city in Japan is  Tokyo , which is the capital.
+ File:Skyscrapers of Shinjuku 2009 January.jpg thumb|300px| Tokyo 
+
+ Politics and government 
+ further Government of Japan 
+The ruling party is the  Liberal Democratic Party (Japan)  and prime minister is  Shinzo Abe .
+
+ Science and technology 
+In the past, the Japanese learned science by way of China or from  Europe  in the  Meiji Era . However, in recent decades Japan has been a leading innovator in several fields, including  chemical engineering ,  nanotechnology , and robotics. There are many technological companies in Japan, and these companies make products for export.
+
+The robot Asimo was made and introduced in 2000. It was manufactured by  Honda .
+
+ Society and culture 
+
+ see also Japanese tea ceremony Noh Kabuki 
+
+Many things in Japanese culture originated in  China , like  Go  and  bonsai .
+
+Japan's traditional food is  seafood , rice,  miso soup , and vegetables.  Noodles  and  tofu  are also common.  Sushi , a Japanese food made of cooked rice with  vinegar  with other ingredients such as raw fish, is popular around the world.
+
+The religion in Japan is mostly  Shinto  and  Buddhist . Due to the tolerant nature of the two main Japanese religions, and the resulting intermixing mixing of the two, many Japanese identify as both Shinto and Buddhist at the same time. There are small numbers of  Christian s and  Muslim s, and a few  Jew s.
+
+When it comes to  popular culture , Japan is famous for making  video game s. Many of the biggest companies that make games, like  Nintendo ,  Namco , and  Sega , are Japanese. Other well-known parts of Japanese  arts  is  comics , called  manga , and digital  animation , or  anime . Many people get to know Japanese or how life in Japan is like by reading manga or watching anime on  television .
+
+ Armed forces 
+ further Imperial Japanese Army 
+
+ Education 
+ further List of national universities in Japan 
+
+ Cities 
+The biggest cities in Japan are:
+   Tokyo 
+   Yokohama 
+   Nagoya 
+   Osaka 
+   Kyoto 
+   Kobe 
+   Hiroshima 
+   Fukuoka 
+   Kitakyushu 
+   Sendai, Miyagi Sendai 
+   Sapporo 
+   Nagasaki 
+
+In Japan there are eight traditional regions: ref Louis-Frederic Nussbaum, Louis-Frederic . (2005).  http://books.google.com/books?id=p2QnPijAEmEC&pg=PA242&dq= "Geography"  in  Japan Encyclopedia , p. 242. ref 
+   Hokkaido 
+   Tohoku 
+   Kanto 
+   Chubu 
+   Kansai 
+   Chugoku 
+   Shikoku 
+   Kyushu 
+   Okinawa 
+
+ Territorial problem 
+Since Japan is an island nation, Japan has several problems over territory because maritime boundaries can be hard to protect. These days, Japan is competing for at least 4 different territories. It cannot agree with some neighbouring countries on whether the land belongs to Japan or the other country. 
+   Senkaku Islands  problem (with  China  and  Taiwan )
+   Liancourt Rocks  island problem (with  South Korea )
+  Southern  Chishima Islands  problem (with  Russia )
+   Sea of Japan  problem (with  South Korea  and  North Korea )
+
+ Public transportation 
+ File:JR Central Shinkansen 700.jpg thumb|left|High speed  Shinkansen  or  Bullet trains  are a common form of transportation in Japan. 
+
+There are several important international airports in Japan.  Narita  is the major international airport in the Tokyo area. Kansai International Airport serves as the main airport for  Osaka ,  Kobe , and  Kyoto .  Chubu Centrair International Airport  near  Nagoya  is the newest of the three.  Haneda Airport  is close to central Tokyo and is the largest domestic airport in the country.
+
+The  Shinkansen  is one of the fastest trains in the world and connects cities in Honshu and Kyushu. Networks of public and private railways are almost all over the country. People mostly travel between cities in buses.
+
+ Subdivisions 
+ File:Region system8.png 230px|thumb|Prefectures in Japan 
+   Main Prefectures of Japan 
+   Main List of Provinces of Japan 
+Modern Japan is divided into 47  prefectures . ref Nussbaum,  http://books.google.com/books?id=p2QnPijAEmEC&pg=PA780&dq=#v=onepage&q&f=false  "Provinces and prefectures" at p. 780 . ref  Before the  Meiji period  (1868-1912), the nation was divided into  provinces  which were consolidated in the prefectural system.
+
+ style margin:auto; style padding-right:1em; vertical-align:top;  
+ center Hokkaido center 
+ 
+1. Hokkaido br  
+ style padding-right:1em; vertical-align:top;  
+ center Tohoku region Tohoku center 
+ 
+2. Aomori Prefecture Aomori br  
+3. Iwate Prefecture Iwate br  
+4. Miyagi Prefecture Miyagi br  
+5. Akita Prefecture Akita br  
+6. Yamagata Prefecture Yamagata br  
+7. Fukushima Prefecture Fukushima br  
+ style padding-right:1em; vertical-align:top;  
+ center Kanto region Kanto center 
+ 
+8. Ibaraki Prefecture Ibaraki br  
+9. Tochigi Prefecture Tochigi br  
+10. Gunma Prefecture Gunma br  
+11. Saitama Prefecture Saitama br  
+12. Chiba Prefecture Chiba br  
+13. Tokyo br  
+14. Kanagawa Prefecture Kanagawa br  
+ style padding-right:1em; vertical-align:top;  
+ center Chubu region Chubu center 
+ 
+15. Niigata Prefecture Niigata br  
+16. Toyama Prefecture Toyama br  
+17. Ishikawa Prefecture Ishikawa br  
+18. Fukui Prefecture Fukui br  
+19. Yamanashi Prefecture Yamanashi br  
+20. Nagano Prefecture Nagano br  
+21. Gifu Prefecture Gifu br  
+22. Shizuoka Prefecture Shizuoka br  
+23. Aichi Prefecture Aichi br  
+ style padding-right:1em; vertical-align:top;  
+ center Kansai center 
+ 
+24. Mie Prefecture Mie br  
+25. Shiga Prefecture Shiga br  
+26. Kyoto Prefecture Kyoto br  
+27. Osaka Prefecture Osaka br  
+28. Hyogo Prefecture Hyogo br  
+29. Nara Prefecture Nara br  
+30. Wakayama Prefecture Wakayama br  
+ style padding-right:1em; vertical-align:top;  
+ center Chugoku region Chugoku center 
+ 
+31. Tottori Prefecture Tottori br  
+32. Shimane Prefecture Shimane br  
+33. Okayama Prefecture Okayama br  
+34. Hiroshima Prefecture Hiroshima br  
+35. Yamaguchi Prefecture Yamaguchi br  
+ style padding-right:1em; vertical-align:top;  
+ center Shikoku center 
+ 
+36. Tokushima Prefecture Tokushima br  
+37. Kagawa Prefecture Kagawa br  
+38. Ehime Prefecture Ehime br  
+39. Kochi Prefecture Kochi br  
+ style padding-right:1em; vertical-align:top;  
+ center Kyushu  and  Okinawa center 
+ 
+40. Fukuoka Prefecture Fukuoka br  
+41. Saga Prefecture Saga br  
+42. Nagasaki Prefecture Nagasaki br  
+43. Kumamoto Prefecture Kumamoto br  
+44. Oita Prefecture Oita br  
+45. Miyazaki Prefecture Miyazaki br  
+46. Kagoshima Prefecture Kagoshima br  
+47. Okinawa Prefecture Okinawa   br 
+ 
+
+ Sports 
+ File:Sumo ceremony.jpg thumb| Sumo  fighters give a circle around the referee in the opening ceremony. 
+ main Sport in Japan 
+Japan has many traditional sports such as  sumo ,  judo ,  karate ,  kyudo kyudo ,  aikido ,  iaido  and  kendo .  Also, there are sports which were imported from the West such as  baseball ,  soccer ,  rugby ,  golf  and  skiing . ref Nussbaum,   http://books.google.com/books?id=p2QnPijAEmEC&pg=PA905#v=onepage&q&f=false "Sports" at pp. 905-907 . ref 
+
+Japan has taken part in the  Olympic Games  since 1912. It hosted the Olympic Games in 1964, 1972 and 1998. From 1912 until now, Japanese sportspeople have won 398 medals in total.
+
+Professional sports are also popular and many sports such as baseball (see  Pacific League  and  Central League ), soccer (see  List of Japanese football teams ), sumo,  American football ,  basketball  and  volleyball , are played professionally.
+
+ Related pages 
+   Japanese cuisine 
+   Japanese language 
+   Japanese calendar 
+
+ References 
+ reflist 
+
+ Other websites 
+ sisterlinks 
+
+  Government
+   http://www.kantei.go.jp/foreign/index-e.html Kantei.go.jp , official  Prime Minister of Japan prime ministerial  and cabinet site
+   http://www.mofa.go.jp/ Ministry of Foreign Affairs , papers on Japan's foreign policy, education programs, culture and life.
+   http://www.ndl.go.jp/en/index.html National Diet Library 
+   http://www.shugiin.go.jp/index.nsf/html/index_e.htm Shugi-in.go.jp , official site of the House of Representatives
+   https://www.cia.gov/library/publications/world-leaders-1/JA.html Chief of State and Cabinet Members 
+
+ Asia 
+ G8 
+
+ Category:Japan   
+ Category:Current monarchies 
+ Category:G8 nations

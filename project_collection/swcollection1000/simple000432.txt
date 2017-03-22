@@ -1,0 +1,24 @@
+Spache Readability Formula
+
+Spache Readability Formula  is one method of finding out how hard a piece of  write writing  is (its  textual difficulty ).
+
+The method compares  word s in a text to a list of words which are familiar in everyday writing. The words that are not on the list are called  unfamiliar . The  number  of words per sentence are counted. This number and the percentage of unfamiliar words is put into a  formula . The result is a reading age. Someone of this age should be able to read the text.
+
+Spache works best on texts that are for  child ren under the age of eight.
+
+the formula; (0.141 * average sentence length)+(0.086 * percentage of difficult words)+0.839 = grade level
+
+According to Oleander Solutions ( http://www.oleandersolutions.com ), the revised Spache Formula is:
+
+    GL = (.121 * ASL) + (.082 *UW) + .659 
+
+Where:
+
+    GL = U.S. grade level
+    ASL = Average sentence length
+    UW = Number of unique unfamiliar words
+
+ Other pages 
+ Flesch-Kincaid Reading Level 
+
+ Category:Language

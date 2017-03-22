@@ -1,0 +1,96 @@
+Economics
+
+issues 
+ NPOV date March 2016  
+ more sources date March 2016 
+ original research date March 2016 
+ 
+ File:Ballard Farmers' Market - vegetables.jpg thumb|300px|Economists study how people make decisions, such as those  that occur in a  market .|alt=A vegetable vendor in a marketplace. 
+ File:Sao Paulo Stock Exchange.jpg thumb|Sao Paulo's  stock exchange . Buyers and sellers are not present themselves. They use intermediaries and technology to trade. Most ideas about buying and selling are the same as in a "real" market though. 
+
+ Economics  is the  social science  which studies economic activity: how people make  choice s to get what they  want . It has been defined as "the study of scarcity and choice" and is basically about individual choice. It also studies what affects the production, distribution and  Consumption (economics) consumption   of goods and  service (economics) services  in an  economy .
+
+ Investment  and  income  relate to economics. ref Krugman, Paul; Robin Wells (2012)  Microeconomics: Second Edition in Modules  Worth Publishers page 2 ref  The word comes from  Ancient Greek language Ancient Greek , and relates to oikos oikos "house" and nomos nomos "custom" or "law". ref name etymology cite web   last   Harper   first   Douglas   authorlink   Douglas Harper   title   Online Etymology Dictionary -- Economy   date   November 2001   url    http://www.etymonline.com/index.php?term=economy    accessdate October 27, 2007 ref  The  Scientific model model s used in economics today were mostly started in the 19th century. People took ideas from the field of  political economy  because they wanted to use an  empiricism empirical  approach similar to the one used in the  natural sciences . ref name Clark Clark, B. (1998).  Political-economy: A comparative approach . Westport, CT: Preager. ref 
+
+  Subjects and objects in economics  
+The subjects (actors) in economic study are households, business companies, the government (the state), and foreign countries.  Households  offer their " factors of production " to companies. This includes work, land,  Capital (economics) capital  (machines, buildings) and information. They get income which they use to buy or 'consume' goods. 
+
+ Business companies  produce and sell  Good (economics) goods  and  service (economics) services  and buy factors of production from households and from other companies. 
+
+ The state  or  public sector  includes institutions and organisations. The state takes some of the earnings from the business companies and households, and uses it to pay for "public goods" like  street s or  education , to be available for everyone. The last subject is  foreign countries . This includes all households, business companies and state institutions, which are not based in one's own country. They demand and supply goods from abroad.
+
+The objects (things acted upon) in economic study are  consumer  goods, capital goods, and factors of production. Consumer goods are classified as "usage goods" (for example, gasoline or toilet paper), as "purpose goods" (for example, a house or bicycle), and as "services" (for example, the work of a doctor or cleaning lady). Capital goods are goods which are necessary for producing other goods. Examples of these are buildings, equipment, and machines. Factors of production are work, ground, capital, information, and  environment .
+
+  General economic rules  
+  All people have to decide between their options.
+  The cost of goods is what a person gives up for the goods.
+  When a person gives up something (like money) to get a good, they also give up other things that they could have gotten instead.  This means that the true cost of something is what you give up to get it.  This includes  money , and the economic benefits ("utility") that you didn't get because you can no longer buy something else.This is called  opportunity cost .
+  People react to encouragements ("incentives"). Making an option more attractive will make more people choose it.
+  Trade can make everyone better off.
+  Markets are usually good for the organisation of economic life. In the  free market , goods will be shared by people and companies making small decisions. The "invisible hand" of the market ( Adam Smith ) states that if everyone tries to get what they want, everyone will be as well-off as they could possibly be.
+  Sometimes prices do not fully show the cost or benefit to society. For example,  air pollution  is bad for society, and education is good for society. The government can put a tax (or do something to reduce sales) on items that are bad for society. It can also support (like giving money for) items that are good for society.
+  The living standard of a country depends on the skills to produce services and goods. Productivity is the amount of the produced goods divided by total working hours. 
+  When there is an increase in the total money supply, or when the cost to produce things rises, prices go up. This is called  inflation .
+
+  History  
+   18th century  analysis of  wealth 
+   Physiocracy 
+   classical economics 
+   Marxist economics 
+   Austrian economics 
+   neoclassical economics 
+   welfare economics 
+
+Economists are strongly influenced by the times they live in.  For example,  Karl Marx  lived in a time where  worker s' conditions were very poor, and  John Maynard Keynes  lived through the  Great Depression  of the 1930s. Today's economists can look back and understand why they made their judgments, and try to make better ones.
+
+  Branches of economics  
+The two main branches of economics are  microeconomics  and  macroeconomics .  
+
+Macroeconomics is about the economy in general.  For example, if a country's wealth goes up or if millions of people become unemployed, those are things that macroeconomists study.  Microeconomics is about smaller and more specific things such as how families and households spend their money or how a business operates.
+
+There are a number of other branches of economics:
+   Behavioral economics 
+  Business economics
+   Constitutional economics 
+   development economics 
+   ecological economics 
+   economic geography 
+   environmental economics 
+   energy economics 
+   financial economics 
+  industrial economics
+   information economics 
+   international economics 
+   labor economics 
+   managerial economics 
+  mathematical economics or econometrics
+   resource economics 
+   urban economics 
+   public economics 
+  descriptive, theoretical and policy economics
+  monetary economics
+
+  Famous economists  
+
+Famous economists in history include:
+   Adam Smith  (considered to be the father of economics; he supported  free market s).
+   Thomas Malthus  (he wrote about how a high population can affect the economy badly).
+   Karl Marx  (he wrote a book called  The Communist Manifesto ; he supported  communism ).
+   John Maynard Keynes  (he created a popular economic theory called  Keynesian economics ).
+   Milton Friedman  (he wrote a lot about  monetarism  and the  money supply ).
+
+Famous economists of the 19th and 20th century include  Friedrich August von Hayek ,  Wassily Leontief ,  N. Gregory Mankiw ,  Carl Menger , and  Leon Walras .
+
+ Related pages 
+ Political economy 
+ Constitutional economics 
+
+ References 
+ reflist 
+
+  Other websites  
+ commonscat 
+   http://en.citizendium.org/wiki/Economics Economics  Citizendium
+
+ Category:Economics   
+ Category:Social sciences

@@ -1,0 +1,147 @@
+Mammal
+
+Taxobox
+  name   Mammals
+  fossil_range    Upper Triassic -Recent
+  image  Procyon lotor (Common raccoon).jpg
+  image_width   230px
+  image_caption    Raccoon  ( Procyon lotor  ) 
+  regnum    Animalia 
+  phylum    Chordate Chordata 
+  subphylum    Vertebrate Vertebrata 
+  infraphylum    Amniota 
+  superclassis    Tetrapoda 
+  unranked_classis    Mammaliaformes 
+  classis    Mammalia 
+  classis_authority    Carolus Linnaeus Linnaeus , 1758
+  subdivision_ranks   Subclasses & Infraclasses
+  subdivision  
+  Subclass + Allotheria 
+  Subclass  Prototheria 
+  Subclass  Theria 
+  Infraclass + Trituberculata 
+  Infraclass  Metatheria 
+  Infraclass  Eutheria 
+ 
+
+ Mammals  are the group of  vertebrate   animal s which form the  class (biology) class   Mammalia . They have  fur  or  hair  and a very precise kind of  homoiothermy temperature regulation . The females bear live young, and produce milk for the young. Parental care of the young is universal among mammals, and it is essential because live birth limits the number of offspring.
+
+  Main characteristics  
+  Reproductive cycle  
+Most  marsupial  and  eutherian  mammals have a reproductive cycle known as the  oestrous cycle  (U.S: estrous cycle). Females are sexually active only during the oestrous stage, when they are 'on heat' for a few days each month. If an  ovum  is not fertilised, the  endometrium  ( uterus  lining) is resorbed. Oestrus cycles may occur once or twice a year, or many times a year. Each group of mammals has its own frequency.
+
+ Human s and  primate s, are quite different. They have a  menstrual cycle . In this case, females are sexually receptive at any time, but only fertile when an ovum is released from an ovary. In this case, the endometrium (if not needed for an fertilised egg) is discarded. The endometrium is shed, and takes with it a certain amount of blood. In this system, eggs are released from the ovaries mostly in the middle of the cycle, away from the menstrual period. This  ovulation  is 'concealed', meaning, it is not obvious when it occurs. This process, so it is thought, tends to keep the male and female together, which is unusual in mammals with the oestrous cycle.
+
+  Skeleton  
+One  diagnosis diagnostic  feature is the lower  jaw  which, unlike earlier forms, is composed of a single bone, the  dentary . This is one feature which can be seen in fossils, or at least those which are complete enough to have the lower jaw. Mammals have three little bones in their inner ear, the  ear ossicles . The ear ossicles are bones which were, long ago, part of the lower jaw in early proto-mammals.
+
+There are quite a number of other features, particularly in the skull and limbs, so that it is usually possible identify and describe a mammal from its skeleton alone.
+
+  Neocortex and behaviour  
+Another diagnostic feature is the  Cerebral cortex#Neocortex neocortex  of the  Vertebrate brain brain , which no other vertebrate has. This is involved in the kind of flexible  behaviour  and  learning  typical of mammals. Reptiles and birds have much of their behaviour controlled by "inherited behaviour chains", which roughly translates as " instinct s". Almost all animals can do some learning, but mammals do far more than other vertebrates. Their behaviour is much more flexible than  lizards , for example, and that is made possible by their neocortex.
+
+Other things in the life of mammals seem to be connected with this flexibility  and learning.  Play (activity) Play  is a kind of early learning period in which, according to one theory, ref Burghardt, Gordon M. 2006.  The genesis of animal play: testing the limits . MIT Press, p11. ISBN 0-262-02543-4 ref  mammals develop skills which they will need in life. All mammalian young play, and this is very obvious in the more intelligent mammals ( primate s,  cats ).
+
+The  emotions  of mammals are very noticeable, and rather similar to ours. It is possible, and quite common, for humans to have a friendly relationship with another mammal. It is quite impossible for a human to have any kind of relationship with a snake or a  gecko  (for example). This is because the reptile simply does not have the same basic emotions as a human.
+
+  Other items  
+There are about 50 characters which are typical of mammals, and some of the most important are discussed above. A few more examples will make it clear that mammals are very different from reptiles and birds:
+ Sweat  glands
+ Tooth replacement: two sets, and no continuous replacement. Enamel on the tooth surface. Reptile teeth all alike; mammal  teeth  follow a pattern ( incisor s,  canine s,  premolar s and  molar s)
+ Occipital condyles. Two knobs at the base of the skull fit into the topmost neck  vertebra ; most  tetrapods , in contrast, have only one such knob
+ Outlet for foodwaste separate from  urinogenital  outlet. Reptiles and birds have a common  cloaca  at the rear
+ Mammals  excretion excrete   urea ; reptiles and birds excrete  uric acid 
+ Colour vision  is defective or absent in most mammals (primates are an exception)
+ In reptiles and birds the blood vessel which carries oxygenated blood from the left ventricle of the heart lies on the right side of the body; but in mammals it lies on the left side. ref Kermack D.M. & K.A. 1984.  The evolution of mammalian characters . London: Croom Helm, p6. ISBN 0-7099-1534-9 ref 
+ There are many features of the skeleton that mammals share 
+ Their neck always has seven vertebrae, no matter how long it is.
+ Their lower jaw is made of just a single bone on each side, the  dentary .
+ Their  inner ear  has three tiny bones, the  ossicles : malleus, incus and stapes.
+In the language of  cladistics , these 50 unique characters are  apomorphy apomorphies  which prove that mammals are a  clade  descended from a  common ancestor . ref Kemp T.S. 2005.  The origin and evolution of mammals . Oxford University Press. ISBN 0-19-850761-5 ref 
+
+  Main groups  
+Almost all mammals give  birth  to live young. There are only two mammals that lay  Cleidoic egg eggs , called  monotreme s, the duck-billed  platypus   Ornithorhynchus , and the spiny anteater  Echidna , with four species. All are confined to  Australia  and  New Guinea , and are the sole survivors of an earlier group of mammals. However, like other mammals, they feed milk to their young, and protect and look after them.
+
+Other mammals are divided into the  marsupials  and the  Eutheria , the  placenta l mammals. Marsupials are mammals with pouches to carry young in, like the  kangaroo .
+
+  Modes of life  
+In terms of number of species mammals, with 5488 species, ref cite web   title Initiatives    work The IUCN Red List of threatened species   date April 2010   publisher IUCN   url http://www.iucnredlist.org/initiatives ref  are not the most successful vertebrates. Birds, with about 10,000 species have nearly twice as many, ref Cite book title The Clements checklist of birds of the world  first James F.  last Clements  edition 6th   location Ithaca  publisher Cornell University Press  year 2007  isbn 978-0-8014-4501-9
+  ref ref Cite book last Gill  first Frank  year 2006  title Birds of the world: recommended English names  location Princeton  publisher Princeton University Press  isbn 978-0-691-12827-6 ref  and 
+reptiles have just as many as birds. ref http://www.reptile-database.org/ The Reptile Database ref  Fish have even more species. There are 27,000 species of fish, of which nearly 26,000 are bony fish. ref Nelson, Joseph S. 2006. Fishes of the World. 4th ed, John Wiley. ISBN 9780471756446  http://web.archive.org/web/20130305052159/http://www.somas.stonybrook.edu/~conover/Textbooks/Fishes%20of%20the%20World,%204th%20ed.%20Joseph%20S.%20Nelson.pdf ref 
+
+Despite this, many zoologists do regard mammals as a successful group of animals. One reason is that they are successful in all  habitats  on Earth. In the air, in the water, in  forests , in the colder regions of the world, and above all on  grasslands , where they are outstandingly successful.
+
+In the air, the  bats  ( Chiroptera ) are the mammalian order with the most species. They 'own' the nighttime, since birds are largely diurnal (daytime) animals. Bats are hugely successful, mostly as nighttime predators of insects.
+
+Seagoing mammals, the  Cetacea  and the  pinniped s, are very successful and significant  predator s. This includes the  whale s,  Pinniped seals ,  walrus ,  dolphin s and others.
+
+The terrestrial mammals are fewer in number of species than  lizards , but they are huge in individual numbers, and far more important in the life of the terrestrial  biome s. Their ability to move from place to place and adapt has made them a most effective group. Many mammals live in cold places. These mammals have thick hair or  blubber  to keep them warm. Others may live in rainforests. On land the  rodent s (rats, mice) are hugely successful, more common in numbers than any other mammals. Large mammals on land have been hunted to  extinct ion in some parts of the world, but the ones which remain are now better protected.
+
+Last, but certainly not least, are the  primate s. Their natural  habitat , with few exceptions, are the  forest s. Most live in the trees, with hands that grasp, good  colour vision , and  intelligence . In the  Pliocene  period some moved out onto the  savannah s as  grassland  replaced forests.  Mankind  is the result of this shift into the savannahs.
+
+  Taxonomy  
+The evolutionary relationships among land vertebrates is as follows:
+ Tetrapoda  (land vertebrates)
+ Amphibia  (lay eggs in water)
+ Amniota  (lay  cleidoic egg s)
+ Sauropsida  (all true ' reptile s')
+ Synapsida  (all ' mammal-like reptile mammal-like amniotes ')
+ Pelycosauria 
+ Therapsida 
+ Mammalia  (bear live young; milk; raise their young etc.)
+
+This sort of classification is not traditional, but it does reflect our knowledge of  palaeontology  and  evolution . ref Clack Jennifer A. 2012.  Gaining Ground: the origin and early evolution of tetrapods . 2nd ed, Indiana University Press, Bloomington IN. ISBN 978-0-253-35675-8 ref 
+
+  Standardized textbook classification  
+A somewhat standardized classification system has been adopted by most current  mammalogy  classroom textbooks. It is based on living animals. The following taxonomy of extant and recently extinct mammals is from Vaughan et al. 2000. ref Vaughan, Terry A., James M. Ryan, and Nicholas J. Capzaplewski. 2000.  Mammalogy : 4th ed, Saunders. ISBN 0-03-025034-X Brooks Cole, 1999. ref 
+
+ Class Mammalia 
+ Subclass  Prototheria : monotremes:  platypus es and  echidna s
+ Subclass  Theria : live-bearing mammals
+ Infraclass  Metatheria : marsupials
+ Infraclass  Eutheria : placentals
+
+  List of orders  
+ File:Mammal species pie chart.png thumb|300px|Over 3/4 of mammal species are in the orders  Rodent ia (blue),  Chiroptera  (red),  Soricomorpha  (yellow) and  Primates  (green). 
+
+Mammals can be divided in a number of orders:
+   Monotreme s (monotremata)
+   Marsupial s (marsupialia)
+   Eutheria 
+  Superorder  Xenarthra 
+  Order  Pilosa 
+  Order  Cingulata 
+  Superorder  Afrotheria 
+  Order  Proboscidea 
+  Superorder  Laurasiatheria 
+   Insectivora  (no longer used)
+  Order  Eulipotyphla 
+  Order  Chiroptera 
+  Order  Carnivora 
+  Order  Perissodactyla 
+  Order  Artiodactyla 
+  Order  Cetacea 
+  Superorder  Euarchontoglires 
+  Order  Rodentia 
+  Order  Lagomorpha 
+  Order  Primate s
+
+  Images  
+ gallery 
+image:Ursus maritinus.jpg| [[Polar bear]]
+image:Big-eared-townsend-fledermaus.jpg| [[Bat]]
+image:Camel seitlich trabend.jpg |[[Camel]]
+image:Manatee with calf.PD.jpg |[[Manatee]]
+ gallery 
+
+ Related pages 
+   Mammalia (taxonomy) 
+
+  References  
+ wikispecies Mammalia 
+ commonscat Mammalia 
+ Reflist 
+
+ vertebrates 
+
+ Category:Mammals  

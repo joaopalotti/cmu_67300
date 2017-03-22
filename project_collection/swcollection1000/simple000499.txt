@@ -1,0 +1,117 @@
+Unit of measurement
+
+complex date February 2012 
+ File:CubeLitre.svg thumb|This cube can hold one  litre  of a  liquid 
+ File:Masskrug.jpg thumb|Beer mugs, at  Oktoberfest : They hold one litre of beer 
+
+ Measure ment is a process that uses  number s to describe things based on what we can  observation observe  about them. This is done to be able to compare them to each other.  We can measure how big things are, how warm they are, how heavy they are, and lots of other features as well.   Units of Measurement  provide standards for our comparisons, so that the numbers from our measurements refer to the same thing. For example, the  metre  is a standard unit to measure  length . Before 1982, it was defined as the distance between two markers on a special rod. Now scientists define the metre as a fraction of the  speed  of  light .
+
+Saying something has a length of 2 metres means that it is exactly twice as long as that rod used to define the metre, or that light takes twice the time defined for a metre to travel that distance.
+
+Today, most units of measure fall into one of three  System of measurement systems . The older two, the  Imperial units British imperial system  and the closely related  United States customary units US customary system  use the  Foot (unit of length) foot  as a measure of length, the  Pound (mass) pound  as a measure for  weight  and the  second  as a measure for time. There are other units as well. In these systems the number of smaller units that make the bigger units varies. For example, there are 12  inch es in a foot and 16  ounce s in a pound. A newer system is the  metric system  or  SI units SI system  which usually use 10 of the smaller unit to make the bigger one. It uses the metre for length, the  kilogram  for weight, and, as with the others, the second for time.
+
+ Number and Unit of measure 
+The property of the thing being measured is given as a  number  of units of measure. The number only has  sense  when the unit of measurement is also given.
+
+For example,  Eiffel Tower The Eiffel Tower  in  Paris ,  France  is 300  metre meters   height tall . ref A person can also say "The Eiffel Tower's  height  is 300 meters." ref  That is, the  distance  from the top to the bottom of the Eiffel Tower is 300 meters. The property of the Eiffel Tower being measured is a distance. The number measured is 300. This number does not make  sense  without the unit of measure. The unit of measure is the meter.
+
+ Measurement Standards 
+
+ Standard s are special objects that are used to make measurements in terms of fixed units of measurement.  A metre stick is an example of a standard.  When you measure something with a metre stick, you can compare that measurement to anything else that is also measured with a metre stick. This makes measurement  easier  and  wikt:comparison comparisons  between measurements easier. ref An example of unit of measurement standards: br 
+David is making a  house . David wants a  window  in his house. David makes a hole in the  wall  of his house for a window. David measures the hole using the  length  of his arm as a unit of measurement. The hole is one  arm   wikt:tall tall  and two arms  wide . br 
+ br 
+Abbie makes windows. Abbie measures her windows using her arm as a unit of measurement. Some of Abbie's windows are two arms wide and one arm tall. br  
+ br 
+David  buy s a window from Abbie that Abbie says is two arms wide and one arm tall. If David's arms are a different length than Abbie's arms, then the window will be the wrong size. br  
+ br 
+For David to get the right size window, he has to tell the people with the windows what size the hole is. The easy way to do this is for David and Abbie to use the same unit of measurement standard. If David and Abbie both use the meter, they will both know the size of the hole and the size of the windows. br  
+ br 
+Michael wants to use the same window in his house ten years later. Michael makes a hole in his house wall. If the unit of measurement changed in ten years, then Michael would have to remeasure the window. The easiest way to do this is if the unit of measurement did not change in ten years. ref 
+
+ Size of Units of Measurement 
+
+There are units of measurement of different sizes. There are small units of measurement to measure small things. There are big units of measurement to measure big things.
+
+ Science ,  medicine  and  engineering  use smaller units of measurement to measure small things with less  error . It is  easier  to measure large things using larger units of measurement.  Large measurements like the  width  of a  galaxy  and small measurements like the  mass  of an  atom  use special units of measurement.
+
+ Systems of Units of Measurement 
+There are many different standards and units used all over the world. Most became less used during the 19th and 20th centuries.
+
+ Metric System 
+ see  SI  and  Metric system 
+
+The  metric system  is a system of measurement used in most of the  earth world . It is also called the International System of Units, or  SI .
+
+Units of measure in the metric system include:
+
+ The units of  length  or  linear size  are based on the  metre . They include the  kilometre  ( km ) which is 1000 meters, the  centimetre  ( cm ), and the  millimetre  ( mm ) which is 1/1000th of a meter.
+
+ The unit of  volume  is the  litre . It is used for measuring an amount of  liquid .  A  millilitre  ( abbreviate d as  ml ) is the amount of liquid that would fill up a  cube  that measures 1 centimetre on each side. One l litre of liquid would fill up a  cube  that is 10 cm on each side.
+
+ The unit of  mass  is the  kilogram .  A kilogram ( kg ) weighs the same as a litre of water (at normal temperature, and pressure). 1 gram ( g ) is the weight of 1 millilitre of  water  at 0 degrees  Celsius .  The metric  tonne  is 1000 kilograms or a  million  grams.
+
+ British imperial Units 
+ main imperial units 
+Imperial units were defined in the United Kingdom in 1825. These units sometimes based on similar units that were in use before 1825. Imperial units were used in countries that were part of the  British Empire . While many of these countries, including the United Kingdom, have officially adopted SI, the older system of units are still used.
+
+ US customary units 
+ main United States customary units 
+US customary units are the official units used in the US. These are similar to the British imperial units and also based on the units used in the United Kingdom from before  American Independence . But some of the units are different to the British ones. For example, there are 20 imperial fluid ounces in an imperial pint, but 16 US fluid ounces in a US pint. Additionally, the US fluid ounce is slightly bigger than the imperial fluid ounce. The result is that US pints and gallons are smaller than imperial pints and gallons. In the United States, the metric system has been legal for trade since 1866 but other measurements such as the gallon, inch, and the pound are still widely used.
+
+Imperial and US units of measurement include:
+ Length -  inch  ( in ),  Foot (unit of length) foot  ( ft ),  yard  ( yd ), and  mile .
+ 1 foot = 12 inches
+ 1 yard = 3 feet (plural of foot) = 36 inches
+ 1 mile = 1760 yards = 5280 feet
+
+ Imperial volume -  imperial fluid ounce  ( fl oz ),  imperial pint  ( pt ), and  imperial gallon  ( gal ).
+ 1 imperial pint = 20 imperial fluid ounces
+ 1 imperial gallon = 8 imperial pints
+
+ US volume - US fluid ounces ( fl oz ),  Cup (unit) US cup  ( cp ),  US pint  ( pt ),  US quart  ( qt ), and  US gallon  ( gal ).
+ 1 US cup = 8 US fluid ounces
+ 1 US pint = 2 US cups = 16 US fluid ounces
+ 1 US quart = 2 US pints
+ 1 US gallon = 4 US quarts = 8 US pints
+
+ Weight  and  mass  are measured in ounces ( oz ) and pounds ( lb ), and  stone (unit) stone  ( st ) in imperial only.
+ 1 pound = 16 ounces
+ 1 stone = 14 pounds
+
+The ounces for weight and volume are different. Even when measuring  water , the number of ounces of weight is not the same as the number of fluid ounces.
+
+ Converting Between Systems 
+ Metric to US
+ 1 meter = 1.09 yards = 39.37 inches.
+ 1 liter = 33.3 fluid ounces = 1.76 pints = .26 US gallons.
+ 1 kilogram = 35.32 ounces = 2.2 pounds
+
+ US to metric
+ Length
+ 1 inch = 2.54 centimetres
+ 1 foot = 30.48 centimetres
+ 1 yard = .914 metres
+ 1 mile = 1.61 kilometres
+ Volume
+ 1 fluid ounce = 29.6 millilitres
+ 1 pint = 473.1 millilitres
+ 1 gallon = 3.79 litres
+ 1 cup = 16 ounces
+ Mass
+ 1 ounce = 28.35 grams
+ 1 pound = .45 kilograms
+
+  Other Units of Measure 
+ Time 
+The unit of  time  is the  second .  The  minute  (60 seconds) and  hour  (60 minutes or 3600 seconds) are larger units.  A  day  is usually said to be 24 hours, but is actually a little bit longer than that.  This difference is corrected at the end of some  year years  with what is called a leap second.  A  week  (7 days) and  month  are also standard units.
+
+ Money 
+A unit of measurement that applies to  money  is called a  unit of account .  This is normally a  currency  issued by a  country .  For instance, the  United States  use  U.S. Dollar dollars . Each dollar is 100 cents. The  United Kingdom  uses  British pound pounds . Each pound is 100 pennies or  pence . Other countries in  Europe  use the  Euro  which is 100 cent for the Euro (they are not called "cents").
+
+ Notes 
+ reflist 
+
+ Category:Units of measurement   
+
+ ar:qyst 
+ tr:Olcum

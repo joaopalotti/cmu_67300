@@ -1,0 +1,17 @@
+Home page
+
+The  home page  of a  web site  is the  wikt:document document  that a  server web server  sends to another  computer 's  web browser   Computer software application  when it has been contacted without a request for specific information. That is, when you enter only a  domain name  in the Address box without specifying a directory or a file, the  home page  is usually the first part of the web site you will be taken to. The Home Page is also called the Main Page.
+
+A properly written home page will tell a user about the information available in the web site, and how to view different parts of the web site.
+
+The home page of  simple.wikipedia.org  can be found  Main Page at this link. 
+
+ Home Page  was a popular computer application used for composing  web page s.
+
+  In Linux servers  
+In  Linux -based servers, the homepage usually is index.html, index.php, index.cgi, etc. Unless the website administrator has created a  URL redirection redirect  to a specific webpage.
+
+  In Windows servers  
+However, in  Microsoft Windows Windows -based servers, the homepage is default.html, default.php, etc. This is a problem for website administrators to install website applications like  MediaWiki . Mainly because most website applications are created with the homepage as index.php (for  PHP  applications).
+
+ Category:Websites

@@ -1,0 +1,51 @@
+Movement
+
+other uses 
+ File:Cetonia aurata take off composition 05172009.jpg thumb|A  beetle  moving through the air 
+
+ Movement , or  motion ,  is the  state  of changing something's  position --that is, changing where something is.  A flying  bird  or a walking  person  are  moving , because they change where they are from one place to another.  There are many kinds of  science  and  mathematics math  related to movement.
+
+For example, thanks to  Albert Einstein , we know that all  position  is  relativity relative .  This means that everything's position depends on where they exist in relation to other things.  For example, a ball is 5  Foot (unit of length) feet  away from a  box , 3 feet away from a  chair , and a foot away from a  Table (furniture) table .  According to Einstein, the ball's position means how far the ball is from other things, so by telling you how far the ball was from other things, I told you its position.  An object's  movement  is also relative.  Its movement depends on where it is in relation to other things and where it's going to in relation to other things.
+
+There are many things involved in movement, such as  speed ,  velocity ,  acceleration ,  gravity , magnetic  electromagnetism attraction  and  repulsion ,  friction , and  inertia .  Also,  Work (physics) work  is needed to produce movement.  Light  moves at about 300,000  kilometer kilometres  per second or 186,000  mile s per second.
+
+  Control of movement  
+In all animals, movement is controlled by the  nervous system , especially the  brain  and  spinal cord . 
+
+The muscles that control the eye are driven by the  optic tectum  in the midbrain. All the  voluntary muscle s in the body are driven by  motor neuron s in the spinal cord and hindbrain. ref name Kandel 2000  Spinal motor neurons are controlled by neural circuits of the spinal cord, and by inputs from the brain. The spinal circuits do many  reflex  responses, and also do rhythmic movements such as walking or swimming. The descending connections from the brain give more sophisticated control. ref name Kandel 2000 Kandel, Eric R; Schwartz, James Harris & Jessell, Thomas M. 2000.  Principles of neural science . New York: McGraw-Hill. ISBN 978-0-8385-7701-1 [] ref 
+
+The brain has several motor areas that project directly to the spinal cord. At the highest level is the  primary motor cortex , a strip of tissue at the back edge of the frontal lobe. This tissue sends a massive projection directly to the spinal cord, through the  pyramidal tract . This allows for precise voluntary control of the fine details of movements. There are other brain areas which affect movement. Among the most important secondary areas are the  premotor cortex ,  basal ganglia , and  cerebellum . ref name Kandel 2000 
+ class wikitable style margin: 1em auto 1em auto; + Major areas involved in controlling movement
+  Area
+ width 100  Location
+  Function
+ scope row style text-align:left   Anterior horn of spinal cord Ventral horn 
+ style background: tan  Spinal cord  style background:#ffdead  Contains motor neurons that directly activate muscles ref cite web  last Dafny  first N  title Anatomy of the spinal cord  publisher Neuroscience Online  url http://neuroscience.uth.tmc.edu/s2/chapter03.html   accessdate 2011-10-10 ref 
+ scope row style text-align:left   Oculomotor nucleus Oculomotor nuclei 
+ style background: tan  Midbrain  style background:#ffdead  Contains motor neurons that directly activate the eye muscles ref cite web  last Dragoi  first V  title Ocular motor system   publisher Neuroscience Online  url http://neuroscience.uth.tmc.edu/s3/chapter07.html   accessdate 2011-10-10 ref 
+ scope row style text-align:left   Cerebellum 
+ style background: tan  Hindbrain  style background:#ffdead  Calibrates precision and timing of movements ref name Kandel 2000 
+ scope row style text-align:left   Basal ganglia 
+ style background: tan  Forebrain  style background:#ffdead  Action selection on the basis of motivation ref cite journal  last   Gurney  first   K  year   2004  title   Computational models of the basal ganglia: from robots to membranes  journal   Trends in Neurosciences  volume   27  pages   453-459  pmid   15271492  doi   10.1016/j.tins.2004.06.003  last2   Prescott  first2   TJ  last3   Wickens  first3   JR  last4   Redgrave  first4   P  issue   8 ref 
+ scope row style text-align:left   Motor cortex 
+ style background: tan  Frontal lobe  style background:#ffdead  Direct cortical activation of spinal motor circuits
+ scope row style text-align:left   Premotor cortex 
+ style background: tan  Frontal lobe  style background:#ffdead  Groups elementary movements into coordinated patterns ref name Kandel 2000 
+ scope row style text-align:left   Supplementary motor area 
+ style background: tan  Frontal lobe  style background:#ffdead  Sequences movements into temporal patterns ref Cite journal  last   Shima  first K  last2   Tanji  first2 J   year   1998  url    http://jn.physiology.org/cgi/content/abstract/80/6/3247  title   Both supplementary and presupplementary motor areas are crucial for the temporal organization of multiple movements  journal   Journal of Neurophysiology  volume   80  pages   3247-3260  pmid   9862919  issue   6 ref 
+ scope row style text-align:left   Prefrontal cortex 
+ style background: tan  Frontal lobe  style background:#ffdead  Planning and other  executive functions ref cite journal  last Miller  first EK  last2 Cohen  first2 JD  title An integrative theory of prefrontal cortex function  journal Annual Review of Neuroscience  volume 24  issue 1  pages 167-202  year 2001  pmid 11283309  doi 10.1146/annurev.neuro.24.1.167  ref 
+ 
+
+In addition to all of the above, the brain and spinal cord contain extensive circuitry to control the  autonomic nervous system , which works by secreting hormones and by modulating the "smooth" muscles of the gut. ref name Kandel 2000  The autonomic nervous system affects  heart rate ,  digestion ,  respiration  rate,  salivation ,  perspiration ,  urination , and  sexual arousal , and several other processes. Most of its functions are not under direct voluntary control.
+
+  Related pages  
+   Newton's laws of motion 
+   Transportation 
+   Navigation 
+
+  References  
+ reflist 
+
+
+ Category:Mechanics

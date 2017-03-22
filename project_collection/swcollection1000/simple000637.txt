@@ -1,0 +1,49 @@
+Help:Contents
+
+To request help and ask questions from other users, see  Wikipedia:Simple talk  or click  http://simple.wikipedia.org/w/index.php?title=Special:Mytalk&action=edit here  and type  nowiki {{helpme}} nowiki  and your question. Someone will then answer your question.
+ big Simple English Wikipedia Help big 
+ style float: left; margin-left: 2%; margin-bottom: 0.5em; width:48%; border: #B8C7D9 solid 1px style background:#F2F5F8;color:#1717A2; b Writing Style b 
+ 
+ Image:Nuvola_apps_package_wordprocessing.png 20px|left Wikipedia:How to write Simple English pages How to write Simple English pages 
+ Image:Nuvola_apps_package_wordprocessing.png 20px|left Help:Examples of simpler English Examples of Simpler English 
+ Image:Nuvola_apps_package_wordprocessing.png 20px|left Wikipedia:Basic English combined wordlist Basic English word list 
+ Image:Nuvola_apps_package_wordprocessing.png 20px|left Wikipedia:Manual of Style Manual of Style 
+ Image:Nuvola_apps_package_wordprocessing.png 20px|left Wikipedia:What is an article? What is an article? 
+ style background:#F2F5F8;color:#1717A2; b Changing on Wikipedia b 
+ 
+ Image:Nuvola_apps_ksig.png 20px|left Help:How to edit How to change pages 
+ Image:Nuvola_apps_ksig.png 20px|left Wikipedia:How to copy-edit How to copy-edit 
+ Image:Nuvola_apps_ksig.png 20px|left Help:How to use images How to use images 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Redirect How to redirect 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Small change Marking your changes as minor 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Revert a page Reverting a page to an older version 
+ Image:Nuvola_apps_ksig.png 20px|left Help:User preferences help Personal settings 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Namespaces All about namespaces 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Changes Changing Wikipedia 
+ Image:Nuvola_apps_ksig.png 20px|left Help:Archiving a talk page How to archive a talk page 
+ Image:Nuvola_apps_ksig.png 20px|left Wikipedia:How to copy from another Wikipedia Copying from another Wikipedia 
+ 
+ style float: right; margin-bottom: 0.5em; width:48%; border: #B8C7D9 solid 1px style background:#F2F5F8;color:#1717A2; b Wikipedia b 
+ 
+ Image:Wikipedia-logo.png 20px|left Wikipedia:About About Wikipedia 
+ Image:Wikipedia-logo.png 20px|left Simple English Wikipedia 
+ Image:Wikipedia-logo.png 20px|left Wikipedia:Rules Rules 
+ Image:Wikipedia-logo.png 20px|left Wikipedia:Please do not bite the newcomers Please do not bite the newcomers 
+ 
+ Image:Wikipedia-logo.png 20px|left Wikipedia:Be bold in updating pages Be bold! 
+ style background:#F2F5F8;color:#1717A2; b More help b 
+ 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Simple talk Simple talk 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Simple start Simple start 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Student_tutorial Student tutorial 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Schools/Teachers'_Guide Teachers' Guide 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Questions Your Questions 
+ Image:Nuvola_apps_kdmconfig.png 20px|left Wikipedia:Administrators' noticeboard Administrators' noticeboard 
+ 
+
+ category:Wikipedia 
+
+ Category:Help 
+
+ bg:Uikipediia:P'rvi st'pki 
+ ky:Help:Contents

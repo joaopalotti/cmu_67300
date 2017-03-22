@@ -1,0 +1,103 @@
+Gravity
+
+Gravity , or ' gravitation is one of the  Fundamental force fundamental forces  of the  universe . In this article, we discuss it in three parts:
+ File:GPB circling earth.jpg thumb|300px|Artist concept of Gravity Probe B orbiting the Earth to measure space-time, a four-dimensional description of the universe including height, width, length, and time. 
+
+ Everyday sense: the force which causes objects to fall onto the ground.
+ Newton 's laws: how gravity keeps the  Solar System  together.
+ Einstein 's theory of  general relativity : the role of gravity in the universe.
+
+Some physicists think gravity is caused by  graviton s, but they are still unsure.
+
+  Everyday gravity  
+  Weight vs mass  
+In everyday talk, we say things fall because the  Earth 's gravity pulls on them. We talk as if our  weight  was a "given". Actually, weight changes when the pull of gravity changes. The  Moon  is much smaller and the pull of gravity on the Moon is about 1/6th that of Earth. So any object on the Moon weighs 1/6th of its weight on Earth. What does not change is the amount of  matter  in an object. That is called its  mass . On Earth, mass and weight are the same for practical purposes. The trip to the Moon shows they are not really the same.
+
+From this we learn two things.
+  The <u/l>weight</u/l> of an object is variable; its <u/l>mass</u/l> is constant.
+  The pull of gravity varies according to the mass of an object. The Earth pulls more strongly than the Moon. A person also exerts a gravitational pull, but it is so tiny it can be ignored for all practical purposes.
+
+The Earth has mass. Every particle of  matter  has mass. So the Earth pulls on every object and person and they pull on the Earth. Gravity pulls on the mass and gives it weight.
+
+  Gravity vs gravitation  
+These words mean almost the same thing in everyday use. Sometimes scientists use "gravity" for the force that pulls objects towards each other, and "gravitation" for the theory about the attraction. 
+
+  History of gravitational theory  
+ File:NewtonsLawOfUniversalGravitation.svg thumb|Newton's law of universal gravitation. 
+
+  Galileo  
+In the late 16th century,  Galileo  did a famous  experiment  about gravity where he dropped balls from the  Leaning Tower of Pisa Tower of Pisa . He later rolled balls down inclines. With these experiments, Galileo showed that gravitation  acceleration accelerates  all objects at the same rate regardless of weight. 
+
+  Kepler  
+The man who really worked it all out was  Johannes Kepler , who, after "900 pages of calculations and many false starts and dead-end ideas", ref Crowell, Benjamin 1998/2011.  http://www.lightandmatter.com/html_books/1np/ch10/ch10.html Gravity   ref  finally got these three laws:
+
+ Kepler's  ellipse elliptical  orbit law: The planets orbit the sun in elliptical orbits with the sun at one focus.
+ Kepler's equal-area law: The line connecting a planet to the sun sweeps out equal areas in equal amounts of time.
+ Kepler's law of periods: The time required for a planet to orbit the sun, called its  orbital period , is proportional to the long axis of the ellipse raised to the 3/2 power. The constant of proportionality is the same for all the planets.
+
+  Newton  
+In 1687,  England English   mathematician    Isaac Newton  wrote the  Philosophiae Naturalis Principia Mathematica Principia . In this book, he wrote about the inverse-square law of gravitation. Newton said that the closer two objects are to each other, the more gravity will affect them. His theory about gravitation was used to predict the existence of the planet  Neptune (planet) Neptune  based on changes in the orbit of  Uranus .
+
+Newton's theory was later used to predict the existence of another planet closer to the Sun than  Mercury (planet) Mercury . When this was done, it was learned that his theory was not entirely correct. These mistakes in his theory were corrected by  Albert Einstein 's theory of General Relativity. Newton's theory is still commonly used for many things because it is much more simple to work with than the theory of General Relativity and is usually  wikt:accurate accurate  enough for many uses.
+
+  Dynamic equilibrium  
+Why does the Earth not fall into the  Sun ? The answer is simple but very important. It is because the Earth moving round the Sun is in a  dynamic equilibrium . The speed of the Earth's movement creates a  centrifugal force  which balances the gravitational force between the Sun and the Earth. Why does the Earth continue spinning? Because there is no force to stop it.
+
+Newton's first law: "If a body is at rest it remains at rest or if it is in motion it moves at the same  w:velocity speed   until it is acted on by an external force ". ref Duncan, Tom. 1995.  Advanced physics for Hong Kong: I. Mechanics & Electricity . John Murray. ref 
+
+There is a kind of analogy between  centrifugal force  and  gravitational force , which led to the "equivalence principle" of  general relativity . ref name Barbour Barbour, Julian B. and Herbert Pfister 1995.  http://books.google.com/books?id=fKgQ9YpAcwMC&pg=PA69 Mach's principle: from Newton's bucket to quantum gravity . Birkhauser, p. 69. ISBN 0-8176-3823-7 ref ref name Eriksson Eriksson, Ingrid V. 2008.  http://books.google.com/books?id=rYW8tKzrFd4C&pg=PA194 Science education in the 21st century . Nova Books, p. 194. ISBN 1-60021-951-9 ref 
+
+  Weightlessness  
+In  free fall  a thing's motion balances out the pull of gravity on it. This includes being in  orbit .
+
+  General relativity  
+The  special theory of relativity  describes systems where gravity is not an issue;  by contrast, gravity is the central issue of the  general theory of relativity . ref name Wald Wald, Robert M. 1992.  Space, time, and gravity: the theory of the Big Bang and black holes.  Chicago: University of Chicago Press, ISBN 0-226-87029-4 ref 
+
+In general relativity  there is no gravitational force  deflecting objects from their natural, straight paths. Instead, gravity is seen as changes in the properties of space and time. In turn, this changes the straightest-possible paths that objects will naturally follow. ref At least approximately. Poisson, Eric 2004. The motion of point particles in curved spacetime.  Living Rev. Relativity   7 , retrieved 2007-06-13  http://relativity.livingreviews.org/Articles/lrr-2004-6/ ref  The curvature is, in turn, caused by the energy-momentum of matter.  Spacetime  tells matter how to move; matter tells spacetime how to curve. ref name Wheeler Wheeler, John; Ford, Kenneth 1998,  Geons, black holes, & quantum foam: a life in physics.  New York: Norton. ISBN 0-393- 31991-1
+ ref 
+
+For weak gravitational fields and slow speeds relative to the speed of light, the theory's predictions converge on those of  Newton's law of universal gravitation . ref name W84 Wald, Robert M. 1984.  General relativity . University of Chicago Press. ISBN 0-226-87033-2 ref  Newton's equations are used to plan journeys in our Solar System.
+
+General relativity has a number of physical consequences. 
+
+  Gravitational time dilation and frequency shift  
+ File:Gravitational red-shifting.png thumb|200px|Schematic representation of the gravitational redshift of a light wave escaping from the surface of a massive body 
+
+Gravity influences the passage of time. Light sent down into a  :en:Gravity_well gravity well  is  blueshift ed, whereas light sent in the opposite direction (i.e., climbing out of the gravity well) is  redshift ed; collectively, these two effects are known as the  gravitational frequency shift . 
+
+More generally, processes close to a massive body run more slowly when compared with processes taking place farther away; this effect is known as gravitational time dilation. ref Rindler, Wolgang 2001.  Relativity: special, general and cosmological . Oxford University Press, 24-26. ISBN 0-19-850836-0 ref ref name M73 Misner, Charles W; Thorne, Kip. S. & Wheeler, John A. 1973.  Gravitation . W.H. Freeman, ISBN 0-7167-0344-0 ref 
+
+  Light deflection and gravitational time delay  
+ File:Light deflection.png thumb|right|200px|Deflection of light (sent out from the location shown in blue) near a compact body (shown in gray) 
+General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant  quasar s being deflected as it passes the  Sun . ref Kennefick, Daniel 2005. Astronomers test general relativity: light-bending and the solar redshift. In Renn, Jurgen (ed)  One hundred authors for Einstein . Wiley, 178-181. ISBN 3-527-40574-7 ref 
+
+Closely related to light deflection is the gravitational time delay (or Shapiro delay), the phenomenon that light signals take longer to move through a gravitational field than they would in the absence of that field. There have been numerous successful tests of this prediction. ref name Ohan Ohanian, Hans C. & Ruffini, Remo 1994.  Gravitation and spacetime . Norton, table 4.4 on p. 200. ISBN 0-393-96501-5 ref ref Stairs, Ingrid H. 2003. Testing general relativity with pulsar timing.  Living Rev. Relativity   6 .  http://relativity.livingreviews.org/Articles/lrr-2003-5/ ref  
+
+A  parameter  called g encodes the influence of gravity on the geometry of space. ref Will, Clifford M. 2006. The confrontation between general relativity and experiment.  Living Rev. Relativity .  9 , 3. http://relativity.livingreviews.org/Articles/lrr-2006-3/ ref 
+
+  Gravitational waves  
+ main gravitational wave 
+Gravitational waves are ripples in the  curvature  of  spacetime . They move as a  wave , travelling outward from the source. Einstein predicted them in 1915 on the basis of his theory of  general relativity . ref cite web   last Finley   first Dave   title Einstein's gravity theory passes toughest test yet: Bizarre binary star system pushes study of relativity to new limits.   url http://phys.org/news/2013-04-einstein-gravity-theory-toughest-bizarre.html    publisher Phys.Org ref  In theory, gravitational waves transport energy as gravitational radiation. Sources of detectable gravitational waves might include  binary star  systems composed of  white dwarf s,  neutron star s, or  black holes . In general relativity, gravitational waves cannot travel faster than the  speed of light . 
+
+Although gravitational radiation has not been  directly  detected, there is  indirect'' evidence for its existence. The 1993  Nobel Prize in Physics  was awarded for measurements of the Hulse-Taylor  binary star  system. These measurements suggest gravitational waves are more than mathematical peculiarities. Various gravitational wave detectors exist. However, they have not yet detected the  phenomena .
+
+  Related pages  
+   Escape velocity 
+   General relativity 
+   Newton's laws of motion 
+
+ References 
+ reflist 
+
+  Other websites  
+   http://einstein.stanford.edu/ Gravity Probe B experiment  The Einstein website from Stanford University
+   http://static.scribd.com/docs/8deo8fwbo2y96.swf Gravity for kids  (useful Q & A)
+   http://www.howstuffworks.com/question232.htm How stuff works : How does gravity work?
+   http://www.pbs.org/wgbh/nova/pisa/galileo.html NOVA  - PBS NOVA. Galileo's experiments
+   http://www.lightandmatter.com/html_books/1np/ch10/ch10.html Gravity  - Kepler and Newton: excellent summary
+   http://physnet.org/home/modules/pdf_modules/m101.pdf Newton's Law of Universal Gravitation   on  http://www.physnet.org Project PHYSNET 
+  PhysOrg.com.  http://www.physorg.com/news85310822.html Alternative theory  of gravity may explain large structure formation--without dark matter
+
+
+ Category:Force 
+ Category:Basic physics ideas

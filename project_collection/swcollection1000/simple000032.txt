@@ -1,0 +1,278 @@
+Afghanistan
+
+complex date February 2012 
+ Infobox country
+ conventional_long_name   Islamic Republic of Afghanistan yrwnyh w fGwnyh hmzbn nystnd, lhjh fGwny wHshtnkh st
+
+
+ unbulleted list item_style font-size:88%;
+     hr   longitem nobold Nastaliq resize 120% jmhwry slmy fGnstn br native name fa Jomhuri-ye Eslami-ye Afganestan 
+     hr   longitem nobold Nastaliq resize 120% d fGnstn slmy jmhwryt br nowrap Da Afganistan Islami Jumhoryat Spaces 2 resize 70% ( Pashto language Pashto ) 
+ common_name   Afghanistan
+ image_flag   Flag of Afghanistan.svg
+ image_coat   National Emblem of Afghanistan 03.png
+ symbol_type   Coat of arms
+ image_map   Afghanistan (orthographic projection).svg
+ image_map2   Afghanistan - Location Map (2013) - AFG - UNOCHA.svg
+ national_motto    Shahada There is no god but God, Muhammad is the messenger of God 
+ national_anthem   " Afghan National Anthem "
+ languages_type    Official language s
+ languages    hlist style white-space:nowrap;  Pashto language Pashto Dari language Dari ref name AO 
+ religion    Islam 
+ demonym    Demography of Afghanistan Afghan   ref label crown alternatives none 
+ capital    Kabul 
+ latd 34  latm 32  latNS N  longd 69  longm 08  longEW E
+ largest_city   Kabul
+ government_type    Presidential republic 
+ leader_title1    President of Afghanistan President 
+ leader_name1    Ashraf Ghani ref cite web title Office of the President url http://president.gov.af/en publisher Islamic Republic of Afghanistan accessdate 30 October 2016 ref 
+ leader_title2    Chief Executive Officer (Afghanistan) Chief Executive Officer 
+ leader_name2    Abdullah Abdullah 
+ legislature    National Assembly of Afghanistan National Assembly 
+ upper_house    House of Elders Mesherano Jirga 
+ lower_house    House of the People (Afghanistan) Wolesi Jirga 
+ area_rank   41st
+ area_magnitude   1_E11
+ area_km2   652864 ref name Area and administrative Population http://cso.gov.af/en Central Statistics Organization of Afghanistan :  http://cso.gov.af/en/page/4722/2012-2-13 Statistical Yearbook 2012-2013 :  http://cso.gov.af/Content/files/Area%20and%20Administrative%20and%20Population.pdf Area and administrative Population ref 
+ area_sq_mi   251827
+ percent_water   negligible
+ population_estimate   31,822,848 ref cite web  url https://www.cia.gov/library/publications/the-world-factbook/geos/af.html   title The World Factbook: Afghanistan  accessdate July 24, 2014 ref 
+ population_estimate_year   2014
+ population_estimate_rank   40th
+ population_census   15.5 million ref name IIOT cite web  url http://www.gl.iit.edu/govdocs/afghanistan/Afghanistan-Chapter2.pdf   archiveurl https://web.archive.org/web/20011103001515/http://www.gl.iit.edu/govdocs/afghanistan/Afghanistan-Chapter2.pdf   archivedate 3 November 2001 title Chapter 2. The Society and Its Environment  format PDF  work Afghanistan Country Study  publisher Illinois Institute of Technology   pages 105-06  accessdate 12 October 2010 ref 
+ population_census_year   1979
+ population_density_km2   43.5
+ population_density_sq_mi   111.8
+ population_density_rank   150th
+ GDP_PPP_year   2014
+ GDP_PPP   $36.838 billion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=40&pr.y=12&sy=2012&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Afghanistan  publisher International Monetary Fund  accessdate 26 April 2014 ref 
+ GDP_PPP_rank  
+ GDP_PPP_per_capita   $1,177 ref name imf2 
+ GDP_PPP_per_capita_rank  
+ GDP_nominal_year   2014
+ GDP_nominal   $21.747 billion ref name imf2 
+ GDP_nominal_per_capita   $695 ref name imf2 
+ Gini_year   2008
+ Gini_change     
+ Gini   29  
+ Gini_ref    ref name wb-gini cite web  url http://data.worldbank.org/indicator/SI.POV.GINI/   title Gini Index  author   date   work   publisher World Bank  accessdate 2 March 2011 archiveurl https://web.archive.org/web/20140511044958/http://data.worldbank.org/indicator/SI.POV.GINI archivedate 2014-05-11 ref 
+ Gini_rank  
+ HDI_year   2013 
+ HDI_change    steady 
+ HDI   0.468  
+ HDI_ref    ref name HDI cite web  url http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf   title 2014 Human Development Report Summary  date 2014  accessdate 27 July 2014  publisher United Nations Development Programme   pages 21-25 ref 
+ HDI_rank   169th
+ FSI   102.3  increase  2.5
+ FSI_year   2007
+ FSI_rank   8th
+ FSI_category    span style color:#f00; Alert span 
+ sovereignty_type    Safavid dynasty Independence  from  Afsharid dynasty Persia 
+ established_event1    nowrap Hotak Empire First Afghan state 
+ established_date1   April 1709
+ established_event2    nowrap Durrani Empire Afghan Empire 
+ established_date2   October 1747
+ established_event3    Afghan Independence Day Recognized 
+ established_date3   19 August 1919
+ currency    Afghan afghani Afghani 
+ currency_code   AFN
+ country_code   AFG
+ time_zone   D+
+ utc_offset   +4:30
+ drives_on   right
+ calling_code    +93 
+ cctld    .af   fGnstn. 
+ 
+ Afghanistan  (officially called  Islamic Republic of Afghanistan ;  lang-fa jmhwry slmy fGnstn ,  lang-ps d fGnstn slmy jmhwryt ) is a  country  in  South Asia . ref cite web  url http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm#asia   title Composition of macro geographical (continental) regions, geographical sub-regions, and selected economic and other groupings  publisher United Nations   date 26 April 2011  accessdate 13 July 2011  archiveurl http://web.archive.org/web/20110713041240/http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm  archivedate 13 July 2011   deadurl  no ref ref name cia  It has borders with  Pakistan  in the south and east,  Iran  in the west,  Turkmenistan ,  Uzbekistan  and  Tajikistan  in the north, and  China  in the far northeast. ref name cia cite web  url https://www.cia.gov/library/publications/the-world-factbook/geos/af.html   title Afghanistan  work CIA - The World Factbook  accessdate 30 August 2011 ref 
+
+In early times people passed through it with animals and other goods as it connected China and India with  Central Asia  and the Middle East. More recently, Afghanistan has been damaged by many years of war and there not being enough jobs.
+
+The country is around 251,826 square  miles  (652,230 square kilometers) in size or area. There are 30 million people in Afghanistan. There are about 3 million Afghan  refugees  (people who had to leave the country) who are in Pakistan and Iran for some time.  Kabul , its capital, had about 3,691,400 people living in it in 2011. ref name cso.gov.af http://cso.gov.af/Content/files/2-2.pdf ref 
+
+  Land and climate  
+ File:Black Hawk flying over a valley in Bamyan.jpg left|thumb|Snow-capped Koh-i-Baba mountains in  Bamyan Province  of Afghanistan. 
+Afghanistan has many  mountains . The mountains are called the  Hindu Kush  and  Himalayas . The big mountain in Afghanistan is  Noshaq Mount Nowshak . There are  plains  (which have soil that is good for growing plants) and  foothills . Part is also dry and called the  Registan Desert .
+
+Afghanistan has snow and  glaciers  in the mountains.  Amu Darya  is the big water stream, or river.
+
+Afghanistan is dry and cold in winter and hot in summer. Having no water sometimes causes problems for  farmers .  Sandstorms  happen a lot in the  desert . ref "Afghanistan." Britannica Student Library. Encyclopaedia Britannica Ultimate Reference Suite. Chicago: Encyclopaedia Britannica, 2010. ref 
+
+The country has a lot of a  valuable   stone  called  lapis lazuli , which was used to decorate the  tomb  of the  Egypt ian king  Tutankhamun . ref name ngk cite web  url http://kids.nationalgeographic.com/kids/places/find/afghanistan/   title Afghanistan Facts and Pictures  work National Geographic Kids  accessdate 30 August 2011 ref 
+
+  Plants and animals  
+ File:Uncia uncia 2.jpg left|thumb|150px|Endangered  snow leopard s live in the cold  Hindu Kush , but they have thick  fur  to stay warm. Hunters sell the soft leopard skins in the markets in the capital  Kabul . 
+ South ern Afghanistan has not many plants because it is dry. There are more plants where there is more water. Mountains have  forests  of  pine  and  fir ,  cedar ,  oak ,  walnut ,  alder , and  ash tree s.
+
+Afghanistan's animals are in the mountains. There are  wolves ,  foxes ,  jackals ,  bears , and wild  goat s,  gazelle s, wild dogs,  camel s, and  wild cat s such as the  snow leopard  in the country. The birds are  falcon s,  eagles  and  vulture s. The  Rhesus Macaque  and the red flying  squirrel  are also in Afghanistan.
+
+Many years of  war ,  hunting , and years of no water have killed animals in Afghanistan. There used to be  tigers  in Afghanistan, but now there aren't any. Bears and wolves are almost gone. ref name ngk 
+
+  People and culture  
+ File:2011 Afghan Youth Voices Festival.jpg thumb|left|The 2011 Afghan Youth Voices Festival at the Gardens of Babur in  Kabul 
+
+Many different cultures have moved through or invaded the land of Afghanistan. Today the people of Afghanistan, known as  Afghans , have many traits passed down from these groups. The largest  ethnic group  (group of people considered the same in some or multiple ways) is the  Pashtuns  (or ethnic Afghans), who make up about half the Afghan people. ref See:
+   cite web url http://www.umsl.edu/services/govdocs/wofact90/world12.txt title The World Factbok - Afghanistan  quote _#_Ethnic divisions: Pashtun 50%... work The World Factbook/Central Intelligence Agency publisher University of Missouri date October 15, 1991 accessdate 2011-03-20 
+   cite web url http://news.bbc.co.uk/hi/english/static/in_depth/world/2001/war_on_terror/key_maps/ethnic_pashtun.stm title Ethnic groups publisher BBC News accessdate 7 June 2013 quote Pashtun: Estimated to be in excess of 45% of the population, the Pashtuns have been the most dominant ethnic group in Afghanistan. 
+   cite web  author url https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html?countryName=Afghanistan&countryCode=af&regionCode=sas&#af title Afghan Population: 30,419,928 [Pashtun 42%] year 2012 publisher The World Factbook work Central Intelligence Agency  (CIA) accessdate 2012-06-30 
+   cite book title The Challenge of Democracy: Government in America last1 Janda first1 Kenneth  authorlink coauthors Jeffrey M. Berry and Jerry Goldman volume edition 9 year 2008 publisher Cengage Learning location isbn 0-618-81017-X page 46 pages 647 url http://books.google.com/books?id=_WlzlY9dv74C&lpg=PP1&pg=PA46#v=onepage&q&f=false accessdate 2010-08-22 
+   cite web title Afghanistan's complex ethnic patchwork url http://old.tehrantimes.com/index_View.asp?code=237210 publisher Tehran Times work The Asian Wall Street Journal date March 10, 2011 accessdate 20 April 2012 
+   cite web  url http://www.faqs.org/minorities/South-Asia/Pathans.html title Pathans publisher Faqs.org year 2003 accessdate 2010-09-20 
+   cite web  url http://www.afghanistans.com/Information/defaulf.htm title About Afghanistan - Ethnic Divisions publisher year accessdate 2010-09-24 
+   cite book title Aiding Afghanistan: the background and prospects for reconstruction in a fragmented society  last1 Christensen first1 Asger authorlink coauthors volume edition year 1995 publisher NIAS Press location isbn 87-87062-44-5 page 46 pages 170 url http://books.google.com/books?id=7LKS93lbSM0C&lpg=PP1&pg=PA46#v=onepage&q&f=false accessdate 2010-09-24 
+   cite book title Congressional Record last1 first1 authorlink coauthors volume edition year publisher Government Printing Office location isbn page 10088 pages url http://books.google.com/books?id=qImZpu07_UEC&lpg=PA9979&pg=PA10088#v=onepage&q&f=false accessdate 2010-09-24 
+   cite book title Asian Security to the Year 2000 last1 Taylor first1 William J. Jr. authorlink coauthors Abraham Kim volume edition year 2000 publisher DIANE Publishing location isbn 1-4289-1368-8 page 58 pages url http://books.google.com/books?id=peTWtThUljQC&lpg=PR1&pg=PA58#v=onepage&q&f=false accessdate 2010-09-24 
+   cite book title Concise encyclopedia of languages of the world last1 Brown first1 Keith authorlink coauthors Sarah Ogilvie volume edition year 2009 publisher Elsevie quote Pashto, which is mainly spoken south of the mountain range of the Hindu Kush, is reportedly the mother tongue of 60% of the Afghan population. location isbn 0-08-087774-5 page 845 pages 1283 url http://books.google.com/books?id=F2SRqDzB50wC&lpg=PP1&pg=PA845#v=onepage&q&f=false accessdate 2010-09-24 
+   cite book title 11 September 2001: feminist perspectives last1 Hawthorne first1 Susan authorlink coauthors Bronwyn Winter volume edition year 2002 publisher Spinifex Press quote Over 60 percent of the population in Afghanistan is Pashtun, known locally as Pathan, who by and large support the Taliban. location isbn 1-876756-27-6 page 225 pages 500 url http://books.google.com/books?id=DwbfD_irV_AC&lpg=PP1&pg=PA225#v=onepage&q&f=false accessdate 2010-09-24 
+   cite web url http://www.hewad.com/ethnic.htm   title The ethnic composition of afghanistan in different sources accessdate April 22, 2012 ref   Tajiks  are the second-largest group, making up about one-fifth of the population. ref name Brit-Tajik cite web  url http://www.britannica.com/EBchecked/topic/581024/Tajik   title Tajik  publisher Encyclopaedia Britannica  quote There were about 5,000,000 in Afghanistan, where they constituted about one-fifth of the population.  accessdate November 6, 2011 ref  Before the 20th century, Tajiks were called Sarts ref Cite web  url http://persian.packhum.org/persian//pf?file=03501051&ct=92   title Events Of The Year 910 (1525)  page 5 editor John Leyden, Esq., M.D. and William Erskine, Esq. work Memoirs of Babur  publisher Packard Humanities Institute  year 1921 accessdate 2012-06-30 ref  and some come from the Iranian peoples. ref "Tajik." Encyclopaedia Britannica. Encyclopaedia Britannica Ultimate Reference Suite. Chicago: Encyclopaedia Britannica, 2010. ref  Most Pashtuns are also related to the Iranian peoples, and some Pashtuns and Tajiks marry each other but at the same time they are rivals. The country's other ethnic groups include the  Hazara ,  Uzbekistan Uzbek ,  Aimak ,  Turkmen ,  Nuristani people Nuristani ,  Baloch people Baloch , Pashai and a few others. The Hazaras live in the mountains of central Afghanistan, many people believe that they have connection to the 13th century  Mongol  invaders, because their language has many Mongol words. ref name ngk 
+
+Pashto and Dari are the official languages of Afghanistan; bilingualism is very common. ref name AO cite web title Article Sixteen of the Constitution of Afghanistan url http://www.afghan-web.com/politics/current_constitution.html#preamble   quote From among the languages of Pashto, Dari, Uzbeki, Turkmani, Baluchi, Pashai, Nuristani, Pamiri (alsana), Arab and other languages spoken in the country,  Pashto and Dari are the official languages of the state. year 2004  accessdate June 13, 2012 ref  Both are  Indo-European language s from the  Iranian languages  sub-family. They are usually written with the  Arabic alphabet .  Uzbek language Uzbek  and  Turkmen language Turkmen  are widely spoken in the north and  Nuristani language Nuristani  and  Pashai language Pashai  are spoken in the east. ref name AO  Almost all Afghans follow the religion of  Islam .
+
+Afghanistan is a largely  rural  country, which means that there are only few major cities and much spaced-apart land. Only about one fifth of the population lives in cities.  Kabul , the capital, is the largest city. It is along the  Kabul River  south of the  Hindu Kush  range. Other cities in Afghanistan include  Kandahar ,  Herat ,  Mazar-e Sharif , and  Jalalabad . The rural population is made up of  farmer s and  nomad s (people who move or travel from place to place). The farmers live mainly in small villages along the rivers. The nomads live in tents while moving from place to place with their animals and belongings. Some Afghan people live in the high central mountains or the deserts in the south and southwest. Millions of people escaped from Afghanistan in order to not get involved in the wars that happened in the late 20th and early 21st centuries. Most of them lived in neighboring  Pakistan  and  Iran .
+
+  History  
+Afghanistan is in the  Trail path  of important trade routes that connect southern and eastern  Asia  to  Europe  and the  Middle East . Because of this, many empire builders have decided to rule over the area. Signs that these emperors were near Afghanistan still exist in many parts of the country. ref [Encyclopedia Britannica, Afghanistan History. Retrieved on 26 January 2009  http://www.britannica.com/EBchecked/topic/7798/Afghanistan/129450/History#ref=ref261360 ] ref  Afghanistan is near what used to be the  Silk Road , so it has many cultures. From up to 8,000 years ago, the peoples of Afghanistan helped develop (create) major world religions, traded and exchanged many  product (business) products , and sometimes controlled politics and culture in Asia. ref Hiebert, F., Cambon, P., 2008, AFGHANISTAN Hidden Treasures from the National Museum, Kabul, page 56, Washington, National Geographic, ISBN 978-1-4262-0295-7 ref 
+
+  Prehistory  
+ File:Raffael 071.jpg thumb|upright| Zoroaster , the founder of  Zoroastrianism , lived in  Bactria , an ancient land in the north of today's Afghanistan. 
+ Archaeology Archaeologists  digging a cave in what is now northeastern Afghanistan (in  Badakhshan Province Badakhshan ), discovered that people lived in the country as early as 100,000 years ago. They found the skull of a  Neanderthal , or early human, as well as tools from about 30,000 years ago. In other parts of Afghanistan, archaeologists uncovered  pottery  and tools that are 4,000 to 11,000 years old--evidence that Afghans were among the first people in the world to grow crops and raise animals. ref name ReferenceA "Afghanistan." Britannica Elementary Library. Encyclopaedia Britannica Ultimate Reference Suite. Chicago: Encyclopaedia Britannica. ref  
+ File:Kaunakes Bactria Louvre AO31917.jpg left|thumb|150px|A Stone Female Figurine, known as  Bactrian Princess , from  Bactria , north of Afghanistan, about 4,000 years ago 
+
+Farmers and herders settled in the plains surrounding the  Hindu Kush  as early as 7000 B.C. These people may have grown rich off the  lapis lazuli  they found along riverbeds, which they traded to early city sites to the west, across the  Iranian plateau  and  Mesopotamia . As farms and villages grew and thrived in Afghanistan, these ancient people eventually invented  irrigation  (digging ditches for water so it flows to crops) that allowed them to grow crops on the northern Afghanistan desert plains. This  civilization  (advanced state of organization) is today called BMAC ( Bactria-Margiana Archaeological Complex ), or the "Oxus civilization". ref Hiebert, F., Cambon, P., 2008, AFGHANISTAN Hidden Treasures from the National Museum, Kabul, page 58, Washington, National Geographic, ISBN 978-1-4262-0295-7 ref 
+
+The Oxus civilization expanded as far east as western edge of the  Indus Valley  during the period between 2200 and 1800 B.C. ref Hiebert, F., Cambon, P., 2008, AFGHANISTAN Hidden Treasures from the National Museum, Kabul, page 73, Washington, National Geographic, ISBN 978-1-4262-0295-7 ref  These people, who were the ancestors of the Indo-Aryans, used the term " Aryan " to identify their ethnicity, culture, and religion. Scholars know this when they read the ancient texts of these people; the  Avesta (religious scripture) Avesta  of Iranian people and the  Vedas  of Indo-Aryans. ref [R. Ghirshman, L'Iran et la migration des Indo-aryens et des Iraniens, Leiden, 1977.] ref ref [Encyclopedia Iranica, IRANIAN IDENTITY ii. PRE-ISLAMIC PERIOD. Retrieved on 14 October 2010  http://www.iranica.com/articles/iranian-identity-ii-pre-islamic-period ] ref 
+
+According to the Avesta, Aryans settled in sixteen districts in the area, beginning with  Airiana vaejo  (land of Aryans), and following with Baxdi = Bactria or  Balkh ; Nisaya = a district between Margiana and Bactria; Haroiva = Areia or  Herat Herat ; Vaek@r@ta = Gandhara; Urva =  Ghazni Province Ghazni  region; Haraxaiti = Arachosia or  Kandahar ; Haetumant =  Helmand Province Helmand  region; Raga = a district north of Haraxaiti and Haetumant; Caxra = Carx between Ghazni and Kabul, in the valley of Logar. ref [Encyclopedia Iranica, AVESTAN GEOGRAPHY. Retrieved on 14 October 2010  http://www.iranica.com/articles/avestan-geography ] ref  The old  Ancient Greece Greek  writers knew them and called the land of these Aryan settlers  Ariana . ref [Encyclopedia Iranica, ARIA. Retrieved on 31 December 2008  http://www.iranica.com/newsite/index.isc?Article=http://www.encyclopediairanica.com/newsite/articles/unicode/v2f4/v2f4a051.html ] ref 
+
+ Zoroaster , the founder of the  Zoroastrian  religion, the world's earliest  monotheistic  religion, (meaning a religion believing in one god) lived in the area (somewhere north of today's Afghanistan), around 1000 B.C. ref http://www.iranica.com/articles/zoroaster-ii-general-survey Encyclopaedia Iranica: ZOROASTER ii. GENERAL SURVEY. By W. W. Malandra  In the Avesta, the geography of the Vendidad and of the Yashts make it clear that these texts locate themselves in eastern [ancient] Iran [today's Afghanistan]. Even though there are later traditions which place him in Azerbaijan and Media, it is more reasonable to locate Zoroaster somewhere in today's Afghanistan along with the rest of the Avesta. Further, the two Avestan dialects belong linguistically to eastern [ancient] Iran [today's Afghanistan] ref 
+
+  Ancient history  
+ File:Ancient Khorasan highlighted.jpg thumb|Names of territories during the  Caliphate  in 750 CE.  Greater Khorasan Khorasan  was part of Persia (in  yellow ish). 
+By the middle of the sixth century BC, the  Achaemenids  took over control of the land, which was previously held by the  Medes , and made it part of the  Persian empire .  Alexander the great  defeated and conquered the Persian Empire in 330 BC. He founded some cities in the area and  Ancient Greece Greek  culture and language continued to influence the people for a long period, right up to the  Islamic conquest  in the 7th century A.D. After Alexander,  Greco-Bactrians ,  Scythians ,  Kushans ,  Parthians  and  Sassanians  ruled the area. ref cite web  url http://www.britannica.com/EBchecked/topic/851961/ancient-Iran   title ancient Iran  work Britannica Online Encyclopedia  accessdate 30 August 2011 ref 
+
+Kushans spread  Buddhism  from  India  in the 1st century B.C., and Buddhism remained an important religion in the area until the 7th century. ref [Encyclopedia Iranica, BUDDHISM i. In Pre-Islamic Times. Retrieved on 12 September 2010  http://iranica.com/articles/buddhism-i ] ref  The  Buddhas of Bamiyan  were the remainder of Buddhism in Afghanistan. Those giant statues were destroyed by the very religious  Taliban  in 2001, despite international protests in defence of the priceless art. The Taliban believed that those ancient statues were  Islam un-Islamic  and a curse on Afghanistan.
+
+  Medieval history  
+
+ Arabs  introduced  Islam  in the 7th century and slowly began spreading the new religion. In the 9th and 10th centuries, many local Islamic dynasties rose to power inside Afghanistan. One of the earliest was the  Tahirids , whose kingdom included  Balkh  and  Herat ; they established independence from the  Abbasids  in 820. The Tahirids were succeeded in about 867 by the  Saffarids  of  Zaranj  in western Afghanistan. Local princes in the north soon became  wikt:feudatory feudatories  of the powerful  Samanids , who ruled from  Bukhara . From 872 to 999, north of the Hindu Kush in Afghanistan enjoyed a golden age under Samanid rule. ref "Afghanistan." Encyclopaedia Britannica. Encyclopaedia Britannica Ultimate Reference Suite. Chicago: Encyclopaedia Britannica, 2010. ref 
+
+In the 10th century, the local  Ghaznavid Empire Ghaznavids  turned  Ghazni  into their capital and firmly established Islam throughout all areas of Afghanistan, except the Kafiristan region in the northeast.  Mahmud of Ghazni , a great Ghaznavid  sultan , conquered the  Multan  and  Punjab region , and carried raids into the heart of  India . Mohammed bin Abdul Jabbar Utbi (Al-Utbi), a historian from the 10th century, wrote that thousands of "Afghans" were in the Ghaznavid army. ref name Houtsma Cite book title E.J. Brill's first encyclopaedia of Islam, 1913-1936 last1 Houtsma first1 Martijn Theodoor volume 2 year 1987 publisher BRILL isbn 90-04-08265-4 page 151 pages 550 url http://books.google.com/books?id=GEl6N2tQeawC&lpg=PP1&pg=PA151#v=onepage&q&f=false   accessdate 24 September 2010 ref ref name Habibi cite web  url http://www.alamahabibi.com/English%20Articles/Afghan_and_Afghanistan.htm   title Afghan and Afghanistan  work Abdul Hai Habibi publisher alamahabibi.com year 1969 accessdate 2012-07-01 ref  The Ghaznavid dynasty was replaced by the Ghorids of  Ghor  in the late 12th century, who reconquered Ghaznavid territory in the name of Islam and ruled it until 1206. The Ghorid army also included ethnic Afghans. ref name Houtsma 
+ File:Portrait miniature of Ahmad Shah Durrani.jpg left|thumb|150px| Ahmad Shah Durrani , founder of the modern state of Afghanistan in 1747. 
+
+Afghanistan was recognized as  Khorasan , meaning "land of the rising sun," which was a prosperous and independent geographic region reaching as far as the Indus River. ref name EI Cite book  url http://books.google.com/books?id=cJQ3AAAAIAAJ&printsec=frontcover#v=onepage&q&f=false   title "Khurasan", The Encyclopaedia of Islam, page 55.  quote In pre-Islamic and early Islamic times, the term "Khurassan" frequently had a much wider denotation, covering also parts of what are now Soviet Central Asia and Afghanistan; early Islamic usage often regarded everywhere east of western Persia, sc. Djibal or what was subsequently termed 'Irak 'Adjami, as being included in a vast and ill-defined region of Khurasan, which might even extend to the Indus Valley and Sind. publisher Brill  date accessdate 2010-10-22 ref ref name Britannica cite web  url http://www.britannica.com/EBchecked/topic/316850/Khorasan   title Khorasan  quote historical region and realm comprising a vast territory now lying in northeastern Iran, southern Turkmenistan, and northern Afghanistan. The historical region extended, along the north, from the Amu Darya (Oxus River) westward to the Caspian Sea and, along the south, from the fringes of the central Iranian deserts eastward to the mountains of central Afghanistan. Arab geographers even spoke of its extending to the boundaries of  Hindustan India . publisher Encyclopaedia Britannica Online  date accessdate 2010-10-21 ref 
+
+All the major cities of modern Afghanistan were centers of science and culture in the past. The New Persian  literature  arose and flourished in the area. The early Persian poets such as  Rudaki  were from what is now Afghanistan. Moreover,  Ferdowsi , the author of  Shahnameh , the national  Epic poetry epic  of Iran, and  Rumi , the famous  Sufi  poet, were also from modern-day Afghanistan. It has produced scientists such as  Avicenna ,  Al-Farabi ,  Al-Biruni ,  Omar Khayyam ,  Al-Khwarizmi , and many others who are widely known for their important contributions in areas such as  mathematics ,  astronomy ,  medicine ,  physics ,  geography , and  geology . It remained the cultural capital of Persia until the devastating  Mongol  invasion in the 13th century. ref Lorentz, J. Historical Dictionary of Iran. 1995 ISBN 0-8108-2994-0 AFGHANISTAN ref 
+
+ Timur , the Turkic conqueror, took over in the end of the 14th century and began to rebuild cities in this region. Timur's successors, the  Timurids  (1405-1507), were great patrons of learning and the arts who enriched their capital city of Herat with fine buildings. Under their rule Afghanistan enjoyed peace and prosperity.
+
+Between south of the Hindu Kush and the Indus River (today's Pakistan) was the native land of the Afghan tribes. They called this land "Afghanistan" (meaning "land of the Afghans"). The Afghans ruled the rich northern Indian subcontinent with their capital at  Delhi . From the 16th to the early 18th century, Afghanistan was disputed between the  Safavid dynasty Safavids  of  Isfahan  and the  Mughal Empire Mughals  of  Agra  who had replaced the  Lodi dynasty Lodi  and  Sur Empire Suri  Afghan rulers in India. The Safavids and Mughals occasionally oppressed the native Afghans but at the same time the Afghans used each empire to punish the other. In 1709, the  Hotaki dynasty Hotaki  Afghans rose to power and completely defeated the Persian Empire. Then they marched towards the Mughals of India and nominally defeated them with the help of the Afsharid forces under Nader Shah Afshar.
+
+In 1747, after Nader Shah of Persia was killed, a great leader named  Ahmad Shah Durrani  united all the different Muslim tribes and established the Afghan Empire ( Durrani Empire ). He is considered the founding father of the modern state of Afghanistan ref name ReferenceA  while  Mirwais Hotak  is the grandfather of the nation.
+
+ Recent history 
+During the 1800s, Afghanistan became a buffer zone between two powerful empires,  British India  and  Russian Empire Russia . As British India advanced into Afghanistan, Russia felt threatened and expanded southward across Central Asia. To stop the Russian advance, Britain tried to make Afghanistan part of its empire but the Afghans fought wars with British-led Indians from 1839 to 1842 and from 1878 to 1880. After the third war in 1919, Afghanistan under  Amanullah Khan King Amanullah  gained respect and recognition as a completely independent state.
+
+The Kingdom of Afghanistan was a  constitutional monarchy  established in 1926. It was the successor state to the  Emirate of Afghanistan . On 27 September 1934, during the reign of Zahir Shah, the Kingdom of Afghanistan joined the  League of Nations .  During  World War II , Afghanistan remained neutral. It pursued a  Diplomacy diplomatic policy  of non-alignment.
+
+The creation of Pakistan in 1947 as its eastern neighbor created problems. In 1973, political crises led to the overthrow of the king. The country's new leader ended the monarchy and made Afghanistan a  republic . In 1978, a  Communist  political party supported by the  Soviet Union  seized control of Afghanistan's government. This move sparked rebellions throughout the country. The government asked the Soviet Union for military assistance. The Soviets took advantage of the situation and  Soviet war in Afghanistan invaded Afghanistan in December 1979 .
+
+Most people in Afghanistan opposed the sudden Soviet presence in their country. For nearly a decade, anti-Communist Islamic forces known as  Mujahideen  were trained inside neighboring Pakistan to fight the Soviets and the Afghan government. The  United States  and other anti-Soviet countries supported the Mujahideen. In the long war, over one million Afghan civilians were killed. The Soviet Army also lost more than 15,000 soldiers in that war. Millions of Afghans left their country to stay safe in neighboring Pakistan and Iran. In 1989 the Soviet Army withdrew the last of its troops.
+ File:2011 Afghan Independence Day-2.jpg thumb|upright|Former  President of Afghanistan Afghan President   Hamid Karzai  at the 2011 Afghan Independence Day in  Kabul . 
+After the Soviets left, different Afghan warlords began fighting for control of the country. The warlords received support from other countries, including neighboring Pakistan and Iran. A very conservative  Islamic  group known as the  Taliban  emerged in an attempt to end the civil war. By the late 1990s the Taliban had gained control over 95% of Afghanistan. A group known as the Northern Alliance, based in northern Afghanistan near the border with Tajikistan, continued to fight against the Taliban.
+ File:Afghan soldiers.jpg left|thumb| NATO -trained  Afghan National Army  (ANA). 
+ File:Military terminal at Kabul International Airport.jpg thumb|upright|NATO's military terminal at  Kabul International Airport 
+The Taliban ruled Afghanistan according to their strict version of  Islamic law . People whom the Taliban believed violated these laws were given cruel punishments. In addition, the Taliban completely restricted the rights of women. Because of such policies, most countries refused to recognize the Taliban government. Only  Pakistan ,  Saudi Arabia  and the  United Arab Emirates  (UAE) accepted them as the official government.
+
+The Taliban also angered other countries by allowing suspected  terrorist s to live freely in Afghanistan. Among them were  Osama bin Laden  and members of the  al-Qaeda  terrorist network. In September 2001, the United States blamed bin Laden for the  September 11 attacks terrorist attacks on the World Trade Center in New York City and the Pentagon outside Washington, D.C.  The Taliban refused to hand him over to the United States. In response, the United States and its allies launched a bombing campaign against al-Qaeda in October 2001. Within months the Taliban abandoned Kabul, and a new government led by  Hamid Karzai  came to power, but fighting between the Taliban and US-led armies continued. The Taliban are coming into Afghanistan from neighboring Pakistan, Afghans accuse Pakistan's military of being behind the Taliban militants but Pakistan has rejected this and stated that a stable Afghanistan is in Pakistan's own interest.
+
+In December 2004, Hamid Karzai became the first  democracy democratically  elected president of Afghanistan. ref name cia   NATO  began rebuilding Afghanistan, including its military and government institutions. Many schools and colleges were built in the last ten years. Freedom for women has improved. Women can now study, work, drive, and run for office. Many Afghan women work as politicians, some are ministers while at least one is a mayor. Others have opened businesses, or joined the military or police. Afghanistan's economy has also improved dramatically, and NATO agreed in 2012 to help the country for at least another 10 years after 2014. In the meantime, Afghanistan improved diplomatic ties with many countries in the world and continues to establish new ties with other states.
+
+  Government  
+Afghanistan is a newly formed  democracy . ref cite web  url http://www.bbc.co.uk/news/world-asia-16040874   title Afghanistan anti-corruption pledge at Bonn summit  author   date 5 December 2011  work BBC Website  publisher   accessdate 9 December 2013 ref  Under the new  constitution , the  president  and two  vice president s are elected every five years. ref cite web  url http://www.afghan-web.com/politics/current_constitution.html   title The Constitution of Afghanistan  author   date   work Afghanistan Online  publisher   accessdate 9 December 2013 ref  The  International Security Force Assistance  (ISAF) helps the government maintain peace and rebuild the country.
+
+The government still faces problems with the  Taliban , internal security, and public services.
+
+  Provinces  
+As of 2004, there are thirty-four  province s.  Each province is divided into districts. (For cities see  List of cities in Afghanistan .)
+
+ class wikitable align center width 78% style font-size:90%; + align center style background:#BFD7FF   Province map of Afghanistan 
+ align center   File:Afghanistan provinces numbered gray.PNG 400x400px|Provinces of Afghanistan 
+ 
+
+ class wikitable sortable width 78% style font-size:90%; align center + align center style background:#BFD7FF Provinces of Afghanistan ref References and details on data provided in the table can be found within the individual provincial articles. ref 
+ bgcolor #efefef align left Province
+ align left Map #
+ align right ISO 3166-2:AF ref ISO 3166-2:AF  ( International Organization for Standardization ISO   ISO 3166-2 3166-2  codes for the provinces of Afghanistan) ref 
+ align left Capital
+ align right Population ref http://cso.gov.af/en/page/6070 ref 
+ align right Area (km2)
+ align right Languages
+ align right Notes
+ align right U.N. Region
+   Badakhshan Province Badakhshan   align center  30  align center  AF-BDS    Fayzabad, Badakhshan Fayzabad   align right  889,700  align right  44,059    Dari (Persian) ,  Pamiri languages Pamiri ,  Pashto language Pashto    29 districts  ref http://cso.gov.af/Content/files/Badakhshan.pdf ref    North East Afghanistan
+   Badghis Province Badghis   align center  4  align center  AF-BDG    Qala i Naw, Afghanistan Qala i Naw   align right  464,100  align right  20,591   Dari, Pashto   7 districts  ref http://cso.gov.af/Content/files/Badghis.pdf ref    West Afghanistan
+   Baghlan Province Baghlan   align center  19  align center  AF-BGL    Puli Khumri   align right  848,500  align right  21,118  Dari,  Uzbek language Uzbeki ,  Turkmen language Turkmeni , Pashto   16 districts  ref http://cso.gov.af/Content/files/Baghlan.pdf ref    North East Afghanistan
+   Balkh Province Balkh   align center  13  align center  AF-BAL    Mazari Sharif   align right  1,219,200  align right  17,249   Dari, Pashto   15 districts  ref http://cso.gov.af/Content/files/Balkh.pdf ref    North West Afghanistan
+   Bamyan Province Bamyan   align center  15  align center  AF-BAM    Bamiyan City Bamiyan   align right  418,500  align right  14,175   Dari   7 districts  ref http://cso.gov.af/Content/files/Bamyan.pdf ref    Central Afghanistan
+   Daykundi Province Daykundi   align center  10  align center  AF-DAY    Nili, Afghanistan Nili   align right  431,300  align right  8,088   Dari, Pashto   8 districts br Formed from  Oruzgan Province Oruzgan  in 2004  ref http://cso.gov.af/Content/files/Daykundi.pdf ref    South West Afghanistan
+   Farah Province Farah   align center  2  align center  AF-FRA    Farah, Afghanistan Farah   align right  474,300  align right  48,471   Pashto, Dari,  Balochi language Balochi  11 districts  ref http://cso.gov.af/Content/files/Farah.pdf ref    West Afghanistan
+   Faryab Province Faryab   align center  5  align center  AF-FYB    Maymana   align right  931,800  align right  20,293   Uzbek, Dari, Pashto, Turkmen   14 districts  ref http://cso.gov.af/Content/files/Faryab.pdf ref    North West Afghanistan
+   Ghazni Province Ghazni   align center  16  align center  AF-GHA    Ghazni   align right  1,149,400  align right  22,915   Pashto, Dari   19 districts  ref http://cso.gov.af/Content/files/Ghazni.pdf ref    South East Afghanistan
+   Ghor Province Ghor   align center  6  align center  AF-GHO    Chaghcharan   align right  646,300  align right  36,479   Dari, Pashto   10 districts  ref http://cso.gov.af/Content/files/Ghor.pdf ref    West Afghanistan
+   Helmand Province Helmand   align center  7  align center  AF-HEL    Lashkar Gah   align right  1,441,769  align right  58,584   Pashto, Dari   13 districts  ref http://cso.gov.af/Content/files/Helmand.pdf ref    South West Afghanistan
+   Herat Province Herat   align center  1  align center  AF-HER    Herat   align right  1,744,700  align right  54,778   Dari, Pashto, Turkmeni   15 districts  ref http://cso.gov.af/Content/files/Herat.pdf ref    West Afghanistan
+   Jowzjan Province Jowzjan   align center  8  align center  AF-JOW    Sheberghan   align right  503,100  align right  11,798   Uzbeki, Turkmeni, Pashto, Dari  9 districts  ref http://cso.gov.af/Content/files/Jawzjan.pdf ref    North West Afghanistan
+   Kabul Province Kabul   align center  22  align center  AF-KAB    Kabul   align right  3,691,400  align right  4,462   Dari, Turkmeni, Pashto, Uzbeki   18 districts  ref name cso.gov.af    Central Afghanistan
+   Kandahar Province Kandahar   align center  12  align center  AF-KAN    Kandahar   align right  1,127,000  align right  54,022   Pashto, Dari   16 districts  ref http://cso.gov.af/Content/files/Kandahar.pdf ref    South East Afghanistan
+   Kapisa Province Kapisa   align center  29  align center  AF-KAP    Mahmud-i-Raqi   align right  413,000  align right  1,842   Dari, Pashto,  Pashayi language Pashai    7 districts  ref http://cso.gov.af/Content/files/Kapisa.pdf ref    Central Afghanistan
+   Khost Province Khost   align center  26  align center  AF-KHO    Khost   align right  537,800  align right  4,152   Pashto   13 districts  ref http://cso.gov.af/Content/files/Khost.pdf ref    South East Afghanistan
+   Kunar Province Kunar   align center  34  align center  AF-KNR    Asadabad, Afghanistan Asadabad   align right  421,700  align right  4,942   Pashto   15 districts  ref http://cso.gov.af/Content/files/Kunarha.pdf ref    North East Afghanistan
+   Kunduz Province Kunduz   align center  18  align center  AF-KDZ    Kunduz   align right  935,600  align right  8,040   Pashto, Dari, Uzbeki, Turkmeni   7 districts  ref http://cso.gov.af/Content/files/Kunduz.pdf ref    North East Afghanistan
+   Laghman Province Laghman   align center  32  align center  AF-LAG    Mihtarlam   align right  417,200  align right  3,843   Pashto, Pashai, Nuristani, Dari   5 districts  ref http://cso.gov.af/Content/files/Laghman.pdf ref    East Afghanistan
+   Logar Province Logar   align center  23  align center  AF-LOW    Pul-i-Alam   align right  367,000  align right  3,880   Pashto, Dari   7 districts  ref http://cso.gov.af/Content/files/Logar.pdf ref    Central Afghanistan
+   Nangarhar Province Nangarhar   align center  33  align center  AF-NAN    Jalalabad, Afghanistan Jalalabad   align right  1,409,600  align right  7,727   Pashto, Dari   23 districts  ref http://cso.gov.af/Content/files/Nangarhar.pdf ref    East Afghanistan
+   Nimruz Province Nimruz   align center  3  align center  AF-NIM    Zaranj   align right  153,900  align right  41,005   Balochi, Pashto, Dari   5 districts  ref http://cso.gov.af/Content/files/Nimroz.pdf ref    South West Afghanistan
+   Nuristan Province Nuristan   align center  31  align center  AF-NUR    Parun, Afghanistan Parun   align right  138,600  align right  9,225    Nuristani languages Nuristani , Pashto   7 districts  ref http://cso.gov.af/Content/files/Nooristan.pdf ref    North East Afghanistan
+   Oruzgan Province Oruzgan   align center  11  align center  AF-ORU    Tarin Kowt   align right  328,000  align right  22,696   Pashto, Dari   6 districts  ref http://cso.gov.af/Content/files/Urozgan.pdf ref    Central Afghanistan
+   Paktia Province Paktia   align center  24  align center  AF-PIA    Gardez, Afghanistan Gardez   align right  516,300  align right  6,432   Pashto   11 districts  ref http://cso.gov.af/Content/files/Paktia.pdf ref  South East Afghanistan
+   Paktika Province Paktika   align center  25  align center  AF-PKA    Sharan, Afghanistan Sharan   align right  407,100  align right  19,482   Pashto   15 districts  ref http://cso.gov.af/Content/files/Paktika.pdf ref    South East Afghanistan
+   Panjshir Province Panjshir   align center  28  align center  AF-PAN    Bazarak, Panjshir Bazarak   align right  143,700  align right  3,610   Dari, Pashto   5 districts br Created in 2004 from Parwan Province  ref http://cso.gov.af/Content/files/Panjsher.pdf ref    North East Afghanistan
+   Parwan Province Parwan   align center  20  align center  AF-PAR    Charikar   align right  620,900  align right  5,974   Dari, Pashto   9 districts  ref http://cso.gov.af/Content/files/parwan.pdf ref    Central Afghanistan
+   Samangan Province Samangan   align center  14  align center  AF-SAM    Aybak   align right  362,500  align right  11,262   Dari, Uzbeki   5 districts  ref http://cso.gov.af/Content/files/Samangan.pdf ref    North West Afghanistan
+   Sar-e Pol Province Sar-e Pol   align center  9  align center  AF-SAR    Sar-e Pol, Afghanistan Sar-e Pol   align right  522,900  align right  16,360   Dari, Pashto, Uzbeki   7 districts  ref http://cso.gov.af/Content/files/Sar-e-pul.pdf ref    North West Afghanistan
+   Takhar Province Takhar   align center  27  align center  AF-TAK    Taloqan   align right  917,700  align right  12,333   Dari, Uzbeki, Pashto   12 districts  ref http://cso.gov.af/Content/files/Takhar.pdf ref    North East Afghanistan
+   Wardak Province Wardak   align center  21  align center  AF-WAR    Meydan Shahr   align right  558,400  align right  9,934   Pashto, Dari   9 districts  ref http://cso.gov.af/Content/files/Wardak.pdf ref    Central Afghanistan
+   Zabul Province Zabul   align center  17  align center  AF-ZAB    Qalat, Zabul Province Qalat   align right  284,600  align right  17,343   Pashto   9 districts  ref http://cso.gov.af/Content/files/Zabul.pdf ref    South East Afghanistan
+ 
+
+ Related pages 
+ Afghanistan at the Olympics 
+ Afghanistan national football team 
+ List of rivers of Afghanistan 
+
+  References  
+ Reflist 3 
+
+ commons 
+ wikivoyage 
+
+ Asia 
+ Navbox
+ name  Middle East
+ title   Middle East 
+ liststyle  padding:0.25em 0; line-height:1.4em;  
+ group1   Country Countries  and territories of the  Middle East 
+ list1 
+  Navbox subgroup
+  groupstyle  background:transparent;
+  liststyle  line-height:1.3em;
+  group1   Middle East 
+  list1   nowrap begin   Bahrain *w    Cyprus sup 1 sup *w   Egypt *w   Gaza Strip Palestine (west) sup 2 sup *w   Iraq *w   Iran *w   Israel sup 4 sup *w   Jordan *w   Kuwait *w   Lebanon *w   Northern Cyprus smallsup 1 *w   Oman *w    Qatar *w   Saudi Arabia *w   Syria *w   Turkey *w   United Arab Emirates *w   West Bank Palestine (east) sup 2 sup *w   Yemen   nowrap end 
+
+  group2    Greater Middle East 
+  list2     nowrap begin   Afghanistan *w   Algeria *w   Armenia *w   Azerbaijan *w   Caucasus Emirate s sup 5 sup *w   Djibouti *w   Eritrea *w   Georgia (country) Georgia *w   Kashmir sup 3 sup *w   Libya *w   Morocco *w   Pakistan *w   Somalia *w   Sudan *w   Tunisia *w   Western Sahara  (Sahrawi Arab Democratic Republic) sup 6 sup   nowrap end 
+  
+ belowstyle   padding:0.3em 0 0.2em; white-space:nowrap;
+ below    smallsup 1  Only recognized by Turkey; see  Cyprus dispute .  smallsup 2  Palestine territories.  smallsup 3  Disputed territories.  smallsup 4   Jerusalem  recognized capital of  Palestine  by Islamic countries.  smallsup 5  In conflict with  Russia .  smallsup 6  Status disputed with  Morocco .
+ 
+
+ Category:Afghanistan   
+ Category:Least developed countries

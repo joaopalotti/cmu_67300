@@ -1,0 +1,108 @@
+Science
+
+File:The Scientific Universe.png thumb|350px|The scale of the universe mapped to the branches of science. 
+
+ Science  is what we do to find out about the natural world. It is the total of  physics ,  chemistry ,  biology ,  geology  and  astronomy . Science makes use of  mathematics , and it makes  observation s and  experiment s. Science produces accurate  facts , scientific laws and  theories . ref name wilson Wilson, Edward O. 1998. Consilience: the unity of knowledge. New York: Vintage Books, 49-71. ISBN 0-679-45077-7 ref ref Heilbron J.L. 2003.  The Oxford companion to the history of modern science . New York: Oxford University Press, vii. ISBN 0-19-511229-6.  br "... modern science is a discovery as well as an invention. It was a discovery that nature generally acts regularly enough to be described by laws and even by  mathematics ; and required invention to devise the techniques, abstractions, apparatus, and organization for exhibiting the regularities and securing their law-like descriptions". ref  'Science' also refers to the large amount of knowledge that has been found using this process. ref cite web  url http://www.m-w.com/dictionary/science   quote  knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method...  publisher Merriam-Webster  title Online dictionary  accessdate 2009-05-22 ref ref name Popper cite book  last Popper  first Karl  authorlink Karl Popper  title The Logic of Scientific Discovery  origyear 1959  edition 2nd English edition  year 2002  publisher Routledge Classics  location New York, NY  isbn 0-415-27844-9  oclc 59377149  page 3 ref 
+
+ Research  uses the  scientific method . Scientific research uses  hypotheses  based on ideas or earlier knowledge. Then those hypotheses are tested by  experiments .  
+
+People who study and research science and try to find out everything about it are called  scientist s. Scientists  Research study  things by  see looking  at them very carefully, by  measure measuring  them, and by doing  experiment s and  test s. Scientists try to  wikt:explain explain  why things  act  the way they do, and  predict  what will happen.
+
+  Scientific method  
+Today, "science" usually refers to a way of pursuing  knowledge , not just the knowledge itself. It is mainly about the  phenomena  of the material world. ref Oxford English Dictionary ref  In the 17th and 18th centuries scientists increasingly sought to formulate knowledge in terms of  scientific law laws of nature  such as  Newton's laws of motion . And over the course of the 19th century, the word "science" became increasingly associated with the  scientific method  itself, as a way to study the natural world, including  physics ,  chemistry ,  geology  and  biology .
+
+It was in the 19th century also that the term  scientist  was created by  William Whewell . He meant it to distinguish those who sought knowledge on nature from those who sought other types of knowledge. ref The  Oxford English Dictionary  dates the origin of the word "scientist" to 1834. ref 
+
+The  scientific method  is the name given to the methods used by scientists to find knowledge. The main  wikt:feature feature s of the scientific method are:
+ Scientists identify a question or a problem about nature. Some problems are simple, such as "how many legs do flies have?" and some are very deep, such as "why do objects fall to the ground?" 
+ Next, scientists investigate the problem. They work at it, collecting facts. Sometimes all it takes is to look carefully. 
+ Some questions cannot be answered directly. Then scientists suggest ideas, and test them out. They do  experiment s and collect  data .
+ Eventually, they figure out what they think is a good answer to the problem. Then they tell people about it.
+ Later, other scientists may agree or not agree. They may suggest another answer. They may do more experiments. Anything in science might be revised if we find out the previous solution was not good enough.
+
+  Practical impacts of scientific research  
+Discoveries in fundamental science can be world-changing. For example:
+ {| class="wikitable" style="font-size:90%"
+|-
+! Research !! Impact
+|-
+|  Static electricity  and  magnetism  (1600) br Electric current  (18th century) || All electric appliances, dynamo's, electric power stations, modern  electronics , including  electric lighting ,  television ,  electric heating ,  magnetic tape ,  loudspeaker , plus the  compass  and  lightning rod .
+|-
+|  Diffraction  (1665) ||  Optics , hence  fiber optic  cable (1840s),  cable TV  and internet
+|-
+|  Germ theory of disease Germ theory  (1700) ||  Hygiene , leading to decreased transmission of infectious diseases;  Antibody antibodies , leading to techniques for disease diagnosis and  target ed anticancer therapies.
+|-
+|  Vaccination  (1798) || Leading to the elimination of most infectious diseases from developed countries and the worldwide eradication of  smallpox .
+|-
+|  Photovoltaics  (1839) ||  Solar cell s (1883), hence  solar power , solar powered  watch es,  calculator s and other devices.
+|-
+|  nowrap The strange orbit of  Mercury (planet) Mercury  (1859) and other research br leading to  special relativity special  (1905) and  general relativity  (1916) ||  Satellite-based technology such as  GPS  (1973),  satnav  and  satellite communication s. ref name nasa 2004 http://science.nasa.gov/science-news/science-at-nasa/2004/26mar_einstein Evicting Einstein , March 26, 2004,  NASA .  "Both [relativity and quantum mechanics] are extremely successful. The Global Positioning System (GPS), for instance, wouldn't be possible without the theory of relativity. Computers, telecommunications, and the Internet, meanwhile, are spin-offs of quantum mechanics." ref 
+|-
+|  Radio wave s (1887) || Radio had become used in innumerable ways beyond its better-known areas of  telephony , and  broadcasting broadcast   television  (1927) and  radio station radio  (1906)  entertainment . Other uses included -  emergency services ,  radar  ( navigation  and  weather forecast ing),  medicine ,  radio telescope astronomy ,  wireless  communications, and  networking technology networking . Radio waves also led researchers to adjacent frequencies such as  microwave s, used worldwide for heating and cooking food.
+|-
+|  Radioactivity  (1896) and  antimatter  (1932) ||  Cancer  treatment (1896),  Radiometric dating  (1905),  nuclear reactor s (1942) and  Nuclear weapon weapons  (1945),  PET scans  (1961), and  medical research  (with  isotope isotopic  labelling)
+|-
+| X-rays  (1896)||  Medical imaging , including  computer tomography 
+|-
+|  Crystallography  and  quantum mechanics  (1900) ||   Semiconductor  devices (1906), hence modern  computing  and  telecommunications  including the integration with wireless devices: the  mobile phone ref name nasa 2004 
+|-
+| Plastics  (1907)||Starting with  bakelite , many types of artificial polymers for numerous applications in industry and daily life
+|-
+| Antibiotics  (1880's, 1928) ||  Salvarsan ,  Penicillin ,  doxycycline  etc.
+|-
+| Nuclear magnetic resonance  (1930's) ||  Nuclear magnetic resonance spectroscopy  (1946),  magnetic resonance imaging  (1971),  functional magnetic resonance imaging  (1990's).
+|}
+
+  Other features of science  
+Not everyone completely agrees about how science works.  Some  philosopher philosophers  and scientists say that scientific theories are only accepted for the time being. They last so long as they are the best explanation. When theories no longer explain the data, they are discarded and replaced. Or, sometimes scientists will make a theory better rather than discard it, or that they will keep on using the theory hoping that it will be made better eventually.
+  
+Science is a way to get  knowledge  by discarding what is not true. 
+ 
+Scientists must be very careful to make explanations that fit well with what they  Observation observe  and  measure .  They  compete  to provide better explanations.  An explanation might be  wikt:interesting interesting  or  wikt:pleasing pleasing , but if it does not  agree  with what other scientists really see and measure, they will try to find a better explanation.
+
+Before a scientific article is  wikt:publish published , other scientists read the article and decide whether the explanations make sense from the data.  This is called  peer review .  After articles are published, other scientists will also check if the same experiments, observations or tests produce the same data again.   Peer review  and  :wikt:repeating repeating   experiment s are the only way to be sure the  knowledge  is  wikt:correct correct . 
+
+Science makes  models of nature ,  models of our universe , and  medicine .  There are many different sciences with their own names.  However it is not right to say "science says" any one thing.  Science is a process, not just the  fact s and  rules  believed at one time.
+
+  Some types of science  
+ col-begin width 70% 
+|-
+|
+   Natural science Natural sciences 
+ Biology 
+ Zoology 
+ Botany 
+ Genetics 
+ Ecology 
+ Physiology 
+   Astronomy 
+   Earth science 
+   Meteorology 
+   Geology 
+   Oceanography 
+
+| valign=top |
+   Physical science Physical sciences 
+   Physics 
+   Chemistry 
+   Social sciences 
+   Anthropology 
+   Psychology 
+   Sociology 
+
+  Formal and  applied science s
+   Computer science 
+   Engineering 
+   Mathematics 
+   Statistics 
+   Medicine 
+|}
+
+  Related pages  
+   History of science 
+
+  References  
+ reflist 
+
+ Category:Basic English 850 words 
+ Category:Science  

@@ -1,0 +1,144 @@
+Las Vegas
+
+Infobox settlement
+ 
+  name                      Las Vegas
+  official_name             City of Las Vegas
+  native_name                
+  native_name_lang           
+  other_name               
+  settlement_type            City 
+  image_skyline            
+  imagesize                 300px
+  image_alt                
+  image_caption              Downtown Las Vegas  skyline looking south, with the  Las Vegas Valley  in the background.
+  image                      
+  image_flag                Flag of Las Vegas, Nevada.svg
+ 
+  image_map                 Clark County Nevada Incorporated Areas Las Vegas highlighted.svg
+  mapsize                   250px
+  map_alt                  
+  map_caption               Location of the city of Las Vegas within  Clark County, Nevada 
+  image_map1               
+  mapsize1                 
+  map_alt1                 
+  map_caption1             
+  image_dot_map            
+  dot_mapsize              
+  dot_map_base_alt         
+  dot_map_alt              
+  dot_map_caption          
+  dot_x    dot_y  
+  pushpin_map                
+  pushpin_label_position     
+  pushpin_label              
+  pushpin_map_alt          
+  pushpin_mapsize          
+  pushpin_map_caption      
+  pushpin_map1             
+  pushpin_label_position1  
+  pushpin_label1             
+  pushpin_map_alt1         
+  pushpin_mapsize1         
+  pushpin_map_caption1     
+  latd   36  latm   10  lats   30  latNS   N
+  longd   115  longm   08  longs   11  longEW   W
+  coor_pinpoint              
+  coordinates_region         
+  coordinates_type           
+  coordinates_display       inline,title
+  coordinates_format        dms
+  coordinates_footnotes      
+ 
+  subdivision_type          Country
+  subdivision_name           United States 
+  subdivision_type1         States
+  subdivision_name1          Nevada 
+  subdivision_type2        
+  subdivision_name2          
+ 
+  established_title         Settled
+  established_date          May 15, 1905
+  established_title1         
+  established_date1        
+  established_title2        Incorporated (city)
+  established_date2         March 16, 1911
+ 
+  seat_type                 County seats
+  seat                       Clark County, Nevada Clark 
+  parts_type                 
+  parts_style                
+  parts                      
+  p1                       
+  p2                         
+ 
+  population_footnotes       
+  population_total          596,424
+  population_as_of          2010
+  population_rank          
+  population_density_km2     
+  population_density_sq_mi 
+  population_est           
+  pop_est_as_of            
+  population_urban          1,314,356
+  population_density_urban_km2    
+  population_density_urban_sq_mi  
+  population_rural          
+  population_density_rural_km2    
+  population_density_rural_sq_mi  
+  population_metro         
+  population_density_metro_km2    
+  population_density_metro_sq_mi  
+  population_density       
+  population_density_rank  
+  population_blank1_title  
+  population_blank1        
+  population_density_blank1_km2   
+  population_density_blank1_sq_mi 
+  population_blank2_title  
+  population_blank2        
+  population_density_blank2_km2   
+  population_density_blank2_sq_mi 
+  population_demonym         
+  population_note           ( List of United States cities by population 30th most in the U.S. )
+ 
+  demographics_type1       
+  demographics1_footnotes    
+  demographics1_title1     
+  demographics1_info1        
+ 
+  demographics_type2       
+  demographics2_footnotes    
+  demographics2_title1     
+  demographics2_info1        
+ 
+ 
+  postal_code_type           
+ 
+  website                    URL www.lasvegasnevada.gov 
+  footnotes                
+ 
+ File:WelcomeToVegasNite.JPG WelcomeToVegasNite|thumb|right|300px|Welcome sign 
+
+ Las Vegas  is a  city  in the  United States American   U.S. state state  of  Nevada . There were 567,641 people living in the city in 2009. It is the biggest city in Nevada. Las Vegas is also the  county seat  of Clark County. 
+
+  History  
+ Native Americans , the Paiute tribe, first lived there. It was called  Las Vegas  by the Spanish. The name means  The  Meadow s  in the  Spanish language . It had a lot of these in 1854. The city is known for its dry weather, as is the rest of southern  Nevada . It is surrounded by deserts.
+
+The US Army built  Fort Baker (Nevada) Fort Baker  there in 1864. Las Vegas has  Spring (water) springs  so people used to stop there for water when they were going to  Los Angeles  or other places in  California .
+
+In 1905, 110 acres owned by William A. Clark, on which he built a  railroad  to Southern  California  were  auction ed and Las Vegas was founded as a railroad  town . Las Vegas officially became a city in 1911.
+
+  Culture  
+Las Vegas, is also known by a  abbreviation shorter name ,  Vegas.  The city has become well known for its lax laws for  alcohol drinking  and  gambling . Gambling was made legal in the state of Nevada in 1931. In 1941, many hotels were built in Las Vegas with casinos in them. Las Vegas is sometimes called "Sin City" because so many people come to the city for gambling and drinking alcohol, two common "sins". The adage is "what happens in Vegas, stays in Vegas". People come to Las Vegas for vacation; many hotels have different themes as well as shows and events to entice. Because of this, Las Vegas has been called the  entertainment  capital of the world. 
+
+Las Vegas is also well known due to the casinos, (an establishment where gambling games are played) many of which are decorated with various bright  colour color . Some of the most famous casinos include  Caesars Palace , a  Roman Empire  themed casino,  Bellagio , a  Bellagio, Lombardy Bellagio ,  Italy  themed casino,  Paris Las Vegas  o, a  Paris  themed casino,  Monte Carlo Las Vegas , a  Monte Carlo ,  Monaco  themed casino, and  New York New York , a  New York City  themed casino.  Downtown  Las Vegas is in the city of Las Vegas, but the  Las Vegas Strip  is not. It is mostly in  Paradise, Nevada , with a smaller part in  Winchester, Nevada .
+
+  Other websites  
+   https://www.facebook.com/notes/travel/las-vegas-travel-guide-choose-what-you-are-interested-in/1532033293761563 Las Vegas - Travel Guide 
+ Commonscat Las Vegas 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ USLargestCities 
+
+ Category:Las Vegas, Nevada   
+ Category:County seats in Nevada

@@ -1,0 +1,251 @@
+Computer
+
+Article issues complex December 2011 redlinks March 2012 
+ File:Desktop computer clipart - Yellow theme.svg thumb|A drawing of a usual modern desktop computer. 
+A  computer  is a  machine  (mostly electronic) that is able to take information ( Information input ), do some work on or make changes to the information (process), to make new information ( output ). Computers have existed for much of  human   history . Examples of early computers are the  astrolabe  and the  abacus .  There are four main processing steps in a computer, and they are:  input device inputting ,  output device outputting ,  computer memory storage  and processing.
+
+Modern computers are very different from early computers. They can do billions of calculations per second.  Most people have used a  personal computer  in their home or at work.  Computers do many different jobs where  Automaton automation  is useful.  Some examples are controlling  traffic light s,  vehicle  computers, security systems,  washing machine s and digital televisions.
+
+A computer user can control it by a  user interface .   Input device s include  keyboard (computer) keyboard ,  computer mouse mouse , buttons,  touch screen .  Some very new computers can also be controlled with voice commands or hand gestures or even brain signals through electrodes implanted in the brain or along nerves.
+
+Computers can be designed to do almost anything with information.  Computers are used to control large and small machines which in the past were controlled by humans.  They are also in homes, where they are used for things such as listening to music, reading the  news , and writing.
+
+Modern computers are electronic  computer hardware .  They do mathematical  arithmetic  very quickly but computers do not really "think".   They only follow the instructions in their software programs.   The  software  uses the hardware when the user gives it instructions, and gives useful output.  
+
+Computer programs are designed or written by computer  programmer s. A few programmers write programs in the computer's own language called  machine code .   Most programs are written using a  programming language  like  C++ ,  Java programming language Java , and  Python (programming language) Python .  These programming languages are more like the language you talk and write with every day. A program called a  compiler  translates the user's instructions into binary code (machine code) that the computer will understand and do what is needed.
+
+  History of computers  
+ File:Jacquard.loom.full.view.jpg thumb|right|The  Jacquard loom  was one of the first programmable devices. 
+
+  Definition  
+A computer is an electronic  machine  which helps in solving problems quickly and easily. It solves problems according to instructions given to it by the computer user called programs or software. It is a digital machine(that uses binary digits) used in all fields.
+
+  Automation  
+Humans have a problem with maths.  To show this, try doing 584 x 3,220 in your head.  It is hard to remember all the steps!  People made tools to help them remember where they were in a maths problem. The other problem people have is that they have to do the same problem over and over and over again. A  cashier  had to make change every day in her head or with a piece of paper. That took a lot of time and made mistakes. So, people made  calculator s that did those same things over and over. This part of computer history is called the "history of automated calculation," which is a fancy phrase for "the history of machines that make it easy for me to do this same maths problem over and over without making mistakes."
+
+The  abacus , the  slide rule ,  the  astrolabe  and the  Antikythera mechanism  (which dates from about 150-100 BC) are examples of automated calculation machines.
+
+  Programming  
+ main Computer programming 
+People did not want a machine that would do the same thing over and over again. For example, a music box is a machine that plays the same music over and over again. Some people wanted to be able to tell their machine to do different things. For example, they wanted to tell the music box to play different music every time. They wanted to be able to program the music box- to order the music box to play different music. This part of computer history is called the "history of programmable machines" which is a fancy phrase for "The history of machines that I can order to do different things if I know how to speak their language."
+
+One of the first examples of this was built by  Hero of Alexandria  (c. 10-70 AD). He built a mechanical theater which performed a play lasting 10 minutes and was operated by a complex system of ropes and drums. These ropes and drums were the language of the machine- they told what the machine did and when. Some people argue that this is the first programmable machine. ref cite web
+  url http://www.mlahanas.de/Greeks/HeronAlexandria2.htm 
+  title Heron of Alexandria
+  accessdate 2008-01-15
+ ref 
+
+Historians disagree on which early machines are "computers". Many say the "castle clock", an  astronomical clock  invented by  Al-Jazari  in 1206, is the first known  Computer programming programmable   analog computer . Others say the first computer was made by  Charles Babbage . ref name Ancient Discoveries citation title Ancient Discoveries, Episode 11: Ancient Robots publisher History Channel url http://www.youtube.com/watch?v=rxjbaQl0ad8 accessdate 2008-09-06 ref   Al - Jazari 's showed the  zodiac , the  Heliocentric orbit solar  and  lunar orbit s, a  Lunar phase crescent moon -shaped  Pointer (computing) pointer  travelling across a gateway that made some  door s to open every  hour , ref Howard R. Turner (1997),  Science in Medieval Islam: An Illustrated Introduction , p. 184, University of Texas Press, ISBN 0-292-78149-0 ref ref name Hill2 Donald Routledge Hill, "Mechanical Engineering in the Medieval Near East",  Scientific American , May 1991, pp. 64-9 (compare Donald Routledge Hill,  http://home.swipnet.se/islam/articles/HistoryofSciences.htm Mechanical Engineering ) ref  and five  robot ic musicians who play music when  lever s hit them. The length of  day  and  night  could be changed (AKA re-programmed) every day in order to account for the changing lengths of day and night throughout the year. ref name Ancient Discoveries   Ada Lovelace  is considered to be the first  programmer . ref name Annals of the History of Computing Harvnb   Fuegi   Francis   2003   pp   16-26 . ref ref cite journal  last Phillips first Ana Lena title Crowdsourcing gender equity: Ada lovelace day, and its companion website, aims to raise the profile of women in science and technology journal American Scientist year  2011   month  November-December volume 99 issue 6 page 463 ref ref name Lovelace Google Citation   date   2012 Dec 10   url    http://www.guardian.co.uk/technology/2012/dec/10/ada-lovelace-honoured-google-doodle    title   Ada Lovelace honoured by Google doodle   newspaper   The Guardian   accessdate   10 December 2012 . ref 
+
+  The Computing Era  
+
+At the end of the  Middle Ages , people in Europe thought math and  engineering  were more important. In 1623,  Wilhelm Schickard  made a mechanical calculator.  Other Europeans made more calculators after him.  They were not modern computers because they could only add, subtract, and multiply- you could not change what they did to make them do something like play Tetris.  Because of this, we say they were not programmable.
+
+In 1801,  Joseph Marie Jacquard  used  punch card punched paper cards  to tell his  loom textile loom  what kind of pattern to weave. He could use punch cards to tell the loom what to do, and he could change the punch cards, which means he could program the loom to weave the pattern he wanted.  This means the loom was programmable.
+
+ Charles Babbage  wanted to make a similar machine that could calculate.   He called it "The Analytical Engine". ref Don't confuse the Analytical Engine with Babbage's  difference engine  which was a non-programmable mechanical calculator. ref  Because Babbage did not have enough money and always changed his design when he had a better idea, he never built his Analytical Engine.
+
+As time went on, computers got more and more popular.  And that stands out at the beginning. This is because people get bored easily doing the same thing over and over.  Imagine spending your life writing things down on index cards, storing them, and then having to go find them again.  The U.S. Census Bureau in 1890 had hundreds of people doing just that.  People got bored and frustrated, and would say, "There HAS to be an easier way to do this."  Then a clever person worked out how to make machines do a lot of the work.  Herman Hollerith  figured out how to make a machine that would automatically add up information that the Census bureau collected. The  Computing Tabulating Recording Corporation  (which later became  IBM ) made his machines, and everyone was happy. At least, they were happy until their machines broke down, got jammed, and had to be repaired. This is when the  Computing Tabulating Recording Corporation  invented tech support.
+
+Because of machines like this, new ways of talking to these machines were invented, and new types of machines were invented, and eventually the computer as we know it was born.
+
+  Analog and Digital Computers  
+
+In the first half of the 20th century, scientists started using computers, mostly because scientists had a lot of math to figure out and wanted to spend more of their time thinking about the secrets of the universe instead of spending hours adding numbers together.  For example, if they had to launch a  rocket ship , they needed to do a lot of math to make sure the rocket worked right.
+
+So they put together computers. These computers used  analog signal analog  circuits, which made them very hard to program. Then, in the 1930s, they invented  digital  computers, which made them easier to program.
+
+  High-scale computers  
+
+Scientists figured out how to make and use digital computers in the 1930s and 1940s.  Scientists made a lot of digital computers, and as they did, they figured out how to ask them the right sorts of questions to get the most out of them.  Here are a few of the computers they built:
+
+ Early computer characteristics 
+
+ File:EDSAC (10).jpg thumb|right|200px| EDSAC  was one of the first computers that remembered what you told it even after you turned the power off.  This is called ( von Neumann architecture von Neumann ) architecture. 
+   Konrad Zuse 's  Electromechanics electromechanical  "Z machines". The  Z3 (computer) Z3  (1941) was the first working machine that used  Binary numeral system binary  arithmetic.  Binary arithmetic means using "Yes" and "No." to add numbers together.  You could also program it.  In 1998 the Z3 was proved to be  Turing complete .  Turing complete means that it is possible to tell this particular computer anything that it is mathematically possible to tell a computer.  It is the world's first modern computer.
+  The non-programmable  Atanasoff-Berry Computer  (1941) which used vacuum tubes to store "yes" and "no" answers, and  regenerative capacitor memory .
+  The  Harvard Mark I  (1944), A big computer that you could kind of program.
+  The U.S. Army's Ballistics Research Laboratory  ENIAC  (1946), which could add numbers the way people do (using the numbers 0 through 9) and is sometimes called the first general purpose  Electronics electronic  computer (since  Konrad Zuse 's  Z3 (computer) Z3  of 1941 used  electromagnets  instead of  electronics ). At first, however, the only way to reprogram ENIAC was by rewiring it.
+
+Several developers of ENIAC saw its problems. They invented a way to for a computer to remember what they had told it, and a way to change what it remembered. This is known as "stored program architecture" or  von Neumann architecture .  John von Neumann  talked about this design in the paper  First Draft of a Report on the  EDVAC , distributed in 1945. A number of projects to develop computers based on the stored-program architecture started around this time.  The first of these was completed in  Great Britain . The first to be demonstrated working was the  University of Manchester Manchester  Small-Scale Experimental Machine (SSEM or "Baby"), while the  EDSAC , completed a year after SSEM, was the first really useful computer that used the stored program design. Shortly afterwards, the machine originally described by von Neumann's paper-- EDVAC --was completed but was not ready for two years.
+
+Nearly all modern computers use the stored-program architecture. It has become the main  concept  which defines a modern computer. The technologies used to build computers have changed since the 1940s, but many current computers still use the von-Neumann architecture.
+
+ File:80486dx2-large.jpg thumb|right|200px| Microprocessor s are miniaturized devices that often implement stored program  CPU s. 
+
+In the 1950s computers were built out of mostly  vacuum tube s.   Transistors  replaced vacuum tubes in the 1960s because they were smaller and cheaper.   They also need less power and do not break down as much as vacuum tubes. In the 1970s, technologies were based on  integrated circuit s.  Microprocessor s, such as the  Intel 4004  made computers smaller, cheaper, faster and more reliable. By the 1980s,  microcontroller s became small and cheap enough to replace mechanical controls in things like  washing machine s. The 1980s also saw  home computer s and  personal computer s. With the evolution of the  Internet , personal computers are becoming as common as the  television  and the  telephone  in the household.
+
+In 2005 Nokia started to call some of its mobile phones (the N-series) "multimedia computers" and after the launch of the Apple  iPhone  in 2007, many are now starting to add the  smartphone  category among "real" computers.  In 2008, if smartphones are included in the numbers of computers in the world, the biggest computer maker by units sold, was no longer Hewlett-Packard, but rather  Nokia . fact date December 2008 
+
+  Kinds of computers  
+There are many types of computers:
+   personal computer 
+   mainframe 
+   laptop computer 
+   minicomputer 
+   supercomputer 
+   embedded system 
+
+A "desktop computer" is a small machine that has a screen (which is not part of the computer).  Most people keep them on top of a desk, which is why they are called "desktop computers." " Laptop  computers" are computers small enough to fit on your lap.  This makes them easy to carry around. Both laptops and desktops are called personal computers, because one person at a time uses them for things like playing music, surfing the web, or playing video games.
+
+There are bigger computers that many people at a time can use.  These are called "Mainframes," and these computers do all the things that make things like the internet work. You can think of a personal computer like this:  the personal computer is like your skin:  you can see it, other people can see it, and through your skin you feel wind, water, air, and the rest of the world.  A mainframe is more like your internal organs: you never see them, and you barely even think about them, but if they suddenly went missing, you would have some very big problems.
+
+An embedded computer, also called  embedded system  is a computer that does one thing and one thing only, and usually does it very well.  For example, an  alarm clock  is an embedded computer:  it tells the time.  Unlike your personal computer, you cannot use your clock to play Tetris.  Because of this, we say that embedded computers cannot be programmed, because you cannot install more programs on your clock.  Some  mobile phone s,  automatic teller machine s,  microwave oven s,  CD player s and  car s are operated by embedded computers.
+
+  All-in-one PC  
+All-in-one computers are  PC desktop computers  that have all of the computer's inner mechanisms in the same case as the  Computer monitor monitor .  Apple Inc. Apple  has made several popular examples of all-in-one computers, such as the  Macintosh 128K original Macintosh  of the mid-1980s and the  iMac  of the late 1990s and 2000s.
+
+  Common uses of home computers  
+  Playing  computer game s
+   Writing 
+  Solving  mathematics 
+   search engine Looking  for things on the  Internet 
+  Watching  TV  and  movies 
+  Listening to  music 
+   Communication Communicating  with other people
+  Downloading
+  Sending  e-mail 
+  Sorting
+  Recording
+  Calculating
+  Editing (Video, Photo)
+  Taking Pictures ( photography )
+  Drawing
+
+  Common uses of work computers  
+  Word processing
+  Spreadsheets
+  PowerPoint Presentations
+  Photo Editing (Photoshop, GIMP)
+  E-mail
+  Video editing/rendering/encoding
+  Audio recording
+  System Management
+  Excel
+  
+  Working methods  
+Computers store data and the instructions as numbers, because computers can do things with numbers very quickly. These data are stored as  binary   symbol s (1s and 0s). A 1 or a 0 symbol stored by a computer is called a  bit , which comes from the words binary  Numerical digit digit . Computers can use many bits together to represent  Instruction (computer science) instructions  and the data that these instructions use. A list of instructions is called a  computer program program  and is stored on the computer's  hard disk . Computers work through the program by using a  central processing unit , and they use fast memory called  RAM  as a space to store the instructions and data while they are doing this. When the computer wants to store the results of the program for later, it uses the  hard disk  because things stored on a hard disk can still be remembered after the computer is turned off.
+
+An  operating system  tells the computer how to understand what jobs it has to do, how to do these jobs, and how to tell people the results.  Millions of computers may be using the same  operating system , while each computer can have its own  application program s to do what its user needs.  Using the same  operating system s makes it easy to learn how to use computers for new things.  A user who needs to use a computer for something different, can learn how to use a new application program.  Some  operating system s can have simple command lines or a fully user-frendly  GUI .
+
+  The Internet  
+One of the most important jobs that computers do for people is helping with  communication . Communication is how people share  information . Computers have helped people move forward in  science ,  medicine ,  business , and  learning , because they let experts from anywhere in the world work with each other and share information. They also let other  wikt:people people  communicate with each other, do their jobs almost anywhere, learn about almost anything, or share their opinions with each other. The  Internet  is the thing that lets  wikt:people people  communicate between their computers.
+
+  Computers and waste  
+A computer is now almost always an  electronic device .  It usually contains materials that will become  electronic waste  when discarded  When a new computer is bought in some places, laws require that the cost of its  waste management  must also be paid for.  This is called  product stewardship .
+
+Computers can become  wikt:obsolete obsolete  quickly, depending on what programs the user runs.  Very often, they are thrown away within two or three years, because newer programs require a more powerful computer. This makes the problem worse, so  computer recycling  happens a lot.  Many projects try to send working computers to  developing nation s so they can be re-used and will not become waste as quickly, as most people do not need to run new programs. Some computer parts, such as  hard drive s, can break easily. When these parts end up in the  landfill , they can put  poison ous chemicals like  lead  into the ground water. Hard drives can also contain secret information like  credit card  numbers.  If the hard drive is not erased before being thrown away, an  Identity theft identity thief  can get the information from the hard drive, even if the drive doesn't work, and use it to steal money from the previous owner's bank account.
+
+  Main hardware  
+Computers come in different forms, but most of them have a common design.
+  All computers have a  CPU .
+  All computers have some kind of  data bus  which lets them get inputs or output things to the environment.
+  All computers have some form of memory. These are usually chips ( integrated circuit s) which can hold information.
+  Many computers have some kind of sensors, which lets them get input from their environment.
+  Many computers have some kind of display device, which lets them show output. They may also have other  peripheral equipment peripheral devices  connected.
+ 	
+A computer has several main parts. When comparing a computer to a human body, the  CPU  is like a brain. It does most of the 'thinking' and tells the rest of the computer how to work. The CPU is on the Motherboard, which is like the skeleton. It provides the basis for where the other parts go, and carries the  nerves  that connect them to each other and the CPU. The motherboard is connected to a power supply, which provides  electricity  to the entire computer. The various drives ( compact disc CD  drive,   floppy drive , and on many newer computers,  USB flash drive ) act like eyes, ears, and fingers, and allow the computer to read different types of storage, in the same way that a human can read different types of books. The  hard drive  is like a human's memory, and keeps track of all the data stored on the computer. Most computers have a  sound card  or another method of making sound, which is like  vocal cords , or a voice box. Connected to the sound card are  computer speaker speakers , which are like a mouth, and are where the sound comes out. Computers might also have a  graphics card , which helps the computer to create visual effects, such as 3D environments, or more realistic colors, and more powerful graphics cards can make more realistic or more advanced images, in the same way a well trained artist can.
+
+ Largest Computer Companies 
+ class wikitable sortable  Company name
+  Sales br (US$ billion)
+   flagicon South Korea  Samsung
+  212,680
+   flagicon United States  Apple
+  220,000
+   flagicon Taiwan  Foxconn
+  132,070
+   flagicon United States  HP (Hewlett-Packard)
+  112,300
+   flagicon United States  IBM
+  99,750
+   flagicon Japan  Hitachi
+  87,510
+   flagicon United States  Microsoft
+  86,830
+   flagicon United States  Amazon
+  74,450
+   flagicon Japan  Sony
+  72,340
+   flagicon Japan  Panasonic
+  70,830
+   flagicon United States  Google
+  59,820
+   flagicon United States  Dell
+  56,940
+   flagicon Japan  Toshiba
+  56,200
+   flagicon South Korea  LG
+  54,750
+   flagicon United States  Intel
+  52,700
+ 
+
+  References  
+ reflist 2 
+
+ div class references-small 
+   note label kempf1961 Kempf 1961 a   cite paper
+   author   Kempf, Kar
+   title   Historical Monograph: Electronic Computers Within the Ordnance Corps
+   publisher    Aberdeen Proving Ground  ( United States Army )
+   url    http://ed-thelen.org/comp-hist/U-S-Ord-61.html 
+   date   1961
+ 
+   note label phillips2000 Phillips 2000 a   cite web
+   last   Phillips
+   first   Tony
+   publisher   American Mathematical Society
+   year   2000
+   title   The Antikythera Mechanism I
+   url    http://www.math.sunysb.edu/~tony/whatsnew/column/antikytheraI-0400/kyth1.html 
+   accessdate   2006-04-05
+ 
+   note label shannon1940 Shannon 1940 a   cite paper
+   author   Shannon, Claude Elwood
+   title   A symbolic analysis of relay and switching circuits
+   publisher   Massachusetts Institute of Technology
+   url    http://hdl.handle.net/1721.1/11173 
+   date   1940
+ 
+   note label digital1972 Digital Equipment Corporation 1972 a   cite book
+   author    Digital Equipment Corporation 
+   publisher   Digital Equipment Corporation
+   location    Maynard, Massachusetts Maynard, MA 
+   title   PDP-11/40 Processor Handbook
+   url    http://bitsavers.vt100.net/dec/www.computer.museum.uq.edu.au_mirror/D-09-30_PDP11-40_Processor_Handbook.pdf 
+   format   PDF
+   year   1972
+ 
+   note label verma1988 Verma 1988 a   cite paper
+   author   Verma, G.; Mielke, N.
+   title   Reliability performance of ETOX based flash memories
+   publisher   IEEE International Reliability Physics Symposium
+   date   1988
+ 
+   note label top5002006 TOP500 2006 a   cite web
+   url    http://www.top500.org/lists/2006/11/overtime/Architectures 
+   title   Architectures Share Over Time
+   accessdate 2006-11-27
+   last   Meuer
+   first   Hans
+   authorlink   Hans Meuer
+   coauthors   Strohmaier, Erich; Simon, Horst;  Jack Dongarra Dongarra, Jack 
+   date    2006-11-13 
+   publisher    TOP500 
+ 
+   cite book
+   last   Stokes
+   first   Jon
+   title   Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture
+   year   2007
+   publisher   No Starch Press
+   location   San Francisco
+   isbn   978-1-59327-104-6
+ 
+ div 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Computer Computer  -Citizendium 
+
+ Category:Computers  

@@ -1,0 +1,43 @@
+Family
+
+A  family  is a group of people related by blood or by birth.
+
+  Closeness  
+Some family members are genetically closer to each other. The following table gives examples:
+
+ class wikitable  Kinship
+  Degree of  br relationship
+  Genetic br overlap
+  Inbred strain   not applicable  99%
+  Identical twins   not applicable   100% ref By replacement in the definition of the notion of "generation" by  meiosis ". Since identical twins are not separated by meiosis, there are no "generations" between them, hence  n =0 and  r =1. See  http://www.genetic-genealogy.co.uk/Toc115570135.html genetic-genealogy.co.uk . ref 
+  Full sibling   first-degree   50% (2 sup -2 sup +2 sup -2 sup )
+  Parent-offspring ref cite web url http://taumoda.com/web/PD/library/kin.html title Kin Selection publisher Benjamin/Cummings accessdate 2007-11-25 ref    first-degree   50% (2 sup -1 sup )
+  Offspring/progeny   first-degree   50% (2 sup -1 sup )
+  Half-sibling   second-degree   25% (2 sup -2 sup )
+ 3/4 siblings or sibling-cousin   second-degree   37.5% (2 sup -2 sup +2[?]2 sup -4 sup )
+  Grandmother/grandfather   second-degree   25% (2 sup -2 sup )
+  Niece/nephew   third-degree   25% (2[?]2 sup -3 sup )
+  Aunt/uncle   third-degree   25% (2[?]2 sup -3 sup )
+  Half-aunt, half-uncle   third-degree   12.5% (2[?]2 sup -4 sup )
+  Half-niece/half-nephew   third-degree   12.5% (2[?]2 sup -4 sup )
+ Great grandparent   third-degree   12.5% (2 sup -3 sup )
+  First cousin   fourth-degree   12.5% (2[?]2 sup -4 sup )
+  Double first couisin   fourth-degree   25% (2 sup -3 sup +2 sup -3 sup )
+  Half-first cousin   fourth-degree   6.25% (2 sup -4 sup )
+  First cousin once removed   fifth-degree   6.25% (2[?]2 sup -5 sup )
+  Second cousin   sixth-degree   3.125% 3.13% (2 sup -6 sup +2 sup -6 sup )
+  Double second cousin   sixth-degree   6.25% (4[?]2 sup -6 sup )
+  Triple second cousin   sixth-degree   12.5% (8[?]2 sup -6 sup )
+  Quadruple second cousin   sixth-degree   9.38% (6[?]2 sup -6 sup )
+  Third cousin   seventh-degree   0.781% (2[?]2 sup -8 sup )
+  Fourth cousin   tenth-degree   0.20% (2[?]2 sup -10 sup ) ref This degree of relationship is usually indistinguishable from the relationship to a random individual within the same population (tribe, country, ethnic group). ref  
+ 
+ Notes :
+ Reflist 
+
+  Related pages  
+   Divorce 
+   Orphan 
+
+ Category:Basic English 850 words 
+ Category:Family  

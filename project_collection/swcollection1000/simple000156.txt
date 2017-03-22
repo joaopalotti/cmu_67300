@@ -1,0 +1,16 @@
+Everything2
+
+Everything2  or  E2  is a  website .  It lets people make pages about many different things, and some people use it as a  diary .
+
+E2 users create pages called  nodes  and add stuff in  writeups .  Only logged-in users can create writeups.  Only the person who created the writeup or someone who the website owners (called "gods") choose can edit the writeup.  On the other hand, on  Wikipedia , anyone can edit pages, but on Everything2 only those who can edit the writeup can edit pages.
+
+Everything2 does not require a  Wikipedia:Neutral point of view neutral point of view  like Wikipedia does. So, it is possible to have more than one article (writeups) under the same title (node), each by different authors, and presenting different points of view.
+
+  Other websites  
+   http://everything2.com/index.pl?node_id=124 Everything2 website 
+   http://everything2.com/?node=Wikipedia Everything2.com article about Wikipedia 
+
+
+ tech-stub 
+
+ Category:Websites

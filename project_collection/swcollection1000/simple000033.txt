@@ -1,0 +1,186 @@
+Angola
+
+Infobox country
+ conventional_long_name   Republic of Angola
+ native_name    hr div style padding:0.2em 0 0.1em;line-height:1.0em; Republica de Angola br resize 75% nobold ( Portuguese language Portuguese ) div hr div style padding-top:0.1em;line-height:1.0em; Repubilika ya Ngola br resize 75% nobold ( Kongo language Kikongo \ North Mbundu language Kimbundu \ South Mbundu language Umbundu ) div 
+ common_name   Angola
+ image_flag     Flag of Angola.svg
+ image_coat   Coat of arms of Angola.svg
+ symbol_type   Emblem
+ national_anthem    native name pt Angola Avante Angola Avante! br small Forward Angola! 
+ image_map   Angola (orthographic projection).svg
+ capital    Luanda 
+ latd 8  latm 50  latNS S  longd 13  longm 20  longEW E
+ largest_city   capital
+ official_languages    Portuguese language Portuguese 
+ national_languages    vunblist  Kongo language Kikongo   Chokwe language Chokwe   South Mbundu language Umbundu   North Mbundu language Kimbundu   ( Mbunda language Mbunda )  Ganguela language Ganguela   Kwanyama dialect Kwanyama 
+ regional_languages    languages_type    languages  
+ ethnic_groups  
+  vunblist
+    36%  Ovimbundu 
+    25%  Northern Mbundu people Ambundu 
+    13%  Bakongo 
+     nowrap 22% other African 
+     2%  Mestico Mestico 
+     1%  Chinese people Chinese 
+     1%  Europe an
+
+  
+ ethnic_groups_year   2000
+ demonym   Angolan
+ government_type    Unitary state Unitary   Presidential system presidential   republic 
+ leader_title1    President of Angola President 
+ leader_name1    nowrap Jose Eduardo dos Santos ref cite web last Chutal first Lynsey title Angola's president will have to explain why he hired his daughter to head up the state oil company url http://qz.com/821044/africas-richest-woman-isabel-dos-santos-father-will-have-answer-an-angolan-courts-questions-about-her-role-at-state-oil-company/ publisher Quartz Africa accessdate 30 October 2016 year October 27, 2016 ref 
+ leader_title2    Vice President of Angola Vice President 
+ leader_name2    Manuel Vicente 
+ legislature    National Assembly (Angola) National Assembly 
+ sovereignty_type    Angolan War of Independence Independence 
+ established_event1   from  Portugal 
+ established_date1   11 November 1975
+ area_rank   23rd
+ area_magnitude   1 E12
+ area_km2   1246700
+ area_sq_mi   481354
+ percent_water   negligible
+ population_estimate   18,498,000 ref name unpop cite journal   url http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf    title World Population Prospects, Table A.1  version 2008 revision   format PDF   publisher United Nations   author Department of Economic and Social Affairs Population Division   year 2009   accessdate 12 March 2009  archiveurl   http://web.archive.org/web/20090318041906/http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf  archivedate  18 March 2009   deadurl  no ref ref http://www.google.com/publicdata/explore?ds=n4ff2muj8bh2a_&ctype=l&strail=false&nselm=h&met_y=POP&hl=en&dl=en#ctype=l&strail=false&nselm=h&met_y=POP&fdim_y=scenario:1&scale_y=lin&ind_y=false&rdim=world&idim=country:AO&hl=en&dl=en Population Forecast to 2060 by International Futures hosted by Google Public Data Explorer ref 
+ population_estimate_rank  
+ population_estimate_year   2009
+ population_census    population_census_year  
+ population_density_km2   14.8
+ population_density_sq_mi   38.4
+ population_density_rank   199th
+ GDP_PPP   $128.288 billion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=614&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=53&pr.y=7   title Angola  publisher International Monetary Fund  accessdate 17 April 2013 ref 
+ GDP_PPP_rank   64th
+ GDP_PPP_year   2012
+ GDP_PPP_per_capita   $6,346 ref name imf2 
+ GDP_PPP_per_capita_rank   107th
+ GDP_nominal   $118.719 billion ref name imf2 
+ GDP_nominal_rank   61st
+ GDP_nominal_year   2012
+ GDP_nominal_per_capita   $5,873 ref name imf2 
+ GDP_nominal_per_capita_rank   91st
+ Gini_year   2009
+ Gini_change     
+ Gini   42.7  
+ Gini_ref    ref name wb-gini cite web  url http://data.worldbank.org/indicator/SI.POV.GINI/   title Gini Index  publisher World Bank  accessdate 2 March 2011 ref 
+ Gini_rank  
+ HDI_year   2013
+ HDI_change   increase  
+ HDI   0.508  
+ HDI_rank   148th
+ currency    Angolan kwanza Kwanza 
+ currency_code   AOA
+ time_zone    West Africa Time WAT 
+ utc_offset   +1
+ time_zone_DST   not observed
+ utc_offset_DST   +1
+ drives_on   right
+ calling_code    +244 
+ iso3166code  
+ cctld    .ao 
+ footnote_a    
+ 
+ Angola  (officially called  Republic of Angola ) is a country in  Africa . The  capital (city) capital  is  Luanda . Angola is in the south of the  continent .
+
+Angola is a member state of the  African Union , the  Community of Portuguese Language Countries , the  Latin Union ,  South Atlantic Peace and Cooperation Zone  and the  Southern African Development Community .
+
+ History 
+ expand section date November 2012 
+There was a  civil war  from 1975 to 2002.
+
+ Geography 
+Angola is the world's twenty-third largest country.  Angola is bordered by  Namibia  to the south,  Zambia  to the east, the  Democratic Republic of the Congo  to the north-east, and the South  Atlantic Ocean  to the west.
+
+ Climate 
+Angola's average temperature on the coast is  convert 60 F C  in the winter and  convert 70 F C  in the summer. It has two seasons; dry season (May to October) and hot rainy season (November to April).
+
+ Demographics 
+ File:Angola Map.jpg thumb|250px|left| center Map of Angola center 
+Angola's population is estimated to be 18,498,000 (2009). ref name unpop 
+
+ Provinces 
+ gallery 
+Image:Angola Provinces numbered 300px.png|Map of Angola with provinces numbered.
+ gallery 
+Angola is divided into eighteen  provinces .
+
+ style width:50%; background:transparent; algin=left valign top 
+ class wikitable sortable + 
+ bgcolor #ACE1AF Map key
+ Province
+ Capital
+ 1
+ Bengo Province Bengo 
+ Caxito 
+ 2
+ Benguela Province Benguela 
+ Benguela 
+ 3
+ Bie Province Bie 
+ Kuito 
+ 4
+ Cabinda Province Cabinda 
+ Cabinda (city) Cabinda 
+ 5
+ Cuando Cubango Province Cuando Cubango 
+ Menongue 
+ 6
+ Cuanza Norte Province Cuanza Norte 
+ N'dalatando 
+ 7
+ Cuanza Sul Province Cuanza Sul 
+ Sumbe 
+ 8
+ Cunene Province Cunene 
+ Ondjiva 
+ 9
+ Huambo Province Huambo 
+ Huambo 
+ 10
+ Huila Province Huila 
+ Lubango 
+ 11
+ Luanda Province Luanda 
+ Luanda 
+ 12
+ Lunda Norte Province Lunda Norte  
+ Lucapa 
+ 13
+ Lunda Sul Province Lunda Sul 
+ Saurimo 
+ 14
+ Malanje Province Malanje 
+ Malanje 
+ 15
+ Moxico Province Moxico 
+ Luena, Moxico Province Luena 
+ 16
+ Namibe Province Namibe 
+ Namibe 
+ 17
+ Uige Province Uige 
+ Uige 
+ 18
+ Zaire Province Zaire 
+ M'banza-Kongo 
+ 
+ 
+See  List of settlements in Angola  for the cities and towns in the country.
+
+ Related pages 
+ Angola at the Olympics 
+ Angola national football team 
+ List of rivers of Angola 
+
+ References 
+ reflist 
+
+ Other websites 
+   commonscat-inline 
+   wikivoyage-inline 
+
+ Africa 
+
+ Category:Angola   
+ Category:Portuguese-speaking countries 
+ Category:Least developed countries

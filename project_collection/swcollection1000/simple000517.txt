@@ -1,0 +1,20 @@
+Velocity
+
+Velocity  is a  measure  of how  Speed fast  something moves in a particular direction. ref name sva Cite web
+  url   http://www.physics247.com/physics-homework-help/speed-velocity-acceleration.php 
+  title Physics Homework Help: Speed, Velocity, Acceleration
+  work physics247.com
+  accessdate 25 March 2010
+ ref  In other words, a velocity is a  speed  with a direction. For instance, if an object moves  east  at 7  metre s per second (7 m/s), we would say that its velocity is 7 m/s to the east. 
+
+To calculate the velocity of an object, we divide its  Displacement vector displacement  (its change of position) by the time it took to change position. ref name sva blockquote math display block \text{velocity} = \frac\text{displacement}\text{time} math blockquote For example, if an object moves 20 meters (m) to the left in 4 seconds (s), its velocity (v) would be equal to: blockquote math display block \text{v} = \frac\text{20 m}\text{4 s} = \text{5 m/s to the left} math blockquote 
+
+A change in velocity is acceleration
+
+ References 
+ reflist 
+
+ Category:measurement 
+ Category:Physics 
+
+ fr:Vitesse

@@ -1,0 +1,173 @@
+Armenia
+
+Infobox country
+  conventional_long_name   Republic of Armenia
+  native_name    nobold Hayastani Hanrapetowt`yown br Hayastani Hanrapetutyun 
+  common_name   Armenia
+  image_flag   Flag of Armenia.svg
+  image_coat   Coat of arms of Armenia.svg
+  image_map   Armenia (orthographic projection).svg
+  national_motto   
+  national_anthem    br Mer Hayrenik Mer Hayrenik` br Mer Hayrenik br smaller Our Fatherland br center File:Mer Hayrenik instrumental.ogg center 
+  official_languages    Armenian language Armenian ref name constitution cite web  title The Constitution of the Republic of Armenia (with amendments)  url http://www.concourt.am/english/constitutions/index.htm#1   publisher Constitutional Court of the Republic of Armenia  accessdate 14 October 2012  date 5 July 1995 ref 
+  languages_type   Official written language
+  languages    nowrap Eastern Armenian ref cite book  last1 Campbell  first1 George L.  last2 King  first2 Gareth  title Compendium of the World's Languages  date 2013  publisher Routledge  location New York  isbn 9781136258466  page 115  edition 3rd  quote ...Eastern Armenian is the written and spoken language of the Republic of Armenia. ref ref cite book  last Dalby  first Andrew  authorlink Andrew Dalby  title Dictionary of Languages: The Definitive Reference to More Than 400 Languages  date 1998  publisher Columbia University Press  location New York  isbn 9780231115681  page 36  quote ...Eastern Armenian of the Present Republic of Armenia... ref 
+  languages_sub   yes
+  languages2_type    Official script 
+  languages2    nowrap Armenian alphabet padlsup a 
+  languages2_sub   yes
+  ethnic_groups_year    lower 0.4em ref Asatryan, Garnik; Arakelova, Victoria (Yerevan 2002).  http://www.hra.am/file/minorities_en.pdf The Ethnic Minorities in Armenia . Part of the  Organization for Security and Co-operation in Europe OSCE . ref 
+  ethnic_groups    Unbulleted list  97.9%  Armenians Armenian   1.3%  Yazidi s  0.5%  Russians Russian   0.3% other 
+  religion    Armenian Apostolic Church 
+  demonym   Armenian
+  capital    Yerevan 
+  latd 40  latm 11  latNS N  longd 44  longm 31  longEW E
+  largest_city   capital
+  government_type    Semi-presidential system Semi-presidential   republic ref name constitution 
+  leader_title1    President of Armenia President 
+  leader_name1    Serzh Sargsyan ref cite web title The President of the Republic of Armenia url http://www.president.am/en/ accessdate 30 October 2016 ref 
+  leader_title2    Prime Minister of Armenia Prime Minister 
+  leader_name2    Karen Karapetyan 
+  legislature    National Assembly of Armenia National Assembly 
+  sovereignty_type   Formation and independence
+  established_event1   Traditional date
+  established_date1   2492  BCE 
+  established_event2    Hayasa-Azzi 
+  established_date2   1500-1290 BCE
+  established_event3    Shupria Arme-Shupria ref David Marshall Lang Lang, David Marshall .  Armenia: Cradle of Civilization . London: Allen and Unwin, 1970, p. 114. ISBN 0-04-956007-7. ref ref Redgate, Anna Elizabeth.  The Armenians . Cornwall: Blackwell, 1998, pp. 16-19, 23, 25, 26 (map), 30-32, 38, 43 ISBN 0-631-22037-2. ref 
+  established_date3   1300s-1190 BCE
+  established_event4    Urartu ref cite book  last Redgate  first A. E.  title The Armenians  year 2000  publisher Blackwell  location Oxford  isbn 0631220372  page 5  url http://books.google.com/books?id=e3nef10a3UcC&dq   edition Reprint  quote However, the most easily identifiable ancestors of the later Armenian nation are the Urartians. ref 
+  established_date4   860-590 BCE
+  established_event5    Orontid Dynasty 
+  established_date5   6th century BCE
+  established_event6    nowrap Kingdom of Armenia (antiquity) Kingdom of Greater br Armenia  united under br the  Artaxiad Dynasty ref cite book  editor1-last de Laet  editor1-first Sigfried J.  editor2-last Herrmann  editor2-first Joachim  title History of Humanity: From the seventh century B.C. to the seventh century A.D.  date 1996  publisher Routledge  location London  isbn 9789231028120  page http://books.google.com/books?id=WGUz01yBumEC&pg=PA128&dq=the+ruler+of+the+part+known+as+greater+armenia+artaxias&hl=en&sa=X&ei=Z3K5U-otqo3xAcqJgfAD&ved=0CBwQ6AEwAA#v=onepage&q=the%20ruler%20of%20the%20part%20known%20as%20greater%20armenia%20artaxias&f=false 128   edition 1st  quote The ruler of the part known as Greater Armenia, Artaxias (Artashes), the founder of a new dynasty, managed to unite the country... ref 
+  established_date6   190 BCE ref cite book  title Encyclopedia Americana: Ankara to Azusa  date 2005  publisher Scholastic Library Publishing   page 393  quote It was named for Artaxias, a general of Antiochus the Great, who founded the kingdom of Armenia about 190 B.C. ref 
+  established_event7    Arsacid dynasty of Armenia Arsacid Dynasty 
+  established_date7   52-428
+  established_event8    Bagratid Armenia 
+  established_date8   885-1045
+  established_event9    Armenian Kingdom of Cilicia Kingdom of Cilicia 
+  established_date9   1198-1375
+  established_event10    First Republic of Armenia   Declaration of Independence of Armenia (1918) declared 
+  established_date10    br 28 May 1918
+  established_event11   Independence from the  Soviet Union 
+  established_date11    nowrap 23 August 1990 padlsup b br 21 September 1991 padlsup c 
+  area_km2   29,743
+  area_sq_mi   11,484  
+  area_rank   141st
+  percent_water   4.71 ref name cia-fact cite web  title The World Fact Book - Armenia  url https://www.cia.gov/library/publications/the-world-factbook/geos/am.html   publisher Central Intelligence Agency  accessdate 2010-07-17  archiveurl //web.archive.org/web/20100719074837/ https://www.cia.gov/library/publications/the-world-factbook/geos/am.html   archivedate 19 July 2010  deadurl no ref 
+  population_census    nowrap increase  3,018,854 ref name Armstat 2011 census cite web  url http://www.armstat.am/file/doc/99475033.pdf   title Statistical Service of Armenia publisher Armstat  accessdate 20 February 2014 ref ref name News.am cite web  url http://news.am/eng/news/46702.html   title News.am  work World Economic Outlook Database, October 2009  publisher International Monetary Fund IMF   accessdate 1 January 2011 ref 
+  population_census_year   2011
+  population_census_rank   134th
+  population_density_km2   101.5
+  population_density_sq_mi   262.9  
+  population_density_rank   99th
+  GDP_PPP_year   2013
+  GDP_PPP    nowrap $20.831 billion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=49&pr.y=4&sy=2011&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&c=911&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Armenia  publisher International Monetary Fund  accessdate 2013-07-19 ref 
+  GDP_PPP_per_capita   $6,128 ref name imf2 
+  GDP_nominal    nowrap $10.325 billion ref name imf2 
+  GDP_nominal_year   2013
+  GDP_nominal_per_capita   $3,037 ref name imf2 
+  Gini_year   2008
+  Gini_change     
+  Gini   30.9  
+  Gini_ref    ref cite web  url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html   title Distribution of family income - Gini index  work The World Factbook  publisher CIA  accessdate 2009-09-01 ref 
+  Gini_rank   
+  HDI_year   2013  
+  HDI_change   steady  
+  HDI   0.730  
+  HDI_ref    ref name HDI cite web  title Human Development Report 2013  year 2013  publisher United Nations  accessdate 21 May 2013  url http://hdr.undp.org/en/mediacentre/humandevelopmentreportpresskits/2013report/ ref 
+  HDI_rank   87th
+  currency    Armenian dram Dram (dr.)
+  currency_code   AMD
+  time_zone    UTC 
+  utc_offset   +4
+  patron_saint    Gregory the Illuminator St. Gregory 
+  drives_on   right
+  calling_code    Telephone numbers in Armenia +374 
+  cctld    .am 
+  footnote_a    Armenian orthography reform Reformed orthography . ref cite book  last Dum-Tragut  first Jasmine  title Armenian: Modern Eastern Armenian  date 2009  publisher John Benjamins Publishing  location Amsterdam  isbn 9789027238146  page 12  quote The orthography used in Armenia nowadays goes back to the Soviet orthography reform of 1922 and its revision of 1940. ref 
+  footnote_b   Declared.
+  footnote_c    Armenian independence referendum, 1991 Referendum .
+ 
+
+ Armenia  (officially called the  Republic of Armenia ) is a country in the western part of Asia. Its  capital (city) capital city  is  Yerevan . Armenia received its independence from the  Soviet Union  in  1991 .
+
+Armenia touches  Turkey ,  Georgia (country) Georgia ,  Azerbaijan , and  Iran .
+
+There are some minorities living in Armenia, such as  Greece Greek ,  Russia n, and other minorities, and more than 90% of the people are ethnic  Armenians .  Also, the  Armenian Apostolic Church , is by far the largest religion in the country. There is a small amount of other  Christians ,  Muslims  and  atheists .
+
+Armenia is the place that some Christians believe  Noah's Ark  landed, and Noah's family settled.  The Armenian name for Armenia (Hayastan) means Land of Haik.  Haik was the name of a great-great-grandson of  Noah .
+
+Throughout history, Armenia's size has changed many times.  Today Armenia is much smaller than it was once. In 80 BCE, the Kingdom of Armenia covered parts of what is today Turkey,  Syria ,  Lebanon ,  Iran ,  Iraq , Azerbaijan, and, of course, Armenia.
+
+From  1920  to  1991 , Armenia was a member of the  Soviet Union .
+
+Today, Armenia's borders are locked with  Turkey  and  Azerbaijan , due to conflicts. In 1992, Armenia and Azerbaijan had a war over the land of  Nagorno-Karabakh . The fighting stopped in 1994, and Armenia has had control over this land, but Azerbaijan still disputes about the land.
+
+  Geography  
+Armenia is  landlocked country landlocked  in the  Transcaucasus South Caucasus . It is between the  Black Sea Black  and  Caspian Sea s. The country is bordered on the north and east by  Georgia (country) Georgia  and  Azerbaijan , and on the south and west by  Iran  and  Turkey .
+
+It covers an area of  convert 29743 km2 sqmi 0 . The land is mostly mountains, with fast flowing rivers and few forests. There are hot summers and cold winters. 
+
+ Mount Ararat  used to be part of Armenia. It is the highest mountain in the region. It is now in Turkey, but clearly visible in Armenia. The Armenians see it as a  symbol  of their land. Because of this, the mountain is present on the  Coat of arms of Armenia Armenian national emblem  today.
+
+  Provinces  
+Armenia is divided into ten  provinces  and the capital city of  Yerevan .  As of 2007, Armenia includes 915 communities.  49 are considered  urban  and 866 are considered  rural .  For a list of communities see  List of settlements in Armenia .
+
+ class sortable wikitable style text-align:left; font-size:90%; style font-size:100%; text-align:left; style width:140px; Province  style width:80px; Capital  style width:80px; Area  style width:80px; Population
+ Aragatsotn Province Aragatsotn  ( lang hy Aragatsotn )  Ashtarak  ( lang hy Ashtarak )  style text-align:right 2,753 km2 style text-align:right 126,278
+ Ararat Province Ararat  ( lang hy Ararat )  Artashat  ( lang hy Artashat )  style text-align:right 2,096 km2 style text-align:right 252,665
+ Armavir Province Armavir  ( lang hy Armavir )  Armavir, Armenia Armavir  ( lang hy Armavir )  style text-align:right 1,242 km2 style text-align:right 255,861
+ Gegharkunik Province Gegharkunik  ( lang hy Geghark`ownik` )  Gavar  ( lang hy Gavarh )  style text-align:right 5,348 km2 style text-align:right 215,371
+ Kotayk Province Kotayk  ( lang hy Kotayk` )  Hrazdan  ( lang hy Hrazdan )  style text-align:right 2,089 km2 style text-align:right 241,337
+ Lori Province Lori  ( lang hy Lorhi )  Vanadzor  ( lang hy Vanadzor )  style text-align:right 3,789 km2 style text-align:right 253,351
+ Shirak Province Shirak  ( lang hy Shirak )  Gyumri  ( lang hy Gyowmri )  style text-align:right 2,681 km2 style text-align:right 257,242
+ Syunik Province Syunik  ( lang hy Syownik` )  Kapan  ( lang hy Kapan )  style text-align:right 4,506 km2 style text-align:right 134,061
+ Tavush  ( lang hy Tavowsh )  Ijevan  ( lang hy Ijewan )  style text-align:right 2,704 km2 style text-align:right 121,963
+ Vayots Dzor  ( lang hy Vayots` Dzor )  Yeghegnadzor  ( lang hy Eghegnadzor )  style text-align:right 2,308 km2 style text-align:right 53,230
+ Yerevan  ( lang hy Erewan )  -  style text-align:right 227 km2 style text-align:right 1,091,235
+ 
+
+  Largest cities  
+Armenia has many cities. Here is a list of the ten biggest ones:
+   Yerevan  (1,121,900 people)
+   Vanadzor 
+   Gyumri 
+   Vagharshapat 
+   Hrazdan 
+   Abovyan 
+   Armavir 
+   Kapan 
+   Gavar 
+   Artashat  (20,562 people)
+
+  Filmography  
+ 1993  The Armenian Kingdom of Kilikia  Footage includes the President of France - Francois Mitterand,                         The President of Armenia - Levon Ter-Petrosyan. Director  Levon Mkrtchyan 
+ 1987: Gyumri (Leninakan), (narration by Azat Gasparyan) 
+ 1989: Charles Aznavour Armenia 1989   http://www.youtube.com/watch?v=tHEd5L1i6gg 
+ 2002: The Manuscript of Indepedence, Matyan Ankakhowt`yan - ( Levon Ter-Petrossian , Robert Kocharyan,Serj Sargsyan)  http://www.youtube.com/watch?v=EERMf2jdMlc 
+
+  Related pages  
+ Armenia at the Olympics 
+ Armenia national football team 
+ List of rivers of Armenia 
+
+  References  
+ reflist 
+
+  Other websites  
+   http://www.armeniapedia.org/index.php?title=Main_Page Armeniapedia 
+   http://www.armenianhighland.com History of Armenia 
+   http://www.armenica.org Armenia.org - Complete history of Armenia, covering 800B.C. to 2004 
+   http://www.panarmenian.net PanARMENIAN.Net - Daily Armenian News 
+   http://www.armenianow.com/ ArmeniaNow.com - Weekly articles and reports 
+   http://www.hetq.am/eng/ Hetq.am - Weekly articles and reports 
+   http://www.haias.net/ Haias.net - All about Armenia 
+
+ commons 
+ Europe 
+ Asia 
+
+ Category:Armenia   
+ Category:Caucasus

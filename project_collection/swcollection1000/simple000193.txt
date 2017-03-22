@@ -1,0 +1,35 @@
+Gallon
+
+A  gallon  is a  unit of measurement  used to measure  volume . People have used many different gallons throughout history. There are three types of gallon still in use.
+
+ 1  Imperial unit imperial  gallon  = 160 imperial  fluid ounce s (fl. oz.)  ** No longer officially used in the United Kingdom. **
+ = 8 imperial  pint s
+ =  frac 9  of a  firkin  (of beer)
+ =  frac 8  of an imperial  bushel 
+ = 4.54609  litre s (exactly)
+ [?]  frac 4 1 2  litres
+ [?] 1.20 U.S. wet gallons
+ [?] 1.03 U.S. dry gallons
+ = 10 pounds of pure water at room temperature
+ 
+ 1  U.S. customary units U.S.  wet gallon  = 231 cubic  inch es = 3 in x 7 in x 11 in  ** This is the gallon mostly used in the US. **
+ = 128 U.S. fl. oz.
+ = 8 U.S. wet pints
+ =  frac 42  of a U.S. oil  Barrel (unit) barrel 
+ = 3.785411784 litres (exactly)
+ [?]  frac 3 3 4  litres
+ [?] 0.83 imperial gallons
+ [?] 0.86 U.S. dry gallons
+ [?] 8.33 pounds of pure water at room temperature
+ 
+ 1 U.S. dry gallon  = 268.8025 cubic inches
+ = 8 U.S. dry pints
+ =  frac 8  of a U.S. bushel 
+ = 4.40488377086 litres (exactly)
+ [?]  frac 4 2 5  litres
+ [?] 0.97 imperial gallons
+ [?] 1.16 U.S. wet gallons
+ 
+
+ Category:Imperial units 
+ Category:Units of volume

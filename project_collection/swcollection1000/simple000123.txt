@@ -1,0 +1,21 @@
+Distance
+
+wiktionary 
+ Distance  is how far one thing is from another thing. Distance is a  measure  of the space between two things.
+
+  Examples  
+  One ball is 5  Foot (unit of length) feet  from another ball. The distance between the two balls is 5 feet.
+  John walks at a  speed  of 6  kilometre s per  hour  for one hour. John  walk s a distance of 6 kilometres. 
+  A  circle  is a  curve d  line . Each point on the circle is the same distance from the centre of the circle.
+
+  Displacement  
+Distance is different from  displacement vector displacement . Displacement is the difference between a starting point and a finishing point. It has both a distance and a  direction .
+
+  Example of Displacement  
+  Tom walks 6 kilometers  north  from his home.  His displacement from home is 6 km north. Next he walks 10 km south. Now he has walked a distance of 16 km, but his displacement from home is 4 km south. 
+
+
+ math-stub 
+
+ Category:Physical quantity 
+ Category:Mathematics

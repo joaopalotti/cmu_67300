@@ -1,0 +1,25 @@
+Operating system
+
+File:Ubuntu 10.10.png thumb|right| Ubuntu Ubuntu GNU+Linux , a  FOSS free  operating system 
+
+ An   operating system  (or  OS ) is the name for a group of  computer program s,  device driver s,  kernel , and other things that let a  user  work with a  computer . It can be small (like  MenuetOS ), or big (like  Microsoft Windows ). Different operating systems can be used for different reasons. Some are used for every day things like on a  PC personal computer . Others are used for  specialize d work.
+
+An operating system has many jobs. It is responsible for making sure that all the programs can use the  CPU , system  RAM memory ,  computer screen display s,  input   device s, and other  hardware . It also lets the user have a fast, clean, and safe  interface  so they can do work on the computer. It also talks to other computers or devices on a  network .
+
+ History 
+
+The first operating system was used with the  ENIAC  (Electronic Numerical Integrator and Computer). ref name pkrz_rutgers cite web last Krzyzanowski first Paul title Operating Systems url https://www.cs.rutgers.edu/~pxk/416/notes/01-intro.html accessdate 19 May 2016 ref  It was very hard to make ENIAC do work. How the operating system worked was based on how the  switch es and  cable s were put together and depending on this factor  punch card s would make a  result . While this was an operating system of a kind, it is not what is thought of as one in modern times.
+
+ File:Using a DEC VT-100 UNIX Terminal.webm thumb|right|Video: Using an old UNIX system. 
+
+The first operating system that looked and felt like operating systems in the modern age was  UNIX , made in 1969 by  Bell Labs . It had a small kernel and many tiny programs that could be put together to work with user  input  and  data . Many of its  feature s were taken from  Multics , an older operating system made in 1964. ref name pkrz_rutgers 
+
+ Related pages 
+   BIOS 
+
+ Operating systems 
+
+ References 
+ reflist 
+
+ Category:Operating systems

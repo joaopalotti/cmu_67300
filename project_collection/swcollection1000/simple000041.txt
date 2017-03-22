@@ -1,0 +1,46 @@
+Acceleration
+
+Acceleration  is a  measure  of how  speed fast   velocity   wikt:change changes . Acceleration is the change of velocity  Division (mathematics) divide d by the change of  time . Acceleration is a  vector , and therefore includes both a  size  and a  direction .
+ 
+  Examples  
+  An object was moving  north  at 10 meters per second. The object speeds up and now is moving north at 15  meter s per  second . The object has accelerated. 
+  An  apple  is falling down. It starts falling at 0 meters per second. At the end of the first second, the apple is moving at 9.8 meters per second. The apple has accelerated. At the end of the second second, the apple is moving down at 19.6 meters per second. The apple has accelerated again.
+  Jane is walking  east  at 3  kilometer s per  hour . Jane's velocity does not change. Jane's acceleration is  zero . 
+  Tom was walking east at 3 kilometers per hour. Tom turns and walks  south  at 3 kilometers per hour. Tom has had a nonzero acceleration. 
+  Sally was walking east at 3 kilometers per hour. Sally slows down. After, Sally walks east at 1.5 kilometers per hour. Sally has had a nonzero acceleration.
+   Acceleration due to gravity 
+
+  Finding acceleration  
+
+Acceleration is the  rate (mathematics) rate  of change of the  velocity  of an object. Acceleration  math \mathbf{{a}} math  can be found by using: br 
+ math 
+\mathbf{{a}} = {\mathbf{v_1} - \mathbf{v_0} \over { t_1 - t_0 }} math 
+
+where
+ math \mathbf{v_0} math  is the velocity at the start
+ math \mathbf{v_1} math  is the velocity at the end
+ math t_0 math  is the time at the start 
+ math t_1 math  is the time at the end 
+
+Sometimes the change in velocity  math  \mathbf{v_1} - \mathbf{v_0} math  is written as D math \mathbf{v} math . Sometimes the change in time  math { t_1 - t_0 } math  is written as Dt.
+
+In difficult situations, the acceleration can be calculated using  mathematics : in  calculus , acceleration is the  Derivative (mathematics) derivative  of the velocity (with respect to time),  math \mathbf{a} = \frac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} math .
+
+  Units of measurement  
+Acceleration has its own  units of measurement . For example, if velocity is measured in meters per second, and if time is measured in seconds, then acceleration is measured in meters per second squared  (m/s sup 2 sup ).
+
+  Other words  
+Acceleration can be  positive  or  negative number negative . When the acceleration is negative (but the velocity does not change direction), it is sometimes called deceleration. For example, when a car brakes it decelerates. Physicists usually only use the word "acceleration".
+
+  Newton's second law of motion  
+Newton's laws of motion are  rule s for how things  Movement move . These rules are called " law s of  motion (physics) motion ".  Isaac Newton  is the  scientist  who first wrote down the main laws of motion.
+According to  Newton's laws of motion#Second Law Newton's Second Law of Motion , the  Force (physics) force  something needs to accelerate an object depends on the object's  mass  (the amount of "stuff" the object is made from or how "heavy" it is).
+The formula of Newton's Second Law of Motion is  math \mathbf{F} = m \mathbf{a} math ,
+where  math \mathbf{a} math  is the acceleration,  math \mathbf{F} math  is the force, and  math m math  the mass. 
+This formula is very well-known, and it is very important in  physics . Newton's Second Law of Motion, in short "Newton's Second Law", is often one of the first things that physics students learn.
+
+  Deceleration  
+Deceleration is the opposite of acceleration. This means that something slows down instead of speeding up. For example, when a car brakes, it is decelerating.
+
+ Category:Basic physics ideas 
+ Category:Mechanics

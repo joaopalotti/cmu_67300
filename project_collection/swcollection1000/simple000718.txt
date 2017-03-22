@@ -1,0 +1,42 @@
+Spamming
+
+redirect Spam the food item with that name Spam (food) 
+ selfref For Wikipedia's policy on spam, see  Wikipedia:Spam 
+
+ Spamming  is when one person or  company  sends an unwanted  email  to another person.   Spam emails are the  computer  version of unwanted "junk mail" that arrives in a  mailbox , such as  advert ising pamphlets and brochures. Spam emails are usually sent to try to get the person to  buy  something or do something else that will cause gain for the sender.
+
+  Names  
+The emails sent when someone is spamming is called  spam . The person or company who sent the unwanted email is called a  spammer . Both of these words came from a brand of canned  meat  called " Spam (food) Spam ", but it was a short  sketch  created by the British  comedy  group  Monty Python  in 1970 that led to the word "Spam" being widely used to mean unwanted email messages.
+
+  Uses  
+Spam emails are usually sent to many  wikt:people people  at once trying to get them to buy a  Product (consumer goods) product  or sign up for a  service . The people who  wikt:receive receive  the email did not ask to receive the email, and do not want to receive it.
+
+One of the reasons there is so much spam emails around is that it costs very little to send  million s of spam messages at once.  Spam messages can easily be sent, sometimes even by a special  computer program .
+
+ How spammers find email addresses 
+The hardest part about spamming is to get the email addresses to send the spam to. Sometimes the spammers do this by searching for emails on the  internet , or by buying emails from people who know a lot of them (for example, someone who runs a site that makes users tell them their email address to signup will have a lot of email addresses to sell to spammers). 
+
+  Method one  
+One part of getting  e-mail  addresses is to find addresses that are still in use. One trick used by spammers is to put a link at the end of a message like this:
+
+ If you do not wish to get more of these messages
+ from us  click here  to stop getting them.
+
+If the person clicks on the  link , it tells the spammers that there is someone at the  address .  Then the spammers put that person on a list of people who actually open spam messages. Next, the spammers sell that list to other spammers. The same thing happens if the person sends another email back to the spammer (called  replying ), which also tells the spammer the message has been opened.
+
+  Method two  
+Another trick that spammers use is to put a  picture  - even one that cannot be seen - into a spam message.  The picture will have a name that goes with just that one email.  When the email is opened, a request will be sent to the  server  that has that picture to get the image. If they get this request, then they know that you read their email, which could cause a person to receive even more email spam.
+
+  Other meanings  
+The word "spamming" is also used to describe the act of  type typing  a lot of words or text in Internet  chat room s, so that other people using the chatroom cannot carry on  conversation s.  Usually this blocks the screen with meaningless words, in order to annoy the other people in the chatroom.  Spamming in Internet chatrooms is usually considered to be  wikt:rude rude . This kind of behavior is usually called  flooding  rather than  spamming .
+
+The word "spam" is often (mistakenly) applied to emails containing content that the receiver sees as silly or simply meaningless (e.g. yujhcykgfvylfuv,uyguvgy).
+
+ Problems with spam 
+Computer users at home and in workplaces waste a lot of time opening and deleting spam messages. In some cases, spam emails contain viruses or links to pornography or illegal  gambling  websites. Spam emails often advertise products or services which are being lied about by the companies sending the spam, such as  fraud s or  scam s.
+
+  Spam Prevention  
+Some user email programs can automatically delete spam messages when they arrive, or move them to a separate spam folder.  Internet service provider s also detect them automatically and cooperate to cut off customers who are major spammers. 
+
+ Category:E-mail 
+ Category:Internet communication

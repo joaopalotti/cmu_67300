@@ -1,0 +1,38 @@
+Metre
+
+File:5 metres (8349446738) (2).jpg thumb|right|This giraffe is nearly 5 metres tall 
+A  metre  (US spelling,  meter ) is the basic  units of measurement unit  of  length  in the  SI  measurement system. The  abbreviation  for the metre is  m . The first meaning (in the  French Revolution ), it was 1/10,000,000th (one ten-millionth) of the  distance  between the  Earth 's  equator  and the  North Pole  along the  Paris   meridian . ref name NIST cite web url    http://physics.nist.gov/cuu/Units/meter.html title   Historical context of the SI publisher   US Government - National Institute of Standards and Technology ref  The metre is now officially defined as the distance light travels in a  vacuum  in 1/299,792,458 of a  second . ref name NIST 
+
+In the  Imperial unit imperial  system of measurement, one metre is equal to about 39.37  inch es, 3.28  Foot (unit of length) feet , or about 1.09  US yard yards .
+
+ File:Platinum-Iridium meter bar.jpg thumb|right|The bar (made of  platinum  and  iridium ) that defined the length of a metre until 1960  
+  Units based on the metre  
+
+            0.000 000 000 000 000 000 000 001 Ym (yottametre) = 1 m
+               0.000 000 000 000 000 000 001 Zm (zettametre) = 1 m
+                  0.000 000 000 000 000 001 Em (exametre) = 1 m
+                     0.000 000 000 000 001 Pm (petametre) = 1 m
+                        0.000 000 000 001 Tm (terametre) = 1 m
+                           0.000 000 001 Gm (gigametre) = 1 m
+                              0.000 001 Mm (megametre) = 1 m
+                               0.001 km ( kilometre ) = 1 m 
+                                  0.01 hm (hectometre) = 1 m
+                                   0.1 dam(decametre) = 1 m
+                                   1 m  (metre) 
+                                    10 dm (decimetres) = 1 m
+                                 100 cm ( centimetre s) = 1 m 
+                                1000 mm (millimetres) = 1 m 
+                           1 000 000 mm ( micron  or  micrometre s) = 1 m 
+                       1 000 000 000 nm ( nanometre s) = 1 m 
+                     1 000 000 000 000 pm (picometres) = 1 m
+                 1 000 000 000 000 000 fm (femtometres) = 1 m
+             1 000 000 000 000 000 000 am (attometres) = 1 m
+         1 000 000 000 000 000 000 000 zm (zeptometres) = 1 m
+     1 000 000 000 000 000 000 000 000 ym (yoctometres) = 1 m
+ *Note: units in  bold  are the most commonly used. '''
+
+  References  
+ reflist 
+
+ Category:SI units 
+ Category:Units of length

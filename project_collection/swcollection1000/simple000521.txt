@@ -1,0 +1,30 @@
+Website
+
+File:Www.wikipedia.org screenshot 2013.png thumb|250px|This is a screenshot of a website. The website in this picture is  http://www.wikipedia.org wikipedia.org . 
+
+A  website  is a set of  webpage s that are joined together. People look at websites with a  computer  of some kind, sometimes including the computer inside  mobile telephone s and  television s. The websites are kept on computers called  server web servers .
+
+There is almost always a single  homepage  which has  link s to other pages that are part of that "site". Sometimes it has links to pages that are part of other "sites" as well. (Note that  net jargon  uses the word  site , which also means a physical place in the real world, to mean a  World Wide Web web   URL ). A home page serves as the  wikt:introduction introduction  page of a website.
+ 
+Websites can be used to  advertise  or sell things. They can also be used to talk to other people. A  blog  is a website where the location of the material is less relevant than who writes it, and which is more focused on dialogue. Very often the people who use blogs dislike the word "site" since it implies a controlled place. Sites are good for looking up  information  on the computer.
+
+  Types of websites  
+   Weblog   (or also known as blog) . ref cite web  url http://www.computerhope.com/jargon/w/weblog.htm   title Weblog  author   date   website   publisher Computer Hope  accessdate 3 April 2016 ref 
+   Wiki   (A website where anyone can edit the pages) . ref cite web  url https://net.educause.edu/ir/library/pdf/ELI7004.pdf   title 7 things you should know about... Wikis  author   date   website   publisher EDUCAUSE  accessdate 3 April 2016 ref 
+   Content Management System   (A piece of internet software that can edit web pages through a  WYSIWYG  editor) .
+   Search engine   (A website like  Google , which you can use to search the web) . ref cite web  url http://www.bbc.co.uk/webwise/0/22562913   title What is a search engine?  author   date 6 June 2013  website   publisher BBC  accessdate 3 April 2016 ref 
+   Social networking  sites  (Like  Facebook , which allows you to interact with friends) . ref cite web  url http://www.dictionary.com/browse/social-networking   title social networking  author   date   website The Free Dictionary  publisher Farlex  accessdate 3 April 2016 ref 
+
+  Access  
+Users can access any website by using a  URL . This is the website address which is shown near the top of the web browser. The homepage and the rest of the site usually have the same words at the start of the URL -- for instance, pages at the Simple English Wikipedia always start "http://simple.wikipedia.org/..." but are different after that. However if a person does not buy a  domain name   the website could be an  IP Address  which for example could be (127.0.0.1)
+
+  Appearance  
+Web sites are usually shown in  HTML  (Hyper Text Markup Language) but are not always written or kept that way - some use  WAP  and others use  XML .
+
+Website builder software is usually a collection of software tools that allow the construction of websites without manual code editing. ref name Peri251 Peri Pakroo; Marcia Stewart,  Small Business Start-Up Kit, The: A Step-by-Step Legal Guide  (Berkeley, CA: Nolo, 2014), p. 251 ref  Several hosted website services have website builder software built-in. ref name Peri251 
+
+  References  
+ reflist  
+
+ wiktionary web site 
+ Category:Websites  

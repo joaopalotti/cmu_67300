@@ -1,0 +1,161 @@
+Green
+
+colorswatch green 00FF00 
+
+ Green  is a  color .  It is one of the colors of the  rainbow . Green is between the  yellow  and  blue  colors in a rainbow. Green  paint  can be made by mixing yellow paint and blue paint together. 
+
+Green light, like all  light , is  quanta --composed of  photon s.  The  wavelength  of green light is about 550  nanometer s (one-billionth of a  meter ).
+
+Most  leaf leaves  of growing  plant s, such as  tree s and  shrub bush es, are green. This is because there is a  chemical  in  leaf leaves , called  chlorophyll , which is colored green.
+ - 
+  Meaning of green  
+  Green is used as a color associated with  jealousy . The phrase "green-eyed monster" means a jealous person.
+
+  The color green is the color of nature. Having a "green thumb" means that you're good at gardening. ref cite web title Green thumb definition url http://www.dictionary.com/browse/green-thumb publisher Dictionary.com accessdate 1 May 2015 ref ref cite web url http://www.learnersdictionary.com/definition/green%20thumb title Green thumb publisher Merriam-Webster's Learners Dictionary ref 
+
+  Green is also the color of sickness. The phrase "green around the gills" is an expression implying that the person is nauseated.
+
+ Green is a color associated with poison.  Paris green  is a highly toxic element.
+
+ Green is a color of the Islamic religion. Search the shade "Islamic Green" below.
+ - 
+
+  Tones of green color comparison chart  
+ Green  is a color, the perception of which is evoked by light having a spectrum dominated by range with a  wavelength  of roughly 570-520  Nanometre nm .
+ width 100% style background-color: #f5fffa;  Mint Cream (web color) (Hex: #F5FFFA) (RGB: 245, 255, 250)
+ style background-color: #f0fff0;  Honeydew (web color) (Hex: #F0FFF0) (RGB:240, 255, 240)
+ style background-color: #e6f8f3;  Off Green (Xona.com Color List) (Hex: #E6F8F3) (RGB: 230, 248, 243)
+ style background-color: #dbfff8;  Frosted Mint (Xona.com Color List) (Hex: #DBFFF8) (RGB: 219, 255, 248)
+ style background-color: #7fffd4;  Aquamarine (web color) (Hex:7FFFD4) (RGB: 127, 255, 212)
+ style background-color: #98fb98;  Pale Green (web color) (Hex: #98FB98) (RGB: 152, 251, 152)
+ style background-color: #90ee90;  Light Green (web color) (Hex: #90EE90) (RGB: 144, 238, 144)
+ style background-color: #ade6c4;  Padua (Xona.com Color List) (Hex: #ADE6C4) (RGB: 173, 230, 196)
+ style background-color: #ecebbd;  Pale Spring Bud (Crayola "Spring Green") (Hex: #ECEBBD) (RGB: 236, 235, 189)
+ style background-color: #f1e788;  Pale Green-Yellow (Crayola Green-Yellow) (Hex: #F1E788) (RGB: 242, 231, 136)
+ style background-color: #ecf245;  Starship (Xona.com Color List) (Hex: #E3DD39) (RGB: 227, 221, 57)
+ style background-color: #dfff00;  Chartreuse Yellow (traditional Chartreuse) (Maerz & Paul) (Hex: #DFFF00) (RGB: 223, 255, 0)
+ style background-color: #d1e231;  Pear (Hex: #D1E231) (RGB: 209, 226, 49)
+ style background-color: #cae00d;  Bitter Lemon (Xona.com Color List) (Hex: #CAE00D) (RGB: 202, 224, 13)
+ style background-color: #C9DC87;  Medium Spring Bud (Spring Bud (ISCC-NBS)) (Hex: #C9DC87) (RGB: 201, 220, 135)
+ style background-color: #d1e189;  Lime Pulp (Hex: #D1E189) (RGB: 200, 225, 137)
+ style background-color: #ccff00;  Electric Lime (Crayola) (Hex: #CCFF00) (RGB: 204, 255, 0)
+ style background-color: #bfff00;  Lime (Maerz & Paul) (Hex: #BFFF00) (RGB: 191, 255, 0)
+ style background-color: #adff2f;  Green-Yellow (web color) (Hex: #ADFF2F) (RGB: 173, 255, 47)
+ style background-color: #a7fc00;  Spring Bud (Spring Green (Maerz & Paul)) (Hex: #A7FC00) (RGB: 167, 252, 0)
+ style background-color: #bdda57;  June Bud (ISCC-NBS) (Growth Green (Plochere))(Hex: #BDDA57) (RGB: 189, 218, 87)
+ style background-color: #c0d8b6;  Pixie Green (Xona.com Color List)(Hex: #C0D8B6) (RGB: 192, 216, 182)
+ style background-color: #d0f0c0;  Tea Green (Hex: #D0F0C0) (RGB: 208, 240, 192)
+ style background-color: #cbe3d7;  Edgewater (Xona.com Color List) (Hex: #CBE3D7) (RGB: 200, 227, 215)
+ style background-color: #b4cfd3;  Jungle Mist (Xona.com Color List) (Hex: #B4CFD3) (RGB: 180, 207, 211)
+ style background-color: #ace1af;  Celadon (Maerz & Paul) (Hex: #ACE1AF) (RGB:172, 225, 175)
+ style background-color: #addfad;  Light Moss Green (Moss Green www.99colors.net) (Hex: #ADDFAD) (RGB:173, 223, 173)
+ style background-color: #aaf0d1;  Magic Mint (Crayola) (Hex: #AAF0D1) (RGB:170, 240, 209)
+ style background-color: #98ff98;  Mint Green (Hex: #98FF98) (RGB:152, 255, 152)
+ style background-color: #66ff66;   Ultra Green (Crayola: Screamin' Green) (Hex: #66FF66) (RGB: 102, 255, 102)
+ style background-color: #00ff3f;  Erin (Maerz & Paul) (Hex: #00FF3F) (RGB: 0, 255, 63)
+ style background-color: #00ff7f;  Spring Green (web color) (Hex: #00FF7F) (RGB: 0, 255, 127)
+ style background-color: #00fa9a;  Medium Spring Green (web color) (Hex: #00FA9A) (RGB: 0, 250, 154)
+ style background-color: #7cfc00;  Lawn Green (web color) (Hex: #7CFC00) (RGB: 124, 252, 0)</li>
+ style background-color: #7fff00;  Chartreuse Green (web color Chartreuse) (Hex: #7FFF00) (RGB: 127, 255, 0)
+ style background-color: #66ff00;  Bright Green (Hex: #66FF00) (RGB: 102, 255, 0)
+ style background-color: #3fff00;  Harlequin (Maerz & Paul) (Hex: #3FFF00) (RGB: 63, 255, 0)
+ style background-color: #00ff00;  GREEN (web color "Lime") (Hex: #00FF00) (RGB: 0, 255, 0)
+ style background-color: #39ff14;  Neon Green (www.layoutspace.com) (Hex: #39FF14) (RGB:  57, 255, 20)
+ style background-color: #77dd77;  Pastel Green (Hex: #77DD77) (RGB: 119, 221, 119)
+ style background-color: #0bda51;  Malachite (Maer & Paul) (Hex: #0BDA51) (RGB: 11, 218, 81)
+ style background-color: #32cd32;  Lime Green (web color) (Hex: #32CD32) (RGB: 50, 205, 50)</li>
+ style background-color: #03C03C;  Dark Pastel Green (Hex: #03C03C) (RGB: 3, 192, 60)
+ style background-color: #32b141;  Classic Green (Pantone TPX 16-6340) (Hex: #32B141) (RGB: 50, 177, 65)
+ style background-color: #4cbb17;  Kelly Green (Hex: #4CBB17) (RGB: 76, 187, 23)
+ style background-color: #71cc51;  Green Flash (Pantone TPX 15-0146) (Hex: #71CC51) (RGB: 113, 204, 81)
+ style background-color: #74c365;  Mantis (Praying Mantis) (Xona.com Color List) (Hex: #74C365) (RGB: 116, 195, 101)
+ style background-color: #50c878;  Emerald Green (Maerz & Paul) (Hex: #50C878) (RGB: 80, 200, 120)
+ style background-color: #66ddaa;  Medium Aquamarine (web color) (Hex: #66DDAA) (RGB:102, 205, 170)
+ style background-color: #00cc99;  Caribbean Green (Crayola) (Hex: #00CC99) (RGB: 0, 204, 153)
+ style background-color: #20b2aa;  Light Sea Green (web color) (Hex: #20B2AA) (RGB: 32, 178, 170)
+ style background-color: #3cb371;  Medium Sea Green (web color) (Hex: #3CB371) (RGB: 60, 179, 113)
+ style background-color: #00a550;  Pigment Green (CMYK) (Hex: #00A550) (RGB: 0, 165, 80)
+ style background-color: #00ab66;  GO Green (GO Transit (Toronto)) (Hex: #00AB66) (RGB: 0, 171, 102)
+ style background-color: #01a368;  Deep Green (Crayola: Green) (Hex: #01A368) (RGB: 1, 163, 104)
+ style background-color: #00a86b;  Jade Green (Maerz & Paul) (Hex: #00A86B) (RGB: 0, 168, 107)
+ style background-color: #009f6b;  Green (NCS) (Hex: #009F6B) (RGB: 0, 159, 107)
+ style background-color: #00a877;  Green (Munsell) (Munsell 5G Green) (Hex: #00A877) (RGB: 0, 168, 119)
+ style background-color: #3eb489;  Mint (Mint Leaf (ISCC-NBS)) (Hex: #3EB489) (RGB: 62, 180, 137)
+ style background-color: #29ab87;  Jungle Green (Crayola) (Hex: #29AB87) (RGB: 41, 171, 135)
+ style background-color: #00ad83;  Green (Pantone) (Hex: #00AD83) (RGB: 0, 173, 131)
+ style background-color: #00a693;  Persian Green (ISCC-NBS) (Hex: #00A693) (RGB: 0, 166, 147)
+ style background-color: #1ab385;  Mountain Meadow (Crayola) (Hex: #1AB385) (RGB: 26, 179, 133)
+ style background-color: #009b7d;  Spanish Viridian ( Verde Verones  Gallego & Sanz) (Hex: #009B7D) (RGB: 0, 155, 125)
+ style background-color: #009e60;  Shamrock Green (Maerz & Paul) (Hex: #009E60) (RGB: 0, 158, 96)
+ style background-color: #00993a;  Christmas Green (Liquitex Soft Body Decorative colors) (Hex: #00993A) (RGB: 0, 153, 58)
+ style background-color: #009000;  Islamic Green (Islamic flag) (Hex: #009000) (RGB: 0, 144, 0)
+ style background-color: #138808;  India Green (Flag of India) (Hex: #138808) (RGB: 19, 136, 8)
+ style background-color: #2e8b57;  Sea Green (web color) (Hex: #2E8B57) (RGB: 46, 139, 87)
+ style background-color: #228b22;  Forest Green (web color) (Hex: #228B22) (RGB:34, 139, 34)
+ style background-color: #7ba05b;  Asparagus (Crayola) (Hex: #7BA05B) (RGB: 123, 160, 91)
+ style background-color: #7da98d;  Bay Leaf (Xona.com Color List) (Hex: #7DA98D) (RGB: 125, 169, 141)
+ style background-color: #8fbc8f;  Dark Sea Green (web color) (Hex: #8FBC8F) (RGB: 143, 188, 143)
+ style background-color: #9ab973;  Olivine (Maerz & Paul) (Hex: #9AB973) (RGB: 154, 185, 115)
+ style background-color: #93c572;  Pistachio (ISCC-NBS) (Hex: #93C572) (RGB: 147, 197, 146)
+ style background-color: #9acd32;  Yellow-Green (web color) (Hex: #9ACD32) (RGB: 154, 205, 50)
+ style background-color: #a1c50a;  Citrus (Xona.com Color List)  (Hex: #A1C50A) (RGB: 161, 197, 10)
+ style background-color: #8db600;  Apple Green (ISCC-NBS) (Hex: #8DB600) (RGB: 141, 182, 0)
+ style background-color: #6bbe23; color: #ffffff   Olive Drab (web color) (Hex: #6BBE23) (RGB: 107, 142, 35)
+ style background-color: #44944a; color: #ffffff   Medium Harlequin (Harlequin (ISCC-NBS)) (Hex: #44944A) (RGB: 68, 148, 74)
+ style background-color: #008000; color: #ffffff   Office Green (HTML/CSS "Green") (Hex: #008000) (RGB: 0, 128, 0)
+ style background-color: #3b7e00; color: #ffffff  Napier Green (Original British Racing Green) (Hex: #3B7E00) (RGB: 59, 126, 0)
+ style background-color: #556b2f; color:#ffffff  Dark Olive Green (web color) (Hex: #556B2F) (RGB: 85, 107, 47)
+ style background-color: #808000; color:#ffffff  Olive (web color) (Hex: #808000) (RGB: 128, 128, 0)
+ style background-color: #8a9a5b; color:#ffffff  Moss Green (ISCC-NBS) (Hex: #8A9A5B) (RGB:138, 154, 91)
+ style background-color: #78866b; color:#ffffff  Camouflage Green (Hex: #78866B) (RGB: 120, 134, 107)
+ style background-color: #679267; color:#ffffff  Russian Green (ISCC-NBS) (Hex: #679267) (RGB: 103, 146, 103)
+ style background-color: #507d2a; color:#ffffff  Sap Green (Maerz & Paul) (Hex: #507D2A) (RGB: 80, 125, 42)
+ style background-color: #4f7942; color:#ffffff  Fern Green (Crayola) (Hex: #4F7942) (RGB: 79, 121, 66)
+ style background-color: #008080; color:#ffffff  Teal (web color) (Hex: #008080) (RGB: 0, 128, 128)
+ style background-color: #0095b6; color:#ffffff  Blue-Green (Crayola) (Hex: #0095B6) (RGB: 0, 149, 182)
+ style background-color: #009698; color: #ffffff   Viridian Green (Pantone TPX 17-5126) (Hex: #009698) (RGB: 0, 150,152)
+ style background-color: #01796f; color: #ffffff   Pine Green (Crayola) (Hex: #01796F) (RGB:1, 121, 111)
+ style background-color: #007474; color: #ffffff   Skobeloff (ISCC-NBS) (Hex: #007474) (RGB: 0, 122, 116)
+ style background-color: #317873; color: #ffffff   Myrtle Green (ISCC-NBS) (Hex: #317873) (RGB: 49, 120, 115)
+ style background-color: #2b6963; color: #ffffff   Antique Green (Pantone TPX 18-5418) (Hex: #2B6963) (RGB: 43, 105, 99)
+ style background-color: #40826d; color: #ffffff   Viridian (Maerz & Paul) (Hex: #40826D) (RGB:64, 130, 109)
+ style background-color: #3b7a57; color: #ffffff  Amazon (Xona.com Color List) (Hex: #3B7A57) (RGB: 59, 122, 87)
+ style background-color: #00755e; color: #ffffff  Tropical Rainforest (Crayola) (Hex: #00755E) (RGB: 0, 117, 94)
+ style background-color: #177245; color: #ffffff   Dark Spring Green (web color) (Hex: #177245) (RGB: 23, 114, 69)
+ style background-color: #006a4e; color: #ffffff   Bottle Green (Bangladesh Green) (Flag of Bangladesh) (Hex: #006A4E) (RGB: 0, 106, 78)
+ style background-color: #006600; color: #ffffff   Pakistan Green (Flag of Pakistan) (Hex: #006600) (RGB: 0, 102, 0)
+ style background-color: #006400; color: #ffffff   Dark Green (web color) (Hex: #006400) (RGB: 0, 100, 0)
+ style background-color: #306030; color: #ffffff   Mughal Green (Flag of Mughal Empire) (Hex: #306030) (RGB: 48, 96, 98)
+ style background-color: #355e3b; color:#ffffff  Hunter Green (Maerz & Paul) (Hex: #355E3B) (RGB: 53, 94, 59)
+ style background-color: #4d5d53; color:#ffffff  Feldgrau (Mindjunker) (Hex: #4D5D53) (RGB: 77, 93, 83)
+ style background-color: #4b5320; color:#ffffff  Army Green (Hex: #4B5320) (RGB: 75, 83, 32)
+ style background-color: #444c38; color:#ffffff  Rifle Green (Pantone TPX 19-0419) (Hex: #444C38) (RGB: 68, 76, 56)
+ style background-color: #465945; color:#ffffff  Gray-Asparagus (Hex: #465945) (RGB: 70, 89, 69)
+ style background-color: #1b4d3e; color: #ffffff   British Racing Green (Modern) (representative sample) (Hex: #1B4D3E) (RGB: 27, 77, 62)
+ style background-color: #004953; color: #ffffff   Midnight Green (Eagle Green) (Hex: #004953) (RGB: 0, 73, 83)
+ style background-color: #004b49; color: #ffffff  Deep Jungle Green (ISCC-NBS) (Hex: #004B49) (RGB: 0, 75, 73)
+ style background-color: #354230; color: #ffffff  Kombu Green (Pantone TPX 19-0417) (Hex: #354230) (RGB: 53, 66, 48)
+ style background-color: #1c352d; color: #ffffff  Medium Jungle Green (ISCC-NBS) (Hex: #1C352D) (RGB: 28, 53, 45)
+ style background-color: #123524; color: #ffffff   Phthalo Green (ISCC-NBS) (Hex: #123524) (RGB: 18, 53, 26)
+ style background-color: #1a2421; color: #ffffff  Dark Jungle Green (ISCC-NBS) (Hex: #1A2421) (RGB: 26, 36, 33)
+ style background-color: #1a2118; color: #ffffff   Charleston Green (Hex: #1A2118) (RGB: 26, 33, 24)
+ 
+
+ Related pages 
+ commonscat 
+   Chartreuse green 
+   Emerald (color) Emerald green 
+   Erin (color) Erin 
+   Harlequin (color) Harlequin green 
+   Lime (color) Lime green 
+   Olive (color) Olive green 
+   Spring green 
+   Viridian 
+
+ References 
+ reflist 
+
+ colors 
+
+ Category:Basic English 850 words 
+ Category:Colors

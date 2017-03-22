@@ -1,0 +1,47 @@
+Protein
+
+File:Myoglobin.png thumb|right|A 3D diagram of the protein  myoglobin  showing turquoise  alpha helix alpha helices . This protein was the first to have its structure solved by  X-ray crystallography . Towards the right-center among the coils,  a  heme  group (shown in grey) with a bound  oxygen  molecule (red) 
+
+ Proteins  are long-chain  molecule s built from small units known as  amino acid s. They are joined together with  peptide bond s. 
+
+They are  biochemistry biochemical   Chemical compound compounds  consisting of one or more  polypeptide s folded into a round or  fibrous protein fibrous  shape. ref See  protein structure  for more on this topic. ref 
+
+A polypeptide is a single linear  polymer  chain of  amino acid s. The  sequence  of amino acids in a polypeptide comes from the  DNA sequence  of a  gene . ref see  Translation (genetics)  and  RNA splicing  for a fuller account. ref  The  genetic code  specifies 20 standard amino acids. Shortly after synthesis, some amino acids are chemically modified. This alters the folding, stability, activity, and function of the protein. Sometimes proteins have non-peptide groups attached, as  Cofactor (biochemistry) cofactor s.
+
+Proteins are essential to all  cell (biology) cell s. Like other biological  macromolecule s ( polysaccharide s and  nucleic acid s), proteins take part in virtually every process in cells: 
+ Many proteins are  enzyme s that  catalysis catalyze  biochemical reactions and are vital to  metabolism . 
+ Other proteins have structural or mechanical functions, such as in muscle and in  cell s. The  cytoskeleton  is a system of  scaffolding  that keeps cell shape. 
+ Other proteins are important in  Signal transduction cell signalling ,  antibody immune response s, and  cell division .
+
+  Proteins for humans  
+ Image:Eggisprotein.jpg thumb|right|200px|Egg whites contain a lot of protein 
+
+Proteins do different things depending on their shape. They can be found in  meat  or  muscle . They are used for growth and repair, as well as for strengthening the bones. They help to make tissue and cells. They are in  animal s,  plant s, fungi, bacteria, and also in the  human  body. 
+
+ Muscle s contain a lot of protein. When protein is digested, it is broken down into amino acids. These amino acids can then be used to build new protein. Proteins form an important part in foods like  milk ,  Egg (food) eggs ,  meat ,  fish ,  bean s, and  Nut (fruit) nuts  and pulses. There are four things that determine what a protein will do. The first is the order of the amino acids. There are 20 different types of amino acids. The second is the little twists in the chain. The third is how the entire thing is folded up. The fourth is whether it is made up of different sub-units.  Haemoglobin  molecules, for example, are made of four sub-units.
+
+  Damaging mutations  
+Most proteins are  enzymes , and  mutations  may slow them or stop them working. 50% of human  cancer s are caused by mutations in the  tumour  suppressor  p53 . ref Fersht, Alan 1999.  Structure and mechanism in protein sequence . New York: Freeman, p1. ISBN 0716732688 ref ref Sidransky D. and Hollstein M. 1996.  Annual Review of Medicine   47 , p285. ref  p53 is a protein which regulates  cell division . ref Surget S; Khoury M.P. & Bourdon J.C. 2013. Uncovering the role of p53 splice variants in human malignancy: a clinical perspective.  OncoTargets and Therapy .  7 : 57-68.  https://www.ncbi.nlm.nih.gov/pubmed/24379683 ref 
+
+  Essential amino acids  
+Proteins are necessary in an animal's diets, since animals cannot make all the amino acids they need (they can make most of them). They must get certain amino acids from food. These are called the  essential amino acids . Through  digestion , animals break down ingested protein into free amino acids. The amino acids are then used in  metabolism  to make the  enzyme s and structures the body needs.
+
+There are nine essential amino acids for humans, which must be got from food. Meat contains all the essential amino acids humans need; most plants do not. However, eating a mixture of plants, such as both  wheat   and   peanut butter , or  rice   and   bean s, provides all the essential amino acids needed.  Soy  products like  tofu  provide all the essential amino acids as does  quinoa  but these are not the only way to get the protein you need.
+
+The scientist  Jons Jacob Berzelius  gave proteins their name, ref name Hartley cite journal last Hartley first Harold date  1951 title Origin of the word 'protein' journal Nature volume 168 issue 244 url http://www.nature.com/nature/journal/v168/n4267/abs/168244a0.html ref  but many other scientists have studied proteins.
+
+  Related pages  
+ Protein structure 
+ Protein folding 
+ Translation (genetics) 
+
+ References 
+ reflist 
+
+ Other websites 
+ http://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/ Protein  from the Harvard School of Public Health
+
+ 
+
+ Category:Proteins   
+ Category:Molecular biology

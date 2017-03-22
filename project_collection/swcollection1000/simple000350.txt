@@ -1,0 +1,317 @@
+Neptune
+
+Infobox Planet
+ 
+  bgcolour   #97C3F4
+  name   Neptune
+  symbol    File:Neptune symbol.svg 20px|Astronomical symbol for Neptune. 
+  image    File:neptune.jpg 240px|Neptune from Voyager 2 
+  caption  
+  discovery   yes
+  discoverer    Urbain Le Verrier br   John Couch Adams br   Johann Gottfried Galle Johann Galle 
+  discovered   September 23, 1846 ref name Hamilton cite web
+   first Calvin J.   last Hamilton   date August 4, 2001
+   url http://www.solarviews.com/eng/neptune.htm 
+   title Neptune  publisher Views of the Solar System
+   accessdate 2007-08-13 ref 
+  orbit_ref  
+ ref name horizons cite web
+   first Donald K.   last Yeomans   date  July 13, 2006
+   url    http://ssd.jpl.nasa.gov/?horizons 
+   title   HORIZONS System   publisher   NASA JPL
+   accessdate   2007-08-08  --At the site, go to the "web interface" then select "Ephemeris Type: Elements", "Target Body: Neptune Barycenter" and "Center: Sun". ref ref name barycentre Orbital elements refer to the barycentre of the Neptune system, and are the instantaneous  osculating orbit osculating  values at the precise  J2000  epoch. Barycentre quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons. ref 
+  epoch    J2000 
+  aphelion   4,553,946,490 Kilometre km br 30.44125206 Astronomical unit AU 
+  perihelion   4,452,940,833 km br 29.76607095 AU
+  semimajor   4,503,443,661 km br 30.10366151 AU
+  eccentricity   0.011214269
+  period   60,190 ref name fact2 day s br 164.79 julian year (astronomy) years br 89,666 Neptune  solar day s ref name planet_years cite web url    http://cseligman.com/text/sky/rotationvsday.htm title   Rotation Period and Day Length last   Seligman  first   Courtney accessdate   2009-08-13 ref 
+  synodic_period   367.49 day ref name fact cite web
+    url    http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html 
+    title   Neptune Fact Sheet
+    date   September 1, 2004
+    publisher   NASA   accessdate   2007-08-14
+    last   Williams  first   David R.  ref 
+  avg_speed   5.43 km/s ref name fact 
+  inclination   1.767975deg to  Ecliptic br 6.43deg to  Ecliptic#Ecliptic and planets Sun's equator br 0.72deg to  Invariable plane ref name meanplane cite web
+   date 2009-04-03
+   title The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+   url http://home.comcast.net/~kpheider/MeanPlane.gif 
+   accessdate 2009-04-10  (produced with  http://chemistry.unina.it/~alvitagl/solex/ Solex 10  written by Aldo Vitagliano; see also  Invariable plane ) ref 
+  asc_node   131.794310deg
+  arg_peri   265.646853deg
+  mean_anomaly   267.767281deg
+  satellites    Moons of Neptune 13 
+  physical_characteristics   yes
+  flattening   0.0171 +- 0.0013  
+  mean_radius    nowrap val fmt commas 24622 19 u km   ref name Seidelmann Archinal A'hearn et al. 2007 cite journal  doi   10.1007/s10569-007-9072-y  last1   Seidelmann  first1   P. Kenneth  last2   Archinal  first2   Brent A.  last3   A'Hearn  first3   Michael F.  display-authors   3  last4   Conrad  first4   Albert R.  last5   Consolmagno  first5   Guy J.  last6   Hestroffer  first6   Daniel  last7   Hilton  first7   James L.  last8   Krasinsky  first8   Georgij A.  last9   Neumann  first9   Gregory A.  last10 Oberst   first10 Jurgen    last11 Stooke   first11 Philip J.   last12 Tedesco   first12 Edward F.   last13 Tholen   first13 David J.   last14 Thomas   first14 Peter C.   last15 Williams   first15 Iwan P.   year   2007  title   Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006  journal   Celestial Mechanics and Dynamical Astronomy  volume   98  issue   3  pages   155-180  pmid     pmc     bibcode   2007CeMDA..98..155S  ref    sfnRef Seidelmann Archinal A'hearn et al. 2007 ref ref name 1bar 
+  surface_area   7.6408 e 9 km2 ref name fact2 cite web
+   first K.  last Munsell   coauthors Smith, H.; Harvey, S.
+   url    http://solarsystem.nasa.gov/planets/profile.cfm?Object=Neptune&Display=Facts 
+   title   Neptune: Facts & Figures
+   date  November 13, 2007
+   publisher   NASA   accessdate   2007-08-14 ref ref name 1bar Refers to the level of  convert 1 bar kPa  atmospheric pressure ref ref name Horizons2011 cite web
+   author Anonymous   date February 9, 2007
+   url http://home.comcast.net/~kpheider/nept2011.txt 
+   title Horizons Output for Neptune 2010-2011
+   accessdate 2008-02-25  --Numbers generated using the Solar System Dynamics Group, Horizons On-Line Ephemeris System. ref br 14.98 Earths
+  volume   6.254 e 13 km3 ref name fact ref name 1bar br 57.74 Earths
+  mass   1.0243x10 sup 26 sup kg ref name fact br 17.147 Earths
+  density   1.638 g/cm3 ref name fact ref name 1bar 
+  surface_grav   11.15 Acceleration m/s2 ref name fact ref name 1bar br 1.14 g-force g 
+  escape_velocity   23.5 km/s ref name fact ref name 1bar 
+  sidereal_day   0.6713 day ref name fact br 16 h 6 min 36 s
+  rot_velocity   2.68 km/s br 9,660 km/h
+  axial_tilt   28.32deg ref name fact 
+  right_asc_north_pole    RA 19 57 20 ref name Seidelmann2007 
+  declination   42.950deg ref name Seidelmann2007 cite journal
+   first Seidelmann   last P. Kenneth
+   coauthors Archinal, B. A.; A'hearn, M. F. et al.
+   title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements
+   journal Celestial Mechanics and Dynamical Astronomy
+   volume 90   pages 155-180   year 2007
+   doi 10.1007/s10569-007-9072-y
+   url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y 
+  publisher Springer Netherlands   accessdate 2008-03-07  ref 
+  albedo   0.290 ( Bond albedo bond ) br 
+0.41 ( Geometric albedo geom. ) ref name fact 
+  magnitude   8.0 to 7.78 ref name fact ref name ephemeris cite web
+   last Espenak   first Fred   date July 20, 2005
+   url http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html 
+   title Twelve Year Planetary Ephemeris: 1995-2006
+   publisher NASA   accessdate 2008-03-01  ref 
+  angular_size   2.2 Minute of arc#Symbols, abbreviations and subdivisions '' -2.4'' ref name fact 
+  temperatures   yes
+  temp_name1   1 bar level
+  min_temp_1   
+  mean_temp_1   72 Kelvin K ref name fact 
+  max_temp_1   
+  temp_name2    convert 0.1 bar kPa abbr on 
+  min_temp_2   
+  mean_temp_2   55 K ref name fact 
+  max_temp   
+  pronounce    IPA-en 'neptju:n , ref cite book
+   first  Elizabeth   last Walter   date April 21, 2003
+   title Cambridge Advanced Learner's Dictionary
+   publisher Cambridge University Press
+   edition Second   isbn 0521531063  ref   IPA-en 'neptun US en-us-Neptune.ogg 
+  adjectives   Neptunian
+  atmosphere   yes
+  atmosphere_ref  
+ ref name fact 
+  scale_height   19.7 +- 0.6 km
+  atmosphere_composition   
+ table 
+ tr td 
+80+-3.2% td td Hydrogen  (H sub 2 sub )
+ td tr tr td 
+19+-3.2% td td Helium 
+ td tr tr td 
+1.5+-0.5% td td Methane 
+ td tr tr td 
+~0.019% td td Hydrogen deuteride  (HD)
+ td tr tr td 
+~0.00015% td td Ethane 
+ td tr tr td 
+ Ices : td td 
+ td tr tr td 
+ td td Ammonia 
+ td tr tr td 
+ td td water (molecule) Water 
+ td tr tr td 
+ td td Ammonium hydrosulfide (NH sub 4 sub SH)
+ td tr tr td 
+ td td Methane (?)
+ td tr table 
+ 
+ SpecialCharsNote 
+ otheruses 
+ Neptune  ( IPAEng 'nep.tjun ), is the eighth and last  planet  from the  Sun  in the  Solar System . It is a  gas giant . It is the fourth largest planet and third  weight heaviest . Neptune has four rings which are hard to see from the Earth. It is 17 times heavier than  Earth  and is a little bit heavier than  Uranus . It was named after the  Roman mythology Roman   Neptune (mythology) God of the Sea . ref cite web  url http://nineplanets.org/neptune.html   title Neptune  author   date   work   publisher nineplanets.org  accessdate 5 November 2010 ref ref cite web  url http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question48.html   title StarChild Question of the Month for August 2002  author   date August 2002  work   publisher NASA   accessdate 5 November 2010 ref 
+
+Neptune's  atmosphere  is mostly made up of  hydrogen  and  helium . It also contains small amounts of  methane  which makes the planet appear blue. Neptune's  blue  color is much brighter compared to  Uranus (planet) Uranus' , which has a similar amount of methane, so there might be another reason why Neptune is blue. ref cite web  url http://solarsystem.nasa.gov/planets/profile.cfm?Object=Neptune   title Neptune  author   date   work   publisher NASA  accessdate 11 November 2010 ref  Neptune also has the strongest winds of any planet in the solar system, measured as high as 2,100 km/h or 1,300 mph. ref name Suomi1991 cite journal
+   author Suomi, V. E.; Limaye, S. S.; Johnson, D. R.
+   title High winds of Neptune - A possible mechanism
+   journal Science
+   year 1991
+   volume 251
+   pages 929-932
+   url http://adsabs.harvard.edu/abs/1991Sci...251..929S   ref 
+
+Neptune was discovered by the  astronomer s,  Urbain Le Verrier  and  John Couch Adams . They were both  honor ed for the discovery. The planet was the first to be discovered by mathematical calculations instead of using a  telescope . Because of  Uranus ' odd movements in its orbit (the line which a planet follows in moving), it made astronomers search for the new planet. The planet was visited by only one spacecraft,  Voyager 2  on August 25, 1989. Neptune once had a huge storm known as the "Great Dark Spot" which was discovered in 1989 by Voyager 2. However, the dark spot was not seen in 1994, and new spots were found since then. It is not known why the dark spot disappeared.  Visits by more  space probe s have been proposed.
+
+  History  
+  Discovery  
+ Image:Urbain Le Verrier.jpg thumb|left|200px|Urbain Le Verrier, the co-discoverer of Neptune. 
+The first possible sighting of Neptune is thought to be by  Galileo  as his drawings showed Neptune near  Jupiter . ref cite book  last Hirschfeld  first Alan  authorlink   title Parallax:The Race to Measure the Cosmos  year 2001  publisher Henry Holt  location New York, New York  isbn 0-8050-7133-4 ref  But Galileo was not credited for the discovery since he thought Neptune was a "fixed  star " instead of a planet. Because of Neptune's slow movement across the sky, Galileo's small telescope was not strong enough to detect Neptune as a planet. ref name Neptune cite web  publisher Crystal Links  title Neptune  url http://www.crystalinks.com/neptune.html   accessdate 2007-6-10 ref 
+
+In 1821,  Alexis Bouvard  published the astronomical tables of the  orbit  of  Uranus . ref A. Bouvard (1821),  http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1821tapp.book.....B&db_key=AST&data_type=HTML&format=&high=44b52c369020669 Tables astronomiques publiees par le Bureau des Longitudes de France ,kikin, FR: Bachelier ref  Later observations showed that Uranus was moving in an irregular way in its orbit, making some astronomers think of another large body being the cause of the irregular motions of Uranus. In 1843,  John Couch Adams  calculated the orbit of an eighth planet that would possibly be influencing the orbit of Uranus. He sent his calculations to Sir  George Airy , the  Astronomer Royal , who asked Adams for an explanation. Adams began to make a copy of the reply, but never sent it.
+
+In 1846,  Urbain Le Verrier , who was not working with Adams, made his own calculations but also failed to get much attention from French astronomers. However, in the same year,  John Herschel  began to support the mathematical method and encouraged  James Challis  to search for the planet.  After much delay, Challis began his unwilling search in July 1846.  Meanwhile,  Urbain Le Verrier Le Verrier  had convinced  Johann Gottfried Galle  to search for the planet.
+
+Although  Heinrich d'Arrest  was still a student at the  Berlin Observatory , he suggested that a newly drawn map of the sky, in the region of Le Verrier's predicted area, could be compared with the current sky to look for the displacement characteristic of a  planet , as compared to a fixed star. Neptune was then discovered that very night on September 23, 1846, within 1deg of where Le Verrier had predicted it to be, and about 10deg from Adams' prediction. Challis later found out that he had seen the planet twice in August, failing to recognize it owing to his careless approach to the work.
+
+After the news of the discovery of Neptune spread, there was also a lot of arguing between the French and the British about who was to be deserved credit for the discovery. Later, an international agreement decided that both Le Verrier and Adams together deserved credit. However, historians are now reviewing  the topic after the rediscovery in 1998 of the "Neptune papers" (historical documents from the  Royal Greenwich Observatory ), which had seemingly been stolen by astronomer  Olin Eggen  for nearly three decades and were only rediscovered (in his ownership) right after his death. ref name Neptdisc cite web url http://www.ucl.ac.uk/sts/nk/neptune/index.htm   title Neptune's Discovery. The British Case for Co-Prediction.  accessdate  2007-3-19  last Kollerstrom  first Nick  year 2001  publisher University College London  archiveurl http://web.archive.org/web/20051111190351/http://www.ucl.ac.uk/sts/nk/neptune/index.htm   archivedate  2005-11-11  ref  After reviewing the documents, some historians now think that Adams does not deserve equal credit with Le Verrier. ref William Sheehan, Nicholas Kollerstrom, Craig B. Waff (December 2004).  http://www.sciam.com/article.cfm?articleID=000CA850-8EA4-119B-8EA483414B7FFE9F The Case of the Pilfered Planet - Did the British steal Neptune?   Scientific American . ref 
+
+  Naming  
+Shortly after its discovery, Neptune was temporarily called "the planet exterior to Uranus" or "Le Verrier's planet". The first suggestion for a name came from Galle. He proposed the name  Janus . In England, Challis suggested the name  Oceanus . In France,  Francois Jean Dominique Arago Arago  suggested that the new planet be called  Leverrier , a suggestion which was met with a lot of opposition outside  France . French almanacs promptly reintroduced the name  Herschel  for  Uranus  and  Leverrier  for the new planet.
+
+Meanwhile, on separate and different reason, Adams suggested changing the name  Georgian  to  Uranus , while Leverrier (through the Board of Longitude) suggested  Neptune  for the new planet.  Friedrich Georg Wilhelm von Struve Struve  gave support of that name on December 29, 1846, to the  Saint Petersburg  Academy of Sciences. ref cite journal  url http://articles.adsabs.harvard.edu//full/seri/AN.../0025//0000164.000.html   title Second report of proceedings in the Cambridge Observatory relating to the new Planet (Neptune)  year 1847  journal Astronomische Nachrichten  volume 25  pages 309  last Hind  first J. R.  Smithsonian/NASA Astrophysics Data System (ADS). ref  Soon  Neptune  was internationally agreed among many people and was then the official name for the new planet. In  Roman mythology ,  Neptune (god) Neptune  was the god of the sea, identified with the Greek god,  Poseidon .
+
+  Structure  
+  Mass and composition  
+At 10.243 e 25 kilogram kg , Neptune's mass puts the planet between  Earth  and the largest gas giants; Neptune has seventeen Earth masses but just 1/18th the mass of  Jupiter . Neptune and  Uranus  are often considered to be part of a sub-class of gas giant known as " ice giants ", given their smaller size and big differences in composition compared to  Jupiter  and  Saturn (planet) Saturn . In the search for  extrasolar planets , Neptune has been used as a reference to determine the size and structure of the discovered planet. Some discovered planets that have similar masses like Neptune are often called "Neptunes". ref cite news  url http://www.astrobio.net/news/article1965.html   title Trio of Neptunes  publisher Astrobiology Magazine  date  May 21, 2006  accessdate 2007-8-6 ref  just as astronomers refer to various extra-solar "Jupiters."
+
+The atmosphere of Neptune is made up mostly of hydrogen, with a smaller amount of helium. A tiny amount of methane is also detected in the atmosphere. Important absorption bands of methane happen at wavelengths above 600 nm, in the red and infrared portion of the spectrum. This absorption of red light by the atmospheric methane gives Neptune its blue hue. ref cite web
+   author Crisp, D.; Hammel, H. B.
+   date  June 14, 1995
+   url  http://hubblesite.org/newscenter/archive/releases/1995/09/image/a/ 
+   title  Hubble Space Telescope Observations of Neptune
+   publisher   Hubble News Center
+   accessdate   2007-4-22
+ ref 
+
+Because Neptune orbits so far from the  Sun , it gets very little heat with the uppermost regions of the atmosphere at -218 degC (55 K). Deeper inside the layers of gas, however, the temperature rises slowly. Like Uranus, the source of this heating is unknown, but the differences are larger: Neptune is the farthest planet from the Sun, yet its internal energy is strong enough to create the fastest winds seen in the Solar System. Several possible explanations have been suggested, including  radiogenic  heating from the planet's core, the continued radiation into space of leftover heat made by  Accretion theory infalling matter  during the planet's birth, and  gravity wave s breaking above the  tropopause . ref 
+McHugh, J. P.,  http://www.aas.org/publications/baas/v31n4/dps99/572.htm Computation of Gravity Waves near the Tropopause ,  AAS/Division for Planetary Sciences Meeting Abstracts , p. 53.07, September 1999 ref ref McHugh, J. P. and Friedson, A. J., Neptune's Energy Crisis: Gravity Wave Heating of the Stratosphere of Neptune,  Bulletin of the American Astronomical Society , p.1078, September, 1996 ref 
+
+The structure of the inside of Neptune is thought to be very similar to the structure of the inside of Uranus. There is likely to be a  planetary core core , thought to be about 15 Earth masses, made up of molten rock and metal surrounded by a mixture of rock, water, ammonia, and methane. The heavy pressures keep the icy part of this surrounding mixture as solids, in spite of the large temperatures near the core. The atmosphere, extending about 10 to 20% of the way towards the center, is mostly hydrogen and helium at high altitudes. More mixtures of methane, ammonia, and water are found in the lower areas of the atmosphere. Very slowly this darker and hotter area blends into the superheated liquid interior. The pressure at the center of Neptune is millions of times more than that on the surface of  Earth . Comparing its rotational speed to its degree of  oblateness  shows that it has its mass less concentrated towards the center unlike Uranus.
+
+ multiple image
+   align       center
+   direction   horizontal 
+   header_align   center
+   header      Neptune  
+   image1      Neptune, Earth size comparison.jpg
+   width1      200
+   alt1        
+   caption1    Comparison of the size of Neptune and  Earth  
+   image2      Neptune-Int.jpg
+   width2      270
+   alt2        
+   caption2    Internal structure of Neptune
+   image3      Neptune_darkspot.jpg
+   width3      153
+   alt3        
+   caption3     The Great Dark Spot , as seen from  Voyager 2 
+  
+
+  Weather and magnetic field  
+One difference between Neptune and Uranus is the level of  broken wikt link meteorology meteorological  activity that has been observed (seen or measured). When the Voyager spacecraft flew by  Uranus  in 1986, that winds on that planet were observed to be mild. When Voyager flew by Neptune in 1989, powerful weather events were observed. The weather of Neptune has extremely active storm systems. Its  atmosphere  has the highest wind speeds in the solar system, thought to be powered by the flow of internal heat. Regular winds in the equatorial region have speeds of around 1,200 km/h (750 mph), while winds in storm systems can reach up to 2,100 km/h, near- supersonic  speeds. ref name Hammel1989 cite journal
+   author Hammel, H.B.  et al. 
+   title Neptune's wind speeds obtained by tracking clouds in Voyager images
+   journal Science
+   year 1989
+   volume 245
+   pages 1367-1369
+   url http://adsabs.harvard.edu/abs/1989Sci...245.1367H   ref 
+
+In 1989, the  Great Dark Spot , a  tropical cyclone cyclonic storm  system the size of  Eurasia , was discovered by  NASA 's  Voyager 2  spacecraft. The storm resembled the  Great Red Spot  of  Jupiter (planet) Jupiter . However, on November 2, 1994, the  Hubble Space Telescope  did not see the Great Dark Spot on the planet. Instead, a new storm similar to the Great Dark Spot was found in the planet's northern hemisphere. The reason why the Great Dark Spot has disappeared is unknown. One possible theory is that heat transfer from the planet's core disrupted the atmospheric balance and existing circulation patterns. The  Scooter  is another storm, a white cloud group farther south than the Great Dark Spot. Its nickname was given when it was first noticed in the months leading up to the  Voyager  encounter in 1989: it moved faster than the Great Dark Spot. Later images showed clouds that moved even faster than Scooter. The  Wizard's eye / Dark Spot 2  is another southern cyclonic storm, the second most strongest storm seen during the 1989 encounter. It originally was completely dark, but as  Voyager  came closer to the planet, a bright core developed and is seen in most of the highest resolution images.
+
+Unlike other gas giants, Neptune's atmosphere shows the presence of high clouds making shadows on a thick cloud deck below. Though Neptune's atmosphere is much more active than that of Uranus, both planets are made up of the same gases and ices. Uranus and Neptune are not exactly the same type of gas giants like to Jupiter and Saturn, but are rather ice giants, meaning they have a larger solid core and are also made of ices. Neptune is very cold, with temperatures as low as -224 degC (-372 degF or 49 K) recorded at the cloud tops in 1989.
+
+Neptune also has similarities with Uranus in its  magnetosphere , with a  magnetic field  strongly tilted comparative to its  rotation al axis at 47deg and offset at least 0.55 radii (about 13,500 kilometres) from the planet's physical center. Comparing the magnetic fields of the two planets, scientists think the extreme course may be characteristic of flows in the interior of the planet and not the result of Uranus' sideways rotational movement. Citation needed date January 2012 
+
+  Neptune's Rings  
+ mainarticle Rings of Neptune 
+ File:Neptune rings PIA02224.jpg thumb|right|150px|Neptune's Rings 
+
+Very small blue colored rings have been discovered around the blue planet, but they are not as well known as the rings of  Saturn (planet) Saturn . When these rings were discovered by a team led by  Edward Guinan , originally they thought that the rings may not be complete rings. However, this was proven wrong by  Voyager 2 . Neptune's  planetary ring s have a weird "clumpy" arrangement. Although the cause is currently unknown but some scientists think that it may be because of the gravitational contact with small moons that orbit near them. Citation needed date January 2012 
+
+Proof that the rings are incomplete first began in the mid-1980s, when  occultation stellar occultation  were found to rarely show an extra "blink" just before or after the planet occulted the star. Pictures from  Voyager 2  in 1989 solved the problem, when the ring system was found to have several faint rings. The farthest ring, Adams, has three famous arcs now named  Liberte ,  Egalite , and  Fraternite  (Liberty, Equality, and Fraternity).
+
+The existence of arcs is very hard to understand because the laws of motion would predict that arcs spread out into a single ring in a very short time. The gravitational effects of  Galatea (moon) Galatea , a moon just inward from the ring, are now thought to have created the arcs.
+
+Several other rings were discovered by the  Voyager  cameras. Also with the thin  John Couch Adams Adams  Ring about 63,000 km from the center of Neptune, the  Urbain Le Verrier Leverrier  Ring is at 53,000 km and the wider, smaller  Johann Gottfried Galle Galle  Ring is at 42,000 km. A very small outward expansion to the Leverrier Ring has been named  William Lassell Lassell ; it is surrounded at its outer edge by the  Francois Arago Arago  Ring at 57,000 km. ref http://planetarynames.wr.usgs.gov/append8.html Gazetteer of Planetary Nomenclature Ring and Ring Gap Nomenclature (December 8, 2004) .  USGS - Astrogeology Research Program . ref 
+
+New Earth-based observations published in 2005 appeared to show that Neptune's rings are a lot more unstable than thought before. To be exact, it looks like that the  Liberte  ring might disappear maybe quickly in less than 100 years. The new observations seems to puzzle our understanding of Neptune's rings into a lot of confusion. ref cite web  url http://www.newscientist.com/channel/space/mg18524925.900   title Neptune's rings are fading away  date March 26, 2005  publisher New Scientist  accessdate  2007-8-6  ref 
+
+  Neptune's Moons  
+ mainarticle List of Neptune's moons 
+
+Neptune has a total of 14 known  Satellite (natural) moons . ref cite web  url   http://www.bbc.co.uk/news/science-environment-23318301   title Nasa's Hubble telescope discovers new Neptune moon  first   last   work bbc.co.uk  year 15 July 2013  accessdate 16 July 2013 ref  As Neptune was the Roman god of the sea, the planet's moons were named after lesser sea gods or goddesses. The largest, and the only one big enough to have the shape of a  sphere  is  Triton (moon) Triton , (pronounced: IPA 'traIt@n ) discovered by  William Lassell  just 17 days after the discovery of Neptune itself. Unlike all other large planetary moons, Triton has a  retrograde orbit , showing that the moon was probably captured, and maybe was once a  Kuiper belt  object. It is close enough to Neptune to be locked into a  synchronous orbit , and is slowly moving into Neptune and will one day be torn apart when it passes the  Roche limit . Triton is the coldest object that has been measured in the solar system, with temperatures of -235 degC (38 K, -392 degF). Its diamter is 2700 km, (80% of Earth's Moon, Luna), its mass is 2.15x1022 kg (30% of Luna), its orbital diameter is 354,800 km (90% of Luna) and its orbital period is 5.877 days (20% of Luna).
+
+Neptune's second known moon (by order of distance), the odd moon  Nereid (moon) Nereid , has one of the most unusual orbits of any satellite in the  solar system .
+
+From July to September 1989,  Voyager 2  discovered six new moons of Neptune. Of these, the lumpy-shaped  Proteus (moon) Proteus  is the biggest known object that has not been shaped into a sphere by its own gravity. Although it is the second most massive Neptunian moon, it has only one quarter of one percent of the mass of Triton. Neptune's closest four moons,  Naiad (moon) Naiad ,  Thalassa (moon) Thalassa ,  Despina (moon) Despina , and  Galatea (moon) Galatea , orbit close enough to be inside Neptune's rings.
+
+The next farthest out,  Larissa (moon) Larissa  was originally discovered in 1981 when it had occulted a star. The moon was credited for causing Neptune's ring arcs when  Voyager 2  observed Neptune in 1989. Five new unusual moons discovered between 2002 and 2003 were announced in 2004. ref cite journal  author Holman, Matthew J.  et al.   date August 19, 2004  url http://www.nature.com/nature/journal/v430/n7002/abs/nature02832.html   title Discovery of five irregular moons of Neptune  journal Nature  volume 430  pages 865-867 ref ref cite news  url http://news.bbc.co.uk/2/hi/science/nature/3578210.stm   title Five new moons for planet Neptune  date August 18, 2004  publisher BBC News  accessdate August 6, 2007 ref  The latest moon was discovered from examining Hubble Telescope imags on July 16, 2013. It is only 12 miles across, allowing it to evade detection even by the Voyager 2 spacecraft. 
+ multiple image
+   align       center
+   direction   horizontal 
+   header_align   center
+   header      Moons  
+   image1      Voyager 2 Neptune and Triton.jpg
+   width1      220
+   alt1        
+   caption1    Neptune (top) and Triton (bottom) 
+   image2      Triton moon mosaic Voyager 2 (large).jpg
+   width2      165
+   alt2        
+   caption2    Triton
+   image3      Proteus (Voyager 2).jpg 
+   width3      165
+   alt3        
+   caption3    Proteus
+  
+
+  Observation  
+Neptune cannot be seen with  naked eye  alone, since Neptune's normal brightness are between  Apparent magnitude magnitudes  +7.7 and +8.0, ref name Neptune  which can be out-shined by  Jupiter (planet) Jupiter 's Galilean moons, the  dwarf planet   Ceres (dwarf planet) Ceres , and the  asteroid s  4 Vesta ,  2 Pallas ,  7 Iris ,  3 Juno  and  6 Hebe . A telescope or strong binoculars will show Neptune as a small blue dot, similar in appearance to Uranus. The blue color comes from the  methane  in its atmosphere. ref cite book   title The Data Book of Astronomy   author Moore, Patrick  year 2000  pages 207 ref  Its small obvious size has made it difficult to study visually; most telescopic data was quite limited until the arrival of the  Hubble Space Telescope  and large ground-based telescopes with  adaptive optics .
+
+With an  orbital period  ( sidereal period ) of 164.88 Julian calendar Julian years , Neptune will soon return (for discovery) to the same place in the sky where it was discovered in 1846. This will happen three different times, also with a fourth in which it will come very close to being at that position. These are April 11, 2009, when it will be in  Prograde and retrograde motion prograde motion ; July 17, 2009, when it will be in  Prograde and retrograde motion retrograde motion ; and February 7, 2010, when it will be in prograde motion. It will also come very close to being at the same point since the 1846 discovery in late October through early-mid November 2010, when Neptune will turn from retrograde to direct motion on the exact degree of Neptune's discovery and will then stop for a moment along the ecliptic within 2 arc minutes at that point (closest on November 7, 2010). This will be the last time for about the next 165 years that Neptune will be at its point of discovery.
+
+This is explained by the idea of  retrogradation . Like all planets and asteroids in the Solar System beyond Earth, Neptune goes through  retrogradation  at certain points during its  Orbital period synodic period . In addition to the start of retrogradation, other events inside the synodic period include  astronomical opposition , the return to  prograde and retrograde motion prograde motion , and  Conjunction (astronomy) conjunction  to the Sun.
+
+In its orbit around the Sun, Neptune returned to its original point of discovery in August 2011. ref name Neptune 
+
+  Exploration  
+ mainarticle Exploration of Neptune 
+ File:Voyager.jpg 200px|thumb|right| Voyager 2 . 
+
+Currently, only one spacecraft has visited Neptune.  NASA 's  Voyager 2  probe made a quick flyby of the planet with its closest encounter on August 25, 1989, and was the last planet to have been visited by at least one spacecraft.
+
+Some of  Voyager 2 "s important discoveries was its very close fly-by of  Triton (moon) Triton  where took pictures of several parts of the moon. The probe also discovered the  Great Dark Spot , although it has now disappeared after when the  Hubble Space Telescope  took pictures of Neptune in 1994. Originally thought to be a large cloud or cyclonic storm system, it was later guessed just to be a hole in the visible cloud deck.
+
+Neptune turned out to have the strongest winds of all the solar system's gas giants. In the outer regions of the solar system, where the Sun shines over 1000 times fainter than on Earth (still very bright with a magnitude of -21), the last of the four giants did happen as what the scientists actually expected. One might think that the farther a planet is from the Sun, the less energy and heat there would be to create and run the very strong winds around. The winds on  Jupiter  were already hundreds of kilometres per hour. Rather than seeing slower winds, the scientists found faster winds (over 1600 km/h) on more distant Neptune.
+
+One possible guess for the cause of the faster wind speeds is that if enough energy is produced,  turbulence  is created, which slows the winds down (like those of Jupiter). At Neptune however, there is so little solar energy that once winds are started they meet very little resistance, and are able to keep very high speeds. Anyhow, Neptune gives out more energy than it gets from the Sun, ref name Beebe1992 cite journal
+   author Beebe R.
+   title The clouds and winds of Neptune
+   journal Planetary Report
+   year 1992
+   volume 12
+   pages 18-21
+   url http://adsabs.harvard.edu/abs/1992PlR....12b..18B   ref  and the internal energy source of these winds remains undetermined.
+
+The pictures sent back to  Earth  from  Voyager 2  in 1989 became the basis of a  PBS  all-night program called  Neptune All Night .
+
+  References  
+ reflist 2 
+
+  Notes  
+   cite journal  last Adams  first J. C.  url http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..149A&db_key=AST&data_type=HTML&format=&high=42c888df4622238   title Explanation of the observed irregularities in the motion of Uranus, on the hypothesis of disturbance by a more distant planet  journal Monthly Notices of the Royal Astronomical Society  volume 7  pages 149  date November 13, 1846 
+   cite journal  last Airy  first G. B.  url http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..121A&db_key=AST&data_type=HTML&format=&high=42c888df4622238   title Account of some circumstances historically connected with the discovery of the planet exterior to Uranus  journal Monthly Notices of the Royal Astronomical Society  volume 7  pages 121-144  date November 13, 1846 
+   cite journal  last Challis  first J., Rev.  url http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..145C&db_key=AST&data_type=HTML&format=&high=42c888df4622238   title Account of observations at the Cambridge observatory for detecting the planet exterior to Uranus  journal Monthly Notices of the Royal Astronomical Society  volume 7  pages 145-149  date November 13, 1846 
+   cite journal  last Galle  url http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..153G&db_key=AST&data_type=HTML&format=&high=42c888df4622238   title Account of the discovery of the planet of Le Verrier at Berlin  journal Monthly Notices of the Royal Astronomical Society  volume 7  pages 153  date November 13, 1846 
+   cite book  title Neptune and Triton   author Dale P. Cruikshank   year 1995   isbn 0-8165-1525-5 
+   cite journal journal   Annual Review of Astronomy and Astrophysics volume   31 pages  217-263 year  1993 doi 10.1146/annurev.aa.31.090193.001245 title The Atmospheres of Uranus and Neptune author  Lunine J. I. 
+   cite book   title Neptune: The Planet, Rings, and Satellites   author Ellis D. Miner et Randii R. Wessen   year 2002  publisher Springer-Verlag   isbn 1-85233-216-6 
+   cite book   title The Data Book of Astronomy   author Moore, Patrick   year 2000   publisher   CRC Press   isbn 0-7503-0620-3 
+  Smith, Bradford A.  http://www.nasa.gov/worldbook/neptune_worldbook.html "Neptune."   World Book Online Reference Center . 2004. World Book, Inc. (NASA.gov)
+   cite journal  last Sheppard  first Scott S.  coauthors Trujillo, Chadwick A.  title A Thick Cloud of Neptune Trojans and Their Colors  doi 10.1126/science.1127173  journal Science  volume 313  issue 5786  pages 511-514  date June 2006 
+
+  Other websites  
+ sisterlinks Neptune 
+   http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html NASA's Neptune fact sheet 
+   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Neptune Neptune Profile  by  http://solarsystem.nasa.gov NASA's Solar System Exploration 
+   http://cfa-www.harvard.edu/iau/lists/NeptuneTrojans.html MPC's List Of Neptune Trojans 
+   http://www.projectshum.org/Planets/neptune.html Planets - Neptune  A kid's guide to Neptune.
+   http://www.worldclimatereport.com/index.php/2007/05/08/neptune-news/#more-241 Neptune and global warming 
+
+ Future missions to Neptune 
+   http://www.popsci.com/popsci/aviationspace/d3935276d6ef9010vgnvcm1000004eecbccdrcrd.html Popular Science article 
+   http://www.universetoday.com/am/publish/mission_neptune_study.html?9122004 Universe Today 
+   http://www.sciam.com/article.cfm?chanID=sa006&articleID=000CA850-8EA4-119B-8EA483414B7FFE9F Scientific American Magazine (December 2004 Issue) The Case of the Pilfered Planet 
+
+ Neptune Footer 
+ Solar System 
+
+ Category:Neptune  

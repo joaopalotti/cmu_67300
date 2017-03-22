@@ -1,0 +1,136 @@
+String theory
+
+String theory  is a set of attempts to  mathematical model model  the four known  fundamental force fundamental interaction s-- gravitation ,  electromagnetism ,  strong nuclear force ,  weak nuclear force --together in one theory. This tries to resolve the alleged conflict between  classical physics  and  quantum physics  by  elementary units --the one classical force: gravity, and a new  quantum field theory  of the other three fundamental forces.
+
+ Albert Einstein Einstein  had sought a unified field theory to explain the fundamental interactions within one model revealing the mechanics of the universe. Yet today's search for a unified field theory that is  quantized  and that explains matter's structure, too, is called the search for a  theory of everything  (TOE). The most prominent contender as a TOE is string theory converted into  superstring theory  with its 6  higher dimensions  in addition to the  4 common dimensions  (3D + time). 
+
+Multiple superstring theories appear to converge upon a shared range of  geometry  that, according to string theorists, is apparently the geometry of  space . The mathematical framework that unifies the multiple superstring theories upon that shared geometrical range is  M-theory . Many string theorists are optimistic that M-theory explains our universe's very structure and perhaps explains how other universes, if they exist, are structured as well. M theory/ supergravity theory  has 7 higher dimensions + 4D.
+
+  Background  
+
+Introductions to string theory that are designed for the general public must first explain physics. Some of the controversies over string theory result from nonphysicists' misunderstandings about physics. A common misunderstanding even among scientists is the presumption that Newton's theory is proved true in its  explanation  of the natural world wherever its  predictions  are successful. Another misconception is that earlier physical scientists, including chemists, have already explained the world, a misconception suggesting that string theorists began generating strange hypotheses once they became unaccountably "set free from truth". ref name Horgan 
+
+  Classical realm  
+
+  Newtonian physics  
+
+Newton's law of universal gravitation (UG), added to the three Galilean laws of motion and some other presumptions, was published in 1687. Newton's theory successfully modeled interactions among objects of observable size, a range of phenomena now called the  classical realm .  Benjamin Franklin Franklin  discovered electricity in the 1740s by capturing a lightning bolt.  Coulomb's law  modeled electric attraction.  James Clerk Maxwell Maxwell 's  electromagnetic field  theory unified  electricity  and  magnetism , while  optics  emerged from this field.
+
+ Speed of light Light's speed  remained approximately constant when measured by an observer traveling in its field, however, although  addition of velocities  predicted the field to be slower or faster  relative  to the observer traveling with or against it. So versus the electromagnetic field, the observer's speed was continually lost. Still, no violation of  Galilean invariance --whereby the laws of mechanics proceed identically for all objects exhibiting  inertia --was observed.
+
+(By  law of inertia , when no force is applied to an object, the object holds its velocity, which is speed  and  direction. An object either in  uniform motion , which is constant speed in an unchanging direction, or staying at rest, which is zero velocity, experiences inertia and thereby exhibits Galilean invariance--its mechanical interactions proceeding without variation--also called Galilean relativity since one cannot perceive whether one is at rest or in uniform motion.)
+
+  Relativity theory  
+
+  Special relativity  
+
+In 1905, Einstein's  special theory of relativity  explained the accuracy of both Maxwell's electromagnetic field and Galilean relativity by stating that the field's speed is absolute--a universal constant--whereas both space and time are local phenomena  relative  to the object's energy. With respect to an observer, an object in relative motion shortens along the direction of its  momentum  (length contraction), and its unfolding of events slows (time dilation). A passenger on the object cannot detect the change, as all measuring devices--rods and clocks as well as eyes and brains--aboard that vehicle have experienced length contraction and time dilation. Only an external observer experiencing relative rest measures the object in relative motion shortened along its travel pathway and its events slowed. Special relativity left Newton's theory--which states space and time as  absolute --unable to explain gravitation.
+
+By the  equivalence principle , Einstein inferred that being under either gravitation or constant acceleration are indistinguishable experiences that might share a physical mechanism. The suggested mechanism was  progressive  length contraction and time dilation--a consequence of the local energy density within 3D space--establishing a progressive tension within a rigid object, relieving its tension by moving toward the location of greatest energy density. Special relativity would be a limited case of a gravitational field. Special relativity would apply when the energy density across 3D space is uniform, and so the gravitational field is scaled uniformly from location to location, why an object experiences no acceleration and thus no gravitation.
+
+  General relativity  
+
+In 1915, Einstein's  general theory of relativity  newly explained gravitation with 4D spacetime modeled as a  Lorentzian manifold . Time is one dimension merged with the three space dimensions, as every  event  in 3D space--2D horizontally and 1D vertically--entails a point along a 1D time axis. Even in everyday life, one states or implies both. One says or at least means, "Meet me at building 123 Main Street intersecting Franklin Street in apartment 3D on 10 October 2012 at 9:00PM". By omitting or missing the time coordinate, one arrives at the correct location in space when the sought event is absent--it is in the past or future at perhaps 6:00PM or 12:00AM.
+
+By converging space and time and presuming both relative to the energy density in the vicinity, and by setting the only  constant  or absolute as not even mass but as light speed in a vacuum, general relativity revealed the natural world's previously unimagined balance and symmetry. Every object is always moving at light speed along a straight line--its equivalent, on a curved surface, called  geodesic  or  worldline --the one pathway of least resistance like a free fall through 4D spacetime whose geometry "curves" in the vicinity of mass/energy.
+
+An object at light speed in a vacuum is moving at maximal rate through 3D space but exhibits no evolution of events--it is frozen in time--whereas an object motionless in 3D space flows fully along 1D time, experiencing the maximal rate of events' unfolding. The displayed universe is relative to a given location, yet once the mass/energy in that vicinity is stated, Einstein's equations predict what is occurring--or did occur or will occur--anywhere in the universe. The popularized notion that  relative  in Einstein's theory suggests  subjective  or  arbitrary  was to some regret of Einstein, who later thought he ought have to named it  general theory .
+
+  Cosmology  
+
+The electromagnetic field's messenger particles,  photons , carry an image timelessly across the universe while observers within this field have enough flow through time to decode this image and react by moving within 3D space, yet can never outrun this timeless image. The universe's state under 400 000 years after the presumed  big bang  that began our universe is thought to be displayed as the  cosmic microwave background  (CMB).
+
+In 1915, the universe was thought to be entirely what we now call the  Milky Way  galaxy and to be static. Einstein operated his recently published  general theory of relativity equations of the gravitational field , and discovered the consequence that the universe was expanding or shrinking. (The theory is operable in either direction--time invariance.) He revised the theory add a  cosmological constant  to arbitrarily balance the universe. Nearing 1930, Edwin Hubble's telescopic data, interpreted through general relativity, revealed the universe was expanding.
+
+In 1916 while on a  World War I  battlefield, Karl Schwarzschild operated Einstein's equations, and the Schwarzschild solution predicted black holes. Decades later, astrophysicists identified a supermassive black hole in the center of perhaps every galaxy. Black holes seem to lead galaxy formation and maintenance by regulating star formation and destruction.
+
+In the 1930s, it was noticed that according to general relativity, galaxies would fall apart unless surrounded by invisible matter holding a galaxy together, and by the 1970s  dark matter  began to be accepted. In 1998 it was inferred that the universe's expansion, not slowing, is accelerating, indicating a vast energy density--enough to accelerate both visible matter and dark matter--throughout the universe, a vast field of  dark energy . Apparently, under 5% of the universe's composition is known, while the other 95% is mysterious--dark matter and dark energy.
+
+  Quantum realm  
+
+  Strange mechanics  
+
+By the 1920s, to probe the operating of the electromagnetic field at miniscule scales of space and time, quantum mechanics (QM) was developed. Yet  electron s--the matter particles that interact with the  photon s that are the electromagnetic field's force carriers--would appear to defy mechanical principles altogether. None could predict a quantum particle's location from moment to moment.
+
+In the  slit experiment , an electron would travel through one hole placed in front of it. Yet a single electron would travel simultaneously though multiple holes, however many were placed in front of it. The single electron would leave on the detection board an  interference pattern  as if the single particle were a wave that had passed through all the holes simultaneously. And yet this occurred only when unobserved. If light were shone on the expected event, the photon's interaction with the field would set the electron to a single position.
+
+By the  uncertainty principle , any quantum particle's exact location and momentum cannot be determined with certainty, however. The particle's interaction with the observation/measurement instrument deflects the particle such that greater determination of its position yields lower determination of its momentum, and vice versa.
+
+  Field theory quantized  
+
+By extending quantum mechanics across a field, a consistent pattern emerged. From location to adjacent location, the probability of the particle existing there would rise and fall like a wave of probability--a rising and falling  probability density .  When unobserved, any quantum particle enters  superposition , such that even a single particle fills the entire field, however large.  Yet the particle is not  definitely  anywhere in the field, but there at a definite  probability  in relation to whether it was had been at the adjacent location.  The waveform of Maxwell's electromagnetic field was generated by an accumulation of probabilistic events.  Not the particles, but the mathematical form, was constant.
+
+Setting the field to special relativity permitted prediction of the complete electromagnetic field.  Thus arose relativistic  quantum field theory  (QFT).  Of the electromagnetic field, it is relativistic  quantum electrodynamics  (QED).  Of the weak and electromagnetic fields together, it is relativistic  electroweak theory  (EWT).  Of the strong field, it is relativistic  quantum chromodynamics  (QCD).  Altogether, this became the  Standard Model  of  particle physics .
+
+  Division in physics  
+
+When the  Standard Model  is set to general relativity in order to include mass, probability densities of infinity appear.  This is presumed incorrect, as probability ordinarily ranges from 0 to 1--0% to 100% probability.  Some theoretical physicists suspect that the problem is in the  Standard Model , which represents each particle by a zero-dimensional point that in principle can be infinitely small. Yet in quantum physics, the  Planck's constant  is the minimum energy unit that a field can be divided into, perhaps a clue to the smallest size a particle can be.  So there is a quest to  quantize  gravity--to develop a theory of  quantum gravity .
+
+  Concept  
+
+  Framework  
+
+String conjectures that on the microscopic scale, Einstein's 4D spacetime is a field of  Calabi-Yau manifold s, each containing 6 space dimensions curled up, thus not extended into the 3 space dimensions presented to the classical realm.  In string theory, each quantum particle is replaced by a 1D string of vibrating energy whose length is the  Planck length .  As the string moves, it traces width, and thus becomes 2D, a worldsheet.  As a string vibrates and moves within the 6D  Calabi-Yau space , the string becomes a quantum particle.  With this approach, the hypothetical  graviton --predicted to explain general relativity--emerges easily.
+
+  Theories  
+
+String theory began as bosonic string theory, whose 26 dimensions act as many fewer.  Yet this modeled only  boson s, which are energy particles, while omitting  fermion s, which are matter particles.  So bosonic string theory could not explain matter.  Yet by adding supersymmetry to bosonic string theory, fermions were achieved, and string theory became  super string theory, explaining matter, too.
+
+(In versions of quantum field theory that include supersymmetry (SUSY), each boson has a corresponding fermion, and vice versa.  That is, each energy particle has a corresponding matter particle, and each matter particle has a corresponding energy particle, yet the unobservable partner is more massive and thus  super .  These superpartners might seem an extravagant prediction, yet many theorists and experimentalists favor supersymmetric versions of the Standard Model, whose equations must otherwise be tweaked extravagantly and sometimes arbitrarily to maintain predictive success or mathematical consistency, but with the superpartners align.)
+
+  Controversies  
+
+  Untestable--unscientific?  
+
+String theory's claim that all molecules are  strings of energy  has drawn harsh criticism. ref name Horgan Horgan J,  http://www.nytimes.com/1996/07/16/opinion/science-set-free-from-truth.html?pagewanted=all "Science set free from truth" ,  N Y Times , 16 Jul 1996 ref   There are many versions of string theory, none quite successfully predicting the observational data explained by the  Standard Model .  M theory is now known to have countless solutions, often predicting things strange and unknown to exist.  Some allege that string theorists select only the desired predictions.
+
+The allegation that string theory makes no testable predictions is false, as it makes many.  No theory--a predictive and perhaps explanatory model of some domain of natural phenomena--is verifiable.  All conventional physical theories until the  Standard Model  have made claims about unobservable aspects of the natural world.  Even the Standard Model has various interpretations as to the natural world.  When the Standard Model is operated, it is often made a version with supersymmetry, doubling the number of particle species so far identified by particle physicists.
+
+None can literally measure space, yet  Isaac Newton Newton  postulated  absolute space and time , and Newton's theory made explicit predictions, highly testable and predictively successful for 200 years, but the theory was still falsified as explanatory of nature.  Physicists accept that there exists no such attractive force directly attracting matter to matter, let alone that the force traverses the universe instantly. ref name Stanford Stanford PK,  Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives  (New York: Oxford University Press, 2006),  http://books.google.com/books?id=_JIxeQ_sfzwC&pg=PA204&dq=heart pp 204-5 ref   And yet Newton's theory is still paradigmatic of science, even more scientific than the very framework of modernist biology, the  Modern evolutionary synthesis . ref Murray BG Jr,  http://www.ncbi.nlm.nih.gov/pubmed/11396849 "Are ecological and evolutionary theories scientific?" ,  Biol Rev Camb Philos Soc , 2001 May; 76 (2):255-89 ref 
+
+  Hidden dimensions?  
+
+The idea of hidden dimensionality of space can seem occult.  Some theorists of  loop quantum gravity --a contender for  quantum gravity --regard string theory as fundamentally misguided by presuming that space even has a shape until particles shape it.  That is, they do not doubt that space takes various shapes, simply regard the particles as determining space's shape, not the other way around.  The spacetime vortex predicted by general relativity is apparently confirmed.
+
+If interpreted as naturally true, the  Standard Model , representing a quantum particle as a 0D point, already indicates that spacetime is a sea of roiling shapes,  quantum foam .  String theorists tend to believe nature more elegant, a belief that loop theorist Lee Smolin dismisses as romantic while using biology's Modern Synthesis as a rhetorical device. ref name Smolin2007p19 Smolin L,  The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next  (New York: Mariner Books, 2007),  http://books.google.com/books?id=d6MIUlxY-qwC&pg=PA19 p 19 ref   Experiments to detect added spatial dimensions have so far failed, yet there is still the possibility that signs of them can emerge. ref name Economist19Jul12012 
+
+  So many solutions?  
+
+M theory has many trillions of solutions. ref name Powell Powell CS,  http://www.nytimes.com/2006/01/15/books/review/15powell.html "Across the megaverse: Book review of  Cosmic Lanscape  by Leonard Susskind" ,  N Y Times , 15 Jan 2006 ref   Leonard Susskind, a leader of string theory, interprets string theory's plasticity of solutions as paradoxical support resolving the mystery of why  this  universe exists, as M theory shows it but a variant of a general pattern that always approximately results. ref name Powell 
+
+General relativity has brought many discoveries that in 1915 were all but unimaginable except in fiction.  A solution of Einstein's equations that sought to explain quantum particles' dynamics, the  Einstein-Rosen Bridge  predicts a shortcut connecting two distant points in spacetime.  Commonly called a wormhole, the Einstein-Rosen Bridge is doubted but not disproved, showing either that not all consequences of a theory must be accurate or that reality is quite bizarre in ways unobservable.
+
+  Many worlds  
+
+Even the  Standard Model  of particle physics suggests bizarre possibilities that populist accounts of science either omit or mention as unexplained curiosities.  The theory conventionally receives the  Copenhagen interpretation , whereby the field is only  possibilities , none real until an observer or instrument interacts with the field, whose  wavefunction  then collapses and leaves only its particle function, only the particles being real.  Yet wavefunction collapse was merely assumed--neither experimentally confirmed nor even mathematically modeled--and no variance from either the wavefunction in the quantum realm or the particle function in the classical realm has been found. ref name NovaManyworlds Nova ,  http://www.pbs.org/wgbh/nova/physics/many-worlds-theory-today.html "The many worlds theory today" , PBS Online, 21 Oct 2008 ref 
+
+In 1957 Hugh Everett described his "Relative state" interpretation.  Everett maintained that the wavefunction does not collapse, and since all matter and interactions are presumed to be built up from quantum waveparticles, all possible variations of the quantum field--indicated by the mathematical equations--are  real  and simultaneously occurring but different courses of history. ref name NovaManyworlds   By this interpretation, whatever interacts with the field joins the field's state that is  relative  to the observer's state--itself a waveform in its own quantum field--while the two simply interact in a  universal waveform  never collapsing.  By now, many physicists' interpretation of the apparent transition from the quantum to the classical realms is not wavefunction collapse, but  quantum decoherence .
+
+In decoherence, an interaction with the field takes the observer into only one  eigenstate determinant constellation  of the quantum field, and so all observations align with that new, combined quantum state.  Everett's thesis has inspired  Many worlds interpretation , whereby within our universe are predicted to be virtually or potentially infinite parallel worlds that are real, yet each a minuscule distance from the other worlds. ref name NovaManyworlds   As each world's waveform is universal--not collapsing--and its mathematical relations are invariant, parallel worlds simply fill the gaps and do not touch.
+
+  Many universes  
+
+Einstein doubted that black holes, as predicted by the Schwarzschild solution, are real.  Some now conjecture that black holes do not exist as such but are  dark energy , ref Ball P,  http://dx.doi.org/10.1038/news050328-8 "Black holes 'do not exist'" ,  Nature News , 31 Mar 2005 ref  or that our universe is both--a black hole and dark energy. ref Borland J  http://www.wired.com/wiredscience/2007/10/dark-energy-exp "Dark energy explained? Maybe if universe is like a black hole..." ,  Wired Science , 8 Oct 2007 ref   The Scharwzchild solution of Einstein's equations can be maximally extended to predict a black hole having a flip side--another universe emerging from a  white hole .  Perhaps our universe's big bang was half of a  big bounce , something's collapse down to a black hole, and our universe popping out its other side as a white hole. ref Indiana Univ,  http://www.sciencedaily.com/releases/2010/04/100406172648.htm "Our universe at home within a larger universe? So suggests physicist's wormhole research" ,  ScienceDaily , 7 Apr 2010 ref 
+
+  Particles are strings?  
+
+Physicists widely doubt that quantum particles are truly 0D points as represented in  Standard Model , which offers  formalism --mathematical devices whose strokes predict phenomena of interest upon input of data--not  interpretation  of the mechanisms determining those phenomena.  Yet string theorists do tend to optimistically conjecture that the strings are both real and explanatory, not merely predictive devices.  It is far beyond the capacity of today's particle accelerators to propel any probing particles at energy levels high enough to overcome a quantum particle's own energy and determine whether it is a string.<ref name=UnivViennaMar2012>Univ Vienna,  http://www.sciencedaily.com/releases/2012/03/120318144039.htm "Looking at quantum gravity in a mirror" , ScienceDaily , 18 Mar 2012</ref>  Yet this limitation also exists on testing other theories of  quantum gravity . ref name UnivViennaMar2012   Developments suggest other strategies to "observe" the structure of quantum particles. ref name UnivViennaMar2012 
+
+Paradoxically, even if testing confirmed that particles are strings of energy, that still would not conclusively prove even that particles are strings, since there could be other explanations, perhaps an unexpected warpage of space although the particle was a 0D point of true solidity.  Even when predictions succeed, there are many possible explanations--the problem of  underdetermination --and philosophers of science as well as some scientists do not accept even flawless predictive success as verification of the successful theory's explanations if these are posed as offering  scientific realism , true description of the natural world. ref name Stanford 
+
+  Matter is energy?  
+
+Talk of particle physicists testing theoretical physicists' predicted particles by colliding particles in accelerators suggests that quantum particles are tiny Newtonian particles that experimentalists  crack  open to reveal their structure. ref name Economist19Jul12012 http://www.economist.com/blogs/babbage/2012/07/qa-brian-greene "The Q&A: Brian Greene life after the Higgs" ,  Economist  blog: Babbage, 19 Jul 2012 ref   Instead, when two particles, each of a certain mass--measured in terms of  energy  as electronvolts--are collided, they can combine into a particle of that combined mass/energy, and the generated particle is "observed" for correspondence with the prediction. ref name Economist19Jul12012 
+
+It is not controversial among physicists that all particles are  energy''.  Loop theorists, sometimes in rivalry with string theory, claim that spacetime itself converts into the particles. ref http://www.economist.com/node/7963608 "Looping the loop: A new 'theory of everything' is gaining ground" ,  Economist , 28 Sep 2006 ref   Matter's being a special variant of energy was a consequence of Einstein's  special theory of relativity , and thereupon Einstein formalized the  mass-energy equivalence , E=mc sup 2 sup .  When sufficiently energetic photons collide, they can combine and generate matter-- matter creation .  All particles have  antiparticle s, and atoms of matter have antiatoms of  antimatter , whose union annihilates the particles and matter while leaving  photons energy .
+
+  Developments  
+
+An inspiring development is discovery of mirror symmetry, whereby Calabi-Yau spaces tend to come in pairs such that solutions previously difficult within the extreme vibrational mode of one string can be solved by through the mirror Calabi-Yau space's geometry in its opposite range.
+
+String theory is usually solved through  conformal field theory , a  quantum field theory  on 2D space.  It is confirmed that molecules can collapse to 2D. ref Natl High Mag Field Lab,  http://www.sciencedaily.com/releases/2006/06/060601211745.htm "Raiders of the lost dimension: Understanding the quantum mechanics of the universe" ,  ScienceDaily , 2 Jun 2006 ref ref McMillan F,  http://www.cosmosmagazine.com/features/print/2909/the-mysterious-colour-purple "The mysterious colour purple" ,  Cosmos  Mag, 2008 Feb;19 ref   And the electron, long presumed an elementary particle, apparently splits into three entities separately carrying the electron's three degrees of freedom when the molecules that contain the electrons are channeled through a 1D pathway. ref Schlappa J et al,  http://dx.doi.org/10.1038/nature10974 "Spin-orbital separation in the quasi-one-dimensional Mott insulator Sr2CuO3" ,  Nature , 2012 May 3; 485 :82-5 ref ref Merali Z,  http://www.nature.com/news/not-quite-so-elementary-my-dear-electron-1.10471 "Not-quite-so elementary, my dear electron" ,  Nature News , 18 Apr 2012 ref ref Francis M,  http://arstechnica.com/science/2012/04/electrons-like-gaul-come-in-three-parts "Splitting up the indivisible: Quasiparticles separate an electron's spin, charge, and orbit" ,  ARS Technica , 18 Apr 2012 ref 
+
+ Notes 
+ Reflist 
+
+ Category:String theory  

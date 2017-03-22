@@ -1,0 +1,48 @@
+Dictionary
+
+File:Latin_dictionary.jpg thumb|250px|Latin dictionary 
+A  dictionary  is a  book  which explains the meanings of  word s or, more precisely,  lexeme s. The words are arranged in  alphabetical order  so that they can be found quickly. The word "dictionary" comes from the  Latin  "dictio" ("saying").
+
+There are several types of dictionaries: dictionaries which explain words and how they are used, dictionaries which translate words from one  language  to another, dictionaries of  biography  which tell about famous people, technical dictionaries which explain the meanings of technical words or words connected to a particular  subject (school) subject  (sometimes called a  thesaurus ). Some of these come close to being an  encyclopedia , but an encyclopedia gives a lot of extra information about things (knowledge) and does not explain the use of the language. An encyclopedic dictionary gives less information about the topic than a real encyclopedia does, but more than a simple dictionary.
+
+  Dictionaries which explain the meaning of words  
+Dictionaries which explain what words mean will give a clear "definition" of the word (e.g.  hippopotamus  : a  hoof ed  mammal  with thick  skin , large  mouth  and short  leg s that lives in  river s and  lake s of  Africa .) 
+
+A big dictionary will also give more information about the word. It will explain how it is  pronunciation pronounced . Usually the  International Phonetic Alphabet  is used for this. It will explain how the word is used. This is not a problem for a word like "hippopotamus", but a word like "put" has so many different meanings that a large dictionary may have a whole page or more to explain how it can be used. It will also explain what language the word comes from (e.g. Greek "hippos" horse and "potamus" river).
+
+A dictionary may also give the form of the word in different  grammatical tense tenses ,  plural  form etc.
+
+  Dictionaries which translate into foreign languages  
+There are also dictionaries which translate words into foreign languages. Very often one volume (one book) will translate both ways; for example, half the book might be translating from English to  Dutch language Dutch  and the other half from Dutch to English.
+
+When using a dictionary to find out how to say something in another language one has to be careful to choose the right word. A word like "right" has two basic meanings in English: 1) "correct", and 2) the opposite of "left". Other languages are not like English: they will have different words for these different meanings. A word like "put" has many meanings. A good dictionary will have a large list of these meanings to help people find the word they want. In many languages, for example, the word "put" will be different according to whether something is being put onto something (e.g. a table) or into something (e.g. a cupboard).
+
+  Updating dictionaries  
+Dictionaries need to be updated frequently because of the way language changes. New words are often brought into a language (e.g. lots of  computer  terms) or words change their meanings (e.g. "gay" or "cool"). The most famous English Dictionary is the  Oxford English Dictionary  (or OED). Words are always being added to the OED. They are never taken out even if they are obsolete (not used any more). The OED can be accessed  online  (with a  subscription ).
+
+ Wikimedia , the same group that runs Wikipedia, has an online dictionary that can be updated by anyone at any time. It is called  Wiktionary , and it exists in many languages just like Wikipedia.
+
+  Relevant literature  
+  Henning Bergenholtz/Sven Tarp (eds.):  Manual of Specialised Lexicography . Benjamins 1995.
+  Sandro Nielsen:  The Bilingual LSP Dictionary . Gunter Narr 1994.
+
+  Other websites  
+   http://www.asb.dk/en/research/researchcentresandteams/researchcentres/centreforlexicography/ Centre for Lexicography 
+   http://en.citizendium.org/wiki/Dictionary Dictionary  -Citizendium
+ wiktionary 
+  Online-dictionaries  
+   http://www.thefreedictionary.com TheFreeDictionary 
+   http://www.ldoceonline.com Longman English Dictionary Online 
+   http://www.oed.com/ Oxford English Dictionary 
+   http://www.oxfordlearnersdictionaries.com Oxford Learner's Dictionary 
+   http://dictionary.cambridge.org/dictionary/learner-english Cambridge Learner's Dictionary (British English) 
+   http://www.macmillandictionary.com Macmillan Dictionary 
+   http://www.collinsdictionary.com/dictionary/english Collins Cobuild English Dictionary 
+   http://www.m-w.com/ Merriam-Webster American English dictionary 
+   http://learnersdictionary.com Merriam-Webster Learner's Dictionary 
+   http://learnthesewordsfirst.com Learn These Words First: Multi-Layer Dictionary 
+   http://www.simplevocab.com SimpleVocab Multi-word Dictionary 
+   http://www.definitions.ws/ English to English Dictionary 
+
+ Category:Dictionaries   
+ Category:Reference works

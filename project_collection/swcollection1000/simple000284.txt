@@ -1,0 +1,94 @@
+Litre
+
+image:CubeLitre.svg 200px|thumb| One litre  has the same volume as this cube. Each side is 10 cm br 1 litre of water = 1 kilogram of water (at 4 degC) 
+A  litre  ( liter  in the  United States ) is one of the  metric system metric units  of  volume . It is not an  International System of Units SI unit . 
+
+One litre is the volume of one cubic  metre decimetre , that is a  cube  of 10 x 10 x 10  centimetre centimetres . One litre of  water  has the  mass  of exactly one  kilogram . This results from the definition given in 1795, where the  gram  was defined as the weight of one cubic centimetre of melting ice. ref name decree 
+ cite web
+  url    http://smdsi.quartier-rural.org/histoire/18germ_3.htm 
+  title   Decree on weights and measures
+  date   7 April 1795
+  quote    Gramme , le poids absolu d'un volume d'eau pure egal au cube de la centieme partie du metre , et a la temperature de la glace fondante.  English translation: " Gramme : the absolute weight of a volume of pure water equal to the cube of the hundredth part of the meter, at the temperature of melting ice."
+ ref 
+
+The  symbol  for litre is " L " or "l". 
+
+For smaller volumes the  decilitre  is used: 10  deciliter dl  = one litre.
+
+For smaller volumes the  centilitre  is used: 100  centilitre cl  = one litre.
+
+For smaller volumes the  millilitre  is used: 1000  millilitre ml  = one litre.
+
+The capital letter "L" is preferred by some people as the small "l" can look like the number one "1".
+
+  1 litre = 0.2200  Imperial unit imperial   gallon s
+  1 litre = 0.2642  U.S. customary units US  gallons
+
+  1 imperial gallon = 4.5461 litres
+  1 US gallon = 3.7854 litres
+  1 litre = 1 dm sup 3 sup 
+
+ History 
+The metric system was first introduced in France in 1791. ref cite book  title The Penguin Dictionary of Science  first1 E.B.  last1 Uvarov  first2 Alan  last2 Isaacs  publisher Penguin Books  year 1986  isbn 0-14-051156-3 ref ref name DoWMU cite book  title Oxford Dictionary of Weights, Measures and Units  first1 Donald  last1 Fenna  url http://books.google.co.uk/books?id=RZfGWl-RCQcC&lpg=PA153&pg=PA158#v=onepage&q&f=false   year   2002  at litre,liter  isbn 0-19-860522-6  publisher Oxford University Press ref  That system did not have its own unit of capacity or volume because volume can be measured in cubic metres. ref name DoWMU  In 1793 work to make the metric system compulsory in France was started by the Temporary Commission of Republican Weights and Measures. Due to public demand, ref name DoWMU  the commission said that the  cubic metre  was too big for everyday use. They said that a new unit based on the old cadil should be used instead. One cadil was to be 0.001 cubic metres. This was equivalent to a  cube  with sides 10 cm. ref cite book
+ title   Instruction sur les mesures deduites de la grandeur de la terre, uniformes pour toute la republique, et sur les calculs relatifs a leur division decimale
+ language   French
+ trans_title   Use of measures that are uniform throughout the republic and that are derived from the size of the earth and calculations relating to their decimal division
+ url    http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/mpiwg/online/permanent/library/XT5A1FDA 
+ publisher   Commission temporaire des Poids et Mesures republicaines
+ location   Paris
+ page   44-49
+ year   1793-4 (An II de la Republique) ref  The  cadil  was also known as the  pinte  or the  litron . The  pinte  had been an old French unit of measure of  capacity . ref name DoWMU cite book 
+ title Oxford Dictionary of Weights, Measures and Units 
+ first1 Donald 
+ url    http://books.google.co.uk/books?id=RZfGWl-RCQcC&pg=PA153&lpg=PA153&dq=fenna+weights+litre&source=bl&ots=vr_aptINky&sig=ZhuAIMzIwzu9lnYnn3jJayDg3zI&hl=en&sa=X&ei=LJsZU_XoCM6qhAfXoIH4CA&ved=0CEwQ6AEwBA#v=onepage&q=fenna%20weights%20litre&f=false 
+ last1   Fenna
+ year   2002
+ at   litre,liter
+ isbn   0-19-860522-6
+ publisher   Oxford University Press ref  In 1795 the definition was revised. The  cadil  was given the name  litre . ref cite journal
+ url    http://www.jstor.org/stable/301613 
+ journal   Orsis
+ title   Legendre and the French Reform of Weights and Measures
+ first1   C. Doris 
+ last1   Hellman
+ pages   314-340
+ vol   1
+ date   Jan 1936
+ publisher   University of Chicago ref   
+
+In 1795 the kilogram was defined to be exactly one litre of water at 4 degC. In 1799 the kilogram was redefined. The new definition said that the kilogram was the mass of the  kilogram kilogram des archives . In 1901 scientists measured the volume of one litre of water at 4 degC very carefully. ref group Note Water has its maximum density at 4 degC. ref   They found that it occupied about  gaps 1.000 028 dm sup 3 sup . ref cite web
+ url    http://physics.nist.gov/cuu/pdf/sp811.pdf 
+ title   Guide for the Use of the International System of Units (SI)
+ id   SP 911
+ page   51
+ first1   Ambler 
+ last1   Thompson
+ first2   Barry N. 
+ last2   Taylor
+ publisher   National Institute of Standards and Technology
+ location   Gaithersburg
+ year   2008 ref  The BIPM redefined the litre as being  exactly  the volume of one kilogram of water at 4 degC. ref cite web
+ title   Resolution of the 3rd meeting of the CGPM (1901)
+ publisher   BIPM
+ url    http://www.bipm.org/en/CGPM/db/3/1/ 
+ accessdate   5 March 2014 ref 
+
+In 1960 the  International System of Units SI  was introduced.  The BIPM changed the definition of the litre back to "one dm sup 3 sup ". The litre is not part of SI. The BIPM defined the litre ref group Note The  hectare are  and the  tonne  were also defined as  "Non-SI units accepted for use with the SI". ref  as a "Non-SI unit accepted for use with the SI". This was because it is used in many  countries. The BIPM said that the litre should not be used very very accurate work. ref cite web
+ title   Resolution 6 of the 12th meeting of the CGPM (1964)
+ publisher   BIPM
+ url    http://www.bipm.org/en/CGPM/db/12/6/ 
+ accessdate   5 March 2014 ref ref name SIdoc SIbrochure8th page   124 ref 
+
+According to SI rules, the symbol for the litre should be "l". This is because the litre was not named after somebody whose name was "Litre". ref group Note For example, the symbol for watts is "W" because watts were named after  James Watt . ref  However the symbol "l" and the number "1" are easily confused. In 1979 the BIPM made an exception for the symbol for the litre. They said that people could use either "L" or "l" as its symbol. ref cite web
+ title   Resolution 6 of the 16th meeting of the CGPM (1979)
+ publisher   BIPM
+ url    http://www.bipm.org/en/CGPM/db/16/6/ 
+ accessdate   5 March 2014 ref 
+
+ Notes 
+ Reflist group Note 
+
+ References 
+ reflist 
+
+ Category:Units of volume

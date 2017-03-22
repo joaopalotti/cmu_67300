@@ -1,0 +1,20 @@
+World Wide Web
+
+unsourced date February 2012 
+ "The Web" redirects here. For other uses, see  Web (disambiguation) .
+
+The  World Wide Web  (" WWW " or " The Web ") is the part of the  Internet  that contains  website s and  webpage s. It was invented in 1989 by  Tim Berners-Lee  at  CERN ,  Geneva City Geneva ,  Switzerland . Sir Tim Berners-Lee created a new  webpage  called  HTML . Websites are composed of pages linked by hypertext links. They are all written in the HTML page.
+
+The World Wide Web is used to describe HTML webpages that are part of the Internet. 
+
+In order to see the World Wide Web one needs a  Tablet computer computer , and a modem. One also needs a connection to the  Internet .
+
+Many companies nowadays offer limited  Web hosting service website hosting  allowing one to make websites that can be displayed on the World Wide Web like any other  Domain name domain  (www.stuff.com) site. These sites usually make money from  advertisement s instead of  fee s.
+
+ Related pages 
+ Minitel 
+
+
+ tech-stub 
+
+ Category:Internet

@@ -1,0 +1,79 @@
+Nebraska
+
+US state  
+  Name              Nebraska  
+  Fullname          State of Nebraska  
+  Flag              Flag of Nebraska.svg  
+  Flaglink           Flag of Nebraska   
+  Seal              Nebraskastateseal.jpg  
+  Map               Map_of_USA_highlighting_Nebraska.png  
+  Nickname          Cornhusker State  
+  Motto             Equality before the law  
+  Capital            Lincoln, Nebraska Lincoln   
+  OfficialLang       English language English   
+  LargestCity        Omaha, Nebraska Omaha   
+  LargestMetro       Omaha-Council Bluffs metropolitan area Omaha   
+  Governor           Pete Ricketts  (R) 
+  Senators           Deb Fischer  (R) br Ben Sasse  (R)  
+  PostalAbbreviation   NE  
+  AreaRank          16 sup th sup   
+  TotalAreaUS       77,421  
+  TotalArea         200,520  
+  LandAreaUS        76,873  
+  LandArea          199,099  
+  WaterAreaUS       481 
+  WaterArea       = 1,247  
+  PCWater           0.7  
+  PopRank           38 sup th sup   
+  2000Pop           1,711,263  
+  DensityRank       42 sup nd sup   
+  2000DensityUS     22.3  
+  2000Density       8.6  
+  MedianHouseholdIncome   $44,623  
+  IncomeRank        20 sup th sup   
+  AdmittanceOrder   37 sup th sup   
+  AdmittanceDate    March 1, 1867  
+  TimeZone           Central Standard Time Zone Central :  UTC -6/ Daylight saving time -5    
+  TZ1Where          most of state  
+  TimeZone2          Mountain Standard Time Zone Mountain :  UTC -7/ Daylight saving time -6   
+  TZ2Where           Nebraska Panhandle panhandle   
+  Latitude          40degN to 43degN  
+  Longitude         95deg25'W to 104degW  
+  WidthUS           210  
+  Width             340  
+  LengthUS          430  
+  Length            690  
+  HighestPoint       Panorama Point ref name usgs cite web  year  29 April 2005   url  http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest  title  Elevations and Distances in the United States  publisher  U.S Geological Survey  accessdate   2006-11-6 ref   
+  HighestElevUS     5,424  
+  HighestElev       1,653  
+  MeanElevUS        2,592  
+  MeanElev          790  
+  LowestPoint        Missouri River ref name usgs   
+  LowestElevUS      840 
+  LowestElev        256  
+  ISOCode           US-NE  
+  Website           www.nebraska.gov  
+ 
+ Nebraska  is a  U.S. state state  in the center of the  United States . Its  capital (city) capital  is  Lincoln, Nebraska Lincoln  and the largest city is  Omaha, Nebraska Omaha . It touches the states of  Wyoming ,  South Dakota ,  Iowa ,  Missouri ,  Colorado  and  Kansas .
+
+Nebraska is known for its  agriculture , especially  beef  and  corn .
+
+Nebraska has hot summers and cold winters. A temperature of 30 degC (which is about 86 degF) is common in the summer, and in the winter it can be -20 degC (which is about -4 degF) or colder at night.
+
+ History 
+On May 30, 1854, the United States government made a law called the Kansas-Nebraska Act. It made two territories called Kansas Territory and Nebraska Territory. In the 1860s, many people moved there to take free land from the government. Nebraska became a state on March 1, 1867.
+
+ Related pages 
+   Colleges and universities in Nebraska 
+   List of counties in Nebraska 
+
+ References 
+ commonscat Nebraska 
+ reflist 
+
+ United States 
+
+
+ US-geo-stub 
+
+ Category:Nebraska  

@@ -1,0 +1,10 @@
+Probability experiment
+
+A  probability experiment  is a  wikt:situation situation  where  chance  affects the  wikt:result result  of an experiment.  If the experiment can only have two outcomes, it is named  Bernoulli trial . A  coin  flip is a probability experiment because  chance  affects whether a  coin  will land  head heads  or  tail tails  when it is flipped.
+
+ - 
+ math-stub 
+
+
+ Category:Mathematics 
+ Category:Experiments

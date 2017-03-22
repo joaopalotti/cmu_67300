@@ -1,0 +1,102 @@
+Saint Lawrence River
+
+Geobox River category_hide yes
+ 
+  name                          Saint Lawrence River
+  other_name                     Fleuve Saint-Laurent 
+  other_name1                  
+  other_name2                  
+  etymology                    
+ 
+  map                           Grlakes lawrence map.png
+  map_caption                   Map of the St. Lawrence/Great Lakes Watershed
+ 
+  country                       Canada
+  country1                      United States
+  state                         Ontario
+  state1                        Quebec
+  state2                        New York
+  state_type                    State/Provinces
+  region                       
+  length                        1197
+  length_round                  0
+  length_note                  
+  watershed                     1344200
+  watershed_round               -2
+  watershed_note                 ref name Atlas Natural Resources Canada, Atlas of Canada -  http://atlas.nrcan.gc.ca/site/english/learningresources/facts/rivers.html Rivers ref 
+  discharge_location            below the  Saguenay River 
+  discharge                     16800
+  discharge_round               -4
+  discharge_note                 ref name BenkeCushing2005 cite book last1 Benke first1 Arthur C. last2 Cushing first2 Colbert E. title Rivers of North America url http://books.google.com/books?id=faOU1wkiYFIC&pg=PA989 accessdate 21 March 2011 year 2005 publisher Academic Press isbn 978-0-12-088253-3 pages 989-990 ref 
+  discharge_max_note           
+  discharge_max                
+  discharge_min_note           
+  discharge_min                
+  discharge1_location          
+  discharge1                   
+ 
+  source                        Lake Ontario
+  source_location                Kingston, Ontario  /  Cape Vincent, New York 
+  source_district              
+  source_state                 
+  source_country               
+  source_elevation              74.7
+  source_lat_d                  44
+  source_lat_m                  06
+  source_lat_s                 
+  source_lat_NS                 N
+  source_long_d                 76
+  source_long_m                 24
+  source_long_s                
+  source_long_EW                W
+ 
+  mouth_name                     Gulf of Saint Lawrence  /  Atlantic Ocean 
+  mouth_location               
+  mouth_region                 
+  mouth_state                   Quebec
+  mouth_country                 Canada
+  mouth_elevation               0
+  mouth_lat_d                   49
+  mouth_lat_m                   30
+  mouth_lat_s                  
+  mouth_lat_NS                  N
+  mouth_long_d                  64
+  mouth_long_m                  30
+  mouth_long_s                 
+  mouth_long_EW                 W  
+ 
+  tributary_left               
+  tributary_left1              
+  tributary_left2              
+  tributary_right              
+  tributary_right1             
+  tributary_right2             
+ 
+  image                         Saint Lawrence seaway.jpg
+  image_size                   
+  image_caption                 St. Lawrence River near  Alexandria Bay, New York Alexandria Bay 
+ 
+The  Saint Lawrence River  ( lang-fr fleuve Saint-Laurent ;  Tuscarora language Tuscarora :  Kahnawa'kye ; ref Rudes, B.  Tuscarora English Dictionary  Toronto: University of Toronto Press, 1999 ref   Mohawk language Mohawk :  Kaniatarowanenneh , meaning "big waterway") is a big  river  in eastern  North America . It flows between the  Canada Canadian   province  of  Ontario  and the  United States American   state  of  New York , and through the Canadian province of  Quebec . 
+
+The river drains water from the  Great Lakes  into the  Atlantic Ocean . It is more than three thousand  kilometre s long. The river meets the Atlantic Ocean in a big " estuary " or bay, the biggest in the world; this is called the  Gulf of Saint Lawrence .
+
+The Canadian cities of  Kingston ,  Montreal ,  Trois-Rivieres, Quebec Trois-Rivieres  and  Quebec City  are on this river. It is very important because  ship s can sail up the river and through the Great Lakes right into the middle of North America. It is the third largest river in Canada.
+
+ References 
+ Reflist 
+
+ Other websites 
+ Commons category Saint Lawrence River 
+ http://epe.lac-bac.gc.ca/100/205/301/ic/cdc/stlauren/ Regional Geography of the St. Lawrence River 
+ http://www.greatlakes-seaway.com/ Great Lakes St. Lawrence Seaway System 
+ http://www.mccord-museum.qc.ca/en/keys/webtours/VQ_P1_5_EN.html Safe Passage: Aids to Navigation on the St. Lawrence    Historical essay, illustrated with drawings and photographs
+ http://www.readingstlawrencecounty.com Annotated Bibliography on St. Lawrence County and Northern New York region. 
+ http://www.islrbc.org International Saint Lawrence River Board of Control 
+ http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0007094 Saint Lawrence River from  The Canadian Encyclopedia 
+ http://www.nfb.ca/film/St_Lawrence_Stairway_to_the_Sea/ Watch the Jacques Cousteau documentary,  St. Lawrence: Stairway to the Sea 
+ http://digitallibrary.hsp.org/index.php/Detail/Object/Show/object_id/3885 The Steamboats "Sir James Kemp" and "Lord Dalhousie" on the River St. Lawrence, Upper Canada in 1833 by D.J. Kennedy, Historical Society of Pennsylvania 
+
+
+ multistub Geo Canada 
+
+ Category:Rivers of Canada Lawrence, Saint

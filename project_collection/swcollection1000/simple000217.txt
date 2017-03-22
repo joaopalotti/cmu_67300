@@ -1,0 +1,120 @@
+Helium
+
+Elementbox
+ name helium
+ number 2
+ symbol He
+ pronounce IPAc-en ' h i: l i @ m   respell HEE lee-@m 
+ left hydrogen 
+ right lithium 
+ above -
+ below neon Ne 
+ series noble gas
+ series comment 
+ group 18
+ period 1
+ block s
+ series color 
+ phase color 
+ appearance colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field
+ image name Helium discharge tube.jpg
+ image name comment 
+ image name 2 Helium spectra.jpg
+ image name 2 comment Spectral lines of helium
+ image name 3 2 Helium.png
+ image size 3 
+ image alt 3 Liquid helium in a cup
+ image name 3 comment Liquid helium in a cup
+ atomic mass 4.002602
+ atomic mass 2 2
+ atomic mass comment 
+ electron configuration 1s sup 2 sup 
+ electrons per shell 2
+ color 
+ phase gas
+ phase comment 
+ density gplstp 0.1786
+ density gpcm3nrt 
+ density gpcm3bp 0.125
+ density gpcm3mp 0.145
+ melting point K (at 2.5 MPa) 0.95
+ melting point C -272.20
+ melting point F -457.96
+ boiling point K 4.22
+ boiling point C -268.93
+ boiling point F -452.07
+ lambda point K 2.177
+ lambda point kPa 5.036
+ critical point K 5.19
+ critical point MPa 0.227
+ heat fusion 0.0138
+ heat vaporization 0.0829
+ heat capacity 5 Gas constant R /2 = 20.786
+ vapor pressure 1 
+ vapor pressure 10 
+ vapor pressure 100 1.23
+ vapor pressure 1 k 1.67
+ vapor pressure 10 k 2.48
+ vapor pressure 100 k 4.21
+ vapor pressure comment (defined by  International Temperature Scale of 1990 ITS-90 )
+ crystal structure hexagonal close-packed
+ oxidation states 0 
+ oxidation states comment 
+ electronegativity  no data
+ number of ionization energies 2
+ 1st ionization energy 2372.3
+ 2nd ionization energy 5250.5
+ 3rd ionization energy 
+ atomic radius 
+ atomic radius calculated 
+ covalent radius 1 E-11 m 28 
+ Van der Waals radius 1 E-10 m 140 
+ magnetic ordering diamagnetic ref http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds , in Handbook of Chemistry and Physics 81st edition, CRC press. ref 
+ electrical resistivity 
+ electrical resistivity at 0 
+ electrical resistivity at 20 
+ thermal conductivity 0.1513
+ thermal conductivity 2 
+ thermal diffusivity 
+ thermal expansion 
+ thermal expansion at 25 
+ speed of sound  972
+ speed of sound rod at 20 
+ speed of sound rod at r.t. 
+ Young's modulus 
+ Shear modulus 
+ Bulk modulus 
+ Poisson ratio 
+ Mohs hardness 
+ Vickers hardness 
+ Brinell hardness 
+ CAS number 7440-59-7
+ isotopes 
+ Elementbox_isotopes_stable   mn 3   sym He   na 0.000137%*   n 1   link Helium-3  
+ Elementbox_isotopes_stable   mn 4   sym He   na 99.999863%*   n 2   link Helium-4  
+ isotopes comment * small Atmospheric value, abundance may differ elsewhere. small 
+ predicted by 
+ prediction date 
+ discovered by Pierre Janssen ,  Norman Lockyer 
+ discovery date 1868
+ first isolation by William Ramsay ,  Per Teodor Cleve ,  Abraham Langlet 
+ first isolation date 1895
+ 
+ File:Goodyear-blimp.jpg thumb|right|Because it is very light, helium is the gas of choice to fill  airship s such as the  Goodyear blimp 
+ Helium  is a  chemical element . It has the  chemical symbol   He ,  atomic number  2 and atomic weight of about 4.002602. There are 9 isotopes of helium, only two of which are stable. These are  sup 3 sup He and  sup 4 sup He.  sup 4 sup He is by far the most common isotope.
+
+Helium is called a  noble gas , because it does not regularly mix with other chemicals and form new  Chemical compound compounds . It has the lowest  boiling point  of all the elements. It is the second most common element in the  universe , after  hydrogen , and has no color or smell. However, Helium has a blue-ish, neon color when being burnt with fire. Helium does not usually  Chemical reaction react  with anything else. Astronomers discovered helium in  1868 . They found that it was in the  Sun  before it was found on  Earth . Because of where it was found, its name comes from the  Greek language Greek  word for Sun,  helios .
+
+Helium is used to fill  balloon s and  airship s because it is  density lighter  than  air , and does not burn or react, meaning it is normally safe for using it in that way. It is also used in some kinds of  light  bulbs. People also breathe it in to make their  voice s sound higher than they normally do as a  joke , but this is extremely dangerous if they breathe in too much, since it can kill them because they are not breathing normal air. Breathing too much helium can also cause long-term effects to  vocal cords .
+
+It can be created through the process of  nuclear fusion  in the  Sunderland A.F.C. sun  we are currently trying to harness nuclear fusion as a form of power but this is still at an early stage because the sun can  Quantum tunneling quantum tunnel  enough because of its huge size). During this process, four Hydrogen atoms are fused together to form one Helium atom.
+
+ References 
+ reflist 
+
+ Periodic Table 
+
+
+ chemistry-stub 
+
+ Category:Noble gases

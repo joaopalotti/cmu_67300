@@ -1,0 +1,277 @@
+Belgium
+
+Infobox country
+  native_name                 native name nl Koninkrijk Belgie br native name fr Royaume de Belgique br native name de Konigreich Belgien 
+  conventional_long_name     Kingdom of Belgium
+  common_name                Belgium
+  image_flag                 Flag of Belgium (civil).svg
+  image_coat                 Great Coat of Arms of Belgium.svg
+  symbol_type                Coat of arms
+  national_motto             Eendracht maakt macht spaces 2 small (Dutch) small br L'union fait la force spaces 2 small (French) small br Einigkeit macht stark spaces 2 small (German) br "Strength through Unity" (lit. " Unity makes strength ") small 
+  image_map                  EU-Belgium.svg
+  map_caption                 map caption location_color dark green \region Europe region_color dark grey subregion the European Union subregion_color green legend EU-Belgium.svg 
+  national_anthem            The " Brabanconne " br small instrumental version: small br center style height:10px; File:The Brabanconne.ogg center 
+  official_languages          Dutch language Dutch br French language French br German language German 
+  demonym                     Belgians Belgian 
+  ethnic_groups              see  #Demographics Demographics 
+  capital                     City of Brussels Brussels 
+  latd                       50
+  latm                       51
+  latNS                      N
+  longd                      4
+  longm                      21
+  longEW                     E
+  largest_settlement_type    metropolitan area
+  largest_settlement          Brussels 
+  government_type             Federal constitutional monarchy Federal   parliamentary system parliamentary democracy  and  Constitutional monarchy <ref
+ name="">
+  cite web
+  title Government of Belgium
+  work The World Factbook
+  publisher CIA
+  url https://www.cia.gov/library/publications/the-world-factbook/geos/be.html 
+  accessdate 
+  </ref>
+  leader_title1               Belgian monarchy King 
+  leader_title2               Prime Minister of Belgium Prime Minister 
+  leader_name1                Philippe of Belgium Philippe 
+  leader_name2                Charles Michel ref name trade cite web title Belgium reaches deal on EU-Canada free trade agreement - Prime Minister url http://www.dw.com/en/belgium-reaches-deal-on-eu-canada-free-trade-agreement-prime-minister/a-36171102 publisher DW accessdate 30 October 2016 ref 
+  legislature                 Belgian Federal Parliament Federal Parliament 
+  upper_house                 Belgian Senate Senate 
+  lower_house                 Belgian Chamber of Representatives Chamber of Representatives 
+  area_km2                   30,528
+  area_sq_mi                 11,787 
+  area_rank                  139th
+  area_magnitude             1 E10
+  percent_water              6.4
+  population_estimate        11,007,020<ref
+ name="">
+  cite web
+  title Total population as of  January
+  publisher Eurostat
+  url http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 
+  accessdate 9 February 2010
+  </ref>
+  population_estimate_year   2011
+  population_estimate_rank   76th
+  population_census          10,296,350
+  population_census_year     2001
+  population_density_km2     354.7
+  population_density_rank    33rd
+  population_density_sq_mi   918.6  
+  GDP_PPP_year               2010
+  GDP_PPP                    $394.346 billion ref name IMF cite web url http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=70&pr.y=8&sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=124&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Belgium publisher International Monetary Fund accessdate 20 April 2011 ref 
+  GDP_PPP_rank              
+  GDP_PPP_per_capita         $36,100 ref name IMF 
+  GDP_PPP_per_capita_rank   
+  GDP_nominal_year           2010
+  GDP_nominal                $465.676 billion ref name IMF 
+  GDP_nominal_rank          
+  GDP_nominal_per_capita     $42,630 ref name IMF 
+  GDP_nominal_per_capita_rank  
+  Gini                       28
+  Gini_ref                    ref 
+  cite web
+  title Distribution of family income -- Gini index
+  work The World Factbook
+  publisher CIA
+  url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html 
+  accessdate 1 September 2009
+  ref 
+  Gini_year                  2005
+  Gini_category               span style color:#090; low span 
+  HDI_year                   2010
+  HDI                        0.867
+  HDI_change                 increase
+  HDI_ref                     ref 
+  cite web
+  title Human Development Report 2010
+  publisher United Nations
+  year 2010
+  url http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf 
+  format PDF
+  accessdate 5 November 2010
+  ref 
+  HDI_rank                   18th
+  HDI_category                span style color:#090; very high span 
+  sovereignty_type            Belgian Revolution Independence 
+  established_event1         Declared  nowrap from  United Kingdom of the Netherlands the Netherlands 
+  established_date1          4 October 1830
+  established_event2          Treaty of London, 1839 Recognised 
+  established_date2          19 April 1839
+  accessionEUdate            25 March 1957
+  EUseats                    24
+  currency                   Euro ( Euro sign EUR ) sup 1 sup 
+  currency_code              EUR
+  time_zone                   Central European Time CET 
+  utc_offset                 +1
+  time_zone_DST               Central European Summer Time CEST 
+  utc_offset_DST             +2
+  drives_on                  right
+  cctld                       .be sup 2 sup 
+  calling_code                Telephone numbers in Belgium 32 
+  footnote1                  Before 1999:  Belgian franc  (BEF).
+  footnote2                  The  .eu  domain is also used, as it is shared with other European Union member states.
+ 
+
+ Belgium , officially the  Kingdom of Belgium , is a  Federation federal   sovereign state state  in Western Europe. It is a founding member of the  European Union . It has the headquarters of the  European Union ,  NATO  and some other famous organisations. The  capital city  of Belgium is  Brussels .  Belgium has an area of  convert 30528 km2 sqmi .  Around 11 million people live in Belgium.
+
+There are three  region s in Belgium:  Flanders  (where the people speak  Dutch language Dutch ) in the northern half of Belgium,  Wallonia  (where the people speak  French language French ) in the southern half, and the  Brussels -Capital Region in the middle (where French is mostly spoken, with some Dutch).
+
+The population is about 60% Dutch-speaking ( Flemish people ), 39% French-speaking ( Walloons ) and 1% German-speaking (so called  Deutschbelgier ) on the border with  Germany . To look after these groups, Belgium has a complicated system of government.
+
+ History 
+ File:Map Burgundian Netherlands 1477-en.png thumb|left|The  Seventeen Provinces  (orange, brown and yellow areas) and the  Bishopric of Liege  (green) 
+ File:Prince Philippe of Belgium, Duke of Brabant cropped.jpg thumb|150px|left| Philippe of Belgium , current King. 
+The name 'Belgium' comes from  Gallia Belgica .  This was a  Roman province  in the northernmost part of  Gaul .  Before Roman invasion in 100 BC,  the  Belgae , a mix of  Celts Celtic  and  Germanic peoples , lived there. ref   Cite book  title Encyclopedia of the Roman Empire   author Bunson, Matthew
+  year 1994  page 169  edition Hardcover 352pp  publisher Facts on File, New York  isbn 0-8160-2135-X Paperback 512pp, ISBN 0-8160-3182-7; Revised edition (2002), Hardcover 636pp, ISBN 0-8160-4562-3 ref  The Germanic  Franks Frankish  tribes during the 5th century brought the area under the rule of the  Merovingian  kings. A slow shift of power during the 8th century led the kingdom of the Franks to change into the  Carolingian Empire . ref name CookP3  Cook (2002), p. 3 ref  The  Treaty of Verdun  in 843 divided the region into  Middle Francia Middle  and  West Francia . They were  vassal s either of the  King of France  or of the  Holy Roman Emperor . ref name CookP3 
+ Timeline of Burgundian and Habsburg acquisitions in the Low Countries Many of these fiefdoms  were united in the  Burgundian Netherlands  of the 14th and 15th centuries. ref   cite web  title Chapter I: The Burgundian Netherlands work History of Holland  author Edmundson, George  publisher The University Press, Cambridge. Republished: Authorama  year 1922  url http://www.authorama.com/history-of-holland-3.html   accessdate 15 December 2010  ref 
+
+The  Eighty Years' War  (1568-1648) divided the Low Countries into the northern  Dutch Republic United Provinces  and the  Southern Netherlands .  Southern Netherlands were ruled by the  Habsburg Spain Spanish  and the  Austria n  Habsburg s.  This made up most of modern Belgium. 
+
+After the  French Revolutionary Wars: Campaigns of 1794 campaigns of 1794 in the French Revolutionary Wars , the Low Countries were added into the  French First Republic .  This ended Austrian rule in the area. Adding back the Low Countries formed the  United Kingdom of the Netherlands .  This happened at the end of the  First French Empire  in 1815.
+
+The  Belgian Revolution  was in 1830.  ref name Dobbelaere-VoyE   Cite journal  url    http://socrel.oxfordjournals.org/content/51/Special_Issue/S1.full.pdf   title   From Pillar to Postmodernity: The Changing Situation of Religion in Belgium  page   S1  publisher   ( http://www-oxford.op.org/allen/about.htm The Allen Review ). Online at  Oxford Journals ,  Oxford University Press   year   1990  format   PDF  accessdate  25 February 2011  author    Karel Dobbelaere Dobbelaere, Karel  ( Katholieke Universiteit Leuven ); Voye, Liliane ( Universite Catholique de Louvain )  ref   Leopold I of Belgium Leopold I  became king on  nowrap 21 July  1831.  This is now celebrated as Belgium's  National Day . ref cite web url http://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/national_holiday/ title National Day and feast days of Communities and Regions publisher Belgian Federal Government accessdate 20 July 2011 ref  
+
+ File:Wappers - Episodes from September Days 1830 on the Place de l'Hotel de Ville in Brussels.JPG thumb|left| span style white-space:nowrap; Episode of the  Belgian Revolution  of 1830 span  (1834),  span style white-space:nowrap; by  Egide Charles Gustave Wappers , span   span style white-space:nowrap; Royal Museums of Fine Arts of Belgium Museum of Ancient Art, Brussels span 
+
+The  Berlin Conference  of 1885 gave control of the  Congo Free State  to  Leopold II of Belgium King Leopold II . This was for him personally and not for the country of Belgium.  Starting in about 1900 many people did not like how he treated the Congolese people. In 1908 the Belgian state took control of the colony.  It was then called the  Belgian Congo . ref   Cite book  title The State of Africa  pages 95-96(?)  edition Hardcover 608pp  date 6 June 2005  author Meredith, Mark  publisher Free Press
+  isbn 0-7432-3221-6 ref  
+
+Germany invaded Belgium in 1914. This was part of World War I. The opening months of the war were very bad in Belgium. During the war Belgium took over the of  Ruanda-Urundi  (modern day  Rwanda  and  Burundi ). After the First World War, the  districts of Prussia Prussian districts  of  Eupen-Malmedy Eupen and Malmedy  were added into Belgium in 1925.  Battle of Belgium The country was again invaded by Germany in 1940  and under German control until 1944. After World War II, the people made king  Leopold III of Belgium Leopold III  leave his throne in 1951. This is because they thought he helped the Germans.   
+
+In 1960 the Belgian Congo stopped being under Belgian rule. ref   cite web  url http://www.bbc.co.uk/dna/h2g2/A1304803   title The Congolese Civil War 1960-1964  publisher BBC News  accessdate 29 April 2010  ref  Two years later Ruanda-Urundi also became free. Belgium joined  NATO  as a founding member. 
+
+  Government and politics  
+Since 1993, Belgium is a  federation federal  state, divided into three regions and three communities.
+
+Regions:
+   Brussels-Capital Region 
+   Flemish Region  (or Flanders)
+   Walloon Region  (or Wallonia)
+
+Communities:
+   Flemish Community 
+   French Community of Belgium 
+   German-speaking Community of Belgium 
+
+It has a system of  government  known as a  constitutional monarchy , meaning that it has a  monarch , but that the monarch does not rule the country, and that a government is elected  Democracy democratically .
+
+Belgium has had its own monarchy since 1831. King  Albert II of Belgium Albert II  left the throne on July 21, 2013 and the current king is  Philippe of Belgium Philippe .
+
+In Belgium, the government is elected. Between mid-2010 and late 2011, after no clear result in the  election , Belgium had no official government, until  Elio Di Rupo  became  Prime Minister .  Flanders  and  Wallonia  both also have their own regional governments, and there is a notable independence movement in Flanders.  Charles Michel  is currently the Prime Minister.
+ - 
+
+  Geography  
+ see also List of cities in Belgium 
+
+Belgium is next to  France ,  Germany ,  Luxembourg  and the  Netherlands . Its total area is 33,990  square kilometers .  The land area alone is 30,528 km2. Belgium has three main geographical regions. The coastal plain is in the north-west. The central plateau are part of the Anglo-Belgian Basin. The  Ardennes (forest) Ardennes  uplands are in the south-east. The Paris Basin reaches a small fourth area at Belgium's southernmost tip, Belgian Lorraine.
+
+The coastal plain is mostly  sand dune s and  polder s. Further inland is a smooth, slowly rising landscape.  There are fertile  valley s. The hills have many  forest s. The  plateau s of the Ardennes are more rough and rocky.  They have caves and small, narrow valleys. Signal de Botrange is the country's highest point at 694 metres (2,277 ft).
+
+ Provinces 
+Belgium is divided into three Regions.   Flemish Region Flanders  and  Walloon Region Wallonia  are divided into  province s.  The third Region,  Brussels Capital Region Brussels  is not part of any province.
+
+ class sortable wikitable style text-align:left style width:110px;  Province
+ style width:110px;  Dutch name
+ style width:110px;  French name
+ style width:115px;  Capital
+ style width:115px;  Largest city
+ style width:50px;  Area br  (km2)
+ style width:70px;  Population
+   Antwerp (province) Antwerp     Antwerpen    Anvers    Antwerp (city) Antwerp br (Dutch:  Antwerpen) br (French:  Anvers )||  Antwerp (city) Antwerp br (Dutch:  Antwerpen) br (French:  Anvers )  style text-align:right 2,860 style text-align:right 1,682,683
+   East Flanders     Oost-Vlaanderen    Flandre-Orientale    Ghent br (Dutch:  Gent ) br (French:  Gand )    Ghent br (Dutch:  Gent ) br (French:  Gand )  style text-align:right 2,982 style text-align:right 1,389,199
+   Flemish Brabant     Vlaams-Brabant    Brabant flamand    Leuven br (French:  Louvain )    Leuven br (French:  Louvain )  style text-align:right 2,106  style text-align:right 1,037,786
+   Hainaut (province) Hainaut    Henegouwen    Hainaut     Mons br (Dutch:  Bergen )    Charleroi   style text-align:right 3,800 style text-align:right 1,294,844
+   Liege    Luik    Liege     Liege (city) Liege br (Dutch:  Luik ) br (German:  Luttich )    Liege (city) Liege br (Dutch:  Luik ) br (German:  Luttich )  style text-align:right 3,844  style text-align:right 1,047,414
+   Limburg (Belgium) Limburg     Limburg    Limbourg    Hasselt     Hasselt   style text-align:right 2,414 style text-align:right 805,786
+   Luxembourg (Belgium) Luxembourg    Luxemburg    Luxembourg     Arlon br (Dutch:  Aarlen ) br (German:  Arel )    Bastogne br (Dutch:  Bastenaken ) br (German:  Bastenach )  style text-align:right 4,443 style text-align:right 261,178
+   Namur (province) Namur    Namen    Namur     Namur (city) Namur br (Dutch:  Namen )    Namur (city) Namur br (Dutch:  Namen )  style text-align:right 3,664 style text-align:right 461,983
+   Walloon Brabant    Waals-Brabant   Brabant wallon     Wavre br (Dutch:  Waver )    Braine-l'Alleud br (Dutch:  Eigenbrakel )  style text-align:right 1,093 style text-align:right 370,460
+   West Flanders     West-Vlaanderen    Flandre-Occidentale    Bruges br (Dutch:  Brugge ) br (French:  Bruges )    Bruges br (Dutch:  Brugge ) br (French:  Bruges )  style text-align:right 3,151 style text-align:right 1,130,040
+ 
+
+ Military 
+The Belgian Armed Forces have about 46,000 active troops. In 2009 the yearly defence budget was $6 billion. ref cite web  url http://www.eda.europa.eu/DefenceData   title Defence Data Portal  publisher European Defence Agency   accessdate 15 June 2011 ref   There are four parts: Belgian Land Component, or the Army; Belgian Air Component, or the Air Force; Belgian Naval Component, or the Navy; Belgian Medical Component.
+
+ Science and technology 
+ File:mercator.jpg thumb|upright| Gerardus Mercator 
+
+Adding to science and technology has happened throughout the country's history.  Cartography cartographer   Gerardus Mercator ,  anatomy anatomist   Andreas Vesalius ,  herbalist   Rembert Dodoens ref cite web title Rembert Dodoens: iets over zijn leven en werk--Dodoens' werken
+ date Revised 20 December 2005 work Plantaardigheden--Project Rembert Dodoens (Rembertus Dodonaeus) language Dutch publisher Stichting Kruidenhoeve/Plantaardigheden
+ location Balkbrug url http://plantaardigheden.nl/dodoens/over_dodoens/leven_en_werk.htm#dodoens accessdate 17 May 2007 ref ref cite web title Simon Stevin author O'Connor, J. J.; Robertson, E. F. publisher School of Mathematics and Statistics, University of St Andrews, Scotland year 2004 url http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Stevin.html accessdate 11 May 2007 ref ref cite web title Abstract (*) publisher S. Karger AG, Basel url http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ProduktNr=223979&Ausgabe=225203&ArtikelNr=13462 accessdate 11 May 2007 ref ref cite web
+ title 'A Day Without Yesterday': Georges Lemaitre & the Big Bang date 24 March 2000 pages 18-19 author Midbon, Mark,  University of Wisconsin-Madison 
+ publisher Commonweal , republished: Catholic Education Resource Center ( span style font-size:87%; CERC span ) url http://www.catholiceducation.org/articles/science/sc0022.html accessdate 7 June 2007 ref  and  mathematics mathematician   Simon Stevin  are among the most influential scientists. ref cite book title The Fair Face of Flanders author Patricia Carson page 136 isbn 90-209-4385-5 publisher Lannoo Uitgeverij ref 
+
+Chemist  Ernest Solvay ref cite book title Biographical Dictionary of the History of Technology page 1135 author Lance Day editor Lance Day, Ian McNeil publisher Routledge year 2003 isbn 0-203-02829-5 ref  and engineer  Zenobe Gramme ref cite book title Biographical Dictionary of the History of Technology page 523 author Gordon Woodward editor Lance Day, Ian McNeil publisher Routledge year 2003 isbn 0-203-02829-5 ref  gave their names to the  Solvay process  and the  Gramme dynamo  in the 1860s.  Bakelite  was formed in 1907-1909 by  Leo Baekeland . A major addition to science was also due to a Belgian,  Georges Lemaitre .  He is the one who made the  Big Bang  theory of the start of the universe in 1927. ref cite web title Georges Lemaitre, Father of the Big Bang url http://www.amnh.org/education/resources/rfl/web/essaybooks/cosmic/p_lemaitre.html publisher American Museum of Natural History year 2000 accessdate 9 December 2010 ref 
+
+Three  Nobel Prize in Physiology or Medicine Nobel Prizes in Physiology or Medicine  were awarded to Belgians:  Jules Bordet  in 1919,  Corneille Heymans  in 1938 and  Albert Claude  together with  Christian De Duve  in 1974.   Ilya Prigogine  was awarded the  Nobel Prize in Chemistry  in 1977. ref cite web title The Nobel Prize in Chemistry 1977 url http://nobelprize.org/nobel_prizes/chemistry/laureates/1977/ publisher Nobelprize.org accessdate 9 December 2010 ref   Two Belgian mathematicians have been awarded the  Fields Medal :  Pierre Deligne  in 1978 and  Jean Bourgain  in 1994. ref MacTutor Biography id Deligne title Pierre Deligne  (Retrieved: 10 November 2011) ref ref MacTutor Biography id Bourgain title Jean Bourgain  (Retrieved: 10 November 2011) ref 
+
+In February 2014, Belgium became the first country in the world to legalize  euthanasia  without any age limits. ref cite news date 2014-02-13 url http://www.bbc.co.uk/news/world-europe-26181615 title Belgium's parliament votes through child euthanasia publisher BBC News accessdate 2014-02-13 ref 
+
+ Culture 
+ Fine arts 
+ File:eyck.hubert.lamb.750pix.jpg thumb| The  Ghent Altarpiece : The Adoration of the Mystic Lamb  (inside view), painted 1432 by  Jan van Eyck van Eyck 
+
+
+There have been many additions to painting and architecture. Several examples of major architectural places in Belgium belong to  UNESCO 's  World Heritage List . ref cite web title Belgium work Properties inscribed on the World Heritage List publisher UNESCO url http://whc.unesco.org/en/statesparties/be accessdate 15 May 2007 ref  In the 15th century the religious paintings of  Jan van Eyck  and  Rogier van der Weyden  were important.  The 16th century had more styles such as  Pieter Brueghel the Elder Peter Breughel 's landscape paintings and  Lambert Lombard 's showing of the antique. ref cite book language French first Jacques last Hendrick title La peinture au pays de Liege year 1987 location Liege publisher Editions du Perron isbn 2-87114-026-X page 24 ref   The style of  Peter Paul Rubens  and  Anthony van Dyck  was strong in the early 17th century in the Southern Netherlands. ref cite book language German first Herwig last Guratzsch title Die grosse Zeit der niederlandische Malerei year 1979
+ publisher Verlag Herder location Freiburg im Beisgau page 7 ref  
+
+During the 19th and 20th centuries many original  romanticism romantic ,  expressionism expressionist  and  surrealism surrealist  Belgian painters started.  These  include  James Ensor  and other artists in the  Les XX  group,  Constant Permeke ,  Paul Delvaux  and  Rene Magritte . The sculptor  Panamarenko  is still a remarkable figure in contemporary art. ref cite web title Belgian Artists: (biographies & artworks) date 5 February 2006 publisher World Wide Arts Resources url http://wwar.com/masters/nationalities/belgian.html accessdate 10 May 2007 --List of Belgian painters, linking to their biographies and artworks ref ref cite web author Baudson, Michel title Panamarenko publisher Flammarion (Paris), quoted at presentation of the  XXIII Bienal Internacional de Sao Paulo year 1996 url http://www1.uol.com.br/bienal/23bienal/universa/iueopa.htm archiveurl http://web.archive.org/web/20070207233008/http://www1.uol.com.br/bienal/23bienal/universa/iueopa.htm archivedate 7 February 2007 accessdate 10 May 2007 ref  The artist  Jan Fabre  and the painter  Luc Tuymans  are other internationally known figures in contemporary art. 
+
+Belgian contributions to architecture were also in the 19th and 20th centuries.  Victor Horta  and  Henry van de Velde  were major starters of the  Art Nouveau  style. ref cite web title ib. (page2) year 2007 publisher Senses Art Nouveau Shop, Brussels url http://www.senses-artnouveau.com/brussels.php?page=2 
+ accessdate 11 May 2007 ref ref cite web title Major Town Houses of the Architect Victor Horta (Brussels) work UNESCO 's  World Heritage List publisher UNESCO
+ url http://whc.unesco.org/en/list/1005 accessdate 16 May 2007 ref 
+
+In the 19th and 20th centuries, there were major violinists, such as  Henri Vieuxtemps ,  Eugene Ysaye  and  Arthur Grumiaux .  Adolphe Sax  invented the  saxophone  in 1846. The composer  Cesar Franck  was born in Liege in 1822. Newer music in Belgium is also famous. Jazz musician  Toots Thielemans  and singer  Jacques Brel  have made global fame. In rock/pop music,  Telex (band) Telex ,  Front 242 ,  K's Choice ,  Hooverphonic ,  Zap Mama ,  Soulwax  and  Deus (band) dEUS  are well known. In the heavy metal scene, bands like  Machiavel ,  Channel Zero (band) Channel Zero  and  Enthroned  have a worldwide fan-base. ref cite web title The Timeline--A brief history of Belgian Pop Music year 2007  month March work The Belgian Pop & Rock Archives publisher Flanders Music Centre, Brussels url http://houbi.com/belpop/timeline.htm 
+ accessdate 7 June 2007 ref 
+
+Belgium has several well-known authors, including the poet  Emile Verhaeren  and novelists  Hendrik Conscience ,  Georges Simenon ,  Suzanne Lilar  and  Amelie Nothomb . The poet and playwright  Maurice Maeterlinck  won the  Nobel Prize in literature  in 1911.  The Adventures of Tintin  by  Herge  is the best known of  Franco-Belgian comics .  Many other major authors, including  Peyo ,  Andre Franquin ,  Edgar P. Jacobs  and  Willy Vandersteen  brought the Belgian cartoon strip industry a worldwide fame. ref cite book title Comics in French: the European bande dessinee in context author Laurence Grove publisher Berghahn Books year 2010 isbn 1-84545-588-6 ref 
+
+Belgian cinema has brought a number of mainly Flemish novels to life on-screen. Belgian directors include  Andre Delvaux ,  Stijn Coninx ,  Luc Dardenne Luc  and  Jean-Pierre Dardenne .  Well-known actors include  Jan Decleir  and  Marie Gillain .  Successful films include  Man Bites Dog (film) Man Bites Dog  and  The Alzheimer Affair . ref cite web title History of Cinema in Belgium work Film Birth year 2007 url http://www.filmbirth.com/belgium.html accessdate 26 June 2011 ref  
+
+ Cuisine 
+ File:Brussels waffle.jpg right|thumb|upright| Brussels waffle s, commonly known as  Belgian waffle s outside of Belgium 
+Belgium is famous for beer, chocolate,  Belgian waffle waffles  and  french fries . French fries were first made in Belgium. The national dishes are "steak and fries with salad", and " moules-frites mussels with fries ". ref cite web title Steak-frites publisher Epicurious url http://www.epicurious.com/recipes/recipe_views/views/40035 
+ accessdate 12 August 2007 ref 
+Other local fast food dishes include a  Mitraillette . Brands of Belgian chocolate and  pralines , like  Cote d'Or (brand) Cote d'Or ,  Guylian ,  Chocolatier Neuhaus Neuhaus ,  Leonidas (chocolate maker) Leonidas , Corne and Galler are famous. ref cite book   title Belgium and Luxembourg   author Mark Elliott, Geert Cole   publisher Lonely Planet   year 2000   page 53 ref  Belgium makes over 1100 varieties of beer. ref name BierbijbelNieuwsblad cite news url http://www.nieuwsblad.be/article/detail.aspx?articleid=G2I3H7IVR title Nieuwe bierbijbel bundelt alle 1.132 Belgische bieren first Chris last Snick date 18 October 2011 language Dutch newspaper Het Nieuwsblad ref ref name BierbijbelKW cite news url http://kw.knack.be/west-vlaanderen/nieuws/algemeen/nieuwe-bierbijbel-met-1-132-belgische-bieren-voorgesteld-in-brugge/article-1195119387827.htm title Nieuwe bierbijbel met 1.132 Belgische bieren voorgesteld in Brugge date 18 October 2011 language Dutch newspaper Krant van West-Vlaanderen ref  The  Trappist beer  of the  Westvleteren Brewery Abbey of Westvleteren  has repeatedly been rated the world's best beer. ref cite news last Ames first Paul title Buying the World's Best Beer url http://www.globalpost.com/dispatch/benelux/090828/st-sixtus-westvleteren-beer accessdate 19 November 2010 newspaper Global Post date 30 August 2009 ref ref cite news last Guthrie first Tyler title Day trip to the best beer in the world url http://articles.chicagotribune.com/2010-08-11/travel/sc-trav-0810-strip-belgian-bike-trip-20100810_1_westvleteren-beer-day-trip accessdate 19 November 2010 newspaper Chicago Tribune date 11 August 2010 ref   The biggest brewer in the world by volume is  Anheuser-Busch InBev , based in  Leuven . ref cite press release title InBev dividend 2006: 0.72 euro per share--infobox: About InBev quote InBev is a publicly traded company ( Euronext : INB) based in  Leuven , Belgium. The company's origins date back to 1366, and today it is the leading global brewer by volume. date 24 April 200 publisher InBev
+ url http://www.inbev.com/press_releases/20070424.1.e.cfm accessdate 31 May 2007 ref 
+
+ Sports 
+ File:Kim Clijsters 2006.jpg thumb|left|Kim Clijsters was  WTA Awards WTA Player of the Year  in 2005 and 2010 
+
+Since the 1970s, sports clubs are organised separately by each language community. ref cite book title Organised sport in transition: development, structures and trends of sports clubs in Belgium author1 Marijke Task author2 Roland Renson author3 Bart van Reusel work Sport clubs in various European countries editor Klaus Heinemann publisher Schattauer Verlag year 1999 isbn 3-7945-2038-6 pages 183-229 ref  Association football is one of the most popular sports in both parts of Belgium, together with cycling, tennis, swimming and judo. ref cite book title Belgium author George Wingfield publisher Infobase Publishing editor Charles F. Gritzner year 2008 isbn 978-0-7910-9670-3 pages 94-95 ref  With five victories in the  Tour de France  and many other cycling records, Belgian  Eddy Merckx  is said to be one of the greatest cyclists of all time. ref cite news title Great, but there are greater author Majendie, Matt publisher BBC Sport date 18 April 2005 url http://news.bbc.co.uk/sport1/hi/other_sports/cycling/3925265.stm accessdate 20 September 2007 ref    Jean-Marie Pfaff , a former Belgian goalkeeper, is said to be one of the greatest in the history of football (soccer). ref " http://www.goalkeepersaredifferent.com/keeper/goalkeeping_greats.htm Goalkeeping Greats " Goalkeepersaredifferent.com. Retrieved on  Nowrap 29 June  2008 ref  Belgium and The Netherlands hosted the  UEFA European Football Championship  in  UEFA Euro 2000 2000 . Belgium hosted the  UEFA Euro 1972 1972 European Football Championships .
+
+ Kim Clijsters  and  Justine Henin  both were  WTA Awards Player of the Year  in the  Women's Tennis Association . The  Spa-Francorchamps  motor-racing circuit hosts the  Formula One World Championship   Belgian Grand Prix . The Belgian driver,  Jacky Ickx , won eight Grands Prix and six  24 Hours of Le Mans . Belgium also has a strong reputation in  motocross . ref cite book title Motocross History: From Local Scrambling to World Championship MX to Freestyle author Bob Woods publisher Crabtree Publishing Company  year 2008  isbn 978-0-7787-3987-6  page 19 ref  Sporting events held each year in Belgium include the  Memorial Van Damme  athletics competition, the  Belgian Grand Prix  Formula One, and a number of  classic cycle races  such as the  Tour of Flanders  and  Liege-Bastogne-Liege . The  1920 Summer Olympics  were held in Antwerp.
+ - 
+ 
+  Other pages  
+ Belgium at the Olympics 
+ Belgium national football team 
+ List of rivers of Belgium 
+
+ References 
+ reflist 2 
+
+  Other websites  
+ wiktionary Belgium 
+ commons-inline Belgium 
+   http://www.monarchie.be Official website of Belgian monarchy 
+   http://www.belgium.be Official website of the Belgian federal government 
+   http://www.telefoongids.2link.be Belgian Telephone directory 
+   http://www.traveldir.org/belgium/ Belgium Travel Guide 
+   http://www.ilotsacre.be/site/en/default_en.htm Brussels map 
+
+
+ Europe 
+ European Union 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:Belgium   
+ Category:European Union member states 
+ Category:Benelux 
+ Category:Current monarchies 
+ Category:Dutch-speaking countries 
+ Category:French-speaking countries 
+ Category:German-speaking countries 
+ Category:Federations

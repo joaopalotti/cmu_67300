@@ -1,0 +1,36 @@
+Maize
+
+Taxobox
+  name   Maize
+  image   Zea mays.jpg
+  image_width   200px
+  image_caption   Cultivars of maize
+  regnum    Plantae 
+  divisio    Flowering plant Magnoliophyta 
+  classis    Liliopsida 
+  ordo    Poales 
+  familia    Poaceae 
+  subfamilia    Panicoideae 
+  tribus    Andropogoneae 
+  genus    Zea 
+  binomial    Zea mays 
+  binomial_authority    Carolus Linnaeus L. 
+ File:Zea mays fraise MHNT.BOT.2011.18.21.jpg thumb| Zea mays "fraise" 
+
+ Maize  (called  corn  in some countries) is  Zea mays , a member of the  grass   family (biology) family   Poaceae . It is a  cereal   grain  which was first grown by people in ancient  Central America . It is now the third most important cereal  crop  in the world. 
+
+Maize is a leafy stalk whose kernels have seeds inside. It is an  angiosperm , which means that its seeds are enclosed inside a fruit or shell. It is used as a  food  staple by many people in  Mexico , Central and  South America  and parts of  Africa . In  Europe  and the rest of  North America , maize is grown mostly for use as  animal  feed. In  Canada  and the  United States , maize is commonly referred to as "corn". In recent years corn has become an important part in a majority of American foods through the use of  corn starch . 
+
+Maize has been a fruitful  model organism  for research in  genetics  for many years: see  Barbara McClintock . Research has shown that  artificial selection  developed maize from a Mexican plant called  Teosinte . ref Doebley J. 2004. The genetics of maize evolution.  Annual Reviews of Genetics   38 , 37 ndash 59. ref 
+
+  The genus  Zea   
+There are five  species  and many  subspecies  in the  genus . They are all plants similar to the cultivated maize, with less developed cobs. The wild ones are sometimes called  teosinte s, and they are all native to  Mesoamerica . 
+
+  References  
+ reflist 
+
+ File:Dent Corn 'Oaxacan Green' (Zea mays) MHNT 2.jpg thumb|left| Zea mays "Oaxacan Green" 
+ File:Zea mays 'Ottofile giallo Tortonese' MHNT.BOT.2015.34.1.jpg thumb|left| Zea mays "Ottofile giallo Tortonese" 
+
+ Category:Grains 
+ Category:Model organisms

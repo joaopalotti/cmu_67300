@@ -1,0 +1,79 @@
+Orthography
+
+Orthography  is an official or correct way to  Writing write  a particular language. It includes rules of  spelling . ref Concise Oxford English Dictionary .  Orthography : 1. Correct spelling; the way in which words are conventionally written. 2. That part of  grammar  which [deals with] the nature and values of letters and their combination.  Spelling : The action of expressing words by letters; or, naming the letters of words. ref  Orthography may also include rules about  punctuation ,  capitalization , and  diacritic s (e.g. accents). In English, spelling is a problem for all learners, and is the main issue in orthography.
+
+Some languages have someone to decide the correct spelling, such as the  Academie francaise . English does not. English orthography was the work of the early  printing printer s. They had to decide how particular words would be spelled in their books. Gradually the number of alternative spellings began to drop. The word which is "merry" today was spelled in about 30 ways in written sources from the 9th to the 16th century. ref name Tom sup p970 sup 
+
+  English orthography  
+English orthography, or English spelling, is the way the 26 letters of the  alphabet  are used to write down the 36 (IPA) sounds of English. ref This is a conservative figure: there are differing views as to exactly what phonemes are and how a given language should be analyzed into phonemes. ref  The first  manuscript s in  Old English  were written using the  Latin  alphabet. It had 24 letters. ref name Crystal Crystal, David 1995.  The Cambridge Encyclopedia of the English language . Cambridge University Press. ref sup p16 sup  
+
+  Vowels  
+No alphabet fits its language exactly. One reason for this is that there are always more sounds than letters. In English there are far more  vowel  sounds than vowels. ref The reasons are historical: early alphabets did not have separate vowels: Sass B. 1988.  The genesis of the alphabet, and its development in the 2nd millenium . Wiesbaden ref  The  Ancient Greece ancient Greeks , who were the first to use letters for vowels, decided to use only a few letters for their vowel sounds. This choice influenced all later alphabets:
+ "The importance of the Greeks in the history of alphabetic writing is paramount. All the alphabets in use in Europe today stand in direct or indirect relation to the ancient Greek". ref Diringer, David 1968.  The alphabet: a key to the history of mankind . 2 vols, Hutchinson, London. vol 1, p360 ref  
+
+English would need about 20 vowels to represent the vowel  phonemes  (~sounds) in common use, ref name Crystal sup p237 sup  and some languages do have more letters for vowels. The  Georgian language  has a total of 41 letters. ref Robinson. Andrew 1995.  The story of writing . Thames & Hudson, London. ref  A shorter alphabet works by using two or three letters for a single sound, or one letter for several sounds. ref name Tom McArthur, Tom 1992.  The Oxford companion to the English language . Oxford University Press. Vowel digraphs, p313 ref 
+
+  Consonants  
+The English alphabet has only three consonants which have one sound, cannot be produced by other combinations and are never silent: n, r and v. ref Venezky R.L. 1970.  The structure of English orthography . The Hague: Mouton. ref  The English language uses 22 to 26 consonant phonemes.
+
+  Dialects  
+The other reason that alphabets never exactly fit languages is  dialect . A spoken language varies from place to place and from time to time. This is very obvious with English, as the pronunciation is so different in different parts of the world. A written language will always be less flexible than its spoken parent. It has a different function, and is produced mechanically. It must serve everyone who speaks the language, and it does this by keeping the spelling similar from one time to another.
+
+Therefore, all alphabets have sounds which are difficult to represent with the letters in use. And English also has other problems: sounds that can be written in different ways, and spelling which can be pronounced in different ways. This all gives rise to problems of spelling.
+
+  British and American English  
+Differences between  American English  and  British English  spelling came about mainly as the result of one man.  Noah Webster  (1758-1843) wrote a  Grammar , a  Spelling  book, and finally an  American dictionary of the English language . In the course of this, he proposed a number of simplifications in spelling. In his dictionary, he chose  s  over  c  in words like  defense , he changed the  re  to  er  in words like  center , he dropped one of the Ls in  traveler . At first he kept the u in words like colour or favour but dropped it in later editions. He also changed  tongue  to  tung : that did not stick. His main reason was to help children learn to read and write. Webster's dictionary contained seventy thousand words, of which twelve thousand had never appeared in a published dictionary before. 
+
+Webster did create a slightly different identity for American English. But, because his efforts left the most glaring problems untackled, his variations make little difference to the way the language is used. An example of the real problems in English orthography is the word ending  -ough , which is pronounced several different ways: tough, bough, cough... The root causes of spelling variation are historical, and loan words come with their own (foreign) spelling. Either all French loan words should be left as they were, or they all should be changed. Either we should move wholesale to a more phonetic spelling, or not. This was proposed by many people since Webster, such as  George Bernard Shaw , who proposed a new  phonetics phonetic   alphabet  for English. In some cases Webster's changes have been widely adopted in Britain: the spelling  programme  came from the French; US  program  is clearly simpler, and more consistent with word endings in English. In our modern world, English orthography is still a problem. In some countries (notably, France) a national committee can give advice and direction as to spelling. English has long escaped from national  custody . 
+
+  Spelling, though important, is less important than how the language is used in practice. The differences between British and American English in use are more to do with  idiom ,  slang  and  vocabulary  than they are to do with spelling. In this respect, spelling in writing or print is a bit like  pronunciation  in  speech . They are the necessary outer clothes, but the inner substance is more important. 
+
+  In Wikipedia (note the spelling), articles may be in either American or British English, but should be consistent within each article. More details:  Wikipedia:Manual of Style 
+
+  Dictionaries and phonetics  
+Modern British spelling and use was greatly influenced by the two great English dictionaries,  Samuel Johnson 's  A dictionary of the English language  (1755), and  James Murray 's  Oxford English Dictionary . ref Murray K.M.E. 1977.  Caught in the web of words: James Murray and the Oxford English Dictionary . ISBN 0-300-08919-8. Winchester, Simon 2003.  The meaning of everything: the story of the Oxford English dictionary . Oxford. ref  Johnson's dictionary was hugely influential, abroad as well as at home. The dictionary was exported to America. 
+
+ "The American adoption of the  Dictionary  was a momentous event not just in its history, but in the history of lexicography. For Americans in the second half of the eighteenth century, Johnson was the authority on language, and the subsequent development of American dictionaries was coloured by his fame". ref name Hitch Hitchings, Henry 2005.  Dr Johnson's Dictionary: the extraordinary story of the book that defined the world . John Murray, London. ISBN 0-7195-6631-2 [US edition: New York: Farrar, Straus and Giroux, ISBN 0-374-11302-5] ref sup p224 sup  
+
+For American lexicographers, the dictionary was impossible to ignore: 
+ "America's two great nineteenth-century lexicographers, Noah Webster and  Joseph Emerson Worcester , argued fiercely over Johnson's legacy ... In 1789 [Webster] declared that 'Great Britain, whose children we are, and whose language we speak, should no longer be our standard; for the taste of her writers is already corrupted, and her language on the decline.' ... Where Webster found fault with Johnson, Joseph Worcester saluted him ... In 1846 he completed his  Universal and critical dictionary of the English Language . ref name Hitch sup p226 sup 
+
+Some people argue which  language  is the easiest to spell. People who learn a second language tend to think that their first (native) language is the easiest. However, for the learner, programmatic languages, with well-defined rules, are easier to start with than English. The spelling of the English language is by far the most irregular of all alphabetic spellings and thus the most difficult to learn. English is, in its origin, a  Germanic languages Germanic language . From its early roots as  Anglo-Saxon , it has borrowed words from many other languages: French (a  Romance language ) and  Latin  are the most frequent donors to English.
+
+Languages that use  phonetics phonetic  spelling are easier to learn to spell than others. With phonetic spelling the words are spelled as they are pronounced. The Italian word "orologio" for instance is pronounced oh-ro-LO-jo ("gi" always making a "j" sound.) In English, one comes across the word "knife". In "knife", the "k" is not spoken, even though in English it's more common to pronounce "K"s when they are in words.
+
+  History of English spelling  
+One of the problems we have is that similar sounding words may be spelt quite differently. Rough and ruff; meet and meat; great and grate. Words with complicated spelling may be pronounced simply: Leicester is pronounced 'Lester'. Even what rules we do have are frequently broken. " i  before  e  except after  c " has over 100 exceptions. ref name Crystal sup p272 sup  Almost all these problems have come about for historical reasons. English has been changing for the last thousand years, and as the language changes, so parts of it get stuck with different spellings. 
+
+Here are some of the causes of English orthography: ref name Crystal Crystal, David 1995.  The Cambridge encyclopedia of the English language . Cambridge. p274-275 ref 
+
+  Originally a 23-letter  alphabet  for the 35 or so  phoneme s (sounds) of  Old English . Other letters were added later.
+  After the  Norman conquest of England Norman conquest , French  scribe s introduced new spellings.
+   Printing . Many of the early printers came from the continent of Europe, and brought other spelling norms to England. But, although print stabilised spelling,  pronunciation  continued to change. 
+  Printing coincided with the  Great Vowel Shift  at the end of  Middle English  (end 14th to 15th centuries). To avoid complex details, here is what happened: over a century, the pronunciation of all the vowels changed, and is still not standard throughout Britain. In any event, the spelling of thousands of words now reflects their pronunciation in  Geoffrey Chaucer 's time.
+  16th-century scholars tried to indicate the history of a word by its spelling: the silent 'b' in 'debt' is there to reflect the  Latin   debitum .
+  More loan words added in the late 16th to early 17th century, such as  pneumonia ,  idiosyncrasy ,  epitome ,  cocoa .
+
+English has a huge number of words, but its spelling comes from many different sources. "The large and varied lexicon of English has been bought at the expense of an increasingly deversified graphology". ref name Crystal sup p275 sup 
+
+  Differences between languages  
+Some languages have a high correspondence between phonemes and letters. That means they get close to one letter for each sound. If there was a perfect correspondence, that language would have  phonemic orthography . English is highly non-phonemic. It has almost every kind of deviation known:
+ different letters for the same sound
+ two or more letters for a single sound
+ sound depends on nearby letters
+ vast range of words whose sound varies according to dialect
+ huge number of loan words with imported spellings
+ defective: it does not represent some important differences in phonemes. Example: the difference between the voiced th ( the ) and the unvoiced th ( thin ).
+
+This field of study is called "orthographic depth". The orthographic depth of an  alphabet ic script is the degree to which a written language deviates from simple one-to-one  Letter (alphabet) letter - phoneme  correspondence. ref Katz L. & Frost R. 1992. The reading process is different for different orthographies: the orthographic depth hypothesis. In Frost R. & Katz L. (eds)  Orthography, phonology, morphology, and meaning . Advances in psychology  94 , 67-84. Amsterdam: Elsevier North Holland Press. ref  It shows how easy it is to predict the pronunciation of a word from its spelling. Shallow orthographies are easy to pronounce based on the written word, and deep orthographies are difficult to pronounce based on how they are written. In shallow orthographies, the spelling-sound correspondence is direct: given the rules of pronunciation, one is able to "say" the word correctly. ref Besner D. & Smith M.C. 1992. Basic processes in reading: is the orthographic depth hypothesis sinking? In R. Frost & L. Katz (eds)  Orthography, phonology, morphology and meaning . Advances in psychology  94 , 45-66. Amsterdam: Elsevier North Holland Press.  http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=1993-97079-003 ref 
+
+Most other international languages have similar problems: in  French language French ,  Arabic language Arabic  or  Hebrew language Hebrew , new readers have difficulty learning to decode words. As a result, children learn to read more slowly. ref name goswami 
+Goswami, Usha 2005. Chapter 28: Orthography, phonology, and reading development: a cross-linguistic perspective. In Malatesha, Joshi.  Handbook of orthography and literacy . Lawrence Erlbaum, pp. 463-464. ISBN 0-8058-4652-2 ref  In both  Spanish language Spanish  and  Italian language Italian  there is a more direct connection between spelling and pronunciation. Those are languages with low orthographic depth.
+
+  Related pages  
+ Ghoti 
+
+  References  
+ Reflist 
+
+ Category:Language

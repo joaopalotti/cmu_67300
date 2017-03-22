@@ -1,0 +1,351 @@
+New York City
+
+Infobox settlement
+ 
+  name                      New York City
+  official_name             City of New York
+  settlement_type            City 
+ 
+  image_skyline             NYC Montage 2011.jpg
+  imagesize                 275px
+  image_caption             Clockwise from top:  Midtown Manhattan , the  United Nations Headquarters , the  Statue of Liberty , the  Brooklyn Bridge ,  Central Park ,  Times Square , and the  Unisphere  in  Queens 
+  image_flag                Flag of New York City.svg
+  image_seal                Seal of New York City.svg
+  nickname                  "The Big Apple", "Gotham", " List of places referred to as the Center of the Universe The Center of the Universe ","Liberty City", "The City That Never Sleeps", ref cite quick  web url http://hotword.dictionary.com/big-apple-gotham/ title Why is New York City known as "the Big Apple" and "Gotham?" publisher Dictionary.com, LLC accessdate May 28, 2013 ref  "The Capital of the World", ref cite web url http://www.pbs.org/wgbh/americanexperience/features/general-article/newyork-postwar/ title General Article: New York After WWII publisher Corporation for Public Broadcasting accessdate May 28, 2013 ref ref 
+ cite quick  web url http://www.nyc.gov/html/lmec/html/about/nycapital.shtml title About New York City publisher The City of New York accessdate May 28, 2013 ref ref 
+ cite quick  web url http://www.baruch.cuny.edu/nycdata/forward.htm title FORWARD New York - Capital of the Modern World author Eugene J. Sherman publisher The Weissman Center for International Business Baruch College/CUNY 2011 accessdate May 28, 2013 ref  "Metropolis". ref name Fleisher Fleisher, Michael and Lincoln, Janet E.  The Great Superman Book  (Grand Central Publishing, 1978), pp. 223-225. ref 
+ 
+  image_map                 Map of New York Highlighting New York City.svg
+  map_caption               Location in  New York New York State 
+  pushpin_map               USA
+  pushpin_label_position    left
+  pushpin_label             New York
+  pushpin_map_caption       Location in the  United States 
+  latd    40  latm    40.2  latNS    N  
+  longd   73  longm   56.4  longEW   W
+  coor_pinpoint              
+  coordinates_region        US-NY
+  coordinates_type           
+  coordinates_display       inline,title
+  coordinates_format        dms
+  coordinates_footnotes      GR 1 dateform mdy 
+ 
+  subdivision_type           List of sovereign states Country 
+  subdivision_name           United States 
+  subdivision_type2          U.S. state State 
+  subdivision_name2          New York 
+  subdivision_type3          Colony Historic colony 
+  subdivision_name3          Kingdom of Great Britain   Province of New York Colony of New York 
+ 
+  subdivision_type4          County (United States) Counties 
+  subdivision_name4          The Bronx Bronx ,  Brooklyn Kings ,  Manhattan New York ,  Queens ,  Staten Island Richmond 
+ 
+  established_title         Settled
+  established_date          1624
+  established_title1         Municipal corporation Incorporated 
+  established_date1         1898
+  established_title2         
+ 
+  government_footnotes       ref name MayorsOffice cite quick  web
+   url http://www.nyc.gov/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0/ 
+   title Biography
+   accessdate 2010-01-08
+   publisher New York, City of
+   author the Mayor, New York City Office of
+   date January 8, 2010 
+ ref 
+  government_type            Mayor-council government Mayor-Council 
+  governing_body             New York City Council 
+  leader_party               Democratic Party (United States) D 
+  leader_title               Mayor of New York City Mayor 
+  leader_name                Bill de Blasio 
+ 
+  total_type                Total
+  unit_pref                 US
+ 
+  area_footnotes             GR 1 dateform mdy 
+  area_total_sq_mi          468.5
+  area_land_sq_mi           302.6
+  area_water_sq_mi          165.8
+  area_metro_sq_mi          11842
+ 
+  elevation_footnotes        GR 3 dateform mdy 
+  elevation_m               10
+  elevation_ft              33
+ 
+  population_footnotes       GR 2 dateform mdy 
+  population_rank            List of United States cities by population 1st 
+  population_density_sq_mi  27550
+  population_est            8,336,697 ref name nytimes_a cite news last Roberts first Sam title Fewer People Are Abandoning the Bronx, Census Data Show url http://www.nytimes.com/2013/03/14/nyregion/more-people-moving-to-bronx-census-shows.html newspaper New York Times date March 14, 2013 ref ref name Moore cite news   title   The Bronx is up -- and the Battery's up! In fact, city population is booming to its highest number ever  url    http://www.nydailynews.com/new-york/nyc-population-time-high-article-1.1288402    author   Moore, Tina   newspaper New York Daily News  accessdate   2013-03-14 ref 
+  pop_est_as_of             2012
+  population_metro          18897109 ( Table of United States Metropolitan Statistical Areas 1st )
+  population_blank1_title    United States combined statistical area CSA 
+  population_blank1         22214083 ref name Combined  ( Table of United States Combined Statistical Areas 1st )
+  population_demonym        New Yorker
+ 
+  timezone1                  Eastern Time Zone (North America) Eastern (EST) 
+  utc_offset1               -5
+  timezone1_DST              Eastern Daylight Time EDT 
+  utc_offset1_DST           -4
+ 
+  postal_code_type           ZIP code ZIP code(s) 
+  postal_code               100xx-104xx, 11004-05, 111xx-114xx, 116xx
+  area_code                  Area code 212 212 ,  Area code 347 347 ,  Area code 646 646 ,  Area code 718 718 ,  Area code 917 917 ,  Area code 929 929 
+ 
+  blank_name                 Federal Information Processing Standard FIPS code 
+  blank_info                36-51000
+  blank1_name                Geographic Names Information System GNIS  feature ID
+  blank1_info               975772
+ 
+  website                    URL www.nyc.gov 
+ 
+ New York City  is the largest  city  in the  United States  and  New York . Over 8 million people live in it, and over 22 million people live in and around it. It is in the south end of the state of  New York , which is in the  northeastern United States . It is the financial capital of the US since it is home to the nation's  stock market ,  Wall Street , and the  One World Trade Center .  It is also the home of the Headquarters of the  United Nations .  It is sometimes considered to be the cultural center of the world.
+
+  History  
+The oldest  Borough part  of the city, the island of  Manhattan , still has its original  Lenape   Native American  name. Although Native people such as the Lenape and Canarsees had lived there for many thousands of years, New York City was first explored by  Europe ans in the 1500s.   Florence Florentine  explorer  Giovanni da Verrazzano  found the entrance to New York Harbor in the year 1524 and English explorer  Henry Hudson  named the  Hudson River  in 1609.
+
+New York City was settled by Europeans from  The Netherlands  in 1624. The Dutch called the whole area of New York  "Nieuw Nederland"  ( New Netherland ) and they named a  fort  and town on the south end of Manhattan Island  Nieuw Amsterdam  (New  Amsterdam ), ref name nieuw cite book   last Rubin   first Susan Goldman   year 2004   title L'Chaim!: To Jewish Life in America!   publisher Harry N. Adams in association with The Jewish Museum   isbn 0810950359  ref  after the capital city of the Netherlands, which was to become present-day New York. The English took over the colony in 1664 during the second  Anglo-Dutch War . They changed the name to  New York , to honor the  Duke of York , who later became King  James II  of  England .  The Dutch surrendered Nieuw Amsterdam without fighting. They were afraid of the English  Royal Navy , so they traded the town to England for the colony of  Surinam  in  South America , which they thought was worth more money.
+
+By the time the English took New York, there were many other Dutch towns in what would become New York City, including Breukelen ( Brooklyn ), Vlissingen ( Flushing ), and Nieuw Haarlem ( Harlem ). There were already some English towns in the area also, such as Gravesend in Brooklyn and Newtown in Queens.  Dutch people Dutch , English and other people had been living together in New York for a long time.
+
+New York quickly grew to become a large and important port city.  The  important  Battle of Long Island  of the  American Revolution  was fought in Brooklyn in 1776. New York was the capital of the United States under the  Articles of Confederation  from 1785 to 1788.  When the  US Constitution  was made, it stayed as the capital from 1789 until 1790. ref http://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm The Nine Capitals of the United States . United States Senate Historical Office. Accessed June 9, 2005. Based on Fortenbaugh, Robert,  The Nine Capitals of the United States , York, PA: Maple Press, 1948. ref 
+
+In 1898, the cities of New York and Brooklyn came together with the Bronx, Staten Island, and the western towns in Queens County to make Greater New York. This is the total area of the City of New York today.  Around this time, many new  immigrant s came into New York City.  They came in at  Ellis Island , an island in New York's harbor near the  Statue of Liberty .  Many of them then moved to the  Lower East Side  neighborhood in Manhattan, which had over a million people living in just a few square miles.
+
+Early in the twentieth century, with better transportation, more people moved to the new parts of the greater city, and many commuted to Manhattan. Many  skyscraper s and other big buildings were put up to provide places to work.
+
+  Geography  
+ File:USA grants tomb.jpg thumb|150px|right| Grant's Tomb , Manhattan 
+
+Most of New York City is on three islands near the  Atlantic Ocean , although one part is on the mainland of  North America . The city includes all of  Manhattan Manhattan Island  and  Staten Island , and the western end of  Long Island . There are also many smaller islands.
+
+The city is divided into five major parts called  boroughs . Each one is also a county. They are:
+
+ class wikitable sortable  Boroughs   Notes
+   Manhattan    (New York County, on Manhattan Island)
+   Brooklyn    (Kings County, on Long Island)
+   The Bronx    (Bronx County, on the mainland)
+   Queens    (Queens County, on Long Island)
+   Staten Island    (Richmond County, on Staten Island)
+ 
+
+Water divides several parts of the city. Part of the  Hudson River  forms the border between Manhattan and the Bronx on one side, and the State of  New Jersey  on the other side. The  East River  forms the border between Manhattan on one side, and Brooklyn and Queens on the other side. The Harlem River forms the border between Manhattan and the Bronx (except for a small part of Manhattan that is on the mainland). Part of  Long Island Sound  separates the Bronx and Queens. Newtown Creek is part of the border between Brooklyn and Queens. Some parts of the city are very separate from the others because of water, such as  Rockaway  in Queens and  City Island  in the Bronx. A small piece of land in Manhattan is international territory and belongs to the  United Nations Headquarters .
+
+The hallmark of New York city is its many  skyscraper s, especially in Manhattan. In New York City there are about 5600 skyscrapers. 48 of them are over 200 metres tall, which is the highest number of skyscrapers in one area in the world.
+
+  Climate  
+New York's climate is between  humid subtropical  and humid  continental climate continental . The hottest temperature ever in New York City is 41 degC (106 degF) and the coldest temperature ever is -23 degC (-11.1-13 degF). In 2012,  Hurricane Sandy (2012) Hurricane Sandy  hit New York City, causing part of Manhattan to lose  electricity power . New York City gets some  snow  in winter.
+ div style width:70% 
+ Weather box
+ location   New York ( Belvedere Castle ,  Central Park ), 1981-2010 normals, extremes 1869-present efn Official weather observations for Central Park were conducted at the Arsenal at Fifth Avenue and 64th Street from 1869 to 1919, and at Belvedere Castle since 1919. ref http://www.nycgovparks.org/parks/centralpark/highlights/11956  Belvedere Castle at NYC Parks ref 
+ collapsed   Y
+ single line   Y
+ imperial first   Y
+ Jan high F   38.3
+ Feb high F   41.6
+ Mar high F   49.7
+ Apr high F   61.2
+ May high F   70.8
+ Jun high F   79.3
+ Jul high F   84.1
+ Aug high F   82.6
+ Sep high F   75.2
+ Oct high F   63.8
+ Nov high F   53.8
+ Dec high F   43.0
+ year high F  62.0
+ Jan mean F 32.6
+ Feb mean F 35.3
+ Mar mean F 42.5
+ Apr mean F 53.0
+ May mean F 62.4
+ Jun mean F 71.4
+ Jul mean F 76.5
+ Aug mean F 75.2
+ Sep mean F 68.0
+ Oct mean F 56.9
+ Nov mean F 47.7
+ Dec mean F 37.5
+ year mean F 54.9
+ Jan low F   26.9
+ Feb low F   28.9
+ Mar low F   35.2
+ Apr low F   44.8
+ May low F   54.0
+ Jun low F   63.6
+ Jul low F   68.8
+ Aug low F   67.8
+ Sep low F   60.8
+ Oct low F   50.0
+ Nov low F   41.6
+ Dec low F   32.0
+ year low F  47.9
+ Jan record high F    72
+ Feb record high F    75
+ Mar record high F    86
+ Apr record high F    96
+ May record high F    99
+ Jun record high F   101
+ Jul record high F   106
+ Aug record high F   104
+ Sep record high F   102
+ Oct record high F    94
+ Nov record high F    84
+ Dec record high F    75
+ year record high F  106
+ Jan record low F    -6
+ Feb record low F   -15 
+ Mar record low F     3
+ Apr record low F    12
+ May record low F    32
+ Jun record low F    44
+ Jul record low F    52
+ Aug record low F    50
+ Sep record low F    39
+ Oct record low F    28
+ Nov record low F     7
+ Dec record low F   -13
+ year record low F  -15
+ precipitation colour  green
+ Jan precipitation inch   3.65
+ Feb precipitation inch   3.09
+ Mar precipitation inch   4.36
+ Apr precipitation inch   4.50
+ May precipitation inch   4.19
+ Jun precipitation inch   4.41
+ Jul precipitation inch   4.60
+ Aug precipitation inch   4.44
+ Sep precipitation inch   4.28
+ Oct precipitation inch   4.40
+ Nov precipitation inch   4.02
+ Dec precipitation inch   4.00
+ year precipitation inch 49.94
+ Jan snow inch   7.0
+ Feb snow inch   9.2
+ Mar snow inch   3.9
+ Apr snow inch   0.6
+ May snow inch     0
+ Jun snow inch     0
+ Jul snow inch     0
+ Aug snow inch     0
+ Sep snow inch     0
+ Oct snow inch     0
+ Nov snow inch   0.3
+ Dec snow inch   4.8
+ year snow inch 25.8
+ unit precipitation days   0.01 in
+ unit snow days   0.1 in
+ Jan precipitation days   10.4
+ Feb precipitation days    9.2
+ Mar precipitation days   10.9
+ Apr precipitation days   11.5
+ May precipitation days   11.1
+ Jun precipitation days   11.2
+ Jul precipitation days   10.4
+ Aug precipitation days    9.5
+ Sep precipitation days    8.7
+ Oct precipitation days    8.9
+ Nov precipitation days    9.6
+ Dec precipitation days   10.6
+ year precipitation days 122.0
+ Jan snow days   4.0
+ Feb snow days   2.8
+ Mar snow days   1.8
+ Apr snow days   0.3
+ May snow days     0
+ Jun snow days     0
+ Jul snow days     0
+ Aug snow days     0
+ Sep snow days     0
+ Oct snow days     0
+ Nov snow days   0.2
+ Dec snow days   2.3
+ year snow days 11.4
+ Jan sun   162.7 
+ Feb sun   163.1 
+ Mar sun   212.5 
+ Apr sun   225.6 
+ May sun   256.6 
+ Jun sun   257.3 
+ Jul sun   268.2 
+ Aug sun   268.2 
+ Sep sun   219.3 
+ Oct sun   211.2 
+ Nov sun   151.0 
+ Dec sun   139.0
+
+ Jan humidity   61.5
+ Feb humidity   60.2
+ Mar humidity   58.5
+ Apr humidity   55.3
+ May humidity   62.7
+ Jun humidity   65.2
+ Jul humidity   64.2
+ Aug humidity   66.0
+ Sep humidity   67.8
+ Oct humidity   65.6
+ Nov humidity   64.6
+ Dec humidity   64.1
+ year humidity  63.0
+ source 1   NOAA (relative humidity and sun 1961-1990) ref name NOAA 
+ cite web
+   url    http://www.nws.noaa.gov/climate/xmacis.php?wfo=okx 
+   title   NowData - NOAA Online Weather Data
+   publisher    National Oceanic and Atmospheric Administration 
+   accessdate   2013-03-04 ref ref name NOAA txt cite web  url ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00094728.normals.txt   publisher National Oceanic and Atmospheric Administration  title Station Name: NY NEW YORK CNTRL PK TWR  deadurl no  accessdate 2014-03-13 ref ref name noaasun cite web title New York Central Park, NY Climate Normals 1961-1990 url ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP2/00305801.TXT publisher NOAA ref 
+ date May 2015 
+ div 
+
+ People 
+New York City currently has over 8 million people. Over 18 million people live in the city and nearby areas. The majority of the people in New York City belong to  ethnic group s that are minorities in the US.  New York City has had large numbers of immigrants for centuries. In the early 19th Century, they came from  Ireland  and  Germany . Later in the 19th century, they came from  Italy ,  Russia  and  Eastern Europe .  Today, many are from  Puerto Rico ,  Haiti , the  Dominican Republic  and  Colombia .
+
+  Government  
+ File:NewYork LibertyStatue.jpg 150px|right|thumb|Statue of Liberty 
+ File:The_United_Nations_Secretariat_Building.jpg 150px|right|thumb|The United Nations Building in Manhattan 
+
+The mayor of New York is  Bill de Blasio , a  Democratic Party (United States) Democrat . The city also has a City Council that makes some local laws. Most laws in New York City are set by the state government in  Albany, New York Albany .
+
+  Transportation  
+Subway transportation is provided by the  New York City Subway  system, one of the biggest in the world. ref http://www.mta.info/nyct/facts/ridership/index.htm#atGlance_s "2009 Subway Ridership at a Glance"  New York City Transit ref   Pennsylvania Station , the busiest  train station  in the United States, is here. ref Empire State Development.  http://www.esd.ny.gov/Subsidiaries_Projects/MSDC/MSDCAboutUs.html "About Moynihan Station."  Accessed 2011-03-07. ref 
+
+ John F. Kennedy International Airport , which is in the  Queens  borough of New York, is one of the busiest  airport s in the United States.
+
+  Famous sights  
+
+ class wikitable sortable Sight  Where
+   Statue of Liberty     New York Harbor Harbor 
+   Empire State Building    Midtown 
+   Rockefeller Center    Midtown 
+   George Washington Bridge    Uptown
+   United Nations Headquarters    Midtown
+   Central Park    Manhattan
+   St. Patrick's Cathedral    Midtown
+   Grant's Tomb    Uptown
+   Times Square    Midtown
+   World Trade Center site    Downtown 
+ 
+
+  References  
+
+ class wikitable sortable  Ref
+   reflist refs 
+ ref name Combined cite web url http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t title ACS DEMOGRAPHIC AND HOUSING ESTIMATES Geographies New York-Newark-Bridgeport, NY-NJ-CT-PA Combined Statistical Area Table DP05 2011 American Community Survey 1-Year Estimates publisher U.S. Census Bureau accessdate May 4, 2013 ref 
+ 
+ 
+
+ Notes 
+ notelist 
+
+  Other websites  
+ Commonscat 
+ Wikivoyage 
+   http://www.nyc.gov Official New York City Government site 
+   http://wiki.worldflicks.org/new_york_city.html WorldFlicks in New York: photos and interesting places on Google Maps 
+   http://en.citizendium.org/wiki/New_York_City New York City  -Citizendium 
+
+ New York City 
+ USLargestCities 
+
+ Category:New York City   
+ Category:Former capitals of the United States 
+ Category:Cities with more than 500,000 inhabitants

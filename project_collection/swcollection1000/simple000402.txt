@@ -1,0 +1,76 @@
+Pi
+
+Image:Pi eq C over d.svg thumb|right| math \pi = \frac {C}{d} math  
+( pi  is equal to the  circumference  divided by the  diameter ).|221x221px 
+ File:PI constant.svg thumb|right|Pi is an endless string of numbers otheruse Pi 
+
+ Pi  (or  p ) is a  mathematical constant . It is the  ratio  of the distance around a  circle  to the circle's  diameter . This produces a number, and that number is always the same. However, the number is rather strange. The number starts 3.14159265... and continues without end. Numbers like this are called  Irrational number irrational  numbers.
+
+The diameter is the longest straight line which can be fitted inside a circle. It passes through the center of the circle. The distance around a circle is known as the  circumference . Even though the diameter and circumference are different for different circles, the number pi remains constant: its value never changes. This is because the relationship between the circumference and diameter is always the same. ref Lennart Berggren, Jonathan M. Borwein & Peter B. Borwein (eds) 1999.  Pi: a source book . 2nd ed, Springer. ISBN 978-0-387-98946-4 ref 
+
+  Approximation  
+ File:Pi-unrolled-720.gif thumb|right|A diagram showing how  math \pi math  can be found by using a  circle  with a  diameter  of  one . The  circumference  of this circle is  math /pi math . 
+Pi is often written formally as  math \pi math  or the Greek letter  p  as a shortcut.  Pi is also an  irrational number , meaning it cannot be written as a  Fraction (mathematics) fraction  ( math a \over b math ), where 'a' and 'b' are  integer s (whole numbers). This basically means that the digits of pi that are to the right of the  decimal  go  Infinity forever  without repeating in a pattern, and that it is impossible to write the exact value of pi as a number. Pi can only be  approximated , or measured to a value that is close enough for practical purposes. ref name About Pi cite web  url http://mathforum.org/dr.math/faq/faq.pi.html   title About Pi  accessdate 2010-06-05  author http://goodwin.drexel.edu/ Goodwin College of Professional Studies .  date 1994-2010  format html ref 
+
+A value close to pi is 3.1415926535897932384626433... A common fraction approximation of pi is  math 22 \over 7 math , which yields approximately 3.14285714. This approximation is 0.04% away from the true value of pi. While this approximation is accepted for most of its use in real life, the fraction  math 355 \over 113 math  is more accurate (giving about 3.14159292), and can be used when a value closer to pi is needed. ref cite web  url http://zenwerx.com/pi.php   title Pi to 4 Million Decimals  accessdate 2010-06-05  format php ref   Computer s can be used to get better approximations of pi.
+
+  History  
+The value of pi was known to Ancient Indian mathematicians like Bhaskaracharya and Aryabhatt.
+
+ Mathematician s have known about pi for thousands of years because they have been working with circles for the same amount of time.  Civilizations  as old as the  Babylonia ns have been able to approximate pi to many digits, such as the fraction 25/8 and 256/81. Most historians believe that  ancient Egypt ians had no concept of p and that the correspondence is a coincidence. ref name unleashed Arndt, Jorg & Haenel, Christoph 2006.  Pi unleashed . Springer-Verlag, 168. ISBN 978-3-540-66572-4 ref 
+
+The first written reference to pi dates to 1900 BC. ref Beckmann, Petr 1971.  A History of Pi . St. Martins Press, London. ref  Around 1650 BC the Egyptian Ahmes gave a value in the  Rhind Papyrus . The Babylonians were able to find that the value of pi was slightly  greater than  3 by simply making a big circle and then sticking a piece of rope onto the circumference and the diameter, taking note of their distances, and then dividing the circumference by the diameter.
+
+Knowledge of the number pi passed back into  Europe  and into the hands of the  Hebrews , who made the number important in a section of the  Bible  called the  Old Testament . After this, the most common way of trying to find pi was to  wikt:inscribe draw  a shape of many sides inside any circle and use the  area  of the  polygon shape  to find pi. The Greek philosopher  Archimedes , for example, used a  polygon  shape that had 96 sides in order to find the value of pi, but the Chinese in 500 A.D. were able to use a polygon with 16,384 sides to find the value of pi. The Greeks, like  Anaxagoras  of Clazomenae, were also busy with finding out other properties of the circle, such as how to make squares of circles and squaring the number pi. Since then, many people have been trying to find out more and more exact values of pi. ref cite web  url http://www-history.mcs.st-and.ac.uk/history/HistTopics/Pi_through_the_ages.html   title Pi History  accessdate 2010-06-05  coauthors J.J. O'Connor and E.F. Robertson  date August 2001  format html ref 
+
+ class wikitable style text-align:center +A history of pi
+  Philosopher
+  Date
+  Approximation
+  Ptolemy 
+  around 150 A.D.
+  3.1416
+  Zu Chongzhi
+  430-501 AD
+  3.1415929203
+  al-Khwarizmi
+  around 800 A.D.
+  3.1416
+  al-Kashi
+  around 1430 A.D.
+  3.14159265358979
+  Viete
+  1540-1603
+  3.141592654
+  Roomen
+  1561-1615
+  3.14159265358979323
+  Van Ceulen
+  around 1600 A.D.
+  3.14159265358979323846264338327950288
+ 
+
+In the 16th century, better and better ways of finding pi became available such as the complicated  formula  that the French lawyer Francois Viete developed. The first use of the Greek symbol "p" was in an essay written in 1706 by William Jones.
+
+A  mathematician  named Lambert also  proved showed  in 1761 that the number pi was  irrational number irrational ; that is, it cannot be written as a fraction by normal standards. Another mathematician named Lindeman was also able to show in 1882 that pi was part of the group of numbers known as  transcendentals , which are numbers that cannot be the solution to a  polynomial  equation. ref cite web  url http://www.math.com/tables/constants/pi.htm   title PI  accessdate 2010-06-06  date 2000-2005  format htm ref 
+
+Pi can also be used for figuring out many other things beside circles. ref name unleashed  The properties of pi have allowed it to be used in many other areas of math besides  geometry , which studies shapes. Some of these areas are  complex analysis ,  trigonometry , and  Series (mathematics) series .
+
+  Pi in real life  
+Today, there are different ways to calculate many digits of  math \pi math . This is of limited use though.
+
+Pi can sometimes be used to work out the area or the circumference of any circle. To find the circumference of a circle, use the formula C (circumference) = p times  diameter . To find the area of a circle, use the formula p ( radius 2). This formula is sometimes written as  math A = \pi r^2 math , where  r  is the  variable  for the radius of any circle and  A  is the variable for the area of that circle.
+
+To calculate the circumference of a circle with an error of 1 mm:
+  4 digits are needed for a radius of 30 meters
+  10 digits for a radius equal to that of the earth
+  15 digits for a radius equal to the distance from the earth to the sun.
+
+People generally celebrate March 14 as  Pi Day  because March 14 is also written as 3/14, which represents the first three numbers 3.14 in the  approximation  of pi. ref name About Pi 
+
+  References  
+ reflist 
+
+ Category:Geometry 
+ Category:Irrational numbers 
+ Category:Transcendental numbers

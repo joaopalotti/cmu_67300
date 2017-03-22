@@ -1,0 +1,128 @@
+IP address
+
+
+An  IP address  is a label which is used to identify one or more devices on a  computer network , such as the  internet . It is comparable to a postal address. An IP address is a long 
+ number  written in  Binary number binary . Since such numbers are difficult to communicate,  IP addresses are usually written as a  set of numbers in a given order. Devices using IP addresses use the  Internet Protocol internet protocol  to communicate. 
+
+The  Internet Assigned Numbers Authority  assigns IP addresses to  Regional internet registry regional internet registries  (RIRs). The RIRs assign them to  Internet service provider Internet Service Providers . Internet Service Providers then assign IP addresses to their customers. Very often, people have a router or gateway at home, to which they connect computers, printers, and other devices. These routers or gateways are often configured to assign IP "local" IP addresses to the devices that are connected. 
+
+Each address has two parts: One that specifies the computer or group of computers, and another which specifies the  Computer network network . A device can have more than one IP address. Certain types of IP addresses are used to address a group of devices, while others are used to address only one device. Certain types of addresses are unique, others can be re-used. A number of IP addresses are used for special purposes, for example to obtain an IP address automatically. 
+
+An IP address is converted to physical or  MAC address Media Access Control Address  using the  Address Resolution Protocol  (ARP). If an IP address is your phone number, then your MAC address is your name. You may change your phone number, but your name will not change.
+
+  What an IP address looks like  
+An IP address is a long binary number, made of ones and zeros. An IPv4 address is 32 binary digits (or  Bit bits ) long. An IPv6 is 128 bits long, allowing many more IP addresses to be used. IP addresses are usually written in human-readable form, where 8 bits are grouped into one  octet . IPv4 addresses are usually written as a group of four numbers. Each number can take a value from 0 to 255. IPv6 addresses are written as a group of eight  Hexadecimal numeral system hexadecimal  numbers.  Many Ipv6 addresses contain many zeroes. There are special rules which say that in certain cases, these zeroes do not need to be written.
+
+  Public and private addresses  
+Certain IP addresses can be assigned freely on the local area network. Since they are not unique, they are not routed on the internet. The addresses which can be freely assigned are called  private IP addresses , the ones which are unique are called  public . To be routed, a private address needs to be translated into a public one. This process of translating between private and public addresses is  called  network address translation , or NAT.  Router Routers  and  Firewall (networking) firewalls  often also perform this task.
+
+  Reaching one or more devices  
+There are three different types of addresses:
+  Unicast addresses:  The address is assigned to one specific device. This is the most common case, most addresses are unicast addresses.
+  Broadcast addresses: address all computers on the same network. There are certain cases where this is useful, for example to obtain a new address automatically. The sender sends the data once, and the devices used for routing the data make copies, as needed. 
+  Multicast addresses: This case is similar to the broadcast case above: Some devices are interested in receiving certain data, and the network copies the data as needed. The big difference to the broadcast case above is that all devices connected to the broadcast network see the data sent using broadcast. With multicast, devices need to subscribe to see a given content. The devices on the same network that are not subscribed will not see the content.
+ gallery 
+File:Unicast.svg|Unicast: one sender, one receiver
+File:Broadcast.svg|Broadcast: one sender, many receivers, all on the same (sub)network. All devices see the data
+File:Multicast.svg|Multicast: one sender, many receivers. Only a selected number of devices (usuallly called subscribers) see the data.
+ gallery 
+
+  Obtaining a new IP address  
+There are different ways of getting a new IP address and not being blocked for vandalism anymore. One of them is called  Bootstrap Protocol  (usually shortened to BOOTP). The device that needs a new address, does not know what network it is in, so it uses an IP address of all zeroes (0.0.0.0) which it sends as a broadcast to the current network, on a special  Network port port . In addition, it sends the MAC address of the network card, plus a 4 byte random number. The BOOTP server will send a reply, also as broadcast, addressed to a different port. The reply will contain the mac address of the client, the random number, and the IP address of the client. When the client receives the data, it will set the address specified.  If the BOOTP server is configured that way, it will also send the IP address and hostname of the BOOTP Server, the name and path to a file which should be loaded to boot the client (using  TFTP ) or the name of a directory, which the client should mount using  NFS . 
+
+ Dynamic Host Configuration Protocol DHCP  extends BOOTP, and allows to send more information, souch the address of a  time server , or information which is useful for routing.
+
+IP addresses obtained automatically can be dynamic or static. Static addressing means the same machine will always get the same IP address. With dynamic addresses, a device will get the next address which is not used. Dynamic addresses which are used need to be reviewed form time to time. If they are not renewed, they can be used for other devices.
+
+  IP Version 4  
+With IPv4, each address consists of four 8-digit binary numbers, called  Octet octets . An IPv4 address is 32 bits in total. The biggest number one can make with 8 regular digits is 99,999,999, but the biggest number one can make with 8 binary digits is 255 (11111111 in binary), so each octet can be any number from 0 to 255.
+
+An IPv4 address could look something like this:
+   198.51.100.137 
+Each octet is converted to its  decimal  form and separated by a period.
+
+Also, there are special meanings associated with two different ending numbers. In general, a last number of 0 stands for the network (called  base address ), and a last number of 255 stands for all hosts on that network (called  broadcast address ). Computers that are on the same local network share 3 of the 4 numbers. A computer can be on more than one network. It can also have several names.
+
+  Public/Private addresses  
+The problem with IPv4 is that it only allows for 4.3 billion addresses, and we've almost used them all. To delay this,  Network address translation Network Address Translation  (NAT) was created. Network Address Translation has a network share one  public  IP address and give every computer on the network a  private  IP address. Everyone living in the same house uses the same address, but mail can be meant for multiple different people living in the house.
+
+  Special IP addresses  
+There are some IP addresses that are reserved for special purposes. For example, the address  127.0.0.1  is called the  Loopback Address  and will "loop back" any packets sent to this address back to the computer that sent them, like sending mail to yourself. Although this may not seem useful, it is used to test  Server servers .
+ class wikitable 
+   127.0.0.0/8  block
+  Starting address
+  Ending address
+  Number of addresses
+  10.0.0.0/8
+  10.0.0.0
+  10.255.255.255
+  16,777,216
+  172.16.0.0/12
+  172.16.0.0
+  172.31.255.255
+  1,048,576
+  192.168.0.0/16
+  192.168.0.0
+  192.168.255.255 
+  65,536
+ 
+
+  IPv4 subnetting  
+To make a network work faster, it is split up into  Subnet subnets . To do this, an IP address contains a  network  ID,  subnet  ID, and a  host  ID. A special binary number called a  Subnet Mask  is used to determine the size of the network, subnet, and host IDs.
+
+The original IPv4 only supported 254 networks, so in 1981 the Internet addressing specification was changed to a  classful network  architecture. Classful network design allowed for a larger number of individual networks. The first three bits of an IP address determined its  class . Three classes ( A ,  B , and  C ) were defined for normal computer communication ( Unicast ). The size of the network ID was based on the class of the IP address. Each class used more octets for the network ID, making the host ID smaller and reducing the number of possible hosts. 
+ class wikitable 
+ colspan 7 Historical classful network architecture
+  Class
+  First octet in binary
+  Range of first octet
+  Network ID
+  Host ID
+  Number of networks
+  Number of addresses
+  A     
+  0XXXXXXX
+  0 - 127 
+  a
+  b.c.d
+  2 sup 7 sup  = 128
+  2 sup 24 sup  = 16,777,216
+  B
+  10XXXXXX
+  128 - 191
+  a.b
+  c.d
+  2 sup 14 sup  = 16,384
+  2 sup 16 sup  = 65,536
+  C
+  110XXXXX
+  192 - 223
+  a.b.c
+  d
+  2 sup 21 sup  = 2,097,152
+  2 sup 8 sup  = 256
+  D
+  1110XXXX
+  224 - 254
+  a.b.c.d
+  e
+  2 sup 23 sup  = 2,100,199
+  2 sup 9 sup  = 512
+ 
+Classful networks have been replaced by  Classless Inter-Domain Routing  (CIDR) since 1993. CIDR also provides a network address and host address. CIDR does not have classes, which means network and host address sizes don't have to be in octets.
+
+An IPv4 Address in CIDR notation looks like blockquote 192.168.0.14/24 blockquote The slash and number represent the amount of bits that the network id uses, in this case 24 or 4 octets.
+
+  IP Version 6  
+Because IPv4 is only 32 bits, the number of available addresses will run out. To prevent this, an organization called the  Institute of Electrical and Electronics Engineers  (IEEE) created IP Version 6 (IPv6), which will eventually replace IPv4.
+
+IP Version 6 uses 16 octets, or 128 bits in total. Octets in IPv6 are written in  Hexadecimal numeral system hexadecimal , and separated by colons (:). An IPv6 address might look like this:
+   2001:0db8:85a3:0000:0000:8a2e:0370:7334 
+An IPv6 address can be long and this can lead to mistakes when typing them into the computer or writing them down. There are two ways in which an IPv6 address can be made shorter without leaving anything out:
+  Leading zeroes can be left out:  2001:0db8:00b8:0008:0000:0000:0000:0001  becomes  2001:db8:b8:8:0:0:0:1 
+  Any number of sequential, all-zero 'chunks' may be compressed to simply ::. This can be done only once in the same address:  2001:0db8:0000:0000:0000:0000:0000:0001  could be written as  2001:db8::1 
+
+  Other versions  
+Versions before IPv4 were experimental and never widely used. Version 5 was used exclusively for the  :en:Internet_Stream_Protocol Internet Stream Protocol , which was also never widely used.
+
+ Category:Internet

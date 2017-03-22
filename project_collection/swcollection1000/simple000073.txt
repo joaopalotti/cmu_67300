@@ -1,0 +1,173 @@
+China
+
+Infobox country
+  conventional_long_name  People's Republic of China
+  native_name    vunblist nobold lang zh-hans Zhong Hua Ren Min Gong He Guo    small Zhonghua Renmin Gongheguo 
+  common_name   the People's Republic of China 
+  image_flag   Flag of the People's Republic of China.svg
+  image_coat   National Emblem of the People's Republic of China.svg
+  symbol_type   National Emblem
+  image_map   People's Republic of China (orthographic projection).svg
+  map_caption   Area controlled by the People's Republic of China shown in dark green; claimed but uncontrolled regions shown in light green.
+  map_width   220px
+  national_anthem    vunblist " March of the Volunteers " lang zh-hans Yi Yong Jun Jin Xing Qu   
+  official_languages    nowrap Standard Chinese ref name langlaw cite web  url http://www.gov.cn/english/laws/2005-09/19/content_64906.htm   title Law of the People's Republic of China on the Standard Spoken and Written Chinese Language (Order of the President No.37)  publisher Chinese Government date 31 October 2000 accessdate 21 June 2013  quote For purposes of this Law, the standard spoken and written Chinese language means Putonghua (a common speech with pronunciation based on the Beijing dialect) and the standardized Chinese characters. ref efn Portuguese language Portuguese  ( Macau  only),  English language English  ( Hong Kong  only). 
+  languages_type   Official written language
+  languages    Written vernacular Chinese Vernacular Chinese 
+  languages_sub   yes
+  languages2_type    Official script 
+  languages2    Simplified Chinese characters Simplified Chinese ref name langlaw 
+  languages2_sub   yes
+  regional_languages    small hlist  Mongolian language Mongolian   Standard Tibetan Tibetan   Uyghur language Uyghur   Korean language Korean   Languages of China various others 
+  ethnic_groups  
+ vunblist
+    91.51%  Han Chinese Han ref name census cite web title Tabulation of the 2010 Census of the People's Republic of China url http://www.stats.gov.cn/english/statisticaldata/censusdata/rkpc2010/indexch.htm publisher China Statistics Press ref 
+     collapsible list
+      title    small List of ethnic groups in China 55 minorities efn Ethnic minorities that are recognized officially. 
+      1.30%  Zhuang people Zhuang   0.86%  Manchu people Manchu   0.79%  Uyghur people Uyghur   0.79%  Hui people Hui   0.72%  Miao people Miao   0.65%  Yi people Yi   0.62%  Tujia people Tujia   0.47%  Ethnic Mongols in China Mongol   0.44%  Tibetan people Tibetan   0.26%  Buyei   0.15%  Koreans in China Korean   1.05% others
+     
+  
+
+  capital    Beijing efn Or (previously) "Peking". 
+  latd 39  latm 55  latNS N  longd 116  longm 23  longEW E
+  largest_city    Shanghai ref cite journal  author Chan, Kam Wing  title Misconceptions and Complexities in the Study of China's Cities: Definitions, Statistics, and Implications  journal Eurasian Geography and Economics   year 2007  volume 48  issue 4  pages 383-412  url http://courses.washington.edu/chinageo/ChanCityDefinitionsEGE2007.pdf   format PDF accessdate 7 August 2011  archiveurl https://web.archive.org/web/20130115173048/http://courses.washington.edu/chinageo/ChanCityDefinitionsEGE2007.pdf archivedate 15 January 2013 doi 10.2747/1538-7216.48.4.383  p. 395 ref 
+  demonym   Chinese
+ 
+  government_type    Socialist state Socialist ,  Single-party state ref cite web title Constitution of the People's Republic of China url http://www.npc.gov.cn/englishnpc/Constitution/2007-11/15/content_1372963.htm publisher The National People's Congress of the People's Republic of China date 15 November 2007 accessdate 8 February 2015 ref 
+  leader_name1    Xi Jinping efn Xi Jinping holds four concurrent positions:  General Secretary of the Communist Party of China  ( de facto   paramount leader ),  President of the People's Republic of China  ( de jure   head of state ), and  Chairman of the Central Military Commission  ( Commander-in-chief ) for both state and party. ref https://wayback.archive.org/web/20121116225447/http://rt.com/news/china-new-leader-xi-734/ "New man at helm: Xi Jinping elected to lead China" . RT.com. 15 November 2012. Retrieved 2 January 2013. ref 
+  leader_name2    Li Keqiang 
+  leader_name3    Zhang Dejiang 
+  leader_name4    Yu Zhengsheng 
+  leader_name5    Liu Yunshan 
+  leader_name6    Wang Qishan 
+  leader_name7    Zhang Gaoli 
+  leader_title1    General Secretary of the Communist Party of China Party General Secretary  and  President of the People's Republic of China President 
+  leader_title2    Premier of the People's Republic of China Premier 
+  leader_title3    nowrap Chairman of the Standing Committee of the National People's Congress Congress Chairman 
+  leader_title4    nowrap Chairman of the National Committee of the Chinese People's Political Consultative Conference Conference Chairman 
+  leader_title5   First-ranked Secretary of the  Secretariat of the Communist Party of China Secretariat 
+  leader_title6    Secretary of the Central Commission for Discipline Inspection Secretary of Discipline Inspection Commission 
+  leader_title7   First  Vice Premier of the State Council of the People's Republic of China Vice Premier 
+  legislature    National People's Congress 
+  sovereignty_type    History of China Formation 
+  established_event1    Qin's wars of unification#Conquest of Qi First Unification of China  under the Qin Dynasty
+  established_date1   221 BCE
+  established_event2    Xinhai Revolution#Establishment of the Republic Republic established 
+  established_date2   1 January 1912
+  established_event3    Chinese Civil War People's Republic proclaimed 
+  established_date3   1 October 1949
+  area_km2   9,596,961
+  area_footnote    efn The area given is the official United Nations figure for  Mainland China the mainland  and excludes  Hong Kong ,  Macau  and  Taiwan . ref name UN Stat cite web  url http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/Table03.pdf   title Demographic Yearbook--Table 3: Population by sex, rate of population increase, surface area and density  publisher UN Statistics  year 2007 accessdate 31 July 2010 ref  It also excludes the  Trans-Karakoram Tract  ( convert 5800 km2 sqmi abbr on ),  Aksai Chin  ( convert 37244 km2 sqmi abbr on ) and other territories in dispute with India. The total area of China is listed as  convert 9572900 km2 sqmi abbr on  by the  Encyclopaedia Britannica . ref cite web  url http://www.britannica.com/EBchecked/topic/111803/China   title China  work Encyclopaedia Britannica  accessdate 16 November 2012 ref  For further information, see  Territorial changes of the People's Republic of China . 
+  area_sq_mi   3,705,407  
+  area_rank   3rd/4th
+  area_magnitude   1 E12
+  percent_water   0.28% efn This figure was calculated using data from the CIA World Factbook. ref name CIA cite web url https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html   title CIA - The World Factbook  publisher Cia.gov  accessdate 23 November 2013 ref 
+  population_estimate   1,376,049,000 ref http://esa.un.org/unpd/wpp/Publications/Files/Key_Findings_WPP_2015.pdf "United Nations world population prospects" (PDF) 2015 revision ref 
+  population_estimate_rank   1st
+  population_estimate_year   2015
+  population_census   1,339,724,852 ref name groups cite web url http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm title Communique of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census (No. 1) publisher  National Bureau of Statistics of China date 28 April 2011 accessdate 14 June 2013 archiveurl https://web.archive.org/web/20130115173048/http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm archivedate 15 January 2013 ref 
+  population_census_year   2010
+  population_census_rank   1st
+  population_density_km2   2013 : ref cite web title Population density (people per sq. km of land area)
+ url http://data.worldbank.org/indicator/EN.POP.DNST publisher IMF accessdate 16 May 2015 ref  145
+  population_density_sq_mi   373  
+  population_density_rank   83rd
+  GDP_nominal   $11.212 trillion ref name China GDP 
+  GDP_nominal_rank   2nd
+  GDP_nominal_year   2015
+  GDP_nominal_per_capita   $8,154 ref name China GDP 
+  GDP_nominal_per_capita_rank   75th
+  GDP_PPP_year   2015
+  GDP_PPP   $18.976 trillion ref name China GDP cite web title Report for Selected Countries and Subjects: China url http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=35&pr.y=18&sy=2012&ey=2019&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= work World Economic Outlook publisher International Monetary Fund date  April 2015 accessdate 25 April 2015 ref 
+  GDP_PPP_rank   1st
+  GDP_PPP_per_capita   $13,801 ref name China GDP 
+  GDP_PPP_per_capita_rank   87th
+  Gini_year   2012
+  Gini_change     
+  Gini   55.0  
+  Gini_ref    ref name PNAS cite web title Income inequality in today's China url http://www.pnas.org/content/111/19/6928.short website Proceedings of the National Academy of Sciences ref ref name GBTRPG cite web title Rich-poor gap widens: study url http://www.globaltimes.cn/content/857619.shtml website Global Times ref 
+  Gini_rank  
+  HDI_year   2013 
+  HDI_change   increase  
+  HDI   0.719  
+  HDI_ref    ref name HDI cite web  url http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf   title 2014 Human Development Report Summary  date 2014  accessdate 27 July 2014  publisher United Nations Development Programme   pages 21-25 ref 
+  HDI_rank   91st
+  currency    Renminbi Renminbi (yuan) (Y=) efn The  Hong Kong Dollar  is used in  Hong Kong  and the  Macanese pataca  is used in  Macau . 
+  currency_code   CNY
+  time_zone    China Standard Time 
+  utc_offset   +8
+  date_format    vunblist  yyyy-mm-dd  or  yyyy lang zh Nian  m lang zh Yue  d lang zh Ri    ( Common Era CE ;  Chinese calendar CE-1949 ) 
+  drives_on   right efn Except  Hong Kong  and  Macau . 
+  cctld    vunblist   .cn   .Zhong Guo    .Zhong Guo  
+  calling_code    +86 
+ 
+ see also People's Republic of China Republic of China 
+ China  ( zh t Zhong Guo ; s Zhong Guo    Pinyin : Zhongguo) is a  Culture cultural   region , an  Ancient history ancient   civilization , and a  nation  in  East Asia .
+
+The last  Chinese Civil War  (1927-1949) resulted in two different political powers today, even though both governments agree they are one nation:
+   flagicon China  The  People's Republic of China People's Republic of China (PRC)   (since 1949), commonly known as  China , has control over  mainland China  and the largely self-governing territories of  Hong Kong  (since 1997) and  Macau  (since 1999).
+   flagicon Taiwan  The  Republic of China Republic of China (ROC)   (since 1912), commonly known as  Taiwan , has control over the islands of  Taiwan ,  Penghu ,  Fujian Kinmen , and Matsu.
+
+China has one of the world's oldest civilizations and has the oldest continuous civilization. ref http://www.emsc.nysed.gov/ciai/socst/grade3/whatisa.html ref  It has  archaeology archaeological  evidence over 5,000 years old. ref name Hagg Haggett, Peter. [2001] (2001). Encyclopedia of World Geography, Volume 23. Edition 2, illustrated. Marshall Cavendish publishing. ISBN 0-7614-7289-4, 9780761472896. p 37. p 2836. ref  It also has one of the world's oldest  Chinese character writing systems  (and the oldest in use today), and is viewed as the source of many major  inventions . ref name Hagg 
+
+ Origins 
+The first recorded use of the word "China" is dated 1555. ref group nb Eden, Richard.  Decades of the New World  (1555) 'The great China whose kyng is thought the greatest prince in the world.' ref ref name OnlineEty " http://www.etymonline.com/index.php?term=china China ",  Online Etymology Dictionary ref  It is derived from  chini , a  Persian language Persian  adjective meaning 'Chinese' which was popularized in Europe by  Marco Polo . ref name OnlineEty ref name Wood Wood, Francis,  Did Marco Polo go to China  (1995), p. 61. ref 
+
+  History  
+ Main History of China 
+
+  Ancient (2100 B.C. - 1500 A.D.)  
+ Ancient China  was one of the first  civilization s and was active since the  2nd millennium BC  as a  feudalism feudal   society . Chinese civilization was also one of the few to invent  writing , ref name Hagg  with the others being  Mesopotamia , the  Indus Valley civilization , the  Maya civilization , the  Minoan civilization  of  ancient Greece , and  Ancient Egypt . ref Gernet, Jacques. [1996] (1996). A history of Chinese civilization Edition 2, illustrated. Cambridge University Press. ISBN 0-521-49781-7, 9780521497817. p 40. ref  It reached its golden age during the  Tang Dynasty  (c. A.D. 10th century).  Home of   Confucianism  and  Daoism , it had great influence on nearby countries including Japan, Korea, and Vietnam in the areas of political system, philosophy, religion, art, writing and literature. China is home to some of the oldest artwork in the world. Statues and pottery, as well as decorations made of  jade , are some classic examples.
+
+Before the  Qin Dynasty  united China, there were hundreds of small states that fought each other for hundreds of years in a war to control China. This is known as the  Warring States Period . Although the continuing wars made people suffer, it was at this time when many great philosophies were born, including  Confucianism  and  Daoism . Confucianism and Daoism alone have been the foundation of many social values seen in modern eastern-Asian cultures today.
+
+Its geography mostly looked like that of modern China, except with northern and western edges that varied. It was often attacked by northern  nomadic people  such as the  Turkic peoples  and the  Mongol s led by  Genghis Khan  and  Kublai Khan . During the history of ancient China, the northern nomadic people and the Chinese people had been fighting each other and taking turns to rule the land and the people of China. However, when the northern people beat the Chinese people and came to rule the kingdom, they also Incorporated the Chinese way of living and became like the Chinese. Many of the strongest dynasties of China were ruled by the northern people, including the  Qing Dynasty Qin ,  Tang Dynasty Tang ,  Yuan Dynasty Yuan  (Mongolian), and  Qing Dynasty Qing . Each time, they also brought new elements into the Chinese culture.
+
+  A new age  
+
+While China achieved many things in the  First millennium  and early  2nd millennium , it became an  isolationism isolationist  country in the  15th century 15th century C.E.  This was because Spain found enormous silver in the new continent, which was the main currency (money) in China and Europe at the time, and China did not want to be bought by the foreigners.
+
+By the time of the  Renaissance , European powers started to take over other countries in Asia.  While China was never actually taken over, many  Europe an  countries , such as  Britain  and  France  built  spheres of influence  in China.  Since China had cut itself off from the world over the previous few  centuries , by the  Qing Dynasty , it had fallen behind other countries in  technology , and was helpless to stop this from happening.  This had become clear when it lost the  Opium Wars  to  Britain  in the  19th century .
+
+In 1911, the Republic of China was founded by  Sun Yat-sen , but its government was very weak.  Warlord s controlled many areas.  Chiang Kai-shek  led wars against them, and he became President and dictator.
+
+In 1931, Japan invaded  Manchuria , a place in the northeastern part of China. On July 7, 1937, the Japanese attacked the rest of the country, starting what was called the  Second Sino-Japanese War . The war later became part of  World War II . The war was fought for eight years and millions of Chinese people were killed.
+
+However, the  Chinese Civil War  later started between the  Kuomintang  (Nationalists) of the  Republic of China  (ROC) and the Communists of the People's Republic of China (PRC). The Communists wanted to make China like the Soviet Union, whereas the other side wanted to keep China in its current state at the time. The Communists were led by  Mao Zedong ,  Liu Shaoqi  and others. Later Liu lost influence with Mao and his death to this day remains unresolved. The Communists eventually won the war. The Nationalists (led by Chiang Kai-shek) fled to the island of Taiwan and set up their new capital city in Taipei. After the Chinese Civil War, the Communist leader Mao Zedong declared a new country, the People's Republic of China (PRC), in Beijing on October 1, 1949.
+
+Under Mao the country stayed poor while Taiwan became richer. His attempt at  industrialization  and collectivization with the  Great Leap Forward  led to the deaths of many people from  famine . The  Cultural Revolution  caused great social upheaval.  After 1976, China underwent  market economy  reforms under  Deng Xiaoping , and experienced rapid economic growth.  China is now one of the largest economies in the world, relying mainly on exports.
+
+In recent history, China has had problems with protests, blocking of information on the  Internet , and  censorship  of news. 1989 was notable for the controversial Tian An Men Massacre.
+
+  Culture  
+China is the origin of Eastern  martial art s, called  Kung-fu Kung Fu  or its first name  Wushu . China is also the home of the well-respected  Spa Monastery  and  Wudang Mountains . Martial art started more for the purpose of  survival , defense, and  war fare than  art . Over time some  art form s have branched off, while others have retained their distinct Chinese flavor.
+
+China has had renowned  artist s including  Wong Fei Hung  ( Huang Fei Hung  or  Hwang Fei Hung ) and many others.  Art  has also co-existed with a variety of  paint s including the more standard 18 colors. Legendary and controversial moves like  Big Mak  are also praised and talked about within the  culture .
+
+China has many traditional  festival s, such as Spring Festival, Dragon Boat Festival, Mid-autumn Festival and so on. The most significant is  Chinese New Year . People in China will have holidays to celebrate these festivals.
+
+  Festivals  
+Spring Festival is the  Chinese New Year .  
+
+Dragon Boat Festival is celebrated to commemorate the death of Qu Yuan, a patriotic poet of the State of Chu during the  Warring States  period. He persuaded his emperor not to accept Qin's diplomats' offers several times but his emperor did not listen to him. He was very sad and ended up jumping into the river to end his life. The people loved him so much that they did not want the fish to eat his corpse. They made and threw rice dumplings into the river. They hope the fish eat these dumplings instead of the poet's corpse. They also rowed dragon boats in the river to get rid of the fish. Such practices, eating rice dumplings and holding dragon boat races, become what Chinese do in this festival nowadays.
+
+Held on the fifteenth day of the eighth lunar month, Mid-Autumn Festival is a festival for families. Now when the festival sets in, people would sit together to eat moon cakes, appreciate the bright full moon cakes, appreciate the bright full moon, celebrate the bumper harvest and enjoy the family love and happiness. To the Chinese people, the full moon symbolizes family reunion, as does the "moon cakes." Hence the Mid-Autumn Festival is also called the Family Reunion Festival.
+
+  Notes  
+ references group nb 
+
+  Footnotes  
+ notelist 30em 
+
+  References  
+ reflist 
+
+  Other websites  
+ wiktionary China 
+ Wikivoyage 
+   http://www.china-map-guide.com/ Map of China 
+   http://www.accesschinatravel.com/photos.html City Photo Gallery of China 
+   http://en.citizendium.org/wiki/China China  -Citizendium
+
+ Category:China   
+ Category:Asian countries

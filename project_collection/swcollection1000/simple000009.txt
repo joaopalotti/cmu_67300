@@ -1,0 +1,54 @@
+Adobe Illustrator
+
+Infobox software
+  name                     Adobe Illustrator
+  logo                      File:Adobe Illustrator CC icon.svg 128px|CC Icon 
+  developer                 Adobe Systems 
+  released    release date and age df yes 1987 03 19 
+  latest release version   CC (2015.3.1)
+  latest release date       release date and age df yes 2016 08 10 
+  latest preview version  
+  latest preview date     
+  programming language      C++ Citation needed date May 2015 
+  operating system          OS X ,  Microsoft Windows 
+  genre                     Vector graphics editor 
+  license                   Proprietary software Proprietary 
+  website                   URL https://www.adobe.com/products/illustrator/ 
+ 
+ Adobe Illustrator  is a  computer program  for making  graphic design  and  illustration s. It is made by  Adobe Systems . Pictures created in  Adobe Illustrator  can be made bigger or smaller, and look exactly the same at any size. It works well with the rest of the products with the Adobe name.
+
+ History 
+It was first released in  1986  for the  Apple Macintosh . The latest version is  Adobe Illustrator CS6 , part of  Creative Suite  6.
+
+ Release history 
+
+ class prettytable   Version     Platforms     Release date     Code name 
+  1.0    Mac OS    January 1987     Pablo Picasso Picasso 
+  1.1   Mac OS    March 19 ,  1987     Inca 
+  88   Mac OS   March 1988  
+  2.0   Windows   January 1989   Pinnacle
+  3   Mac OS,  NeXT , other  Unix Unices    October 1990   Desert  Moose 
+  3.5    Silicon Graphics    1991  
+  4    Microsoft Windows Windows    May 1992    Kangaroo se
+  3.5    Solaris (operating system) Solaris    1993  
+  5   Mac OS   June 1993   Saturn
+  5.5   Mac OS, Solaris  ref http://www.sunmanagers.org/archives/1999/0973.html 1999: SUMMARY: Solaris-Adobe Products (a little long) ref    June 1994    Janus 
+  4.1   Windows   1995  
+  6   Mac OS   February 1996    Popeye 
+  7   Mac/Windows   May 1997    Simba 
+  8   Mac/Windows   September 1998    Elvis Presley Elvis 
+  9   Mac/Windows   June 2000   Matisse
+  10   Mac/Windows   November 2001   Paloma
+  CS (11)   Mac/Windows   October 2003    Pangaea /Sprinkles
+  CS2 (12, 12.0.1)   Mac/Windows    April 27 ,  2005     Zodiac 
+  CS3 (13)   Mac/Windows   April 2007    Jason Voorhees Jason 
+ 
+
+ References 
+ reflist 
+
+
+ tech-stub 
+
+ Category:Graphics software 
+ Category:Vector graphics editors

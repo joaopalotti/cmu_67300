@@ -1,0 +1,63 @@
+Money
+
+multiple image
+   align       right
+   direction   horizontal
+   image1      Euro banknotes 2002.png
+   width1      187
+   caption1     center Euro banknotes 
+   image2      Krugerrand (108371240).jpg
+   width2      187
+   caption2     center A Krugerrand is a South African gold coin 
+ 
+ Money  is what  people  use to  buy   wikt:thing things  and  service s. Money is what many people take for selling their own things or services. There are many kinds of money in the world. Most countries have their own kind of money, such as the  United States dollar  or the  British   Pound (currency) pound . Money is also called many other names, like  currency  or  cash . Most of the time a  state  or a  government  prints paper money and makes  coin s at a  Mint (money) mint .
+
+  History of money  
+The idea of  barter ing things is very old. ref name NOVA cite web  url http://www.pbs.org/wgbh/nova/ancient/history-money.html   title The History of Money  author NOVA  date 26 October 1996  website NOVA  publisher WGBH Educational Foundation  accessdate 23 April 2015 ref  A long time ago, people did not buy or sell with money. Instead, they traded one thing for another to get what they wanted or needed. ref name NOVA  One person who owned many cows could trade with another person who owned much  wheat . Each would trade a little of what he had with the other. This would support the people on his farm. Other things that were easier to carry around than cows also came to be held as valuable. This gave rise to trade items such as  jewelry  and  spices . 
+   File:BMC 06.jpg thumb|left|150px| Center Early 6th century  BC  Lydian coin 
+When people changed from trading in things like cows and wheat to using money instead, they needed things that would last a long time. They must still have a known value, and could be carried around. The first country in the world to make metal  coin s was called  Lydia . ref name BritMuseum cite web  url http://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx   title The origins of coinage  author   date   website   publisher Trustees of the British Museum  accessdate 23 April 2015 ref  These first appeared during the 7th century BC, in the western part of what is now  Turkey . ref name BritMuseum  The Lydian coins were made of a weighed amount of precious metal and were stamped with a picture of a  lion . This idea soon spread to  Greece , the rest of the  Mediterranean , and the rest of the world. Coins were all made to the same size and shape. In some parts of the world, different things have been used as money, like clam shells or blocks of salt.
+
+Besides being easier to carry than cows, using money had many other advantages. Money is  easier to divide  than many trade goods. If someone own cows, and wants to trade for only "half a cow's worth" of wheat, he probably does not want to cut his cow in half. But if he sells his cow for money, and buys wheat with money, he can get exactly the amount he wants.
+  
+Cows die, and wheat rots. But money  lasts longer  than most trade goods. If someone sells a cow for money, he can save that money away until he needs it. He can always leave it to his children when he dies. It can last a very long time, and he can use it at any time.
+
+Not every cow is as good as another cow. Some cows are sick and old, and others are healthy and young. Some wheat is good and other wheat is moldy or stale. So if a person trades cows for wheat, he might have a hard time arguing over how much wheat each cow is worth. However, money is  standard . That means one dollar is worth the same as another dollar. It is easier to add up and count money, than to add up the value of different cows or amounts of wheat. 
+
+Later, after coins had been used for hundreds of years, paper money started out as a promise to pay in coin, much like an " I.O.U. " note. The first true paper money was used in  China  in the  10th century   AD . ref cite web  url http://www.archaic-jade.com/papermoney/money.htm   title A Short History of Money  author   date   website   publisher Chinese Archaic-Jade Shop  accessdate 23 April 2015 ref  Paper money was also printed in  Sweden  between 1660 and 1664. ref cite web  url http://www.nbbmuseum.be/2008/04/cradle-european-banknote.htm   title The cradle of the European banknote stood in ... Sweden  author   date   website   publisher Museum of the National Bank of Belgium  accessdate 23 April 2015 ref  Both times, it did not work well, and had to be stopped because the banks kept running out of coins to pay on the notes.  Massachusetts   Massachusetts Bay Colony Bay Colony  printed paper money in the  1690s . ref cite web  url http://www.theatlantic.com/technology/archive/2011/02/the-first-paper-money-in-america-was-issued-on-this-day-in-1690/70718/   title The First Paper Money in America Was Issued on This Day in 1690  author Rebecca Greenfield  date 3 February 2011  website The Atlantic  publisher The Atlantic Monthly Group  accessdate 23 April 2015 ref  This time, the use became more common.
+
+Today, most of what people think of as money is not even things you can hold. It is numbers in  Deposit account bank accounts , saved in computer memories.  Many people still feel more comfortable using coins and paper, and do not totally trust using  electronic money  on a  computer memory .
+
+  Kinds of money  
+  File:US-$10000-Certificate of Deposit-1875 (Proof).jpg thumb|right|250px| Center US-$10,000 Certificate of Deposit, 1875 
+Many types of money have been used at different times in history. These are:
+   Cowry  shells
+   Commodity  money
+   Convertible  paper money
+   Inconvertible  money
+  Bank deposits
+   Online Electronic  money
+
+ Commodity money  can be used for other purposes besides serving as a medium of exchange. We say it possesses intrinsic value, because it is useful or valuable by itself. Some examples of commodity money are  cattle ,  silk ,  gold  and  silver . Convertible paper money is money that is convertible into gold and silver. Gold and Silver  certificate s are convertible paper money as they can be fully convertible into gold and silver. 
+
+Inconvertible money is money that cannot be converted into gold and silver. Notes and coins are inconvertible money. They are inconvertible and are declared by the  government  money. Such  fiat money  is a country's  legal tender . Today, notes and coins are the  currency currencies  used in bank deposits. 
+
+Types of bank deposits:
+   Demand  deposits
+   Savings  deposits
+   Time deposit s
+  Negotiable certificate
+
+  More reading  
+  Ferguson, Niall (2008).  The Ascent of Money: A Financial History of the World . Allen Lane. ISBN 9781846141065
+  Davies, Glyn (2010).  History of Money: From Ancient Times to the Present Day  (Fourth ed.). University of Wales Press. ISBN 9780708317174
+
+  References  
+ reflist 
+
+  Other websites  
+   http://www.egwald.ca/ubcstudent/aboriginal/exchanges.php Linguistic and Commodity Exchanges  by Elmer G. Wiens. Examines the structural differences between barter and monetary commodity exchanges and oral and written linguistic exchanges.
+   http://www.parenting.com/article/raise-a-money-smart-kid Raise a Money-Smart Kid 
+ Commonscat 
+
+ Category:Basic English 850 words 
+ Category:Money  

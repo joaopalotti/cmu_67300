@@ -1,0 +1,229 @@
+Mars
+
+Infobox planet
+  bgcolour   #E8AB79
+  name   Mars
+  symbol    File:Mars symbol.svg 25px|Astronomical symbol of Mars 
+  image    File:Mars Hubble.jpg 240px|The planet Mars 
+  caption   Mars as seen by the  Hubble Space Telescope 
+  orbit_ref  
+ ref name horizons cite web
+   last   Yeoman   first   Donald K.   date   2006-07-13
+   url    http://ssd.jpl.nasa.gov/?horizons 
+   title   HORIZONS System   publisher   NASA JPL
+   accessdate   2007-08-08  --At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Mars" and "Center: Sun". ref 
+  epoch    J2000 
+  aphelion   249,209,300 km br 
+1.665 861  Astronomical unit AU 
+  perihelion   206,669,000 km br 
+1.381 497 AU
+  semimajor   227,939,100 km br 
+1.523 679 AU
+  eccentricity   0.093 315
+  period   686.971 days br 
+1.8808  julian year (astronomy) Earth years br 
+668.5991  Timekeeping on Mars sols (Martian days) 
+  synodic_period   779.96 day br 
+2.135 Julian years
+  avg_speed   24.077 km/s
+  inclination   1.850deg to  ecliptic br 5.65deg to  Sun 's  equator br 1.67deg to  invariable plane   ref name meanplane cite web
+   date 2009-04-03
+   title The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+   url http://home.comcast.net/~kpheider/MeanPlane.gif 
+   accessdate 2009-04-10  (produced with  http://chemistry.unina.it/~alvitagl/solex/ Solex 10  written by Aldo Vitagliano; see also  invariable plane ) ref 
+  asc_node   49.562deg
+  arg_peri   286.537deg
+  satellites   2
+  physical_characteristics   yes
+  mean_radius    nowrap val fmt commas 3389.5 0.2 u km   ref name Seidelmann2007 cite journal
+   last  Seidelmann  first  P. Kenneth
+   coauthors  Archinal B.A.; A'hearn M.F.; et al.
+   title  Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006
+   journal  Celestial Mechanics and Dynamical Astronomy
+   volume 98   issue 3   pages 155-180   year 2007
+   doi 10.1007/s10569-007-9072-y
+   url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y 
+   accessdate 2007-08-28  ref 
+  flattening   0.005 89 +- 0.000 15 
+  surface_area   144,798,500 km2 br 
+0.284 Earths
+  volume   1.6318 e 11  km3 br 
+0.151 Earths
+  mass   6.4185 e 23  kg br 
+0.107 Earths
+  density   3.934 g/cm3
+  surface gravity   3.69  Acceleration m/s2 br 
+0.376  g-force g  (3/8 of Earth gravity)
+  escape_velocity   5.027 km/s
+  sidereal_day   1.025 957 day br 
+24.622 96 h 
+  rot_velocity    convert 868.22 km/h m/s abbr on 
+  axial_tilt   25.19deg
+  right_asc_north_pole   21 h 10 min 44 s br 
+317.681 43deg
+  declination   52.886 50deg
+  albedo   0.15 ( Geometric albedo geometric ) or 0.25 ( Bond albedo bond )
+  magnitude   +1.8 to -2.91 (brightness in the sky)
+  angular_size   3.5--25.1"
+  temperatures   yes
+  temp_name1    Kelvin 
+  min_temp_1   186 K
+  mean_temp_1   227 K
+  max_temp_1   268 K  ref name nasa cite web
+   title   Mars: Facts & Figures
+   publisher   NASA
+   url    http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric 
+   accessdate   2007-03-06  ref 
+  temp_name2    Celsius 
+  min_temp_2   -87 degC
+  mean_temp_2   -46 degC
+  max_temp_2   -5 degC
+  pronounce     IPA-en 'marz 
+  adjectives    Martian 
+  atmosphere   yes
+  surface_pressure   0.6-1.0  Pascal (unit) kPa 
+  atmosphere_density  
+  atmosphere_composition   95.72%  Carbon dioxide br 
+2.7%  Nitrogen br 
+1.6%  Argon br 
+0.2%  Oxygen br 
+0.07%  Carbon monoxide br 
+0.03%  Water  vapor br 
+0.01%  Nitric oxide br 
+2.5  Parts per million ppm   Neon br 
+300  Parts per billion ppb   Krypton br 
+130 ppb  Formaldehyde br 
+80 ppb  Xenon br 
+30 ppb  Ozone br 
+10 ppb  Methane 
+ 
+
+ Mars  is the fourth  planet  from the  Sun  in the  Solar System  and the second-smallest solid planet. Mars is  rocky  and  cold , ref name mep cite web url http://mars.jpl.nasa.gov/allaboutmars/extreme/ title Mars: Extreme Planet publisher NASA accessdate 2011-10-25 ref  with polar ice caps of  wikt:frozen frozen   water  and  carbon dioxide . ref name nasa070315  It has the largest  volcano  in the  Solar System , and some very large  impact craters . ref name mep  Mars is named after the  mythology mythological   Roman mythology Roman   Deity god  of  war  because it is a red planet, the  colour  of  blood .
+
+  Appearance  
+ File:Mars rocks.jpg thumb|right|Surface with rocks everywhere photographed by  Mars Pathfinder 
+
+The planet Mars is made of  mineral rock . The ground there is  red  because of  iron oxide  (rust) in the rocks and  dust . ref cite web url http://web.archive.org/web/20080106181124/http://erc.arc.nasa.gov/MarsVolc/basalt.htm title NASA Mars Page work Volcanology of Mars (Retrieved via the  Internet Archive ) accessdate 2009-05-13 ref  The planet's  atmosphere  is very thin and contains a lot of  carbon dioxide  and a very tiny amount of  oxygen . The  temperature s on Mars are colder than on Earth, because it is farther away from the Sun and has less air to keep warmth in. There is water  ice  and frozen carbon dioxide at the north and south  Geographical pole poles . ref name nasa070315  Mars does not have any liquid  water  on the surface now, but signs of run-off on the surface were probably caused by water.
+
+The average  wikt:thick thickness  of the planet's crust is about 50 km (31 mi), with a maximum thickness of 125 km (78 mi). ref cite news  author   Dave Jacque  url    http://www.anl.gov/Media_Center/News/2003/030926mars.htm   title   APS X-rays reveal secrets of Mars' core   publisher   Argonne National Laboratory   date   2003-09-26   accessdate   2006-07-01   language   English  ref 
+
+  Moons  
+Mars has two small  Satellite (natural) moons , called  Phobos (moon) Phobos  and  Deimos (moon) Deimos .
+
+  Physical geography  
+  Rotation  
+A Martian day is called a  sol , and is a little longer than an Earth day.  Mars rotates in 24 hours, and 37 minutes. It rotates on a  wikt:tilt tilt , just like the Earth does, so it has four different  season s. Of all the planets in the Solar System, the seasons of Mars are the most Earth-like, due to the similar tilts of the two planets' rotational axes. The lengths of the Martian seasons are about twice those of Earth's, as Mars's greater distance from the Sun leads to the Martian year being about two Earth years long. Martian surface temperatures vary from lows of about  convert -143  degC degF  (at the winter polar caps) ref name cold http://www.astronomycafe.net/qadir/q2681.html What is the typical temperature on Mars?  Astronomycafe.net. Retrieved on 2012-08-14. ref  to highs of up to  convert 35 degC degF  (in equatorial summer). ref name hot http://marsrover.nasa.gov/spotlight/20070612.html Mars Exploration Rover Mission: Spotlight . Marsrover.nasa.gov (2007-06-12). Retrieved on 2012-08-14. ref  The wide range in temperatures is due mostly to the thin atmosphere which cannot store much solar heat. The planet is also 1.52 times as far from the Sun as Earth, resulting in just 43% of the amount of sunlight. ref name disc920901 Kluger, Jeffrey 1992. " http://discovermagazine.com/1992/sep/marsinearthsimag105#.UO_l29u2Ya8 Mars, in Earth's Image ".  Discover Magazine . ref 
+
+  Water  
+ File:Nasa mars opportunity rock water 150 eng 02mar04.jpg thumb|Microscopic photo taken by  Opportunity rover Opportunity  showing a gray  hematite   concretion , suggesting the past presence of liquid water 
+
+A 2015 report says Martian dark streaks on the surface were affected by water. ref Amos, Jonathan 2015. Martian salt streaks 'painted by liquid water'.  BBC News  Science & Environment.  http://www.bbc.co.uk/news/science-environment-34379284 ref 
+
+Liquid water cannot exist on the surface of Mars due to its low  atmospheric pressure  (there's not enough air to hold it in), ref The reason is that water  sublimation sublimates  at low atmospheric pressure. In other words, it turns directly into water vapour. ref  except at the lowest elevations for short periods. ref name jgr110 Heldmann, Jennifer L.  et al  2005. Formation of Martian gullies by the action of liquid water flowing under current Martian environmental conditions.  Journal of Geophysical Research   110  (E5). PDF:  http://daleandersen.seti.org/Dale_Andersen/Science_articles_files/Heldmann%20et%20al.2005.pdf ref  The two polar ice caps appear to be made largely of frozen water. ref name nasa070315  The amount of ice in the south polar ice cap, if melted, would be enough to cover the entire planet's surface 11 meters deep. ref name nasa070315 NASA JPL 2007. Mars' south pole ice deep and wide.  http://web.archive.org/web/20090420204127/http://jpl.nasa.gov/news/news.cfm?release=2007-030 ref  A  permafrost  mantle stretches from the pole to latitudes of about 60deg. ref name kostama Kostama V.-P.  et al  2006. Recent high-latitude icy mantle in the northern plains of Mars: Characteristics and ages of emplacement.  Geophysical Research Letters   33  (11): L11201.  http://onlinelibrary.wiley.com/doi/10.1029/2006GL025946/abstract ref 
+
+Geological evidence gathered by unmanned missions suggest that Mars once had much liquid water on its surface. ref name marswater NASA 2006. NASA images suggest water still flows in brief spurts on Mars.  http://www.nasa.gov/mission_pages/mars/news/mgs-20061206.html ref  In 2005, radar data revealed the presence of large quantities of water ice at the poles, ref name specials1 ESA Mars Express. Water ice in crater at north pole.  http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Water_ice_in_crater_at_Martian_north_pole ref  and at mid-latitudes. The Mars rover  Spirit rover Spirit  sampled  chemical compounds  containing water molecules in March 2007. The  Phoenix (spacecraft) Phoenix  lander found water ice in shallow Martian soil in July  2008. ref name spacecraft1 NASA spacecraft confirms Martian water, mission extended.  http://www.nasa.gov/mission_pages/phoenix/news/phoenix-20080731.html ref 
+ Landforms  seen on Mars strongly suggest that liquid water at some time existed on the planet's surface. Huge areas of ground have been scraped and eroded. 
+
+  Polar caps  
+ multiple image
+  align   right
+  direction   vertical
+  width   200
+  image1   Martian north polar cap.jpg  
+  caption1   North polar early summer ice cap (1999)
+  image2   South Polar Cap of Mars during Martian South summer 2000.jpg
+  caption2   South polar midsummer ice cap (2000)
+ 
+
+Mars has two permanent polar ice caps. During a pole's winter, it lies in continuous darkness, chilling the surface and causing the  Deposition (geology) deposition  of 25-30% of the atmosphere into slabs of  Carbon dioxide CO sub 2 sub  ice ( dry ice ). When the poles are again exposed to sunlight, the frozen CO sub 2 sub   Sublimation sublimes  (turns to vapor), creating enormous winds that sweep off the poles as fast as 400 km/h. Each season this moves large amounts of dust and water vapor, giving rise to Earth-like frost and large  cirrus cloud s and dust storms. Clouds of water-ice were photographed by the  Opportunity rover Opportunity  rover in 2004.
+
+The polar caps at both poles consist primarily of water ice. ref name nasa070315 
+
+  Atmosphere  
+Mars has a very thin atmosphere with barely any oxygen (it is mostly  carbon dioxide ). Because there is an  atmosphere , however thin it is, the sky does change colour when the sun rises and sets. The dust in the Martian atmosphere make the Martian sunsets have a rather  blue  colour. Mars's atmosphere, of course, is too thin to protect Mars from  meteor s, which is why the lower half of Mars has so many craters. 
+
+  Meteorite craters  
+After the formation of the planets, all experienced the " Late Heavy Bombardment ". About 60% of the surface of Mars shows a record of impacts from that era. ref name barlow88 Barlow N.G. 1988. Conditions on early Mars: constraints from the cratering record. MEVTV Workshop on  Early tectonic and volcanic evolution of Mars . LPI Technical Report 89-04 (Easton, Maryland: Lunar and Planetary Institute) p15. ref  Much of the remaining surface is probably lying over the immense impact basins caused by those events. There is evidence of an enormous impact basin in the northern hemisphere of Mars, spanning  convert 10600 by 8500 km mi abbr on , or roughly four times larger than the largest impact basin yet discovered. ref  Sample, Ian 28 June 2008. Cataclysmic impact created north-south divide on Mars. London: Science @ guardian.co.uk.  https://www.theguardian.com/science/2008/jun/26/mars.asteroid?gusrc=rss&feed=science ref  This theory suggests that Mars was struck by a  Pluto -sized body about four billion years ago. The event is thought to be the cause of the difference between the Martian hemispheres. It made the smooth  Borealis basin  that covers 40% of the planet. ref name sciam Minkel J.R. June 2008. Giant asteroid flattened half of Mars, studies suggest.  Scientific American .  http://www.scientificamerican.com/article/giant-asteroid-flattened/ ref ref Chang, Kenneth June 26, 2008. Huge meteor strike explains Mars's shape, reports say.  New York Times .  http://www.nytimes.com/2008/06/26/science/space/26mars.html?em&ex=1214712000&en=bd0be05a87523855&ei=5087%0A ref 
+
+Some meteorites hit Mars with so much force a few pieces of Mars went flying into space  ndash  even to Earth! Rocks on Earth are sometimes found which have chemicals that are exactly like the ones in Martian rocks. These rocks also look like they fell really quickly through the atmosphere, so it is  wikt:reasonable reasonable  to think they came from Mars.
+
+  Geography  
+Mars is home to the highest known mountain in the Solar System,  Olympus Mons . Olympus Mons is about 17 miles (or 27 kilometers) high. This is more than three times the height of Earth's tallest mountain,  Mount Everest . It is also home to  Valles Marineris , the third largest  Rift (geology) rift  system (canyon) in the Solar System, 4,000 km long.
+
+  Observation of Mars  
+ File:Trouvelot - The planet Mars - 1877.jpg 200px|thumb|A coloured drawing of Mars made in 1877 by the French astronomer Trouvelot 
+
+Our records of watching and recording Mars start with  ancient Egypt ian astronomers in the  2nd millennium BC . ref name paob85 cite journal   last Novakovic   first B.   year 2008   title Senenmut: an ancient Egyptian astronomer   journal Publications of the Astronomical Observatory of Belgrade   volume 85   pages 19-23   bibcode 2008POBeo..85...19N   arxiv 0801.1331  ref ref name marshall89 cite book   first Marshall   last Clagett   year 1989   title Ancient Egyptian science: calendars, clocks, and astronomy   volume 2   series Ancient Egyptian Science   pages 162-163   publisher Diane   isbn 0-87169-214-7  ref  
+
+Detailed observations of the location of Mars were made by  Babylonian Babylonian astronomers  who developed methods using math to predict the future position of the planet. The ancient  Ancient Greece Greek philosophers  and astronomers developed a model of the solar system with the Earth at the center ('geocentric'), instead of the sun. They used this model to explain the planet's motions. ref cite web title Geocentric model url http://www.universetoday.com/32607/geocentric-model/ publisher UniverseToday accessdate 14 September 2013 ref    India n and  Islamic  astronomers estimated the size of Mars and its distance from Earth. ref name swerdlow98 cite book   first Noel M.   last Swerdlow   year 1998   pages 34-72   title The Babylonian theory of the planets   publisher Princeton University Press   isbn 0-691-01196-6   chapter-url Periodicity and Variability of Synodic Phenomenon   url http://books.google.com/books?id=0Df8Ma-zpgIC&pg=PA34   ref ref name valery_cumont12 cite book   last1 Valery   first1 Franz   last2 Cumont   first2 Marie   title Astrology and religion among the Greeks and Romans   work American lectures on the history of religions   publisher Putnam   page 46   year 1912   url http://books.google.com/books?id=82wKgaD_3dEC&pg=PA46   ref  Similar work was done by  Chinese people Chinese  astronomers. ref name evans98 cite book   first James   last Evans   year 1998   title The history & practice of ancient astronomy   page 297   publisher Oxford University Press   isbn 0-19-509539-1   url http://books.google.com/books?id=Qg0_uiaWhT8C&pg=PA297   ref 
+ 
+In the 16th century,  Nicholas Copernicus  proposed a model for the  Solar System  in which the planets follow circular orbits about the  Sun . This 'heliocentric' model was the beginning of modern astronomy. It was revised by  Johannes Kepler , who gave an  Ellipse elliptical orbit  for Mars which better fit the data from our observations. ref name gingerich_maclachlan05 cite book   last1 Gingerich   first1 Owen   last2 MacLachlan   first2 James H.   year 2005   title Nicolaus Copernicus: making the Earth a planet   pages 57-61   work Oxford portraits in science   publisher Oxford University Press   isbn 0-19-516173-4   url http://books.google.com/books?id=9k-pHc8l-TgC&pg=PA57   ref ref name seop cite journal   title Nicolaus Copernicus   date 2005   editor1-last Zalta   editor1-first Edward N.   work Stanford Encyclopedia of Philosophy   url http://plato.stanford.edu/entries/copernicus/    accessdate 2010-01-09  ref ref name sat57 cite journal   last Breyer   first Stephen   year 1979   title Mutual occultation of planets   journal Sky and Telescope   volume 57   issue 3   page 220  bibcode   1979S&T....57..220A  ref ref name longair03 cite book   first M.S.   last Longair   year 2003   edition 2nd   title Theoretical concepts in physics: an alternative view of theoretical reasoning in physics   pages 25-28   publisher Cambridge University Press   isbn 0-521-52878-X   url http://books.google.com/books?id=bA9Lp2GH6OEC&pg=PA25   ref 
+
+The first observations of Mars by  telescope  was by  Galileo Galilei  in 1610. Within a century, astronomers discovered distinct  albedo  features (changes in brightness) on the planet, including the dark patch and polar  ice cap s. They were able to find the planet's day ( rotation period ) and  axial tilt . ref name jbaa94 cite journal   last Moore   first P.   year 1984   title The mapping of Mars   journal Journal of the British Astronomical Association   volume 94   issue 2   pages 45-54   bibcode 1984JBAA...94...45M  ref ref name sheehan_ch2 cite web   first William   last Sheehan   year 1996   title Chapter 2: pioneers   work The planet Mars: a history of observation and discovery   publisher University of Arizona   url http://www.uapress.arizona.edu/onlinebks/mars/chap02.htm    accessdate 2010-01-16  ref 
+
+Better telescopes developed early in the 19th century allowed permanent Martian  albedo  features to be mapped in detail. The first crude map of Mars was published in 1840, followed by better maps from 1877 onward. Astronomers mistakenly thought they had detected the  Spectroscopy spectroscopic  mark of water in the Martian atmosphere, and the idea of life on Mars became  wikt:popularise popular  among the public.  Percival Lowell  believed he could see an artificial network of  canal s on Mars. These linear features later proved to be an  optical illusion , and the atmosphere was found to be too thin to support an Earth-like  environment , including surface water.
+
+Yellow clouds on Mars have been observed since the 1870s, which were windblown sand or dust. During the 1920s, the range of Martian surface temperature was measured; it ranged from  ndash 85 to 7  sup o sup C. The planetary atmosphere was found to be arid with only traces of oxygen and water. In 1947,  Gerard Kuiper  showed that the thin Martian atmosphere contained extensive  carbon dioxide ; roughly double the quantity found in Earth's atmosphere. The first standard naming of Mars surface features was set in 1960 by the  International Astronomical Union . 
+
+Since the 1960s, multiple robotic  spacecraft  and  rover (space exploration) rovers  have been sent to explore Mars from orbit and the surface. The planet has remained under observation by ground and space-based instruments across a broad range of the  electromagnetic spectrum  (visible light, infrared and others). The discovery of  meteorite s on Earth that came from Mars has allowed laboratory examination of the chemical conditions on the planet.
+
+  Martian 'canals'  
+ Multiple image direction vertical align right width 200 image1 Giovanni map mars.jpg caption1 Map of Mars by Giovanni Schiaparelli, compiled between 1877 and 1886, showing  canali  features as fine lines alt1 A cylindrical projection map of mars showing light and dark regions accompanied by various linear features. The major features are labelled. image2 Lowell Mars channels.jpg caption2 Mars sketched as observed by Lowell sometime before 1914. (South top) alt2 Two disks show darker patches connected by linear features. 
+
+During the 1877 opposition, Italian astronomer  Giovanni Schiaparelli  used a  convert 22 cm abbr on  telescope to help produce the first detailed map of Mars. What caught people's attention was that the maps had features he called  canali .  These were later shown to be an  optical illusion  (not real). These  canali  were supposedly long straight lines on the surface of Mars to which he gave names of famous rivers on Earth. His term  canali  was popularly mistranslated in English as  canals , and thought to be made by intelligent beings. ref name milone_wilson08 cite book   last1 Milone   first1 Eugene F.   last2 Wilson   first2 William J.F.   title Background science and the inner Solar System   page 228   volume 1   series Solar System Astrophysics   publisher Springer   year 2008   isbn 0-387-73154-7   url http://books.google.com/books?id=CX040NargCEC&pg=PA228   ref ref name sagan80 cite book   last Sagan   first Carl   title Cosmos   publisher Random House   year 1980   page 107   isbn 0-394-50294-9   url http://books.google.com/books?id=1gR8lSPrPq4C&pg=PA107   ref  
+
+Other astronomers thought they could see the canals too, especially the American astronomer Percy Lowell, who built his telescopes and his career on the idea. ref name lang03 cite book   first Kenneth R.   last Lang   year 2003   title The Cambridge guide to the Solar System   page 251   publisher Cambridge University Press   isbn 0-521-81306-9   url http://books.google.com/books?id=S4xDhVCxAQIC&pg=PA251   ref ref name basalla06 cite book   first George   last Basalla   year 2006   title Civilized life in the Universe: scientists on intelligent extraterrestrials   pages 67-88   publisher Oxford University Press US   isbn 0-19-517181-0   chapter-url Percival Lowell: Champion of Canals   url http://books.google.com/books?id=oMQIQMmAgoIC&pg=PA67   ref ref name isis96 cite journal   last1 Maria   first1 K.   last2 Lane   first2 D.   year 2005   title Geographers of Mars   journal Isis   pmid 16536152   volume 96   issue 4   pages 477-506   doi 10.1086/498590  ref ref name ba3 cite journal   last Perrotin   first M.   year 1886   title Observations des canaux de Mars   journal Bulletin Astronomique, Serie I  volume 3   pages 324-329   bibcode 1886BuAsI...3..324P   language French  ref ref name pasp33 cite journal   last Slipher   first E. C.   year 1921   title Photographing the planets with especial reference to Mars   journal Publications of the Astronomical Society of the Pacific   volume 33   issue 193   pages 127-139   doi 10.1086/123058   bibcode 1921PASP...33..127S  ref 
+
+Although these results were widely accepted, they were contested. ref name pa21 cite journal   last Antoniadi   first E.M.   year 1913   title Considerations on the physical appearance of the planet Mars   journal Popular Astronomy   volume 21   pages 416-424   bibcode 1913PA.....21..416A  ref  Greek astronomer  Eugene M. Antoniadi  and English naturalist  Alfred Russel Wallace  were against the idea; Wallace was extremely outspoken. ref name wallace07 cite book   first Alfred Russel   last Wallace   year 1907   title Is Mars habitable?: a critical examination of Professor Percival Lowell's book "Mars and its canals," with an alternative explanation   publisher Macmillan   pages 102-110   url http://books.google.com/books?id=Gs1HAAAAIAAJ&pg=PA102   ref  As bigger and better telescopes were used, fewer long, straight  canali  were observed. During an observation in 1909 by Flammarion with a  convert 84 cm in abbr on  telescope, irregular patterns were observed, but no  canali  were seen. ref name nature412 cite journal   title Decline and fall of the Martian empire   last Zahnle   first K.   journal Nature   volume 412   year 2001   issue 6843   pmid 11449281   doi 10.1038/35084148   pages 209-213 ref 
+
+  Life on Mars?  
+ File:Mars Valles Marineris EDIT.jpg 250 px|default|right|Mars by Viking 1 in 1980 
+
+Because Mars is the one of the closest planets to  Earth  in the  Solar System , many have wondered if there is any kind of  life  on Mars. Today we know that the kind of life, if any, would be some simple  bacteria -type organism. 
+
+  Meteorites  
+ NASA  maintains a catalog of 34 Mars  meteorite s, that is, meteorites which originally came from Mars. ref Cite web url http://www2.jpl.nasa.gov/snc/index.html title Mars Meteorites accessdate February 16, 2010 publisher NASA ref  These assets are highly valuable since they are the only physical samples available of Mars. 
+
+Studies at NASA's  Johnson Space Center  show that at least three of the meteorites contain possible evidence of past life on Mars, in the form of microscopic structures resembling fossilized bacteria (so-called  Organism biomorphs ). Although the scientific evidence collected is reliable, and the rocks are correctly described, what made the rocks look like they do is not clear. To date, scientists are still trying to agree if it really is evidence of simple life on Mars. ref name meteoritos-Bio http://mars.jpl.nasa.gov/mgs/sci/fifthconf99/6142.pdf Evidence for ancient Martian life . Gibson E. K. Jr.  et al  Mail Code SN2, NASA Johnson Space Center, Houston TX 77058, USA. ref 
+
+Over the past few decades, scientists have agreed that when using meteorites from other planets found on Earth (or rocks brought back to Earth), various things are needed to be sure of life. Those things include: ref name meteoritos-Bio 
+
+ Did the rock comes from the right time and place on the planet for life to exist?	
+ Does the sample contain evidence of  bacterial   cells  (does it show fossils of some kind, even if very tiny)?
+ Is there any evidence of biominerals? ( minerals  usually caused by living things)
+ Is there any evidence of  isotope s typical of life?
+ Are the features part of the meteorite, and not contamination from Earth? 
+
+For people to agree on past life in a geologic sample, most or all of these things must be met. This has not happened yet, but investigations are still in progress. ref name meteoritos-Bio  Reexaminations of the biomorphs found in the three Martian meteorites are underway. ref http://www.spaceflightnow.com/news/n1001/09marslife/ ref 
+
+  The significance of water  
+Liquid water is necessary for life and  metabolism , so if water was present on Mars, the chances of life evolving is improved. The Viking orbiters found evidence of possible river valleys in many areas, erosion and, in the southern hemisphere, branched streams. ref Strom R.G., Steven K. Croft, and Nadine G. Barlow 1992.  The Martian impact cratering record .University of Arizona Press. ISBN 0-8165-1257-4 ref ref Raeburn P. 1998. Uncovering the secrets of the red planet Mars. National Geographic Society. Washington D.C. ref ref Moore P.  et a  1990.  The Atlas of the Solar System . Mitchell Beazley Publishers NY. ref  Since then, rovers and orbiters have also looked closely and eventually proved water was on the surface at one time, and is still found as ice in the polar ice caps and underground.
+
+  Today  
+So far, scientists have not found life on Mars, either living or  extinct . Several  space probe s have gone to Mars to study it. Some have  orbit ed (gone around) the planet, and some have landed on it. There are pictures of the surface of Mars that were sent back to Earth by the probes. Some people are interested in sending  astronaut s to visit Mars. They could do a better search, but getting astronauts there would be difficult and expensive. The astronauts would be in space for many years, and it could be very dangerous because of  radiation  from the sun.  So far we have only sent unmanned probes.  
+
+The most recent probe to the planet is the  Mars Science Laboratory .  It landed on  Aeolis Palus  in Gale Crater on Mars on 6 August 2012. ref name Space-20120806 cite web  last Wall  first Mike  title Touchdown! Huge NASA rover lands on Mars  url http://www.space.com/16932-mars-rover-curiosity-landing-success.html   date 2012-08-06  publisher Space.com  accessdate 2012-12-31  ref  It brought with it a mobile explorer called 'Curiosity'. It is the most advanced space probe ever. Curiosity has dug up Martian soil and studied it in its laboratory. It has found  sulfur ,  chlorine , and water molecules. ref Mars Science Laboratory. NASA 2012.  http://www.nasa.gov/mission_pages/msl/news/msl20121203.html ref 
+
+  Popular culture  
+ main Mars in fiction 
+Some famous stories were written about this idea. The writers used the name " Martian s" for  intelligent   being s from Mars. In 1898,  H. G. Wells  wrote  The War of the Worlds , a famous  novel  about Martians attacking the Earth. ref name pc cite web url http://mars.jpl.nasa.gov/allaboutmars/mystique/literature/ title Pop Culture Mars: Literature publisher NASA accessdate 2011-10-25 ref   In 1938,  Orson Welles  broadcast a  radio  version of this story in the  United States , and many people thought it was really happening and were very afraid. ref name pc2 cite web url http://mars.jpl.nasa.gov/allaboutmars/mystique/filmradio/ title Pop Culture Mars: Film & Radio publisher NASA accessdate 2011-10-25 ref  Beginning in 1912,  Edgar Rice Burroughs  wrote several novels about adventures on Mars.
+  
+ Reflist 2 
+
+  Other websites  
+ sisterlinks Mars commonscat yes commons Mars (planet) 
+   http://space.wikia.com/wiki/Mars Mars  at Space Wiki
+   http://www.spacetelescope.org/images/archive/freesearch/MARS/viewall/1 Mars at ESA/Hubble 
+   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mars Mars Profile  by  http://solarsystem.nasa.gov/ NASA's Solar System Exploration 
+   http://space.about.com/cs/solarsystem/p/marsinfo.htm Mars  - About Space
+   http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html NASA's Mars fact sheet 
+   http://www.sciencedaily.com/news/space_time/mars/ Mars Research News 
+   http://www.projectshum.org/Planets/mars.html Planets - Mars  A kid's guide to Mars.
+   http://stevechallis.net/Mars.php Mars 
+   http://stevechallis.net/Martian-Canals.php Canals of Mars 
+   http://ice.tsu.ru/index.php?option=com_content&view=category&layout=blog&id=24&Itemid=92 New Papers about Martian Geomorphology 
+
+ Solar System 
+ Mars 
+
+ Category:Mars  

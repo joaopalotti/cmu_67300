@@ -1,0 +1,195 @@
+Zero
+
+inline 
+ Infobox number
+  number   0
+  cardinal   0, zero,  nowrap "oh" {{IP
+Ac-en ' oU , nought, naught, nil
+| ordinal text = zeroth, noughth
+| divisor = all other numbers br / (except itself)
+| lang1 =  Arabic numerals Arabic  
+| lang1 symbol =  resize 150% 0,0 
+| lang2 =  Bengali language Bengali 
+| lang2 symbol =  resize 150% 0 
+| lang3 =  Devanagari Devanagari 
+| lang3 symbol =  resize 150% 0 
+| lang4 =  Chinese numerals Chinese 
+| lang4 symbol =  Ling , 0
+| lang5 =  Japanese numerals Japanese 
+| lang5 symbol =  Ling , 0
+| lang6 =  Khmer numerals Khmer 
+| lang6 symbol = 0
+| lang7 =  Thai numerals Thai 
+| lang7 symbol = 0
+}}
+ Zero  is a  wikt:special special   number . ref cite book
+ title Principles of mathematics
+ edition 2
+ first1 Bertrand
+ last1 Russell
+ publisher Forgotten Books
+ year 1942
+ isbn 1-4400-5416-9
+ page 125
+ url http://books.google.com/books?id=63ooitcP2osC ,  http://books.google.com/books?id=63ooitcP2osC&pg=PA125 Chapter 14, page 125 ref  If there are zero things, there are no things at all. There are none. For example, if John has zero  hat s, that means he does not have a hat at all.
+
+  Symbol  
+The symbol for the number zero is "0".
+
+  Arithmetic with zero  
+  Adding a number to zero results in that number. For example, adding zero to three gives three. In  symbols :
+ 3 + 0 = 3
+  Subtracting zero from a number always gives that number. For example, subtracting zero from three gives three. In symbols:
+ 3 - 0 = 3
+  Subtracting a positive number from zero always makes that number  negative  (or, if a negative number is subtracted from zero, it makes the number positive). In symbols:
+ 0 - 3 = -3
+  Multiplying a number by zero always gives zero. For example, multiplying forty-three by zero gives zero. In symbols:
+ 43   0 = 0
+ File:En-us-Zero.ogg thumbnail|right| 0 (number) 
+  Dividing zero by a number always gives zero. For example, dividing zero by forty-three gives zero. In symbols:
+ 0 / 43 = 0
+   division by zero Any number divided by zero  has no answer. In symbols:
+ 43 / 0 has an undefined answer.
+  Zero divided by zero has no answer. In symbols:
+ 0 / 0 has no answer.
+Below are all of the above examples with a few others in a condensed, and generalized form in a tabular layout.
+
+Here in the table below, x represents any number.
+ class wikitable Operation
+ Rule
+ Example
+  Addition
+ x  + 0 =  x 
+ 3 + 0 = 3
+  Subtraction
+ x  - 0 =  x 
+ 3 - 0 = 3
+  Multiplication
+ x  x 0 = 0
+ 5 x 0 = 0
+ rowspan 2  Division
+ 0 /  x  = 0 , when  x  [?] 0
+ 0 / 5 = 0
+ x  / 0  is undefined
+ 5 / 0 is undefined
+ rowspan 2  Exponentiation
+ 0  sup x sup  = 0
+ 0 sup 5 sup  = 0
+ x   sup 0 sup  = 1
+ 5 sup 0 sup  = 1
+  Root
+ [?]0 = 0
+  
+  Logarithm
+ log sub b sub (0) is undefined
+  
+  Factorial
+ 0! = 1
+  
+  Sine
+ sin 0o = 0
+  
+  Cosine
+ cos 0o = 1
+  
+  Tangent
+ tan 0o = 0
+  
+  Derivative
+ 0' = 0
+  
+  Integral
+ [?] 0 d x  = 0 +  C 
+  
+ 
+
+  History of zero  
+The idea of zero was first thought about in  Babylon ,  India  and in  Central America  at different times. Some places and countries did not know about a zero, which may have made it harder for those people to do  mathematics . 
+
+Over hundreds of years the idea of zero was passed from country to country. From  India  and  Babylon  to other places, like  Greece ,  Persia  and the  Arab  parts of the world. The  Europe ans learned about zero from the  Arab s.
+
+  The place of zero as a number  
+Zero is almost never used as a place number ( ordinal number ). This means that it is not used like 1, 2, or 3 to indicate the order, or place, of something, like 1st, 2nd, or 3rd. An exception to this is seen in many programming languages.
+
+Some other things about zero:
+  The number zero is a  whole number .
+  The number zero is not a  positive number .
+  The number zero is not a  negative number , either.
+  The number zero is a  neutral number .
+
+Any number  Division (mathematics) divided  by itself equals one, except if that number is zero. In symbols:
+
+0 / 0 = " Division by zero not a number. "
+
+In  time , zero means " now ". For example, when a person is  counting  down the time to the start of something, such as a foot race or when a  rocket  takes off, the count is: "three, two, one, zero (or  go )". Zero is the exact time of the start of the race or when the  rocket  takes off into the sky.
+
+   0 as a number  
+0 is the  integer  that precedes the positive  1 (number) 1 , and follows  -1 (number) -1 . In most (if not all) numerical systems, 0 was identified before the idea of 'negative integers' was accepted. It means "courageous one" in  hieroglyphics .
+
+Zero is a number which means an amount of  null  size; that is, if the number of your brothers is zero, that means the same thing as having no brothers, and if something has a weight of zero, it has no weight. If the difference between the numbers of pieces in two piles is zero, it means the two piles have an equal number of pieces. Before counting starts, the result can be assumed to be zero; that is the number of items counted before you count the first item and counting the first item brings the result to one. And if there are no items to be counted, zero remains the final result.
+
+While mathematicians all accept zero as a number, some non-mathematicians would say that zero is not a number, arguing that one cannot have zero of something. Others say that if one has a bank balance of zero, one has a specific quantity of money in that account, namely none. It is that latter view which is accepted by mathematicians and most others.
+
+Normally speaking, there was no year zero between 1 BC and 1 AD. More exactly, almost all  historian s leave out the  year zero  from the  proleptic Gregorian calendar proleptic Gregorian  and  proleptic Julian calendar Julian calendars  (that is, from the normal calendar used in English-speaking countries), but  astronomer s include it in these same calendars. However, the phrase  Year Zero (political notion) Year Zero  may be used to describe any event considered so important, that someone might want to start counting years all over again from zero.
+
+  0 as a numeral  
+ File:Text figures 036.svg 71px|right 
+The modern numeral 0 is normally written as a circle or (rounded) rectangle. In old-style fonts with  text figures , 0 is usually the same height as a lowercase x.
+
+ style clear: right align right   File:7-segment cdeg.svg right|80px|Unusual appearance of the digit zero on seven-segment displays  
+   File:7-segment abcdef.svg right|80px|Usual appearance of the digit zero on seven-segment displays 
+ 
+On the  seven-segment display s of calculators, watches, etc., 0 is usually written with six line segments, though on some historical calculator models it was written with four line segments. The four-segment 0 is not common.
+
+The  number  zero (as in the "zero brothers" example above) is not the same as the  numeral  or  digit  zero, used in  numeral system s using  positional notation . Successive positions of digits have higher values, so the digit zero is used to skip a position and give appropriate value to the preceding and following digits. A zero digit is not always necessary in a different positional number system. Something called  bijective numeration  is a possible example of a system without zeroes.
+
+  The numerical digit zero  
+ 0  ( zero ) is also used as a  numerical digit  used to represent that number in  numeral s. It is used to hold the place of that digit, because correct placing of digits affects a numeral's value.
+
+Examples:
+  In the numeral 10, which stands for one times ten and zero units (or ones).
+  In the numeral 100, which stands for one times a hundred plus zero tens plus zero units.
+
+  Telling zero and the letter O apart  
+
+ File:Zero o comparison.svg right|A comparison of the letter O and the number 0 
+The number 0 and the letter O are both round, so what is the difference? The difference is important on a computer. For one thing, a computer will not do arithmetic with the letter O, because it does not know that it should have been a zero.
+
+The oval-shaped zero and circular letter  O  came into use together on modern character displays. The zero with a dot in the centre seems to have begun as a choice on IBM 3270 controllers (this has the problem that it looks like the  Greek alphabet Greek letter   Theta (letter) theta ). The slashed zero, looking like the letter O with a diagonal line drawn inside it, is used in old-style ASCII graphic sets that came from the default typewheel on the well-known ASR-33 Teletype. This format causes problems because it looks like the symbol  math \emptyset math , representing the  empty set , as well as for certain Scandinavian languages which use O as a letter.
+ 
+The rule which has the letter O with a slash and the zero without was used at IBM and a few other early mainframe makers; this is even more of a problem for  Scandinavia ns because it looks like two of their letters at the same time. Some Burroughs/Unisys computers display a zero with a backwards slash. And yet another convention common on early line  computer printer printers  left zero without any extra dots or slashes but added a tail or hook to the letter O so that it resembled an inverted  Q  or cursive capital letter O.
+
+ File:Deutsches Kfz-Kennzeichen fur Behordenfahrzeuge (Nummernbereich 3).jpg thumbnail|right|A German licence plate showing zeroes 
+The letters used on some European number plates for  automobile cars  make the two symbols look different. This is done by making the zero rather egg-shaped and the O more circular, but most of all by cutting open the zero on the upper right side, so the circle is not closed any more (as in  :Image:Deutsches Kfz-Kennzeichen fur Behordenfahrzeuge (Nummernbereich 3).jpg German plates ). The style of letters chosen is called  :Image:FE-Schrift.svg falschungserschwerende Schrift  (abbr.:  FE Schrift ), meaning "script which is harder to falsify". But those used in the  United Kingdom  do not make the letter o and the number 0 look different from each other, because there can never be any mistake if the letters are correctly spaced.
+
+In paper writing you do not have to make the 0 and O look different at all. Or you may add a slash across the zero in order to show the difference, although this sometimes causes mistakes in the number 0.
+
+ Zeroes of a function   
+Functions are explained in the  Function (mathematics)  article. If the function  f ( x ) = 0, then  x  is called a zero of the function  f . For example, if the function  f ( x ) is  x sup 2 sup  - 1, then the zeroes of the function are +1 and -1, because  f (+1) = (+1) sup 2 sup  - 1 = 0, and  f (-1) = (-1) sup 2 sup  - 1 = 0.
+
+Zeroes of a function are used because they are another way to talk about solving an  equation , which is a main goal in  algebra . If we want to solve an equation like  x sup 2 sup  = 1, then we can subtract the right-hand side of the equation from both sides, in this case 1. Whatever we get on the left-hand side, in this case  x sup 2 sup  - 1, can be called a function   f (x). The right-hand side has to be zero, because we subtracted it from itself. So  f (x) = 0. Finding the zeroes of this function is the same as solving this equation. In the paragraph before, the zeroes of this function are +1 and -1, so they are the solutions of this equation. We got this equation by subtracting the same thing from both sides, so we also have solutions to the equation we started with, in this case  x sup 2 sup  = 1. So if we could find zeroes of functions, we could solve any equation.
+
+  Related pages  
+   Number theory 
+   Division by zero 
+
+  References  
+ reflist 
+  Barrow, John D. (2001)  The Book of Nothing , Vintage. ISBN 0-09-928845-1.
+  Diehl, Richard A. (2004)  The Olmecs: America's First Civilization , Thames & Hudson, London.
+  Ifrah, Georges (2000)  The Universal History of Numbers: From Prehistory to the Invention of the Computer , Wiley. ISBN 0-471-39340-1.
+  Kaplan, Robert (2000)  The Nothing That Is: A Natural History of Zero , Oxford: Oxford University Press.
+  Seife, Charles (2000)  Zero: The Biography of a Dangerous Idea , Penguin USA (Paper). ISBN 0-14-029647-6.
+  Tapan Kumar Das Gupta: "Der Ursprung des neuzeitlichen Zahlensystems - Entstehung und Verbreitung." Norderstedt 2013. ISBN 978-3-7322-4809-4.
+
+  Other websites  
+   http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Zero.html A History of Zero 
+   http://home.ubalt.edu/ntsbarsh/zero/ZERO.HTM Zero Saga 
+   http://www.neo-tech.com/zero/part6.html The Discovery of the Zero 
+   http://www.ucs.louisiana.edu/~sxw8045/history.htm The History of Algebra 
+   http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF Why numbering should start at zero  by Edsger Dijkstra
+   http://www.purl.org/stefan_ram/pub/zero Numbering Starts with Zero  same topic as Dijkstra's article, including some more aspects
+   http://www.amiright.com/parody/70s/davidbowie59.shtml "Zeroes"  Song parody
+   http://www.schoolhouserock.tv/My.html "My Hero Zero"  Educational children's song
+
+ Category:Integers

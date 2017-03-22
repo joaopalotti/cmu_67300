@@ -1,0 +1,133 @@
+Senegal
+
+Infobox country
+  conventional_long_name   Republic of Senegal
+  native_name    native name fr Republique du Senegal fontsize 68% 
+  common_name   Senegal
+  image_flag   Flag of Senegal.svg
+  image_coat   Coat of arms of Senegal.svg
+  image_map   Location Senegal AU Africa.svg
+ map_caption    map caption countryprefix location_color dark blue region Africa region_color dark grey subregion the  African Union subregion_color light blue 
+  image_map2   Senegal - Location Map (2011) - SEN - UNOCHA.svg
+  national_motto    native phrase fr "Un Peuple, Un But, Une Foi" italics off br small "One People, One Goal, One Faith" 
+  national_anthem    nowrap Pincez Tous vos Koras, Frappez les Balafons br small Everyone strum your  Kora (instrument) kora s, strike the  balafon s 
+  official_languages   French
+  languages_type    nobold Recognised regional languages ref "La langue officielle de la Republique du Senegal est le Francais. Les langues nationales sont le Diola, le Malinke, le Pulaar, le Serere, le Soninke, le Wolof et toute autre langue nationale qui sera codifiee."  http://www.gouv.sn/textes/const_detail.cfm?numero=TITREPREMIER Official website of the Senegalese government ref 
+  regional_languages    hlist  Wolof language Wolof   Soninke language Soninke   Serer language Serer   Fula language Fula   Maninka language Maninka   Jola languages Jola 
+  ethnic_groups  
+  unbulleted list
+    43.3%  Wolof people Wolof 
+    23.8%  Fula people Fula 
+    14.7%  Serer people Serer 
+     3.7%  Jola people Jola 
+     3.0%  Mandinka people Mandinka 
+     1.1%  Soninke people Soninke 
+     nowrap 1.0%  White Africans of European ancestry European \ Lebanese people Lebanese 
+     9.4% others
+  
+  ethnic_groups_year   
+  demonym   Senegalese
+  capital    Dakar 
+  latd 14  latm 40  latNS N  longd 17  longm 25  longEW W
+  largest_city   capital
+  government_type    nowrap Semi-presidential system Semi-presidential republic 
+  leader_title1    List of Presidents of Senegal President 
+  leader_name1    Macky Sall 
+  leader_title2    Prime Minister of Senegal Prime Minister 
+  leader_name2    Mohammed Dionne 
+  legislature    Parliament of Senegal Parliament 
+  upper_house    Senate (Senegal) Senate  (disbanded)
+  lower_house    National Assembly (Senegal) National Assembly 
+  area_rank   87th
+  area_magnitude  
+  area_km2   196,712
+  area_sq_mi   76,000
+  percent_water   2.1
+  population_estimate   13,567,338
+  population_estimate_rank   67th
+  population_estimate_year   2013
+  population_census   13,508,715
+  population_census_year   2013
+  population_density_km2   68.7
+  population_density_sq_mi   177.7
+  population_density_rank    134th
+  GDP_PPP   $26.574 billion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=36&pr.y=16&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=722&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Senegal  publisher International Monetary Fund  accessdate 17 April 2013 ref 
+  GDP_PPP_rank  
+  GDP_PPP_year   2012
+  GDP_PPP_per_capita   $2,026 ref name imf2 
+  GDP_PPP_per_capita_rank  
+  GDP_nominal_rank  
+  GDP_nominal   $13.864 billion ref name imf2 
+  GDP_nominal_year   2012
+  GDP_nominal_per_capita   $1,057 ref name imf2 
+  GDP_nominal_per_capita_rank  
+  sovereignty_type    History of Senegal Independence 
+  established_event1   from France sup a sup 
+  established_date1   20 June 1960
+  established_event2   Withdrawal from br the  Mali Federation 
+  established_date2   20 August 1960
+  Gini_year   2011
+  Gini_change     
+  Gini   40.3  
+  Gini_ref  ref name wb-gini cite web  url http://data.worldbank.org/indicator/SI.POV.GINI/   title Gini Index  publisher World Bank  accessdate 2 March 2011 ref 
+ Gini_rank  
+  HDI_year   2013 
+  HDI_change   decrease 
+  HDI   0.485  
+ HDI_ref    ref name HDI cite web  url http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf   title 2014 Human Development Report Summary  date 2014  accessdate 27 July 2014  publisher United Nations Development Programme   pages 21-25 ref 
+  HDI_rank   163rd
+  currency    West African CFA franc CFA franc 
+  currency_code   XOF
+  country_code  
+  time_zone    Coordinated Universal Time UTC 
+  utc_offset  
+  time_zone_DST     utc_offset_DST  
+  drives_on   right
+  calling_code    +221 
+  cctld    .sn 
+  footnote_a   With  French Sudan , as the  Mali Federation .
+ 
+The  Republic of Senegal  ( French language French   Republique da Senegal ) is a country in  West Africa . The capital is  Dakar . 
+Senegal covers a land area of almost 197,000 square kilometres. It has population of about 13 million. The climate is tropical with two seasons: the dry season and the rainy cold  season . Senegal was given independence by  France  in 1960.
+
+Major industries are fish processing, phosphate mining, fertilizer production, petroleum refining, construction materials, ship construction and repair. Peanuts, sugarcane, cotton, green beans, industrial tomato, cherry tomato, melon, and mango are important cash crops.
+
+French is the official language. Since April 2012 Senegal's president has been  Macky Sall .
+
+ History 
+In the  15th century ,  Portugal Portuguese  people came to  Goree Island  off the coast of  Dakar . In the  17th century ,  France French  people and  Netherlands Dutch  people came there, too. These European countries used the island as a trading post in  slave s from the mainland, controlled by the  Muslim   Wolof  Empires. Slavery was later made illegal by France, but soon after, around 1850, the French started to conquer the Wolof. By  1902  Senegal was a part of the French  colony   French West Africa .
+
+In January 1959, Senegal and the  French Sudan  became one to form the  Mali Federation , which became fully independent on June 20, 1960, as a result of the independence and transfer of power agreement signed with France on April 4, 1960. This did not last long and Senegal and  Mali  broke apart into separate nations. Between 1982 and 1989 Senegal and  The Gambia  joined together to make  Senegambia .
+
+ Geography 
+In the north of Senegal is the  Senegal River . To the north of the river is  Mauritania . The nation borders  Mali  in the east,  Guinea-Bissau  in the south, and  Guinea  in the south-east.  The Gambia  is another country inside of Senegal, along the  Gambia River . It is about 300 km long.
+
+The north of Senegal is part of the  Sahel . The highest mountain is 581 m high. The rainy season is between  June  and  October . The average temperature on the coast is about 24deg C, and inland about 27deg C.
+
+ Regions 
+
+   Dakar Region Dakar 
+   Diourbel Region Diourbel 
+   Fatick Region Fatick 
+   Kaffrine Region Kaffrine 
+   Kaolack Region Kaolack 
+   Kedougou Region Kedougou 
+   Kolda Region Kolda 
+   Louga Region Louga 
+   Matam Region Matam 
+   Saint-Louis Region Saint-Louis 
+   Sedhiou Region Sedhiou 
+   Tambacounda Region Tambacounda 
+   Thies Region Thies 
+   Ziguinchor Region Ziguinchor 
+
+
+ References 
+ reflist 
+
+ commonscat 
+ Africa 
+
+ Category:Senegal   
+ Category:French-speaking countries 
+ Category:Least developed countries

@@ -1,0 +1,60 @@
+Help:User settings
+
+div style background-color:#DDDEFF; font-color: #000000; border:1px solid #4040FF; padding:10px; line-height: 1.5 
+You can set your preferences by clicking on  my settings  link on the top of Wikipedia pages. The settings page has several  tabs  which are discussed below.
+
+ User profile 
+
+ Username: Shows your Wikipedia username to you. This is the username you chose when you signed up for Wikipedia. A  WP:ADMIN bureaucrat  can change your username if you have acceptable reasons for that.
+ User ID: Shows your user identification number. Your user ID never changes.
+ England E -mail: You may save your e-mail address in Wikipedia settings. This can help you if you forget your password; you can request a new password to be sent to this e-mail address.
+ Note : There is a checkbox on the bottom of the page with this text:  Enable e-mail from other users . If you check it, a confirmation e-mail will be sent to you e-mail address. You can follow the instructions in that e-mail, to activate your e-mail address on Wikipedia, and let other users contact you by e-mail.
+ Nickname: You can choose a nickname for yourself. When you sign your comments (by adding  nowiki ~~~~ nowiki  to the end of your comment) and save the page, it is automatically replaced with your nickname.
+ Raw signature: If you keep this box unchecked, your nickname is used in your signatures, and it will contain a link to your user page. If you check this box, however, your signature will not contain a link to your user page.
+ Language: You can choose the language of the user interface of the Wikipedia.
+ Change password: Use this section only when you want to change your password.
+
+ Skin 
+
+Skins define the way Wikipedia is shown to you. The default skin is named MonoBook. Other skins use different colors for different parts of the pages.
+
+ Math 
+
+Wikipedia is capable of showing complex mathematical formulas. You can choose the way Wikipedia should show these formulas to you.
+
+ File 
+
+You can define the size of images shown to you on image description pages. The size of images in the articles is not affected by this option.
+
+You can also define the size of thumbnail images for yourself. Many articles contain thumbnailed images. Thumbnail images are shown in a small size; you can click on them to see the in full size.
+
+ Date and time 
+
+You can select the date format you prefer. Also, you can set the time offset of your country from  UTC  (which is the default time setting for Wikipedia.)
+
+ Editing 
+
+You can set the size of editbox by changing the value of its  rows  and  columns . You can enable section editing, and set many other options related to the way you prefer to edit pages, in this tab.
+
+ Recent Changes 
+
+You can choose the number of days shown in recent changes, the number of edits shown on this page, and select if you want the recent changes page to hide  WP:MINOR minor edits .
+
+ Watchlist 
+
+You can change the number of days shown in your watchlist. You can choose to expand the watchlist, and select the maximum number of edits shown on an expanded watchlist. There are other options which you can use to watch pages more easily.
+
+ Search 
+
+You can set the number of results shown in each page of search results, and you can choose the format of each search result. You can choose the default  WP:NS namespaces  you want to search in Wikipedia.
+
+ Misc 
+ You can choose if broken links should be shown as red links or as non-linked text.
+ You can decide if the paragraphs should be justified to the span of your browser window.
+ You can choose if headings should be auto-numbered or not.
+ You can tell Wikipedia to show a "table of contents" near the top of every artcile.
+ You can disable page caching, so you can see the latest version of each page without needing to refresh the page. Choosing this option increases the load on Wikipedia servers.
+ You may select some other options which help you use Wikipedia in a better way.
+ div 
+
+ Category:Help

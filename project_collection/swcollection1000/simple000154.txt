@@ -1,0 +1,44 @@
+Chemical element
+
+File:Sulfur.jpg thumb|The element  Sulphur  has a  crystal line structure 
+ File:Brom amp.jpg thumb| Bromine  is one of only two elements that are liquid, at 25degC. The other is  Mercury (element) Mercury ref name ryan 
+
+A  chemical element  is a  substance  that contains only one type of  atom .  If a substance contains more than one type of atom, it is a  chemical compound compound . An element can be a solid, liquid or gas. The smallest  particle  of such an element is an  atom . Atoms are made up of  protons ,  neutron s, and  electron s.
+
+Each element contains only one kind of atom. ref name brand  The number of protons in an atom is called the  atomic number . For example, all atoms with 6 protons are of the chemical element  carbon , and all atoms with 92 protons are of the element  uranium .
+
+The number of protons in the nucleus causes its  electric charge . This fixes the number of  electrons  in its normal ( ionization unionized)  state. The electrons in their  atomic orbitals  determine the atom's various  chemical properties . 
+
+Elements are the basic building blocks for all types of substances. When they are combined with each other, they can form  molecules .
+
+118 different chemical elements are known to modern  chemistry . 92 of these elements can be found in  nature , ref name ryan cite book author Ryan, Lawrie title Chemistry for You: National Curriculum Edition for GCSE edition 2 publisher Nelson Thornes isbn 9780748762347 date 2001 ref  and the others can only be made in  laboratory laboratories . The human body is made up of 26 elements. ref name ryan  The last natural element discovered was uranium, in 1789. ref name sl2 cite book last Devlin first Jacinta coauthors Cochrane, Helen others Coffey, Rhonda title Science Links 2  publisher Heinemann date 2005 edition VELS Edition pages 5 chapter 1 isbn I740815203 accessdate 16 December 2009 language English ref ref name ce.com cite web url http://www.chemicalelements.com/elements/u.html title Periodic Table: Uranium publisher Chemical Elements.com accessdate 2011-03-22 ref  The first man-made element was  Technetium , in 1937.
+
+Chemical elements are commonly arranged in the  periodic table . Where the elements are on the table tells us about their properties relative to the other elements.
+
+ Chemical symbols 
+Chemical elements are also given a unique  chemical symbol . Chemical symbols are used all over the world. This means that, no matter which language is spoken, there is no confusion about what the symbol means. ref name BBC  Chemical symbols of elements come from their English or Latin names. For example,  carbon  has the chemical symbol 'C', and  sodium  has chemical symbol 'Na', after the Latin  natrium .  Tungsten  is called 'W' after its German name,  wolfram . ref name sl2 ref name BBC cite web url http://www.bbc.co.uk/schools/ks3bitesize/science/chemical_material_behaviour/atoms_elements/revise3.shtml title BBC Bitesize: Science: Chemical and material behaviour: Atoms and elements: Chemical symbols page 3 publisher BBC accessdate 2011-03-23 ref  'Au' is the symbol for gold and it comes from the Latin word for gold,  aurum . ref name brand cite book author1 Brand, Ian author2 Grime, Richard title Longman Chemistry 11-14 date 2002 publisher Pearson Education isbn 9780582447554 ref ref name cd cite book author Kidd, D. A. title Collins Pocket Latin Dictionary publisher Collins date 2008 isbn 9780007263745 ref  Another symbol which comes from Latin is 'Ag'. This is the element  silver  and it comes from the Latin  argentum . ref name cd   Lead 's symbol, 'Pb', comes from the Latin  plumbum ref name cd  and the English word  Plumbing plumber  derives from this as pipes used to be made out of lead. ref name ryan  Some more recently discovered elements were named after famous people, like  einsteinium , which was named after  Albert Einstein . ref name sl2 
+
+ Compounds 
+Elements can join (react) to form pure  Chemical compound compounds  (such as  water ,  salt s,  oxide s, and  organic compound s). In many cases, these compounds have a fixed composition and their own  structure  and  property properties . The properties of the compound may be very different from the elements it is made from.  Sodium  is a  metal  that burns when put into water and  chlorine  is a poisonous gas. When they react together they make  sodium chloride  ( salt ) which is harmless and edible.
+
+ Mixtures 
+Some elements mix together in any  proportion  to form new structures. Such new structures are not compounds. They are called  mixture s or, when the elements are metals,  alloy s.
+
+ Isotopes 
+Most elements in nature consist of atoms with different numbers of neutrons. ref name salters cite book page 17 editor1 Otter, Chris editor2 Stephenson, Kay title Salters Advanced Chemistry: Chemical Ideas publisher Heinemann date 2008 edition Third isbn 978-0-435631-49-9 ref  An  isotope  is a form of an element with a certain number of neutrons. For example, carbon has two stable, naturally occurring isotopes:  carbon-12  (6 neutrons) and  carbon-13  (7 neutrons).  Carbon-14  (8 neutrons) is a naturally occurring radioactive isotope of carbon. Of each element, except for  Ununoctium , at least two isotopes are known.
+
+  Classification  
+Elements can be classified based on  States of matter physical states . At room temperature and pressure, most elements are  solid s, only 11 are  gas es and 2 are  liquid s.
+
+Elements can also be classified into  metal s and  non-metal s. There are many more metals than non-metals.
+
+However, a few elements have properties in between those of metals and non-metals. These elements are called  semimetal s (or metalloids).
+
+ Related pages 
+   Periodic table 
+
+  References  
+ reflist 
+
+ Category:Chemical elements   
+ Category:Nuclear physics

@@ -1,0 +1,466 @@
+Chess
+
+good 
+ File:ChessStartingPosition.jpg right|250px|thumb|A chess set in the  array , or starting position. 
+ File:Chessclock.svg right|200px|thumb| In a competitive game, a clock is used. Each player has an equal overall time for the game, and decides how best to use the time given. 
+ File:Schaakklok.jpg right|200px|thumb|This is a modern digital clock 
+ File:Viswanathan Anand 08 14 2005.jpg thumb|right|230px| List of World Chess Champions#Undisputed world champions 2006-present Former world champion   Viswanathan Anand 
+ File:Alfonso X Libro F64R.jpg thumb|right|230px| Libro de los juegos , Alfonso X of  Kingdom of Castile Castile , showing Muslim playing Christian. 
+
+ Chess  is a  board game  for two players. ref Abate, Frank R. (ed) 1997.  The Oxford desk dictionary and thesaurus . ISBN 0-19-511214-8 ref  It is played on a  Square (geometry) square   Board (wood) board , made of 64 smaller squares, with eight squares on each side. Each player starts with sixteen  Chess piece pieces : eight  Pawn (chess) pawns , two  Knight (chess) knights , two  Bishop (chess) bishops , two  Rook (chess) rooks , one  queen (chess) queen  and one  King (chess) king . ref name macmillan Costello, Robert E.  et al.  (eds) 2001.  Macmillan dictionary for children . Simon & Schuster, New York. ISBN 0-689-84323-2 ref  The goal of the game is for each player to try and  checkmate  the king of the opponent. Checkmate is a threat ('check') to the opposing king which no move can stop. It ends the game. ref name Kingfisher Paton, John  et al.  (eds)1992.  The Kingfisher children's encyclopedia . Kingfisher Books, New York. ISBN 1-85697-800-1 ref ref name Laws 
+
+During the game the two opponents take turns to move one of their pieces to a different square of the board. One player ('White') has pieces of a light  color ; the other player ('Black') has pieces of a dark color. There are rules about how pieces move, and about taking the opponent's pieces off the board. The player with white pieces always makes the first move. ref name Laws  Because of this, White has a  First-move advantage small advantage , and wins more often than Black in tournament games. ref name chessgames.com Chessgames  cite web   url http://www.chessgames.com/perl/explorer    title Chess Opening Explorer   accessdate 2010-05-25   publisher Chessgames.com ref ref cite book   author Rowson, Jonathan   title Chess for Zebras: thinking differently about black and white   publisher Gambit Publications   year 2005   isbn 1-901983-85-4   page 193  ref  
+
+Chess is popular and is often played in competitions called  chess tournament s. It is enjoyed in many countries, and is a  nation al hobby in  Russia . ref cite book  title  Family flip quiz: Geography last  Gifford first  Clive authorlink   coauthors  Lisa Clayden year  2002 publisher  Miles Kelly  location  Great Bardfield, Essex, CM7 4SL isbn  1-84236-146-5 pages   url   ref 
+
+  History  
+ main History of chess 
+ File:UigChessKing rightfront.jpg thumb|left|200px|A king from the  Isle of Lewis  chessmen (c12th C.  British Museum ) 
+Most  historian s agree that the game of chess was first played in northern  India  during the  Gupta Empire  in the  6th century   small AD small . ref name Murray cite book   author Murray H.J.R.   title A history of chess   publisher Benjamin Press (first published by Oxford University Press)   year 1913   isbn 0-936317-01-9   oclc 13472872 ref ref name H/W  This early type of chess was known as  Chaturanga , a  Sanskrit  word for the  military . The Gupta chess pieces were divided like their military into the  infantry ,  cavalry ,  elephant s, and  chariot s. In time, these pieces became the pawn, knight, bishop, and rook. The English words  chess  and  check  both come from the  Persian language Persian  word  shah  meaning king. ref name Murray   
+
+The earliest written  evidence  of chess is found in three  Epic poetry romances  (epic stories) written in  Sassanid   Persia  around 600 small AD small . The game was known as  chatrang  or  shatranj . When Persia was taken over by  Muslim s (633-644) the game was spread to all parts of the Muslim world. Muslim  trade rs carried the game to  Russia  and to  Western Europe . By the year 1000 it had spread all over Europe. In the 13th century a  Spanish (language) Spanish   manuscript  called  Libro de los Juegos  describes the games of  shatranj  (chess),  backgammon , and  dice . ref Audubert, Pierre 1978.  Das spanische Schachbuch des Konigs Alfons des Weisen vom Jahr 1283 . Idion, Munchen. ref 
+
+The game changed greatly between about 1470 to 1495. The rules of the older game were changed in the West so that some of the pieces (queen, bishop) had more scope, development of the pieces was faster, and the game more exciting. The new game formed the basis of modern international chess. Historians of chess consider this as the most important change since the game was invented. ref name Murray ref Eales, Richard. 1983.  Chess: the history of a game . Batsford, London. ref 
+
+  Rules  
+The rules of chess are governed by the  FIDE World Chess Federation , which is known by the initials FIDE, meaning  Federation Internationale des Echecs . The rules are in the section  Laws of Chess  of the  FIDE Handbook . FIDE also give rules and guidelines for  chess tournament s. ref name Laws cite web  url http://www.fide.com/info/handbook?id=32&view=category  title Laws of Chess  accessdate 2008-11-26  publisher FIDE ref ref name Reuben Reuben, Stewart 2005.  The chess organiser's handbook . 3rd ed, incorporating the FIDE Laws of Chess. Harding Simpole, Devon. ref  
+
+  Setup  
+Chess is played on a  square (geometry) square  board divided into  eight  rows of squares called  List of chess terms#R ranks  and eight columns called  List of chess terms#F files , with a dark square in each player's lower left corner. ref name Chesslab Cite web
+  url   http://www.chesslab.com/rules/chessbasics.html 
+  title Chess  wikt:basic Basics 
+  work chesslab.com
+  accessdate 1 April 2010
+ ref  This is altogether 64 squares. The colors of the squares are laid out in a checker (chequer) pattern in light and dark squares. To make speaking and writing about chess easy, each square has a name. Each rank has a number from 1 to 8, and each file a letter from  a  to  h . This means that every square on the board has its own label, such as g1 or f5. The pieces are in  white  and  black  sets. The players are called White and Black, and at the start of a game each player has 16 pieces. The 16 pieces are one king, one queen, two rooks, two bishops, two knights and eight pawns. ref name Laws 
+
+  Movement  
+ 
+Definitions: vertical lines are  files ; horizontal lines are  ranks ; lines at 45deg are  diagonal s .
+Each piece has its own way of moving around the board. The  X  marks the squares where the piece can move. 
+  The knight is the only piece that can jump over another piece.
+  No piece may move to a square occupied by a piece of the same color.
+  All pieces capture the same way they move, except pawns.
+
+ Chess diagram small
+  tleft
+  Moves of the king
+ 
+ 8  __ __ __ __ __ __ __ __ 
+ 7  __ __ __ __ __ __ __ __ 
+ 6  __ __ __ __ xx xx xx __ 
+ 5  __ __ __ __ xx kl xx __ 
+ 4  __ __ __ __ xx xx xx __ 
+ 3  __ __ __ __ __ __ __ __ 
+ 2  __ __ __ __ __ __ __ __ 
+ 1  __ __ __ __ __ __ __ __ 
+ a b c d e f g h
+ 
+ 
+
+ Chess diagram small
+  tleft
+  Moves of the rook
+ 
+ 8  __ __ __ xx __ __ __ __ 
+ 7  __ __ __ xx __ __ __ __ 
+ 6  __ __ __ xx __ __ __ __ 
+ 5  xx xx xx rd xx xx xx xx 
+ 4  __ __ __ xx __ __ __ __ 
+ 3  __ __ __ xx __ __ __ __ 
+ 2  __ __ __ xx __ __ __ __ 
+ 1  __ __ __ xx __ __ __ __ 
+ a b c d e f g h
+ 
+ 
+
+ Chess diagram small
+  tleft
+  Moves of the bishop
+ 
+ 8  xx __ __ __ __ __ xx __ 
+ 7  __ xx __ __ __ xx __ __ 
+ 6  __ __ xx __ xx __ __ __ 
+ 5  __ __ __ bl __ __ __ __ 
+ 4  __ __ xx __ xx __ __ __ 
+ 3  __ xx __ __ __ xx __ __ 
+ 2  xx __ __ __ __ __ xx __ 
+ 1  __ __ __ __ __ __ __ xx 
+ a b c d e f g h
+ 
+ 
+
+ Chess diagram small
+  tleft
+  Moves of the queen
+ 
+ 8  __ __ __ xx __ __ __ xx 
+ 7  xx __ __ xx __ __ xx __ 
+ 6  __ xx __ xx __ xx __ __ 
+ 5  __ __ xx xx xx __ __ __ 
+ 4  xx xx xx qd xx xx xx xx 
+ 3  __ __ xx xx xx __ __ __ 
+ 2  __ xx __ xx __ xx __ __ 
+ 1  xx __ __ xx __ __ xx __ 
+ a b c d e f g h
+ 
+ 
+
+ Chess diagram small
+  tleft
+  Moves of the knight
+ 
+ 8  __ __ __ __ __ __ __ __ 
+ 7  __ __ __ __ __ __ __ __ 
+ 6  __ __ xx __ xx __ __ __ 
+ 5  __ xx __ __ __ xx __ __ 
+ 4  __ __ __ nd __ __ __ __ 
+ 3  __ xx __ __ __ xx __ __ 
+ 2  __ __ xx __ xx __ __ __ 
+ 1  __ __ __ __ __ __ __ __ 
+ a b c d e f g h
+ 
+ 
+
+ Chess diagram small
+  tleft
+  Moves of the pawn
+ 
+ 8  __ __ __ oo xx oo __ __ 
+ 7  __ __ __ __ pl __ __ __ 
+ 6  __ __ __ __ __ __ __ __ 
+ 5  oo xx oo __ __ __ __ __ 
+ 4  __ pl __ __ __ xx __ __ 
+ 3  __ __ __ __ oo xx oo __ 
+ 2  __ __ __ __ __ pl __ __ 
+ 1  __ __ __ __ __ __ __ __ 
+ a b c d e f g h
+ 
+ 
+ Clear  
+
+  The  king' s move is one square in any direction. The king (K for short) may not move to any square where it is  threatened  by an opposing piece. However, the king can move to a square that is  occupied  by an opponent's piece and capture the piece, taking it off the board.
+  The  queen  (Q) can move any distance in any direction on the ranks, files and diagonals.
+  The  rooks  (R) move any distance on the  ranks  or  files . ref name Laws 
+  The  bishops  (B) move diagonally on the board. Since a bishop can only move diagonally, it will always be on the same color square. ref Cite web
+  url   http://www.gamesinfodepot.com/games/board/chess/moves/ 
+  title Chess Moves - How chess pieces move - chess piece movements
+  work gamesinfodepot.com
+  accessdate 1 April 2010
+ ref 
+  The  knights  (Kt or N) move in an "L" shape. Each move must be either two squares along a rank and one square along a file, or two squares along a file and one square along a rank. It is the only piece that can jump over other pieces. Like the other pieces, it captures an opposing piece by landing on its square.
+  The  pawns  can only move up the board. On its first move a pawn may move either one or two squares forward. A pawn captures one square diagonally, not as it moves: see white circles on its diagram. Besides, in some situations pawns can capture opponent's pawns in a special way called  en passant , which means  in passing  in  French (language) French  (see below). ref name Laws 
+
+  Capturing  
+Most pieces capture as they move. If a piece lands on an opponent's piece, the opposing piece is taken off the board. There are three special cases:
+ The king cannot be taken (see check and checkmate).
+ No piece can be taken while  castling  (see below).
+ Pawns take one square diagonally.
+
+  Check and checkmate  
+ main Check and checkmate 
+ File:Checkmate.jpg thumb|An example of checkmate|right 
+If a move is made which attacks the opposing king, that king is said to be 'in check'. The player whose king is checked must make a move to remove the check. The options are: moving the king, capturing the threatening piece, or moving another piece between the threatening piece and the king. ref Cite web
+  url   http://www.chesscentral.com/Chess_/Checkmate_EndGame_Challenges_a/260.htm 
+  title Checkmate in Chess
+  work chesscentral.com
+  accessdate 1 April 2010
+ ref  If the player whose king is in danger cannot do any of these things, it is  checkmate , and the player loses the game. ref name Laws 
+
+  Special moves  
+  Castling  
+ File:ChessCastlingMovie.gif thumb|250px|left|A chess castling move 
+Once in every game, each king can make a special move, known as  castling . When the King castles, it moves two squares to the left or right. When this happens, the Rook is moved to stand on the opposite side of the King. ref Cite web
+  url   http://www.chesscorner.com/tutorial/basic/castling/castle.htm 
+  title Castling, by Chess Corner
+  work chesscorner.com
+  publisher chess corner
+  accessdate 1 April 2010
+ ref  Castling is only allowed if all of these rules are kept: ref name Reuben sup p120 sup 
+ clear 
+   Neither piece doing the castling may have been moved during the game .
+  There must be no pieces between the king and the rook.
+  The king may not be currently in  Check (chess) check , nor may the king pass through any square attacked by the opponent. As with any move, castling is not allowed if it would place the king in check. ref name Laws 
+
+  En passant  
+ Chess diagram small
+  tright
+  En passant
+ 
+ 8  __ __ __ __ __ __ __ __ 
+ 7  __ __ __ __ __ __ __ __ 
+ 6  __ __ __ __ __    xx __ 
+ 5  __ __ __ __ __ pl pd __ 
+ 4  __ __ __ __ __ __ __ __ 
+ 3  __ __ __ __ __ __ __ __ 
+ 2  __ __ __ __ __ __ __ __ 
+ 1  __ __ __ __ __ __ __ __ 
+ a b c d e f g h
+ 
+ 
+ En passant  ('in passing' in  French (language) French ) is a special capture. It is only available when a pawn moves forward two squares past an opposing pawn on an  wikt:adjacent adjacent  file. The opposing pawn must be on the 5th rank from its own side. Then the opponent's pawn can capture the double-mover  as if it had only moved one square forward . This option is open on the next move only. ref name Laws  
+
+For example, if the black pawn has just moved up two squares from g7 to g5, then the white pawn on f5 can take it by  en passant  on g6. The  en passant  rule was developed when pawns were allowed to make their double move. The rule made it more difficult for players to avoid pawn exchanges and blockade the position. It kept the game more open.
+
+  Promotion  
+When a pawn moves to its eighth rank, it must be changed for a piece: a queen, rook, bishop, or knight of the same color (player's choice). ref Cite web  url   http://www.helium.com/items/726625-chess-tips-how-to-promote-a-pawn   title Chess tips: How to promote a pawn  author Robert Harrison  publisher helium.com   accessdate 25 May 2010 ref  Normally, the pawn is  queened , but in some advantageous cases another piece is chosen, called 'under-promotion'. ref name Laws 
+
+  Ways a game may end  
+Checkmates are rare in competitive chess. The most common ends are decisions made by one or both players.
+
+  Wins  
+   Checkmate . When a king is in check, and cannot get out of it.
+   Resignation . A player may resign at any time, usually because his/her position is hopeless. A losing player is able to resign by placing their king on its side on the chessboard.
+   Out of time . If player's clock time is over (exceeding the time control). Strictly speaking, this is not part of the rules of the game, but part of the rules of tournament and match chess where chess clocks are used. ref name Laws ref name Reuben sup Chapter 8 sup 
+
+  Draws  
+   Draw agreed . A game may end in a draw at any time if one player offers a draw and the other accepts.
+   Dead position . A position where no series of legal moves could lead to a mate (example: K+B vs K). The game is drawn. ref name Reuben sup p92 sup 
+   Stalemate . If a player cannot make a move, and the player's king is not in check, this is also a draw. This kind of draw is called a  stalemate , and is rare. ref name Laws 
+   50-move rule . A game will also end in a draw if no piece is captured and no pawn has moved after fifty moves. This is called the  fifty-move rule , and happens late in the game. ref Chess.com  cite web   last     first     authorlink     coauthors     title   Learn Chess:Check and Checkmate  work     publisher   Chess.com  date   2010  url    http://www.chess.com/learn-how-to-play-chess.html#checkmate  format     doi     accessdate  12 March 2010  ref 
+   Threefold repetition . If the exactly same position is repeated three times during a game with the same player to move each time, the player next to move may claim a draw. The game is now drawn. This is called a  draw by threefold repetition . ref Cite web
+  url   http://www.rules-of-chess.com/Chess-Rules-Draw_threefold_repetition.html 
+  title Chess Rules :: Draw threefold repetition
+  work rules-of-chess.com
+  accessdate 1 April 2010
+ ref 
+
+  Competition rules  
+The FIDE rules for competitive chess include all the above rules, plus several others. ref name Laws ref name Reuben sup p92 et seq sup 
+
+  Touch and move law  
+If players wish to adjust a piece on the board, they must first say "J'adoube" (I adjust) or the equivalent. Apart from that, if a piece is touched it must be moved if possible. This is the 'touch and move' law. ref name H/W sup p425 sup ref name Laws  If no legal move is possible with the touched piece, the player must make a legal move with another piece. sup Section 4 sup ref name Reuben sup p90 et seq sup  When a player's hand leaves a piece after moving it then the move is over and may not be changed (if the move was legal).
+
+There are a few famous cases where players appeared to break this rule without being punished. The most famous example was by the then World Champion  Garry Kasparov  against  Judit Polgar  in a top-class tournament. ref cite newspaper newspaper Los Angeles Times title Chess Highlights of 1994 last Peters first Jack date Jan.5,1995 page 27 ref ref cite newspaper newspaper The Globe and Mail location Toronto last Berry first Jonathan  authorlink title Victory boosts Karpov's rating date Mar.19,1994 page A18  Berry, himself a Fide Master and International Arbiter, describes the incident: "Mr. Kasparov picked up his knight at d7 and placed it on c5. 'Touch & move' requires a player to move a touched piece, but the move is not over until the hand leaves the piece. Seeing that 37.Bb7-c6 would be bad for Black, Mr. Kasparov instead put the knight on f8. However, the way Miss Polgar saw it, Mr. Kasparov's hand  did  leave the piece on c5. Accounts diverge from there. We do know that Spanish TV recorded the game and that there were several spectators, some of whom thought that Mr. Kasparov removed his hand from the knight at c5". ref 
+
+  Chess clocks  
+Competitive games of chess must be played with special chess  clock s which time a player only when it is his/her turn to move. The essence is that a player has to make a certain number of moves in a certain total time. After moving, the player presses a button on the clock. This stops the player's clock, and start's the opponent's clock. Usually the clocks are  wikt:mechanical mechanical , but some are  electronics electronic . ref name Laws sup Article 6 sup ref name Reuben sup p92 et seq sup  Electronic clocks can be set to various programs, and they can count moves made. ref name Reuben sup chapter 8 sup   
+
+  Notation for recording moves  
+ main Chess notation 
+ File:SCD algebraic notation.png frame|left|Algebraic chess notation 
+
+The moves of a chess game are written down by using a special  chess notation . This is compulsory for any competitive game. ref name Laws sup Article 8 & Appendix E sup  Usually  List of chess terms#A algebra ic chess notation is used. ref See paragraph E. Algebraic notation in: br cite web   url http://www.fide.com/component/handbook/?id=125&view=article    title E.I.01B. Appendices   accessdate 2008-11-26  publisher FIDE ref  In algebraic notation, each square has one and only one name (whether you are looking from White's side of the board or Black's). Here, moves are written in the format of:  wikt:initial initial  of piece moved - file where it moved - rank where it moved. For example, Qg5 means "queen moves to the g-file and 5th rank" (that is, to the square g5). If there are two pieces of the same type that can move to the same square, one more letter or number is added to show the file or rank from which the piece moved, e.g. Ngf3 means "knight from the g-file moves to the square f3". The letter P showing a pawn is not used, so that e4 means "pawn moves to the square e4".
+
+If the piece makes a capture, "x" is written before the square in which the capturing piece lands on. ref name Logicalchess Cite web  url   http://www.logicalchess.com/hcc/scholastics/tutorials/notation.html   title Chess Notation  work Roger McIntyre publisher Huntsville Chess Club  accessdate 25 May 2010 ref  Example:  Bxf3  means "bishop captures on f3". When a pawn makes a capture, the file from which the pawn left is used in place of a piece initial. For example: exd5 means "pawn captures on d5."
+
+ File:Scholars mate animation.gif frame|The "Scholar's mate" 
+
+If a pawn moves to its eighth rank, getting a promotion, the piece chosen is  Writing written  after the move, for example e1Q or e1=Q. Castling is written by the special notations 0-0 for kingside castling and 0-0-0 for queenside. A move which places the opponent's king in check normally has the notation "+" added. Checkmate can be written as # or ++. At the end of the game, 1-0 means "White won", 0-1 means "Black won" and 1/2-1/2 is a draw.
+
+In print,  List of chess terms#F figurine s  (like those in  diagram s, but smaller) are used for the pieces rather than initials. This has the advantage of being language-free, whereas the initials of pieces are different in every language. Typefaces which include figurines can be purchased by chess authors. Also, basic notes can be added by using a system of well-known  punctuation  marks and other  List of chess terms#S symbols . ref name Logicalchess  For example: ! means a good move, !! means a very good move, ? means a bad move, ?? a very bad move (sometimes called a  blunder ), !? a creative move that may be good, and ?! a doubtful move. The purpose of these methods is to make publications readable in a wider range of countries. For example, one kind of a simple "trap" known as the Scholar's mate, as in the diagram to the right, may be recorded:
+
+1. e4 e5 br 
+2. Qh5?! Nc6 br 
+3. Bc4 Nf6?? (3...Qe7 would prevent the mate, with 4...Nf6 next move) br 
+4. Qxf7# 1-0
+
+With figurines in place of the initials, this would be understood by players everywhere.
+
+  Playing arena  
+Players may not  smoking smoke  in the playing area, but only in areas designated by the organiser.  Mobile phone s may not be used or even switched on. Players may not use any sources of advice, and may not analyse on any device. These and other matters are covered by the FIDE Laws on the conduct of the players. ref name Laws sup Article 12 sup 
+
+  Stages of a game  
+Chess is an easy game to learn the moves, but a difficult game to master. Strategy is an important part of the game. First of all comes the  openings , about which a great deal is now known. The best-known move, the King's Pawn opening, is the white player moving his king's pawn on e2 forward two spaces to e4. Black can reply to that move in various ways. ref name Tarrasch 
+
+  Opening  
+ main List of chess openings 
+The first moves of a chess game are called the  opening . ref Cite web
+  url   http://www.dwheeler.com/chess-openings/ 
+  title A beginner's garden of chess openings
+  work dwheeler.com
+  accessdate 1 April 2010
+ ref ref cite web
+   url http://www.eudesign.com/chessops/ 
+   title CHESSOPS: A basic guide to chess openings 
+  work  Peter Hobbs
+   accessdate 2010-05-25
+   publisher eudesign.com
+ ref  A chess opening is a name given to a series of opening moves. Recognized patterns of opening moves are  openings  and have been given names such as the  Ruy Lopez  or  Sicilian defence . They are listed in reference works such as the  Encyclopaedia of Chess Openings . There are  dozen s of different openings. They range from  gambit s, where a pawn, say, is offered for fast development (e.g. the  King's Gambit ), to slower openings which lead to a manoeuvring type of game (e.g. the  Reti opening ). In some opening lines, the sequence thought best for both sides has been worked out to 20-30 moves, but most players avoid such lines. ref cite book   author Collins, Sam   title Understanding the chess openings   publisher Gambit Publications   year 2005   isbn 1-904600-28-X   oclc  57484838 ref  Expert players study openings throughout their chess career, as opening theory keeps on  wikt:develop developing . 
+
+The basic aims of the opening phase are: ref name Tarrasch cite book   author Tarrasch, Siegbert   title The game of chess   publisher Courier Dover Publications   year 1987   isbn 0-486-25447-X   oclc 15631832 ref 
+   Development : to place (develop) the pieces (mostly bishops and knights) on useful squares where they will have the most powerful impact on the game. ref cite web  url http://www.chessguru.net/opening/   title chessguru  publisher BBC News accessdate 7 March 2010 ref 
+   Control  of the center : the center is the most important part of the board. The player who controls the center can move his pieces around freely. His opponent, on the other hand, will find his pieces cramped, and difficult to move about.
+   King safety : keeping the king safe from danger. Castling (see section above) can often do this.
+   Pawn  structure : pawns can be used to control the center. Players try to avoid making pawn  wikt:weakness weaknesses  such as  wikt:isolate isolated ,  wikt:double doubled  or backward pawns, and pawn islands - and to force such weaknesses in the opponent's position. 
+
+Players think, and chess databases prove, ref name chessgames.com  that White, by  virtue  of the first move, begins the game with a better chance. Black normally tries to equalise, or to get some counterplay.
+
+  Middlegame  
+ main Middlegame 
+The middlegame is the part of the game after most pieces have been developed. It is where most games are won and lost. Many games will end in resignation even before an endgame takes place. ref name H/W Hooper D. and Whyld K. 1992.  The Oxford companion to chess . 2nd ed, Oxford University Press. ref 
+
+A middlegame position has a structure. That structure is determined by the opening. The simplest way to learn the middlegame is to select an opening and learn it well (see examples in  English opening  and  French defence ). 
+
+These are some things to look for when looking at a middlegame position:
+   Material : changes in the balance of material are critical. To lose a piece for nothing is enough to lose a game. If the players are evenly matched, then a rough material balance of pieces is normal. Material balance is often quite static: it does not change for many moves.
+ Development : the opening may have left one player with a lead in development. That player has the initiative, and may attack before the opponent can get his pieces out. It is a temporary asset: if a lead in development is not used effectively, it will disappear.
+ The centre : in the centre pieces have their greatest effect, and some (such as the knight) attack more squares in the centre than at the sides. The player who controls the centre will almost always have the advantage.
+ Mobility : a position is mobile if the pieces can get where they need to. Almost all middle game positions have some limitations to mobility. Look for open files for the rooks, and open diagonals for the bishops. Outposts are what knights need, places where they can not easily be dislodged.
+ King safety : where is the king? Ideally, a king should be castled, and kept behind a screen of pawns. Many other things may happen in practice. If a king is weak, it may be put under direct attack.
+ Pawns : they provide the skeleton of a position. They move slowly, and may become blocked for many moves. Everything takes place round the pawns. Different openings produce different pawn structures. In this way openings influence the whole game ( Philidor : "Pawns are the soul of chess").
+
+ Chess diagram small
+  tleft
+  King's Indian, main line
+ 
+ 8  rd nd bd qd __ rd kd __ 
+ 7  pd pd pd __ nd pd bd pd 
+ 6  __ __ __ pd __ __ pd __ 
+ 5  __ __ __ pl pd __ __ nd 
+ 4  __ pl pl __ pl __ __ __ 
+ 3  __ __ nl __ __ nl __ __ 
+ 2  pl __ __ __ bl pl pl pl 
+ 1  rl __ bl ql __ rl kl __ 
+ a b c d e f g h
+ 
+ 
+
+Here is an example from the borderline between opening and middlegame. In the diagram to the left, White will operate mainly on the Q-side, and Black on the K-side. 
+
+White, to play, may wish to cope with Black playing 10...Nf4. He can do this by playing 10.g3, or by playing 10.Re1 so that if 10...Nf4 11.Bf1 will preserve the bishop (in this position an important defensive piece). Or maybe White will plough ahead with 10.c5, the key move on the Q-side.
+
+ ChessBase  shows that the number of tournament games with these choices were:
+
+ 10.Re1 2198
+ 10.g3  419
+ 10.c5  416
+
+The data base also shows that the overall results were significantly better for 10.Re1. What the player does is note the features on the board, and formulate a plan which takes the features into account. Then the player works out a sequence of moves. Of course, in practice, the opponent is interfering with the plan at every step!
+
+  Endgame  
+The endgame (or  end game  or  ending ) is the part of the game when there are few pieces left on the board. There are three main  strategy strategic  differences between earlier parts of the game and endgame:
+
+ Pawns : during the endgame, pawns become more special. In the endgame, one thing players try to do is to  wikt:promote promote  a pawn by advancing it to the eighth rank.
+
+   Kings : may become strong pieces in the endgame. The king may be brought towards the center of the board. There it can support its own pawns, attack the opponent's pawns, and oppose the opponent's king.
+
+   Draws : in the endgame, a game may be drawn because there are too few pieces on the board to allow a player to win. This is one of the main reasons for games to be drawn.
+
+All endgame positions can be put into two camps. On the one hand are positions which may be won by force. On the other hand are positions which are drawn, or which should be drawn. The ones that are drawn for certain may be legally drawn (mate could not happen) or drawn by chess experience (no sane defence could lose). All endgames in master chess revolve around the borderline between winning and drawing. Generally, once a 'textbook' drawn position is reached the players will agree a draw; otherwise they play on.
+
+Endgames can be  Study Skills studied  according to the type of pieces that remain on board. For example, king and pawn endgames have only kings and pawns on one or both sides and the task of the stronger side is to promote one of the pawns. Other endings are studied according to the pieces on board other than kings, e.g. rook and pawn versus rook endgame. ref name H/W 
+
+  Basic checkmates  
+Basic  checkmate s are  position s in which one side has only a king and the other side has one or two pieces, enough to checkmate the opponent's king. They are usually learned at the beginner stage. Examples are mate with K+Q v K; K+R v K; K+2B v K; K+B&N v K (this one is quite difficult).
+
+  Chess and computers  
+ main Chess and computers 
+There are two types of chess programs. One is to play against you; the other is to help you become a better player by learning more. The two types can be made to work together, though they have different functions.
+
+  Chess engines  
+Chess engines are  computer  systems that can play chess games against human opponents. Quite a number have been devised; they can play at master level, though their processes are quite different from a human being. ref name H/W sup p87 sup 
+
+  Fritz  
+Fritz is a  Germany German  chess program by Frans Morsch and Mathias Feist,  publish ed by  ChessBase . It is the current market leader. There is also a different kind of Fritz called  Deep Fritz  that is made for multi- wikt:process processing . The latest kinds of the  consumer  products are Deep Fritz 12 and Fritz 12. They came with reviews by Josh Waitzkin, who said that "Fritz is like a woman that you can't get with. It just drives (makes) you to think in ways you've never thought before". ref cite news   url http://news.bbc.co.uk/2/hi/europe/6212076.stm    title Chess champion loses to computer    publisher BBC News    date 5 December 2006   accessdate 04-05-2008 ref ref Fritz as seen by ChessBase  cite web
+   url http://www.chessbase.com/newsdetail.asp?newsid=6231 
+   title ChessBase news: Deep Fritz 12 download
+  work  
+   accessdate 2010-05-25
+   publisher ChessBase
+ ref 
+
+  Shredder  
+Shredder, also a ChessBase product, is claimed to be the strongest engine at present. ref Shredder home page  cite web
+   url http://www.shredderchess.com 
+   title Shredder Computer Chess
+  work  
+   accessdate 2010-05-25
+   publisher shredderchess.com
+ ref 
+
+  Rybka  
+Rybka, a product by Vasik Rajlich, is Shredder's main rival. ref Rybka  cite web
+   url http://www.rybkachess.com/index.php?auswa 
+   title Welcome to RybkaChess.com!
+  work  Vasik Rajlich
+   accessdate 2010-05-25
+   publisher Rybka
+ ref 
+
+  Chess databases  
+Chess  database s do not actually play. They give access to the recorded history of master chess. There are two components. First, there is the software, which lets one search and organise the database material. Then there is the actual database, typically one to four million games.
+
+In practice, databases are used for two purposes. First, for a player to train his/her ability at specific openings. Second, to look up specific opponents to see what they play, and prepare against them beforehand.
+
+The existence of chess databases is one of the reasons young players can achieve mastery at an early age.
+
+  ChessBase  
+ ChessBase  is the biggest database, and widely used by masters. Although it can be used online, most users download the software and data onto their laptop. Then they take the laptop to tournaments, to help prepare for games. Players may not use computers or any other aid during games, but much preparation goes on behind the scenes. ChessBase has to be purchased, and it is not cheap. ref name ChessBase Cite web  url   http://www.chessbase.com/ 
+  title ChessBase Service and Download  work chessbase.com  accessdate 25 May 2010 ref 
+
+  New in Chess  
+This is a Dutch magazine for advanced players, which runs an on-line database called NicBase as part of its services. NicBase is free, and has over a million games. ref NicBase  cite web
+   url http://www.newinchess.com/NICBase/ 
+   title NicBase online
+  work  
+   accessdate 2010-05-25
+   publisher New In Chess
+ ref 
+
+  Chessgames  
+Chessgames.com runs an on-line database of games. It is partly free, but requires registration. Full access to all its facilities is by a fairly modest subscription. It has over half a million games on its database. ref name chessgames.com 
+
+  On-line playing sites  
+There are websites which a player can join (for a fee) and play on line. In this case, the subscriber will play against other subscribers, not a computer. All standards of players are amongst the members, and various events are on offer at different rates of play. The two leaders in this market are:
+ Internet Chess Club  ref cite web
+   url http://www.chessclub.com/ 
+   title The Internet Chess Club
+  work  
+   accessdate 2010-05-25
+   publisher Internet Chess Club
+ ref 
+ Playchess  ref cite web
+   url http://www.playchess.com/ 
+   title Playchess
+  work  
+   accessdate 2010-05-25
+   publisher ChessBase
+ ref 
+
+ Further reading 
+ Burgess, Graham and John Nunn 1998.  The mammoth book of the world's greatest chess games . Carroll & Graf. ISBN 978-0786705870
+ Chandler, Murray 1998.  How to beat your dad at chess . Gambit, London. ISBN 1-901983-05-6 (Improvers)
+ Chandler, Murray 2004.  Chess for children . Gambit, London. ISBN 978-1904600060 (Beginners)
+ Max Euwe Euwe, Max  and Kramer H. 1994.   The middlegame , books I and II. Hays. ISBN 978-1880673959 and ISBN 978-1880673966 This goes further than improvers need, but might be used by chess teachers as a source of classic positions.
+ King, Daniel 2000.  Chess: from first moves to checkmate . Kingfisher, London. Illustrated, 64 pages. (Beginners, children).
+ Polgar, Laszlo 2006.  Chess: 5334 problems, combinations and games . Illustr. ed, Black Dog & Leventhal. ISBN 978-1579125547
+ Pritchard, David Brine 2008.  The right way to play chess . 8th ed, Right Way. ISBN 978-0716021995 (Beginners > impovers)
+ Silman, Jeremy 1997.  How to reassess your chess . 3rd ed expanded, Siles. ISBN 9781890085001
+ cite book
+   author Siegbert Tarrasch Tarrasch, Siegbert 
+   title The game of chess. Algebraic edition
+   publisher Hays Publishing
+   year 1931 original; reprint 1994
+   isbn 1-880673-94-0
+   oclc 31152893 
+ Ward, Chris 1994.  Opening play (think like a chess master) . Batsford, London. ISBN 0713475110
+ Wolff, Patrick 2005.  The complete idiot's guide to chess . 3rd ed, Alpha, New York. (Beginners > improvers)
+ Znosko-Borovsky, Eugene 1980.  The middle game in chess . Dover. ISBN 978-0486239316 (Improvers > intermediate)
+
+  Endgames  
+These are endgames for improvers, based on reviews by John Watson. ref John Watson's reviews  cite web
+   url http://www.chess.co.uk/twic/john-watson-reviews 
+   title John Watson Chess Book Reviews 
+  work  
+   accessdate 2010-05-25
+   publisher The Week in Chess
+ ref 
+ Flear, Glenn 2000.  Improve your endgame play . Everyman, London. ISBN 9781857442465
+ Seirawan, Yasser 2003.  Winning chess endings . Everyman, London. ISBN 9781857443486
+ Silman, Jeremy 2007.  Silman's complete endgame course: from beginner to master . Siles. ISBN 978-1-890085-10-0
+ Snape, Ian 2003.  Chess endings made simple . Gambit, London. ISBN 1-901983-97-8
+
+  Related pages  
+ commons chess 
+   List of World Chess Champions 
+   List of chess terms 
+   Chess Olympiad 
+   Chess master titles 
+   Middlegame 
+   Shogi 
+
+  References  
+ reflist 2 
+
+ Chess 
+ Category:Chess  

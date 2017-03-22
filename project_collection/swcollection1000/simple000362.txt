@@ -1,0 +1,25 @@
+Open content
+
+Open content  is when someone creates something and lets others  wikt:simple:copy copy  it or  wikt:change change  it without having to ask for  wikt:permission permission . Any  Multimedia media  can be open content, from text and pictures to video and sound.
+
+When someone creates something (like a  picture  or  book ), they can make that work "open".  This means that other people are allowed to copy it and change it if they want.  Something that is open content may be  wikt:free free  of charge, but it does not have to be. 
+
+The  Simple English Wikipedia  is open content. So are other  Wikipedia s. If a person changes open content or makes new open content, everyone can give it to anyone else, or even sell it. It is never needed to ask permission to do this, because the people who wrote the text already gave their permission when they clicked the Save button.
+
+  License  
+
+The rules that say how people can use, change and pass around open content are called a  license . A license explains exactly what you are allowed to do with the content that falls under it.  Licenses are often written in difficult  lawyer  language (" legalese "), but many licenses have  Summary summaries  that are much easier to understand.
+
+The makers of open content get to choose what license to use for their work, and everyone else has to follow it. Only the maker, who owns the  copyright , can change it to another license.  Most open content licenses say that when others change the work, they must also declare it to be open and under the same license.  This is called  share-alike  and means that anything based on work will always be open content.
+
+All the content in Wikipedia is open under the rules of the  GNU Free Documentation License , a very well-known open content license. Other well-known open content licenses are the  Creative Commons  licenses.
+
+  Related pages    
+   Free software 
+   Author 
+   Open source 
+   Content license 
+
+ Category:Software 
+ Category:Art 
+ Category:Free content

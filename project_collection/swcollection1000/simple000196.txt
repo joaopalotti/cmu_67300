@@ -1,0 +1,32 @@
+Geometry
+
+Geometry  is a kind of  mathematics  that studies the  size ,  shape s, and positions of things. There are  wikt:flat flat  ( 2D ) shapes and solid ( 3D ) shapes in geometry.
+ square (geometry) Squares ,  circle s and  triangle s are some of the simplest shapes in flat geometry.  Cube s,  cylinder s,  cone s and  sphere s are simple shapes in solid geometry.
+
+  Uses  
+Geometry can be used to  measure  the  area  and  perimeter  of a flat shape. It can also be used to measure a  solid  shape's  volume  and  surface area .
+
+Geometry can be used to calculate the size and shape of many things. For example, geometry can help people find: 
+  the surface area of a  house , so they can buy the right amount of  paint  
+  the  volume  of a  box , to see if it is big enough to hold a  litre liter  of  food 
+  the area of a  farm , so it can be divided into equal parts
+  the  distance  around the  edge  of a  pond , to know how much  fence fencing  to  buy .
+
+  Origins  
+Geometry began as the art of  measure measuring  the shape of  land  so that it could be shared fairly between people. The word "geometry" means "to measure the land". It has grown from this to become one of the most important parts of mathematics. The  ancient Greece Greek   mathematician   Euclid  wrote the first book about geometry. Geometry is one of the oldest branches of mathematics.
+
+  Examples  
+Geometry starts with a few simple ideas that are thought to be true, called axioms. Such as:
+
+ A  point (geometry) point  is shown on  paper  by  touch ing it with a  pencil  or  pen , without making any  sideways  movement. We know where the point is, but it has no  size .
+
+ A  straight   line  is the  short est  distance  between two points. For example, Sophie pulls a piece of  wikt:string string  from one point to another point. A straight line between the two points will follow the  wikt:path path  of the tight string.
+
+ A  Plane (mathematics) plane  is a flat  surface  that does not  wikt:stop stop  in any  direction . For example imagine a wall that extends in all directions infinitely.
+
+  Related pages  
+   Topology 
+
+ commonscat 
+
+ Category:Geometry *

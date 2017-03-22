@@ -1,0 +1,52 @@
+Bubonic plague
+
+Infobox disease
+  Name              Bubonic plague
+  Image             Plague_-buboes.jpg
+  Caption           An inguinal 'bubo' on the upper thigh of person infected with bubonic plague. Swollen  Lymphatic system lymph  glands ( buboes ) often occur in the neck, armpit and groin ( inguinal ) regions of plague victims
+  ICD10              ICD10 A 20 0 a 00 
+  ICD9               ICD9 020.0 
+  DiseasesDB        14226
+  eMedicineSubj    
+  eMedicineTopic   
+  MeshName         
+  MeshNumber        D010930
+  MedlinePlus       000596
+ 
+ Bubonic plague  is the best-known form of the disease  plague , which is caused by the  bacterium   Yersinia pestis . The name  bubonic plague  is specific for this form of the disease, which enters through the skin, and travels through the  lymphatic system . 
+
+If the disease is left untreated, it kills about half its victims, in between three and seven days. The bubonic plague was the disease that caused the  Black Death , which killed tens of millions of people in Europe, in the  Middle Ages . ref cite web url http://news.nationalgeographic.com/news/2004/03/0310_040310_blackdeath.html title Bubonic Plague Traced to Ancient Egypt first Cameron last Walker publisher National Geographic News date 10 March, 2004 accessdate 2 April, 2009 ref 
+
+ Symptom s of this disease include  cough ing,  fever , and black spots on the  skin .
+
+  Different kinds of the same disease  
+There are different kinds of Bubonic plague. The most common form of the disease is spread by a certain kind of  flea , that lives on  rat s. Then there is an  incubation period  which can last from a few hours to about seven days. 
+   Septicemic plague   
+ Sepsis  happens when the bacterium enters the  blood  and make it form tiny clots.
+   Pneumonic  plague  
+This happens when the bacterium can enter the lungs. About 95% of all people with this form will die. Incubation period is only one to two days.
+
+  The abortive form  
+This is the most harmless form. It will result in a little  fever . After that, there are  antibody antibodies  that protect against all forms for a long time.
+
+  History  
+During the 1300s, this  epidemic  struck parts of  Asia ,  North Africa , and  Europe . Almost a third of the people in Europe died of it. Unlike  wikt:catastrophe catastrophe s that pull communities together, this epidemic was so terrifying that it broke people's trust in one another.  Giovanni Boccaccio , an  Italy Italian  writer of the time, described it:  "This  wikt:scourge scourge  had implanted so great a terror in the hearts of men and women that brothers  wikt:abandon abandon ed brothers, uncles their nephews, sisters their brothers, and in many cases wives deserted their husbands. But even worse,... fathers and mothers refused to nurse and assist their own children." ref The decameron / Giovanni Boccaccio ; translated by Mark Musa & Peter Bondanella ; with an introduction by Thomas G. Bergin. ISBN 0-451-52866-2 ref 
+
+  Transmission  
+ File:Flea infected with yersinia pestis.jpg thumb| Oriental rat flea  ( Xenopsylla cheopis ) infected with the  Yersinia pestis   Bacteria bacterium  which appears as a dark mass in the gut. The foregut of this flea is blocked by a  Y. pestis   biofilm ; when the flea attempts to feed on an uninfected  Host (biology) host   Y. pestis  from the foregut is  Regurgitation (digestion) regurgitated  into the wound, causing  infection . 
+The plague was not just carried by  rat s as some people assume. The  flea s also carried it. It came abroad from  Kaffa  by the  Black Sea . From there the disease started to go new places in  1347 . It went to  England  in  1349 . There it killed  half  of the people in England. 70% of people who got plague died. Pigs are also to blame for the transmission, as the bacteria stayed in their blood system, and when eaten, people caught the plague. This is a reason why so few Jews or Muslims caught the disease.
+
+  Modern history  
+In the  20th century , some countries did  research  on the  bacteria  that causes bubonic plague. They did research to use it for  biological warfare .
+
+Samples of this  bacteria  are carefully controlled. There is much  paranoia  (fear) about it. Dr. Thomas C. Butler, a  United States US  expert in this  organism  was charged in October  2003  by the  FBI  with various  crime s. This happened after he said he lost samples of  Yersinia pestis . This is the bacteria that causes bubonic plague. The FBI did not find the samples. They do not know what happened to them.
+
+  References  
+ references 
+
+ Category:Plague 
+ Category:Pulmonology 
+
+ de:Pest#Beulenpest 
+ it:Peste#Peste bubbonica 
+ pl:Dzuma#Patogeneza, objawy i rozpoznawanie

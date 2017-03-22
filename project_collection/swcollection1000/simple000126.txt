@@ -1,0 +1,11 @@
+Definition
+
+wiktionary definition 
+A  definition  is an exact  word  or  phrase  of the meaning, nature, or limits of something. A definition usually answers the question  what .  Defining  means giving a definition. Other words with this meaning are  wikt:description description  and  explanation . It describes what a word means and explains to the person when and where it can be used.
+
+In  mathematics , a definition is an exact way of saying what something is.  It might not be the easiest way to say what it is, but it is used because it is exact.  It can be used in a  mathematical proof  about the thing.
+
+
+ stub 
+
+ Category:Words

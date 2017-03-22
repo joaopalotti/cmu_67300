@@ -1,0 +1,69 @@
+1 (number)
+
+Infobox number
+  number   1
+  numeral    Unary numeral system unary 
+  factorization   1
+  divisor   1
+  roman unicode   I, i
+  greek prefix    Wiktionary:mono- mono-  / Wiktionary:haplo- haplo- 
+  latin prefix    Wiktionary:uni- uni- 
+  lang1    Greek numeral 
+  lang1 symbol   a'
+  lang2    Persian language Persian  
+  lang2 symbol    resize 150% 1 - ykh 
+  lang3    Eastern Arabic numerals Arabic  
+  lang3 symbol    resize 150% 1 
+  lang4    Urdu 
+  lang4 symbol    Urdu 1 11 top 
+  lang5    Ge'ez alphabet Ge'ez  
+  lang5 symbol   1
+  lang6    Bengali language Bengali  &  Assamese language Assamese  
+  lang6 symbol    resize 150% 1 
+  lang7    Chinese numeral  
+  lang7 symbol   Yi ,Yi ,Yi 
+  lang8    Korean language Korean  
+  lang8 symbol   il, hana
+  lang9    Devanagari  
+  lang9 symbol    resize 150% 1 
+  lang10    Telugu language Telugu  
+  lang10 symbol    resize 150% 1 
+  lang11    Tamil language Tamil  
+  lang11 symbol    resize 150% 1 
+  lang12    Kannada language Kannada  
+  lang12 symbol    resize 150% 1 
+  lang13    Hebrew numerals Hebrew  
+  lang13 symbol    resize 150%   ( aleph alef )
+  lang14    Khmer numerals Khmer  
+  lang14 symbol   1
+  lang15    Thai numerals Thai  
+  lang15 symbol   1
+  lang16    Malayalam  
+  lang16 symbol   1
+  lang17    counting rods counting rod  
+  lang17 symbol   
+ 
+ File:Chinesische.Zahl.Eins.jpg thumb| China Chinese  hand sign 
+ File:En-us-One.ogg thumb|right|Pronunciation of the number 1. 
+ One  ( 1 ) is a  natural number  after  zero  and before  2 (number) two .
+It represents a single item.
+A  human  typically has one { head ,  nose ,  mouth , and  umbilicus navel  (belly-button)}.
+The  Roman numeral  is I.
+
+  Mathematics  
+In mathematics, one is also the only number with this special fact: Any number multiplied by 1 equals that number.
+Then, the number 1 divides any number but it is not divided by any except itself. The number 1 divides any number to give that same number but it cannot be divided by any other number to give one as the answer. Let  n  be any number. Then  n /1 =  n  but 1/ n  is never 1 (when n is not 1). Example: 7/1 = 7 but 1/7 is not 1 but 0.142857 ...
+
+Any number divided by itself always gives 1 as the answer.  n / n  = 1 (when n is not 0). Example: 7/7 = 1.
+
+ 0.999...  is a  repeating decimal  that is mathematically equal to 1. Many  mathematical proof proofs  have been made to show this is correct.
+
+  Computer science  
+The number one is important for  computer science  because it is, together with  zero , a part of the  binary  numeral system. In  machine code  and in many  programming language s, one means true and zero means false.
+
+  Other meanings  
+  In  Germany  and  Austria , one is the grade for "very good". It is the best grade of six possible grades in Germany and the best of five possible grades in Austria. In the  Netherlands , one is the lowest grade, and ten the highest and best. In  Poland , one is also the lowest grade, but the highest is six.
+  In numerology, the number one is a symbol for everything ( unity ), the beginning, and  God .
+
+ Category:Integers 
+ Category:Square numbers

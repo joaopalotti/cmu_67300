@@ -1,0 +1,28 @@
+Plural
+
+The  plural  of a  noun  shows the number of that  noun  is more than one.
+
+The  singular  form of a  noun  shows the quantity of that  noun  is one. 
+
+In many languages, a  suffix  (word ending) is added to a word to show that the word is plural. In the  English language English  language, the  suffix   -s  is used to indicate that a  noun  has been turned into its plural form ( inflection ). Here is an example:  cat  is a singular  noun , but  cat s  is a plural  noun . 
+
+  Plurals in English  
+There are a number of exceptions:  ref Crystal, David 1995.  The Cambridge encyclopedia of the English language . Cambridge University Press, p200/1. ISBN 0-521-401-79-8 ref ref Fowler H.W.1965.  A dictionary of modern English usage . 2nd ed, revised by Sir Ernest Gowers. Oxford: Clarendon Press, p456. ref 
+ Singulars ending in  u s u  are usually the same in plural:  species ,  mumps ,  innings  and so on. But proper names ending in 's' take add 'es' in plural:  Jones  becomes  the Joneses . 
+ Compound words add the plural to the noun part:  u sons u -in-law, Lord  u Mayors u ,  u Courts u  Martial .
+ Singulars ending in  u y u  become  u ies u  in plural if a  consonant  is before the suffix. So  u day u  becomes  u days u , but  u spy u  becomes  u spies u . Personal names are again an exception: the plural of  u Mary u  is  u Marys u .
+ Singulars ending in  u f u  usually changes to  u ves u : dwarf to dwarves, leaf to leaves, and so on.
+ Special cases: some plurals just have to be learnt. The plural of  person  is normally  people , but sometimes  persons  is used.
+ Invariant nouns:  br The  common name s of animals is often used as both singular and plural. One can say "We shot grouse today" correctly no matter what number were killed. With "fish" there is a choice. Traditional English usage is that the word is used for both singular and plural, but American usage seems to prefer  u fishes u  as the plural.  br With groups of animals, one uses the singular, as in a herd of bison or a  shoal  of herring. But if the animals are known as individuals then, for example, we feed the ducks, or stroke our cats. There are other cases where there is no plural at all, as with sheep, salmon, deer.  br Other general words which add no suffix in plural are  aircraft  and  offspring . Some look like singular but are always plural, such as  vermin ,  livestock ,  cattle ,  people''.  
+
+It is fair to say that most native English speakers do make mistakes in this area: it is one of the more troublesome aspects of the English language.
+
+  Other languages  
+All European languages have plural forms. The suffix that is used in each one of these other languages is different from the suffix that is applied to  English language English  nouns.
+
+In such  East Asia n languages as  Chinese language Chinese ,  Korean language Korean  and  Japanese language Japanese , there is no plural ending. Native speakers of these languages usually fail to inflex  English language English  nouns into their plural forms.
+
+  References  
+ reflist 
+
+ Category:Grammar

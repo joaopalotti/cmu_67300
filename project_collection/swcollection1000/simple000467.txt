@@ -1,0 +1,209 @@
+Saturn
+
+otheruses the planet Saturn (disambiguation) 
+ vgood 
+ Infobox Planet
+  bgcolour   #FFCC66
+  name   Saturn
+  symbol    File:Saturn symbol.svg 25px|Astronomical symbol for Saturn 
+  image    File:Saturn during Equinox.jpg 280px|alt=The planet Saturn|The planet Saturn 
+  orbit_ref  
+ ref name horizons cite web  last   Yeomans, Donald K. 2006  url    http://ssd.jpl.nasa.gov/?horizons  title   HORIZONS System   work Solar System dynamics  publisher National Aeronautics and Space Administration  accessdate   2007-08-08   At the site, go to the "web interface" then select "Ephemeris Type", "Target Body: Saturn Barycenter" and "Center: Sun". ref ref label B_Center b b 
+  epoch    Epoch (astronomy)#J2000.0 J2000 
+  aphelion   1,513,325,783 km br 10.115 958 04  Astronomical unit AU 
+  perihelion   1,353,572,956 km br 9.048 076 35 AU
+  semimajor   1,433,449,370 km br 9.582 017 20 AU
+  eccentricity   0.055 723 219
+  period   10,832.327  day s br 29.657 296  Julian year (astronomy) yr 
+  synodic_period   378.09 days  ref name fact 
+  avg_speed   9.69 km/s  ref name fact 
+  inclination   2.485 240deg to  Ecliptic br 5.51deg to  Ecliptic#Ecliptic and planets Sun's equator br 0.93deg to  Invariable plane   ref cite book  title Gravity field and dynamics of the Earth  last1 Bursa  first1 Milan  last2 Pec  first2 Karel  year 1993  publisher Springer isbn 9783540568179  page 301 ref 
+  asc_node   113.642 811deg
+  arg_peri   336.013 862deg
+  mean_anomaly   320.346 750deg
+  satellites   around 200 observed (61 with secure orbits)
+ maximum distance from sun    convert 1500000000 km mi 0 lk off abbr on 
+ minimum distance from sun    convert 1350000000 km mi 0 lk on abbr on 
+  physical_characteristics   yes
+  mean_radius    nowrap val fmt commas 58232 6 u km   ref name SeidelmannArchinalA'hearn_2007 cite journal  doi   10.1007/s10569-007-9072-y  last   Seidelmann, P. Kenneth 2007  title   Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006  journal   Celestial Mechanics and Dynamical Astronomy  volume   98  issue   3  pages   155-180  pmid     pmc     bibcode   2007CeMDA..98..155S  ref    sfnRef Seidelmann Archinal A'hearn et al. 2007 ref 
+  flattening   0.097 96 +- 0.000 18  
+  surface_area   4.27 e 10  km sup 2 sup   ref name nasafact cite web  url   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn&Display=Facts%20NASA:%20Solar%20System%20Exploration:%20Planets:%20Saturn:%20Facts%20&%20Figures   title Saturn  work Solar System exploration: planets   publisher National Aeronautics and Space Administration  year 2011-03-22  accessdate 2011-06-19 ref ref label 1bar a a br 83.703 Earths
+  volume   8.2713 e 14  km sup 3 sup   ref name fact cite web
+ url    http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html 
+ title   Saturn Earth comparison work  Saturn fact sheet publisher National Aeronautics and Space Administration last   Williams, David R. 2006 accessdate   2007-07-31 ref ref label 1bar a a br 763.59 Earths
+  mass   5.6846 e 26  kg  ref name fact br 95.152 Earths
+  density   0.687 g/cm sup 3 sup   ref name fact ref label 1bar a a br  (less than  water )
+  surface_grav   10,44  Acceleration m/s sup 2 sup   ref name fact ref label 1bar a a br 0.914  g-force g 
+  escape_velocity   35.5 km/s  ref name fact ref label 1bar a a 
+  sidereal_day   0.439-0.449 days  ref name saturnDay cite web
+ url    http://www.space.com/scienceastronomy/070906_saturn_day.html 
+ title   Length of Saturn's day revised
+ publisher    Space.com 
+ last   Than
+ first   Ker
+ accessdate   2007-09-06
+ date   2007-09-06 ref br  (10 h 32 - 47 min)
+  rot_velocity   9.87 km/s  ref label 1bar a a br 35 500 km/h
+  axial_tilt   26.73deg  ref name fact 
+  right_asc_north_pole   2 h 42 min 21 s br 40.589deg  ref name Seidelmann2007 
+  declination   83.537deg  ref name Seidelmann2007 cite journal last  Seidelmann first  P. Kenneth coauthors  Archinal, B. A.; A'hearn, M. F.; et al. title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006 journal  Celestial Mech. Dyn. Astr.  volume 90 pages 155-180 year 2007 doi 10.1007/s10569-007-9072-y url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y ref 
+  albedo   0.342  Bond albedo bond br 
+0.47  Geometric albedo geom   ref name fact 
+  magnitude   +1.2 to -0.24  ref name magnitude cite web
+ url    http://findarticles.com/p/articles/mi_qa4015/is_200101/ai_n8933308 
+ title   Wideband photoelectric magnitude measurements of Saturn in 2000
+ accessdate   2007-10-14
+ last   Schmude
+ first   Richard W Junior
+ year   2001
+ work  Georgia Journal of Science ref 
+  angular_size   14.5" - 20.1"  ref name fact br (excludes rings)
+  temperatures   yes
+  temp_name1   1 bar level
+  min_temp_1  
+  mean_temp_1   134 Kelvin K   ref name fact 
+  max_temp_1  
+  temp_name2   0.1 bar
+  min_temp_2  
+  mean_temp_2   84 K  ref name fact 
+  max_temp  
+  pronounce    IPA-en 'saet@rn en-us-Saturn.ogg ref cite book
+   last Walter, Elizabeth 2003
+   title Cambridge advanced learner's dictionary
+   publisher Cambridge University Press
+   edition  2nd   isbn 0521531063 ref 
+  adjectives   Saturnian
+  atmosphere   yes
+  atmosphere_ref  
+ ref name fact 
+  scale_height   59.5 km
+  atmosphere_composition  
+~96%  hydrogen  (H sub 2 sub ) br 
+~3%  helium br 
+~0.4%  methane br 
+> 0.01% other br 
+ Ices : br ammonia br water br ammonium hydrosulfide  (NH sub 4 sub SH) 
+
+ Saturn  is the sixth  planet  from the  Sun  in the  Solar System . It is the second largest planet in the Solar System, after  Jupiter . Like Jupiter,  Uranus , and  Neptune , Saturn is a " gas giant ".
+
+Inside Saturn is probably a  planetary core core  of  iron ,  nickel ,  silicon  and  oxygen  compounds, surrounded by a deep layer of  metallic hydrogen , then a layer of  liquid   hydrogen  and liquid  helium  and finally, an outer  gas eous layer. ref name Composition ref cite web  url    http://www.astrophysicsspectator.com/topics/planets/GiantGaseousPlanets.html  title   Giant gaseous planets  accessdate   2010-07-05  last Brainerd, Jerome James 2004  publisher   The Astrophysics Spectator ref 
+
+Saturn has 62 known  Satellite (natural) moons   orbit ing the planet; 53 are officially named. ref cite web
+ first Enrico last Piazza
+ title Saturn's moons editor Kirk Munsell
+ work Cassini, Equinox Mission publisher JPL NASA
+ url http://saturn.jpl.nasa.gov/science/moons/ 
+ accessdate 2010-06-22 
+ ref  The largest moon is  Titan (moon) Titan , which is larger in volume than the planet  Mercury (planet) Mercury . Titan is the second-largest moon in the Solar System. The largest moon is Jupiter's moon,  Ganymede . There is also a very large system of  planetary ring rings  around Saturn.  These rings are made of  ice  with smaller amounts of  minerals rocks  and dust. Saturn is about 1,400,000,000  kilometer km  (869,000,000  mile mi ) from the Sun.  Saturn takes 29.6  Julian year (astronomy) years  on Earth to revolve around the Sun. ref name fact  
+
+Saturn was named after the  Roman mythology Roman god   Saturn (mythology) Saturnus  (called  Kronos  in  Greek mythology ). ref cite web  url   http://www.credoreference.com/entry/hfcwd/cronia_kronia   title Cronia (Kronia)  first   last   work Holidays, Festivals, and Celebrations of the World Dictionary  year 2010  accessdate 2011-07-11 ref  Saturn's symbol is  which is the symbol of Saturnus'  sickle . ref cite web  last Crystal  first Ellie  title Saturn Mythology  url http://www.crystalinks.com/saturnmyth.html   work Crystalinks.com  accessdate 2007-02-28 ref 
+
+ Physical features 
+ File:Saturn Earth Comparison.png thumbnail|right|220 px|alt=Saturn compared to Earth|Saturn compared with the size of the  Earth 
+ File:Saturn Robert Hooke 1666.jpg thumb|alt=Pen sketch with several labelled rings|Drawing of Saturn by  Robert Hooke  in 1666 
+Saturn is an  oblate spheroid , meaning that it is flattened at the  Geographical pole pole s, and it swells out around its  equator . ref name rgo  The planet's equatorial  diameter  is  convert 120536 km mi 0 lk off abbr on , while its polar diameter (the distance from the north pole to the south pole) is  convert 108728 km mi 0 lk off abbr on ; a 9% difference. ref cite web  url   http://www.jpl.nasa.gov/news/press_kits/cassini-arrival.pdf   title Cassini-Huygens Saturn arrival  format PDF  page 9  work Press kit June 2004  publisher National Aeronautics and Space Administration  accessdate 2011-06-25 ref  Saturn has a flattened shape; it is due to its very fast  rotation , rotating once every 10.8 hours. ref name fact  Saturn is the only planet in the Solar System that is less  density dense  than  water . Even though the planet's  planetary core core  is very dense, it has a gaseous  atmosphere , so the average  relative density specific density  of the planet is 0.69 g/cm sup 3 sup  (less than the density of water). This means if Saturn could be placed in a large pool of water, it would float. ref cite book  title Voyager: Exploring the outer planets  last Verba  first Joan Marie  year 1991  publisher FTL Publications  isbn 0982523203  page 20 ref 
+
+ Atmosphere 
+The outer part of Saturn's atmosphere is made up of about 96% hydrogen, 3% helium, 0.4%  methane  and 0.01%  ammonia . ref name fact  There are also very small amounts of  acetylene ,  ethane  and  phosphine . ref name Mira cite web  url   http://www.mira.org/fts0/planets/100/text/txt002x.htm   title  Saturn  first   last work MIRA: field trips to the stars: the Solar System year 2006  publisher   http://www.mira.org/ Monterey Institute of Research in Astronomy   accessdate 2011-06-19 ref 
+ File:Saturn hexagonal north pole feature.jpg thumbnail|right|alt=The hexagonal cloud|The north polar  hexagon al cloud first found by  Voyager 1  and later by  Cassini-Huygens Cassini 
+Saturn's  cloud s show a banded pattern, like the cloud bands seen on Jupiter. Saturn's clouds are much fainter and the bands are wider at the equator. Saturn's lowest cloud layer is made up of water ice, and is about  convert 10 km mi 0 lk off abbr on  thick. ref name Mira  The  temperature  here is quite low, at 250  Kelvin K  (-10deg Fahrenheit F , -23deg Celsius C ). However scientists do not agree about this. The layer above, about  convert 77 km mi 0 lk off abbr on  thick, is made up of  ammonium sulfide ammonium hydrosulfide  ice, and above that is a layer of ammonia ice clouds  convert 80 km mi 0 lk off abbr on  thick. ref name Mira  The highest layer is made up of hydrogen and helium gases, which extends between  convert 200 km mi 0 lk off abbr on  and  convert 270 km mi 0 lk off abbr on  above the water cloud tops.  Aurora s are also known to form in Saturn in the  mesosphere . ref name Mira  The temperature at Saturn's cloud tops is extremely low, at 98 K (-283degF, -175degC). The temperatures in the inner layers are much higher than the outside layers because of the  heat  produced by Saturn's interior. ref name heat cite web  url   http://www.nasa.gov/mission_pages/cassini/whycassini/planet.html   title A gas giant with super-fast winds  first   last   work  Cassini: unlocking Saturn's secrets  publisher National Aeronautics and Space Administration  year 2007  accessdate 2011-06-19 ref 
+Saturn's winds are some of the fastest in the Solar System, reaching 1,800  kilometres per hour km/h  (1,118  miles per hour mph ), ref cite book  title Probing the new solar system  last Wilkinson  first John  year 2009  publisher CSIRO Publishing  isbn 9780643095755  page 208  url http://books.google.com/books?id=hXmZP40vFksC&source=gbs_navlinks_s   accessdate 2011-05-23 ref  ten times faster than winds on  Earth . ref cite web  url http://www.nasa.gov/mission_pages/cassini/whycassini/cassini_storms_on_saturn.html   title Saturn's storms run rings around Earth's  first Rosemary  last Sullivant  work Cassini: unlocking Saturn's secrets  publisher  National Aeronautics and Space Administration  accessdate 2011-05-24 ref 
+
+ Storms and spots 
+Saturn's atmosphere is also known to form oval shaped clouds, similar to the clearer spots seen in Jupiter. These oval spots are cyclonic storms, the same as  cyclone s seen on Earth. In 1990, the  Hubble Space Telescope  found a very large white cloud near Saturn's equator. Storms like the one in 1990 were known as  Great White Spot s . These unique storms only exist for a short time and only happen about every 30 Earth years, at the time of the summer  solstice  in the  Northern Hemisphere . ref cite web  url   http://www.sciencedirect.com/science/article/pii/S0019103505000308   title Saturn's cloud structure and temporal evolution from ten years of Hubble Space Telescope images (1994-2003)  first   last S. Perez-Hoyos, A. Sanchez-Lavega, R.G. French, J.F. Rojas.  work Science Direct  year 2005  accessdate 2011-06-19 ref 
+Great White Spots were also found in 1876, 1903, 1933, and 1960. If this cycle continues, another storm will form in about 2020. ref cite encyclopedia   title  The 1990 Great White Spot of Saturn   encyclopedia   1993 Yearbook of Astronomy  volume     pages  176-215   publisher  W.W. Norton & Company, London   date  1992   id     accessdate    ref 
+
+The  Voyager 1  spacecraft found a  hexagon al cloud pattern near Saturn's north pole at about  longitude 78degN . The  Cassini-Huygens  probe later confirmed it in 2006. Unlike the north pole, the south pole does not show any hexagonal cloud feature. The probe also discovered a  hurricane -like storm locked to the south pole that clearly showed an  eye (cyclone) eyewall . Until this discovery, eyewalls had only been seen on Earth. ref cite web  url   http://www.newscientist.com/article/dn10499   title Spectacular storm rages on Saturn's south pole   first  Maggie last McKee  work New Scientist Magazine  year 2006-11-06  accessdate 2011-04-21 ref 
+
+ Interior 
+Saturn's interior is similar to Jupiter's interior. It has a small rocky core about the size of the Earth at its centre. ref name rgo cite web  url   http://www.oarval.org/section3_11.htm   title Saturn  first   last   work Information Leaflet No. 42 publisher Royal Observatory, Greenwich Royal Greenwich Observatory   year 2009  accessdate 2011-04-26 ref  It is very hot; its  temperature  reaches 15,000  Kelvin K  ( convert 26540 F C 0 lk off abbr on ). Saturn is so hot that it gives out more  heat energy  into space than it receives from the  Sun . ref name heat  Above it is a thicker layer of metallic hydrogen, about  convert 30000 km mi 0 lk off abbr on  deep. Above that layer is a region of liquid hydrogen and helium. ref cite web  url   http://www.nmm.ac.uk/explore/astronomy-and-time/astronomy-facts/solar-system/saturn   title Saturn  first   last   work Solar System  publisher National Maritime Museum  year 2005-10-04  accessdate 2011-06-19 ref  The core is heavy, with about 9 to 22 times more mass than the Earth's core. ref cite web url http://www.sciencemag.org/cgi/content/full/305/5689/1414   title Looking into the giant planets  first Jonathon J.  last Fortney  work Science 305 (5689): 1414-1415 year 2004  accessdate  2007-04-30 ref 
+
+ Magnetic field 
+Saturn has a natural  magnetic field  that is weaker than Jupiter's. Like the Earth's, Saturn's field is a magnetic  dipole . Saturn's field is unique in that it is perfectly symmetrical, unlike any other known planet. ref name sutton  This means the field is exactly in line with the planet's  axis of rotation axis . ref name sutton cite web  url   http://books.google.com.au/books?id=oqqoUMj9-pUC&pg=PA509&lpg=PA509&dq=Saturn+symmetrical+axis&source=bl&ots=j1Gk8v8GFw&sig=6oopkQLLwSlBlHN-mLn7FAGqXCc&hl=en&ei=XZv9TcKbHoa4vwP66o2pAw&sa=X&oi=book_result&ct=result&resnum=9&ved=0CE8Q6AEwCA#v=onepage&q&f=false   title Saturn yields to Voyager's brief caress  first Christine  last Sutton  work New Scientist Magazine  year 1981-08-27  accessdate 2011-06-19 ref  Saturn generates  radio wave s, but they are too weak to be detected from Earth. ref cite journal last1 Smith first1 A. G. last2 Carr first2 T. D. title Radio-Frequency Observations of the Planets in 1957-1958 journal The Astrophysical Journal volume 130 pages 641-647 year 1959 doi 10.1086/146753 ref Smith ref  The moon Titan orbits in the outer part of Saturn's magnetic field and gives out  Plasma (physics) plasma  to the field from the  ion ised particles in Titan's atmosphere. ref cite web  url   http://www-ssc.igpp.ucla.edu/personnel/russell/papers/sat_mag.html   title Saturn: magnetic field and magnetosphere  first   last Russell C.T.; Luhmann J.G.   work Encyclopedia of Planetary Sciences  publisher Chapman and Hall location New York pages 718--719 year 1997  accessdate 2011-06-20 ref 
+
+ Rotation and orbit 
+Saturn's average distance from the Sun is over 1,400,000,000 km (869,000,000 mi), about nine times the distance from the Earth to the Sun. It takes 10,759 days, or about 29.7 years, for Saturn to orbit around the Sun. ref cite web  url   http://www.nasa.gov/topics/nasalife/saturn_time.html   title NASA image of Saturn featured in Time Magazine's 'Year in Pictures'  work NASA in your life  publisher  National Aeronautics and Space Administration  year 2009-12-30  accessdate 2011-06-24 ref  This is known as Saturn's  orbital period . 
+
+Voyager 1 measured Saturn's rotation as being 10 hours 14 minutes at the equator, 10 hours 40 minutes closer to the poles, and 10 hours 39 minutes 24 seconds for the planet's interior. ref name mira2 cite web  url   http://www.mira.org/fts0/planets/100/text/txt001x.htm#orbital   title  Saturn: orbital and rotational information  first   last   work MIRA: field trips to the stars: the Solar System  publisher  Monterey Institute for Research in Astronomy year 2006  accessdate 2011-07-06 ref  This is known as its  rotational period .  
+
+Cassini measured the rotation of Saturn as being 10 hours 45 minutes 45 seconds +- 36 seconds. ref name SFTSRPiaP  That is about six minutes, or one percent, longer than the radio rotational period measured by the Voyager 1 and Voyager 2 spacecraft, which flew by Saturn in 1980 and 1981.
+
+Saturn's rotational period is calculated by the rotation speed of radio waves released by the planet. The Cassini-Huygens spacecraft discovered that the radio waves slowed down, suggesting that the rotational period increased. ref name SFTSRPiaP cite web  url   http://www.nasa.gov/mission_pages/cassini/media/cassini-062804.html   title Scientists find that Saturn's rotation period is a puzzle  first Carolina  last Martinez  work Cassini: unlocking Saturn's secrets  publisher  National Aeronautics and Space Administration  year 2004-06-28  accessdate 2011-06-24 ref  Since the scientists do not think Saturn's rotation is actually slowing down, the explanation may lie in the magnetic field that causes the radio waves. ref name SFTSRPiaP 
+
+ Planetary rings 
+
+Saturn is best known for its  planetary rings  which are easy to see with a  telescope . There are seven named rings; A, B, C, D, E, F, and G rings. ref name cosmos cite journal  quotes   last Lovett  first Rick  authorlink   coauthors   year 2011  month June/July  title Dance of the rings  journal Cosmos  volume   issue 39  pages 57  id   url http://www.cosmosmagazine.com/   accessdate  2011-06-21 ref  They were named in the order they were discovered, which is different to their order from the planet. From the planet the rings are: D, C, B, A, F, G and E. ref name cosmos rp 57 
+
+Scientists believe that the rings are the material left after a moon broke apart. ref name cosmos rp 60  A new idea says that it was a very large moon, most of which crashed into the planet. This left a large amount of ice to form the rings, and also some of the moons, like Enceladus, which are thought to be made of ice. ref name cosmos rp 61 
+
+ History 
+The rings were first discovered by  Galileo Galilei  in 1610, using his telescope. They did not look like rings to Galileo, so he called them "handles". He thought that Saturn was three separate planets that almost touched one another. In 1612, when the rings were facing edge on with the Earth, the rings disappeared, then reappeared again in 1613, further confusing Galileo. ref name history_of_the_rings cite web  url   http://www2.jpl.nasa.gov/saturn/back.html   title Historical background of Saturn's rings  first Ron  last Baalke  work www2.jpl.nasa.gov  publisher National Aeronautics and Space Administration year 2005   accessdate 2011-07-06 ref  In 1655,  Christiaan Huygens  was the first person to recognise Saturn was surrounded by rings. Using a much more powerful telescope than Galilei's, he noted Saturn "is surrounded by a thin, flat, ring, nowhere touching...". ref name history_of_the_rings  In 1675,  Giovanni Domenico Cassini  discovered that the planet's rings were in fact made of smaller ringlets with gaps. The largest ring gap was later named the  Rings of Saturn Cassini Division . In 1859,  James Clerk Maxwell  showed that the rings cannot be solid, but are made of small particles, each orbiting Saturn on their own, otherwise, it would become unstable or break apart. ref cite web  url   http://www-history.mcs.st-andrews.ac.uk/~history/Extras/Maxwell_Saturn.html   title James Clerk Maxwell on the nature of Saturn's rings  first James Clerk  last Maxwell  work www-history.mcs.st-andrews.ac.uk  year 1859  accessdate 2011-06-19 ref   James Keeler  studied the rings using a  spectrometer spectroscope  in 1895 which proved Maxwell's theory. ref cite web  url http://www.sil.si.edu/DigitalCollections/HST/Huygens/huygens-introduction.htm   title Christiaan Huygens and his Systema Saturnium  author Brashear, Ronald  date May 1999  publisher   Smithsonian Institution  Libraries accessdate 2011-04-19 ref 
+
+ Physical features 
+The rings range from  convert 6630 km mi 0 lk off abbr on  to  convert 120700 km mi 0 lk off abbr on  above the planet's equator. As proved by Maxwell, even though the rings appear to be solid and unbroken when viewed from above, the rings are made of small particles of rock and ice. They are only about  convert 10 m ft 0 lk off abbr on  thick; made of  silicon dioxide silica  rock,  iron oxide  and ice particles. ref name cosmos rp 55  The smallest particles are only specks of dust while the largest are the size of a house. The C and D rings also seem to have a "wave" in them, like waves in water. ref name cosmos rp 58  These large waves are  convert 500 m ft 0 lk off abbr on  high, but only moving slowly at about  convert 250 m ft 0 lk off abbr on  each day. ref name cosmos rp 58  Some scientists believe that the wave is caused by Saturn's moons. ref cite web  url   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn&Display=Rings   title Saturn: Rings  first   last   work Solar System exploration  publisher National Aeronautics and Space Administration  year 2011-03-22  accessdate 2011-06-19 ref  Another idea is the waves were made by a  comet  hitting Saturn in 1983 or 1984. ref name cosmos rp 60 
+
+The largest gaps in the rings are the Cassini Division and the  Rings of Saturn Encke Division , both visible from the  Earth . The Cassini Division is the largest, measuring  convert 4800 km mi 0 lk off abbr on  wide. ref name Cassini_Division cite web  url   http://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/cassini_division.html   title StarChild: Saturn's Cassini Division  work The Solar System  publisher  National Aeronautics and Space Administration  year 2011  accessdate 2011-06-19 ref  However, when the Voyager spacecrafts visited Saturn in 1980, they discovered that the rings are a complex structure, made out of thousands of thin gaps and ringlets. Scientists believe this is caused by the  gravity gravitational force  of some of Saturn's moons. The tiny moon  Pan (moon) Pan  orbits inside Saturn's rings, creating a gap within the rings. Other ringlets keep their structure due to the gravitational force of  shepherd satellite s, such as  Prometheus (moon) Prometheus  and  Pandora (moon) Pandora . Other gaps form due to the gravitational force of a large moon farther away. The moon  Mimas (moon) Mimas  is responsible for clearing away the Cassini gap. ref name Cassini_Division 
+
+Recent data from the Cassini spacecraft has shown that the rings have their own atmosphere, free from the planet's atmosphere. The rings' atmosphere is made of oxygen gas, and it is produced when the Sun's  ultraviolet  light breaks up the water ice in the rings.  Chemical reaction  also occurs between the ultraviolet light and the water  molecule s, creating hydrogen gas. The oxygen and hydrogen atmospheres around the rings are very widely spaced. ref cite news  url   http://news.bbc.co.uk/2/hi/science/nature/4640641.stm   title Saturn rings have own atmosphere  first Paul  last Rincon  work BBC News   date 2005-07-01  publisher British Broadcasting Corporation   location London, England London   accessdate 2011-06-19 ref  As well as oxygen and hydrogen gas, the rings have a thin atmosphere made of  hydroxide . This  anion  was discovered by the Hubble Space Telescope. ref cite web  url   http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...644L.137J db_key=AST data_type=HTML format= high=42bf06f4d906731%20The%20Enceladus%20and%20OH%20Tori%20at%20Saturn   title The Enceladus and OH Tori at Saturn  first  R.E. last Johnson  work SAO/NASA ADS Astronomy Abstract Service  year 2006  accessdate 2011-06-19 ref 
+
+ Spokes 
+ File:Voyager 2 - Saturn Rings - 3085 7800 2.png thumb|right|alt=The spokes in Saturn's rings|The spokes in Saturn's rings, photographed by Voyager 2 
+
+The Voyager space probe discovered features shaped like  ray s, called  spokes . ref name malik cite web  url   http://www.space.com/1554-cassini-probe-spies-spokes-saturn-rings.html   title Cassini Probe spies spokes in Saturn's rings  first Tariq  last Malik  work space.com  year 2005-09-15  accessdate 2011-04-26 ref  These were also seen later by the Hubble telescope. The Cassini probe  photograph ed the spokes in 2005. ref name malik  They are seen as dark when under sunlight, and appear light when against the unlit side. At first it was thought the spokes were made of microscopic dust particles but new evidence shows that they are made of ice. ref cite web  url   http://www.nasa.gov/mission_pages/cassini/media/cassini-070204.html   title Cassini exposes puzzles about ingredients in Saturn's rings  work Cassini: unlocking Saturn's secrets  publisher  National Aeronautics and Space Administration  year 2009-06-02  accessdate 2011-05-24 ref 
+They rotate at the same time with the planet's  magnetosphere , therefore, it is believed that they have a connection with  electromagnetism . However, what causes the spokes to form is still unknown. They appear to be  season al, disappearing during  solstice  and appearing again during  equinox . ref cite web  url   http://apod.nasa.gov/apod/ap090602.html   title Spoke's reappear on Saturn's rings  work Astronomy Picture Of The Day  publisher National Aeronautics and Space Administration  year 2009-06-02  accessdate 2011-04-26 ref 
+
+ Moons 
+
+Saturn has  List of Saturn's moons 53 named moons , and another nine which are still being studied. ref cite web  url   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn&Display=Moons   title Saturn: Moons  first   last   work Solar System exploration: planets  publisher National Aeronautics and Space Administration  year 2011  accessdate 2011-04-21 ref  Many of the moons are very small: 33 are less than  convert 10 km mi 0 lk off abbr on  in diameter and 13 moons are less than  convert 50 km mi 0 lk off abbr on . ref cite web  url   http://saturn.jpl.nasa.gov/science/moons/   title About Saturn and its moons  work Cassini Solstice Mission  publisher  National Aeronautics and Space Administration  year 2011  accessdate 2011-06-25 ref  Seven moons are large enough to be a near perfect  sphere  caused by their own  gravity gravitation . These moons are  Titan (moon) Titan ,  Rhea (moon) Rhea ,  Iapetus (moon) Iapetus ,  Dione (moon) Dione ,  Tethys (moon) Tethys ,  Enceladus (moon) Enceladus  and Mimas. ref name SpaceStottCarole cite book  last Stott  first Carole coauthors  Robert Dinwiddle, David Hughes, Giles Sparrow title Space url http://books.google.com/books?id=PA0Zj07An30C&source=gbs_navlinks_s publisher DK Books year 2010 isbn 978-0-7566-6738-2 page 161 accessdate 2011-06-20 ref  Titan is the largest moon, larger than the planet Mercury, and it is the only moon in the Solar System to have a thick, dense atmosphere. ref cite web  url   http://www.astrobio.net/index.php?option=com_retrospection&task=detail&id=1755   title Titan: a moon with atmosphere  first Chris  last McKay  work Astrobiology Magazine  year 2005-10-27  accessdate 2011-06-20 ref ref name Zubrin 
+ cite book  author Zubrin, Robert title Entering space: creating a spacefaring civilization  location Section: Titan  pages 163-166  publisher Tarcher/Putnam  year 1999  isbn 9781585420360 ref   Hyperion (moon) Hyperion  and  Phoebe (moon) Phoebe  are the next largest moons, larger than  convert 200 km mi 0 lk off abbr on  in diameter.
+
+In December 2004 and January 2005 a man-made satellite called the Cassini-Huygens probe took lots of close photos of Titan. One part of this satellite, known as the Huygens probe, then landed on Titan. Named after the Dutch astronomer Christiaan Huygens, it was the first spacecraft to land in the outer Solar System. ref name hug cite web  url   http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target&Target=Saturn&MCode=Huygens   title Huygens  work Solar System exploration  publisher National Aeronautics and Space Administration  year 2011  accessdate 2011-04-22 ref  The probe was designed to float in case it landed in liquid. ref name hug 
+Enceladus, the sixth largest moon, is about  convert 500 km mi 0 lk off abbr on  in diameter. It is one of the few outer solar system objects that shows  volcano volcanic  activity. ref name lloyd cite web  url   http://www.cosmosmagazine.com/news/4251/footprint-detected-one-saturns-moons   title Footprint detected from one of Saturn's moons  first James  last Lloyd work cosmosmagazine.com  year 2011-04-21   accessdate 2011-04-21 ref  In 2011, scientists discovered an electric link between Saturn and Enceladus. This is caused by  ionization ionised  particles from volcanos on the small moon interacting with Saturn's magnetic fields. ref name lloyd  Similar interactions cause the  aurora northern lights  on Earth. ref cite web  url   http://www.bbc.co.uk/news/science-environment-13131537   title Aurora from Saturn moon 'circuit'  first   last   work BBC News  publisher British Broadcasting Corporation  year 2011-04-21  accessdate 2011-07-06 ref 
+
+ Exploration 
+ File:Saturn from Cassini Orbiter (2007-01-19).jpg thumbnail|right|alt=Saturn from Cassini orbiter|Saturn as seen from the Cassini spacecraft in 2007 
+Saturn was first explored by the  Pioneer 11  spacecraft in September 1979. It flew as close as  convert 20000 km mi 0 lk off abbr on  above the planet's cloud tops. It took photographs of the planet and a few of its moons, but were low in  wikt:resolution resolution  (the quality was not very good). It discovered a new, thin ring called the F ring. It also discovered that the dark ring gaps appear bright when viewed towards the  Sun , which shows the gaps are not empty of material. The spacecraft measured the temperature of the moon Titan. ref cite web  url http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PN10&11.html   title The Pioneer 10 & 11 Spacecraft  archiveurl http://web.archive.org/web/20060130100401/http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PN10&11.html publisher Ames Research Center, NASA  date 2005-10-08   archivedate 2006-01-30  Mission Descriptions. Retrieved on 2007-07-05. ref 
+
+In November 1980, Voyager 1 visited Saturn, and took higher resolution photographs of the planet, rings and moons. These photos were able to show the surface features of the moons. Voyager 1 went close to Titan, and gained much information about its atmosphere. In August, 1981,  Voyager 2  continued to study the planet. Photos taken by the space probe showed that changes were happening to the rings and atmosphere. The Voyager spacecrafts discovered a number of moons orbiting close to Saturn's rings, as well as discovering new ring gaps.
+
+ File:Cassini Saturn Orbit Insertion.jpg thumbnail|right|Drawing of Cassini in orbit around Saturn 
+
+On July 1, 2004, the Cassini-Huygens probe entered into orbit around Saturn. Before then, it flew close to  Phoebe (moon) Phoebe , taking very high resolution photos of its surface and collecting data. On December 25, 2004, the Huygens probe separated from the Cassini probe before moving down towards Titan's surface and landed there on January 14, 2005. It landed on a dry surface, but it found that large bodies of liquid exist on the moon. The Cassini probe continued to collect data from Titan and a number of the icy moons. It found evidence that the moon Enceladus had water erupting from its  geyser s. ref cite web  url   http://science.nasa.gov/science-news/science-at-nasa/2006/09mar_enceladus/   title Radical! Liquid water on Enceladus   first   last   work Science News publisher National Aeronautics and Space Administration  year 2006-03-09   accessdate 2011-06-20 ref  Cassini also proved, in July 2006, that Titan had  Lakes of Titan hydrocarbon lake s, located near its north pole. In March 2007, it discovered a large hydrocarbon lake the size of the  Caspian Sea  near its north pole. ref cite news  url   http://news.bbc.co.uk/2/hi/science/nature/6449081.stm   title Probe reveals seas on Saturn moon  first Paul  last Rincon work BBC News  date 2007-03-14  publisher British Broadcasting Corporation  location London accessdate 2011-06-20 ref 
+
+Cassini observed  lightning  occurring in Saturn since early 2005. The power of the lightning was measured to be 1,000 times more powerful than lightning on Earth. Astronomers believe that the lightning observed in Saturn is the strongest ever seen. ref cite web  url   http://www.sciencedaily.com/releases/2006/02/060215090726.htm   title Astronomers find giant lightning storm at Saturn  first   last   work sciencedaily.com  year 2006-02-15   accessdate 2011-06-20 ref 
+
+ Notes 
+ note label 1bar a a Refers to the level of one bar  atmospheric pressure 
+ note label B_Center b b Orbital information is based on the  barycentre  of the Saturn system, the centre of  mass , not the  geometry geometric centre . Barycentre measurements are used because they are not changed by the daily movement of the moons. ref cite book
+ first1 James H.
+ last1 Shirley
+ first2 Rhodes W.
+ last2 Fairbridge
+ date 1997
+ title Encyclopedia of Planetary Sciences
+ publisher Springer
+ location New York
+ page 62 
+ url http://books.google.com/books?id=dw2GadaPkYcC&lpg=PA62&dq=Barycenter&pg=PA62#v=onepage&q&f=false 
+ isbn 9780412069512 
+ ref 
+
+ Related pages 
+   List of planets 
+
+ References 
+ reflist 2 
+
+ Other websites 
+ sisterlinks Saturn commonscat yes commons Saturn (planet) 
+   cite web  url   http://www.spacetelescope.org/images/?search=SATURN   title Images of Saturn  work spacetelescope.org  year 2011  accessdate 2011-06-19 
+   cite web  url   http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html   title Saturn Earth comparison  work Saturn fact Sheet  publisher NASA  year 2011  accessdate 2011-06-19 
+   cite web  url   http://www.affs.org/html/studies_on_the_rings_of_saturn.html   title Studies on the Rings of Saturn  last Vladimir V. Tchernyi, Andrew Ju. Pospelov, Serge V. Girich  work The Academy for Future Science  year 2009  accessdate 2011-06-19  Theoretical description of the rings of Saturn.
+ cite web  url   http://www.nasa.gov/mission_pages/cassini/multimedia/pia07966.html   title Eerie sounds of Saturn's radio emissions  first   last   work Cassini: unlocking Saturn's secrets publisher NASA  year 2008  accessdate 2011-06-19  A  WAV  file of radio emissions from Saturn.
+   cite web  url   http://www.jpl.nasa.gov/news/news.cfm?release=2007-034   title Bizarre hexagon on Saturn  first   last   work News and Features  publisher NASA  year 2011  accessdate 2011-06-19 
+
+ Solar System 
+
+ Use British English 
+
+ Category:Saturn  

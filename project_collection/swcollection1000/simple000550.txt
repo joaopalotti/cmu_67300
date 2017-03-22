@@ -1,0 +1,176 @@
+Zinc
+
+good 
+ Infobox element
+ name Zinc
+ pronounce IPAc-en ' z I NG k   respell zingk 
+ number  30
+ symbol Zn
+ left copper
+ right gallium
+ above -
+ below cadmium Cd 
+ series transition metal
+ series comment  sometimes considered a  post-transition metal 
+ group 12
+ period 4
+ block d
+ appearance gray-blue metal
+ image name Zinc fragment sublimed and 1cm3 cube.jpg
+ image size 200px
+ image alt A chunk of zinc
+ image name 2 comment 
+ atomic mass  65.38
+ electron configuration argon Ar  3d sup 10 sup  4s sup 2 sup 
+ electrons per shell 2, 8, 18, 2
+ phase solid
+ density gpcm3nrt 7.14
+ density gpcm3mp 6.57
+ melting point K 692.68
+ melting point C 419.53
+ melting point F 787.15
+ boiling point K 1180
+ boiling point C 907
+ boiling point F 1665
+ heat fusion 7.32
+ oxidation states +2 , +1, 0
+ oxidation states comment +1 is very rare
+ electronegativity 1.65
+ number of ionization energies 4
+ 1st ionization energy 906.4
+ 2nd ionization energy 1733.3
+ 3rd ionization energy 3833
+ atomic radius 1 E-10 m 134 
+ covalent radius 1 E-10 m 122+-4 
+ Van der Waals radius 1 E-10 m 139 
+ magnetic ordering diamagnetism diamagnetic 
+ electrical resistivity at 20 59.0 n
+ thermal conductivity 116
+ thermal expansion at 25 30.2
+ speed of sound rod at r.t. (rolled) 3850
+ Young's modulus 108
+ Shear modulus 43
+ Bulk modulus 70
+ Poisson ratio 0.25
+ Mohs hardness 2.5
+ Brinell hardness 412
+ CAS number 7440-66-6
+ 
+
+ Zinc , sometimes called  spelter , ref Citation url http://www.encyclo.co.uk/define/spelter title Spelter publisher Encyclo accessdate 2009-08-01 isbn 0665822448 ref  is a  chemical element . It is a  transition metal , a group of  metal s. It is sometimes considered a  post-transition metal . Its symbol on the  periodic table  is " Zn ". Zinc is the 30th element on the periodic table, and has an  atomic number  of 30. Zinc has a  mass number  of 65.38. It contains 30  proton s and 30  electron s. In total, 29  isotope s of zinc are known, and five of these occur in nature. Some isotopes are  radioactive decay radioactive . Their  half-life (element) half-lives  are between 40  millisecond s for  sup 57 sup Zn and 5x10 sup 18 sup  years for  sup 70 sup Zn.
+
+Zinc is a metal that is mostly used for  galvanizing  and  battery batteries . It is the fourth most common metal.
+
+ Properties 
+ Physical properties 
+Zinc is a shiny bluish grey metal. When it has just been cut, zinc has a whitish-grey color. If it is exposed to  air , it will not stay shiny for long. Its melting point is at ( convert 419.58 C F ) and boiling point is ( convert 907.0 C F ). This temperature is lower than most  transition metal s but higher than  tin  or  lead . It can be melted on a cooking stove. It boils at a low temperature for a metal. ref name ZincMetalProps Citation  url http://www.galvanizeit.org/aga/designing-fabricating/design-considerations/zinc-metal-properties title Zinc Metal Properties publisher American Galvanizers Association year 2008 accessdate 2009-02-15 ref  It is not magnetic. When heated a little, it becomes very flexible. If it is heated more, it becomes very  wikt:brittle brittle . ref Citation url http://books.google.com/?id=SSkKAAAAIAAJ title The Useful Metals and Their Alloys first John last Scoffern publisher Houlston and Wright year 1861 pages 591-603 accessdate 2009-04-06 ref  It forms  alloy s easily with other metals.
+
+ Chemical properties 
+Zinc is a  reactive  metal. It is about as reactive as  aluminium  and more reactive than most of the more common metals, such as  iron ,  copper ,  nickel , and  chromium chrome . It is less reactive than  magnesium . Zinc can react with  acid s,  base (chemistry) bases , and  nonmetal s. ref Citation last Hinds first John Iredelle Dillard title Inorganic Chemistry: With the Elements of Physical and Theoretical Chemistry publisher John Wiley & Sons location New York year 1908 edition 2nd pages 506-508 url http://books.google.com/?id=xMUMAAAAYAAJ ref  It does not rust in air, though. A coating of  zinc oxide  and  zinc carbonate  forms on the surface of the zinc when it is in air. ref Citation publisher CRC Press year 1994 page 121 isbn 0824792130 title Corrosion Resistance of Zinc and Zinc Alloys  first Frank C. last Porter ref  This coating stops corrosion. Acids can dissolve this coating and react with the zinc metal. ref name Holl Citation publisher Walter de Gruyter year 1985 edition 91-100  pages 1034-1041 isbn 3110075113 title Lehrbuch der Anorganischen Chemie first Arnold F. last Holleman coauthors Wiberg, Egon; Wiberg, Nils; language German chapter Zink ref  This reaction of zinc with an acid makes a zinc(II) salt such as  zinc chloride  and  hydrogen  gas. This is a very common chemical reaction. The reaction below is the reaction with  hydrochloric acid .
+
+ Zn + 2HCl - ZnCl sub 2 sub  + H sub 2 sub 
+ File:Zinc burning.JPG thumb|Zinc burning 
+Zinc can burn when powdered or in small pieces to make zinc oxide, a white powder. The flame is bright blue-green. ref cite web  url http://www.scorecard.org/chemical-profiles/html/zinc.html   title  Zinc--overview author   date   work   publisher chemistryexplained.com  accessdate 2010-11-07 ref 
+
+  2 Zn + O sub 2 sub  - 2 ZnO
+
+Zinc oxide can  Solvation dissolve  in strong bases. This reaction happens in some batteries that have zinc in them.
+
+  ZnO + H sub 2 sub O + 2 OH sup - sup  - Zn(OH) sub 4 sub sup 2- sup .
+
+Zinc is a  chalcophile . This means that it would rather react with sulfur and elements below it on the periodic table than oxygen. That is why zinc sulfide is the most common zinc ore, not zinc oxide.
+
+ Chemical compounds 
+ See also :Category:Zinc compounds 
+Zinc can make chemical compounds with other elements. These chemical compounds are only in one  oxidation state : +2. A +1 compound has been found but it is hard to make. There are no other oxidation states other than +1 or +2. ref Citation last Brady first James E. coauthors Humiston, Gerard E.; Heikkinen, Henry title General Chemistry: Principles and Structure publisher John Wiley & Sons year 1983 edition 3rd page 671 isbn 047186739X ref  Most of these compounds have no color. If they have a color, it is not the zinc that is making the color.
+
+ Zinc chloride  is one of the most common zinc compounds. They are quite unreactive. They are a little acidic when dissolved in water. They make a green flame when heated in a fire.
+
+Other zinc compounds are:
+ Zinc antimonide , gray semiconductor
+ Zinc arsenide , orange semiconductor
+ Zinc bromide , a shield against radiation
+ Zinc carbonate , ore of zinc
+ Zinc fluoride 
+ Zinc hydroxide , used in surgical bandages
+ Zinc iodide , used in X-ray picture-taking
+ Zinc nitrate , used as a mordant
+ Zinc oxide , used in sunscreen
+ Zinc phosphate , used in dentistry
+ Zinc sulfate , used in pigments
+ Zinc sulfide , common zinc ore
+
+ gallery 
+File:Zinc chloride.jpg|Zinc chloride
+File:Zinc oxide.jpg|Zinc oxide
+File:Zinc Sulfate.jpg|Zinc sulfate
+ gallery 
+
+ Where zinc is found 
+
+Five  isotope s of zinc are found in nature.  sup 64 sup Zn is the most common isotope, with 48.63% of naturally occurring Zinc. ref name NNDC Citation url http://www.nndc.bnl.gov/chart/ author NNDC contributors editor Alejandro A. Sonzogni (Database Manager) title Chart of Nuclides publisher National Nuclear Data Center,  Brookhaven National Laboratory accessdate 2008-09-13 year 2008 location Upton (NY) ref  This isotope has a  half-life (element) half-life  of 4.3x10 sup 18 sup  years. ref harvnb CRC 2006 p 11 -70 ref  This is so long, that its radioactivity can be ignored. ref name NASA Citation title Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Data Processing, Sky Maps, and Basic Results url http://lambda.gsfc.nasa.gov/product/map/dr3/pub_papers/fiveyear/basic_results/wmap5basic.pdf publisher NASA accessdate 2008-03-06 author NASA contributors format PDF ref  Similarly,  chem 70 Zn  (0.6%), with a half life of 1.3x10 sup 16 sup  years  is usually considered to not be radioactive. The other isotopes found in nature are  chem 66 Zn  (28%),  chem 67 Zn  (4%) and  chem 68 Zn  (19%).
+
+ File:Sphalerite.jpg thumb|Sphalerite, a common zinc ore 
+Zinc is not found as a metal in the earth's  crust (geology) crust . Zinc is only found as zinc compounds.  Sphalerite , a  mineral  that is made of  zinc sulfide , is a main  ore  of zinc. Very little zinc is in the ocean. Zinc ore is normally found with copper and lead ores.
+
+There are some other zinc ores, such as  smithsonite  (zinc carbonate) and a zinc  silicate  mineral. They are less common.
+
+ Preparation 
+The zinc sulfide is concentrated by  flotation . There is a  detergent  that collects the zinc sulfide. The impurities sink to the bottom and are removed. Then the zinc sulfide is heated in air to make zinc oxide and  sulfur dioxide . ref name Zinchand Citation url http://books.google.com/?id=laACw9i0D_wC title Zinc Handbook first Frank C. last Porter publisher CRC Press year 1991 isbn 9780824783402 ref 
+
+ 2 ZnS + 3 O sub 2 sub  - 2 ZnO + 2 SO sub 2 sub 
+
+The sulfur dioxide is oxidized to  sulfur trioxide .
+
+ 2 SO sub 2 sub  + O sub 2 sub  - 2 SO sub 3 sub 
+
+The sulfur trioxide reacts with the zinc oxide to make zinc sulfate. ref Citation title Hydrometallurgy in Extraction Processes last Gupta first C. K. coauthors Mukherjee, T. K. page 62 publisher CRC Press isbn 0849368049 year 1990 ref  This makes a  Solubility soluble  form of zinc which can be processed more.
+ SO sub 3 sub  + ZnO - ZnSO sub 4 sub 
+
+The zinc sulfate is purified and  electrolysis electrolyzed . ref name Zinchand  This electrolysis makes  oxygen , zinc, and  sulfuric acid . This makes a pure zinc that is known as "SHG" or special high grade. ref Citation title Special High Grade Zinc (SHG) 99.995% url http://nyrstar.com/nyrstar/en/products/zinccongalvanising/techdownloads/shg_budel.pdf format PDF  accessdate 2008-12-01 year 2008 publisher Nyrstar ref 
+
+ 2 ZnSO sub 4 sub  + 2 H sub 2 sub O - 2 Zn + 2 H sub 2 sub SO sub 4 sub  + O sub 2 sub 
+
+The sulfuric acid is reused in place of the sulfur trioxide to leach more zinc oxide.
+
+Zinc oxide can also be  reduction (chemistry) reduced  by  carbon  to zinc metal and carbon dioxide at high temperatures. ref Citation last Bodsworth first Colin title The Extraction and Refining of Metals page 148 year 1994 isbn 0849344336 publisher CRC Press ref  This is a  blast furnace  process similar to how  iron  is made.
+
+ 2 ZnO + C - 2 Zn + CO sub 2 sub 
+
+This form of zinc is cheaper but is not pure.
+
+Zinc is the fourth most common metal in the world. ref name ZincUSGS2006 Citation  url http://minerals.usgs.gov/minerals/pubs/commodity/zinc/myb1-2006-zinc.pdf page Table 15 title Zinc: World Mine Production (zinc content of concentrate) by Country work 2006 Minerals Yearbook: Zinc publisher United States Geological Survey location Washington, D.C. date February 2008 accessdate 2009-01-19 ref  About 10 million tons are made every year. ref name ZincUSGS2006 
+
+ Uses 
+ As a metal 
+ File:Feuerverzinkte Oberflache.jpg thumb|A hot-dipped galvanized item 
+ File:Duracell AA batteries.JPG thumb|Common alkaline batteries. These batteries have a bluish-gray zinc powder in the middle of the battery. 
+Zinc is used in electrical  battery batteries . ref Citation first Jurgen O. last Besenhard title Handbook of Battery Materials accessdate 2008-10-08 publisher Wiley-VCH url http://www.ulb.tu-darmstadt.de/tocs/60178752.pdf format PDF isbn 3527294694 year 1999 ref ref Citation doi 10.1016/0378-7753(95)02242-2 year 1995 title Recycling zinc batteries: an economical challenge in consumer waste management first J. -P. last Wiaux coauthors Waefler, J. -P. journal Journal of Power Sources volume 57 page 61 ref  The  alkaline cell  and the  Leclanche cell  are the ones that use zinc the most. It becomes  oxidation oxidized  and provides electrons for the battery to run.
+
+About 59% of zinc is used for  corrosion  prevention, which includes  galvanizing . 47% of the world's zinc is used for galvanizing. ref name NRC2006 Citation publisher Natural Resources Canada
+ title Zinc last Panagapko first Doug accessdate 2008-12-12 year 2006 url http://info.wlu.ca/~wwwgeog/special/vgt/English/can_mod2/unit7.htm ref  This is used to protect another metal, usually iron, from rusting. The zinc coating corrodes instead of the iron. The zinc coating can be placed on the metal in two ways. The metal can be dipped into a pot of melted zinc. The zinc can also be  electroplating electroplated  on to the metal. Dipping lasts longer but has a patchy surface that some do not think looks nice. It is also used in motorboats and pipelines to slow  rust ing. ref Citation title A comparative study of the electrochemical behaviour of Algerian zinc and a zinc from a commercial sacrificial anode first M. coauthors Salhi, E.; Benzine, K.; Ghali E.; Dalard F. last Bounoughaz journal Journal of Materials Science volume  38 page 1139 doi 10.1023/A:1022824813564 year 2003 ref  The motor of a motorboat often has a "bullet" of zinc, that will corrode easily, but will help other metal parts of the motor to stay rust free.
+
+Zinc is used in alloys.  Brass  is an alloy of  copper  and zinc. Brass is the most common zinc alloy. Zinc can form alloys with many other metals.  Zinc aluminium  is an alloy of zinc and aluminium, which makes good  bearing s.  wikt:commercial Commercial   bronze  has zinc in it. Sometimes  cadmium telluride  is reacted with zinc to make cadmium zinc telluride, a  semiconductor .  Nickel silver  is another zinc alloy.
+
+Zinc can be used in the pipes of a  pipe organ . An alloy of  tin  and  lead  was used in the past. ref Citation first Douglas Earl last Bush coauthor Kassel, Richard title The Organ: An Encyclopedia isbn 9780415941747 url http://books.google.com/?id=cgDJaeFFUPoC publisher Routledge year 2006 page 679 ref  Zinc is used in the US penny, where it only has a thin layer of copper. The core is zinc. ref name onecent Citation url http://www.usmint.gov/about_the_mint/?action=coin_specifications publisher United States Mint accessdate 2008-10-08 title Coin Specifications ref  Older pennies were made completely out of  bronze .
+
+A mixture of  powder ed zinc and sulfur can be used to propel a  model rocket . This reaction makes zinc sulfide, heat, light, and gases. ref name ZnS Citation url http://www.angelo.edu/faculty/kboudrea/demos/zinc_sulfur/zinc_sulfur.htm title Zinc + Sulfur last Boudreaux first Kevin A publisher Angelo State University accessdate 2008-10-08 ref  Zinc sheet metal is used to make zinc  wikt:bar bars . ref Citation title Technical Information year 2008 publisher Zinc Counters  url http://www.zinccounters.co.uk/html/tech/tech.htm accessdate 2008-11-29 ref 
+
+ As zinc compounds 
+About 1/4 of zinc is used to make zinc compounds. Zinc oxide can be used for  sunscreen  or paint  pigment . Zinc oxide also is a  semiconductor . ref Citation last Zhang first Xiaoge Gregory title Corrosion and Electrochemistry of Zinc publisher Springer year 1996 page 93 isbn 0306453347 url http://books.google.com/?id=Qmf4VsriAtMC ref  Zinc chloride is used to preserve wood so it does not rot. ref Citation title Wood preservatives last Blew first Joseph Oscar year 1953 publisher Department of Agriculture, Forest Service, Forest Products Laboratory url http://hdl.handle.net/1957/816 ref  Some  fungicide s have zinc in them. Zinc sulfate is used in dyes and pigments. Zinc sulfide is used in  fluorescent bulb s to convert the  ultraviolet  light to visible light.
+
+ In biology 
+Humans need a little bit of zinc to help their body run well. ref Citation author Prasad A. S. title Zinc in human health: effect of zinc on immune cells journal Mol. Med. volume 14 page 353 year 2008 pmid 18385818 pmc 2277319 doi 10.2119/2008-00033.Prasad issue 5-6 ref  If they do not get enough zinc in their food, they can get a mineral  wikt:deficiency deficiency . Almost two billion people have a zinc deficiency. ref name Prasad2003 Citation last Prasad first  A. S. title Zinc deficiency journal British Medical Journal volume 326 page 409 year 2003 pmid 12595353 pmc 1125304 doi 10.1136/bmj.326.7386.409 issue 7386 ref  Zinc deficiency makes one more easily get infections. Some people say that when we get colds, we should take more zinc. Others say that zinc does not make a difference. ref Cite web  title Zinc and Health : The Common Cold  url http://ods.od.nih.gov/factsheets/zinc.asp#h7   publisher Office of Dietary Supplements,  National Institutes of Health   accessdate 2010-05-01 ref  There are medicines that one can use when they have a cold. ref Citation last Ananda S. first Prasad coauthors Fitzgerald, James T.; Bao, Bin; Beck, Frances W.J.; Chandrasekar, Pranatharthi H. url http://www.annals.org/cgi/reprint/133/4/245.pdf title Duration of Symptoms and Plasma Cytokine Levels in Patients with the Common Cold Treated with Zinc Acetate: A Randomized, Double-Blind, Placebo-Controlled Trial journal Annals of Internal Medicine year 2000 volume 133 issue 4 page 245 format PDF ref  People add tiny amounts of zinc compounds to  vitamin  pills and  cereal s to make sure that they get enough zinc. Most single-tablet vitamins have zinc in them. ref name DiSilvestro2004 Citation last DiSilvestro first Robert A. title Handbook of Minerals as Nutritional Supplements year 2004 publisher CRC Press pages 135, 155 isbn 0849316529 ref  Zinc is found in at least 100  enzyme s. ref name Cotton1999bio harvnb Cotton 1999 pp 625-629 ref  It is the second most common transition metal other than iron. Zinc also is used by the  brain . The human body contains 2 to 4 grams of zinc. A zinc enzyme helps remove  carbon dioxide  from blood.  Wheat  has much zinc in it.
+
+ Safety 
+Large amounts of zinc metal are  toxic . It can dissolve in stomach acid. When too much zinc is eaten, copper and iron levels go down in the body. Zinc compounds can be corrosive in the stomach. ref Citation title Chronic Ingestion of a Zinc-Based Penny first Dawn N. last Bothwell coauthors Mair, Eric A.; Cable, Benjamin B. journal Pediatrics volume 111 page 689 year 2003 doi 10.1542/peds.111.3.689 pmid 12612262 issue 3 ref  Zinc compounds put in the nose can ruin the sense of smell. ref name LAT cite web  url http://www.latimes.com/news/nationworld/nation/la-sci-zicam17-2009jun17,0,3013664.story   title FDA says Zicam nasal products harm sense of smell  author   date 17 June 2009  work   publisher Los Angeles Times   accessdate 17 June 2009 ref 
+
+Zinc  ion s are very toxic to fish and many things that live in water. ref Citation journal Contaminant Hazard Reviews year 1993 issue 10 title Zinc Hazard to Fish, Wildlife, and Invertebrates: A Synoptic Review last Eisler first Ronald publisher U.S. Department of the Interior, Fish and Wildlife Service location Laurel, Maryland format PDF url http://www.pwrc.usgs.gov/infobase/eisler/chr_26_zinc.pdf ref 
+
+ References 
+ reflist 2 
+
+ Periodic Table 
+
+ Category:Chemical elements 
+ Category:Transition metals

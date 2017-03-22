@@ -1,0 +1,19 @@
+Search engine
+
+A  web search engine  is a type of  website  that helps a computer user find information on the  Internet . It does this by looking through other  web pages  for the text the user wants to find. The software that does this is known as a  Search engine (computing) search engine .
+
+To use a search engine you must enter at least one keyword in to the search box.  Usually an on-screen button must be clicked on to submit the search.  The search engine looks for matches between the keyword(s) entered and its database of websites and words.
+
+Quickly after a search is submitted the results appear on screen.  This is called a search engine results page (SERP).   The SERP is a list of webpages that contain matches to the keywords that were searched.  The SERP usually shows web pages names, short descriptions and a link for each matching web page. The user can click on any of the links to go to one of the websites.  
+
+Search engines are some of the most advanced websites on the web.  They use special computer code to sort the web pages on SERPs.  The most popular or highest quality web pages will be near the top of the list. 
+
+When a user types words into the search engine, it looks for web pages with those words. There could be thousands, or even millions, of web pages with those words. So, the search engine helps users by putting the web pages it thinks the user wants first.
+
+Search engines are very useful to find information about anything quickly and easily.  Using more keywords or different keywords improves the results of searches.  
+
+ Google ,  Yahoo! ,  Ask.com ,  Forestle  and  Bing  are popular search-engine websites. Some older services include  Webcrawler ,  Lycos , and  Alta Vista .
+
+A search service may also include a  portal  with news, games, and more information besides a search engine.  Yahoo!  has a popular portal, and  MSN Search  is part of the  MSN  portal, while  Google  has a simple design on its front page. Search services usually work without charging money for finding sites, and are often supported with text or banner advertisements.
+
+ Category:Internet

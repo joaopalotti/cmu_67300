@@ -1,0 +1,51 @@
+Graph theory
+
+File:6n-graf.svg thumb|300px|right|An undirected graph. 
+
+ Graph theory  is a field of  math ematics about graphs. A  graph  is an  abstract  representation of: a number of  point (geometry) point s that are connected by  line s. Each point is usually called a  vertex  (more than one are called  vertices ), and the lines are called  edges .  Graphs are a tool for modelling relationships. They are used to find answers to a number of problems.
+
+Some of these questions are:
+  What is the best way for a  mailman  to get to all of the  house s in the area in the least amount of  time ? The points could represent  street  corners and lines could represent the houses along the street. (see  Chinese postman problem )
+
+  A salesman has to visit different customers, but wants to keep the distance traveled as small as possible. The problem is to find a way so they can do it. This problem is known as  Travelling Salesman Problem  (and often abbreviated  TSP ). It is among the hardest problems to solve. If a commonly believed  conjecture  is true (described as  P  [?]  NP ), then an exact solution requires one to try all possible routes to find which is shortest.
+
+  How many colors would be needed to color a map, if countries sharing a border are colored differently? The points could represent the different areas and the lines could represent that two areas are neighboring. (look at the  Four color theorem )
+
+  Can a sketch be drawn in one closed line? The lines of the drawing are the lines of the graph and when two or more lines collide, there is a point in the graph. The task is now to find a way through the graph using each line one time. (look at  Seven Bridges of Konigsberg )
+
+  Different kinds of Graphs  
+ File:Directed.svg 125px|thumb|A directed graph. 
+ Graph theory has many aspects. Graphs can be directed or undirected. An example of a directed graph would be the system of roads in a city. Some streets in the city are one way streets. This means, that on those parts there is only one direction to follow.
+ Graphs can be weighted. An example would be a road network, with distances, or with  toll s (for roads).
+ The nodes (the circles in the schematic) of a graph are called  vertex vertices . The lines connecting the nodes are called  edge s. There can be no line between two nodes, there can be one line, or there can be multiple lines.
+
+ History 
+ complex date May 2012 
+ File:Konigsberg bridges.png thumb|200px|The Konigsberg Bridge problem, on a city map 
+ File:Konigsberg_graph.svg thumb|200px|The same problem, but using a graph 
+
+ Leonhard Euler  used to live in a city that was called  Konigberg  for some time. (The city has been called  Kaliningrad  since 1946). The city is situated on the river Pregel. There is an island in the river, and there are a number of bridges across the river. Euler loved to go for walks, so he asked himself, whether it was possible to do a walk, use each of the bridges once, and come back to the point where he started. In 1736, he published a scientific article where he showed that this was not possible. Today, this problem is known as the  Seven Bridges of Konigsberg . The article is seen as the first paper in the history of graph theory. ref name Biggs cite book author Biggs, N.; Lloyd, E. and Wilson, R. title Graph Theory, 1736-1936 publisher Oxford University Press year 1986 ref   
+
+This article, as well as the one written by  Alexandre-Theophile Vandermonde Vandermonde  on the  Knight's tour knight problem ,  carried on with the  analysis situs  initiated by  Gottfried Leibniz Leibniz . Euler's formula was about the number of edges, vertices, and faces of a  convex   polyhedron  was studied and generalized by  Augustin Louis Cauchy Cauchy ref name Cauchy cite journal author Cauchy, A.L. year 1813 title Recherche sur les polyedres - premier memoire journal Journal de l' Ecole Polytechnique volume  9 (Cahier 16) pages 66-86 ref  and  Simon Antoine Jean L'Huillier L'Huillier , ref name Lhuillier cite journal author L'Huillier, S.-A.-J. title Memoire sur la polyedrometrie journal Annales de Mathematiques volume 3 year 1861 pages 169-189 ref  and is at the origin of  topology .
+
+Over a century after Euler,  Arthur Cayley Cayley  studied a special class of graphs, called the  tree (graph theory) trees . A tree is a graph where there is only one path between two vertices.  Cayley tried to solve a problem from  differential calculus . His solution influenced the development of theoretical  chemistry . The technique he used mainly focused on listing all graphs which had certain properties. Today, this is called  Enumerative graph theory . It developed from Cayleys results, a scientific publication done by   George Polya Polya  between 1935 and 1937 and the generalization of these by  Nicolaas Govert de Bruijn De Bruijn  in 1959. Cayley linked his results on trees with the contemporary studies of chemical composition. ref name Cayley1 cite journal author Cayley, A. year 1875 journal Berichte der deutschen Chemischen Gesellschaft title Ueber die Analytischen Figuren, welche in der Mathematik Baume genannt werden und ihre Anwendung auf die Theorie chemischer Verbindungen volume 8 pages 1056-1059 doi 10.1002/cber.18750080252 ref 
+
+The fusion of the ideas coming from mathematics with those coming from chemistry is at the origin of a part of the standard terminology of graph theory. In particular, the term "graph" was introduced by  James Joseph Sylvester Sylvester  in an article published in 1878 in  Nature (journal) Nature . ref name Sylvester cite journal author Sylvester, J.J. year 1878 journal Nature title Chemistry and Algebra volume 17 pages 284 doi 10.1038/017284a0 ref 
+
+One of the most famous and productive problems of graph theory is the  four color problem : "Is it true that any map drawn in the plane may have its regions colored with four colors, in such a way that any two regions having a common border have different colors?" This problem was first posed by  Francis Guthrie  in 1852 and its first written record is in a letter of  Augustus De Morgan De Morgan  addressed to  William Rowan Hamilton Hamilton  the same year. Many incorrect proofs have been proposed, including those by Cayley,  Alfred Bray Kempe Kempe , and others. The study and the generalization of this problem by  Peter Guthrie Tait Tait ,  Percy John Heawood Heawood ,  Frank P. Ramsey Ramsey  and  Hugo Hadwiger Hadwiger  led to the study of the colorings of the graphs embedded on surfaces with arbitrary  Genus (mathematics) genus .  Tait's reformulation generated a new class of problems, the  factorization problems , particularly studied by  Julius Petersen Petersen  and  Denes Konig Konig . The works of Ramsey on colorations and more specially the results obtained by  Pal Turan Turan  in 1941 was at the origin of another branch of graph theory,  extremal graph theory .
+
+The four color problem remained unsolved for more than a century. A proof produced in 1976 by  Kenneth Appel  and  Wolfgang Haken , ref name AA1 cite journal author Appel, K. and Haken, W. title Every planar map is four colorable. Part I. Discharging journal Illinois J. Math. volume 21 year 1977 pages 429-490 ref ref name AA2 cite journal author Appel, K. and Haken, W. title Every planar map is four colorable. Part II. Reducibility journal Illinois J. Math. volume 21 year 1977 pages 491-567 ref  which involved checking the properties of 1,936 configurations by computer, was not fully accepted at the time due to its complexity. A simpler proof considering only 633 configurations was given twenty years later by  Neil Robertson (mathematician) Robertson ,  Paul Seymour (mathematician) Seymour ,  Daniel Sanders (mathematician) Sanders  and  Robin Thomas (mathematician) Thomas . ref name RSST cite journal author Robertson, N.; Sanders, D.; Seymour, P. and Thomas, R. title The four color theorem journal Journal of Combinatorial Theory Series B volume 70 year 1997 pages 2-44 doi 10.1006/jctb.1997.1750 ref 
+
+The autonomous development of topology from 1860 and 1930 fertilized graph theory back through the works of  Camille Jordan Jordan ,  Kazimierz Kuratowski Kuratowski  and  Hassler Whitney Whitney . Another important factor of common development of graph theory and topology came from the use of the techniques of modern algebra. The first example of such a use comes from the work of the physicist  Gustav Kirchhoff , who published in 1845 his  Kirchhoff's circuit laws  for calculating the  voltage  and  Electric current current  in  electric circuit s.
+
+  Graph theory in perspective  
+Graph theory is an important part of mathematics and computer science. To many such problems, exact solutions do exist. Many times however, they are very hard to calculate. Therefore, very often,  approximation s are used. There are two kinds of such approximations,  Monte-Carlo algorithm s and  Las-Vegas algorithm s.
+
+Graphs are normally represented by two different sets, typically set a graph G would be represented as the collection of the sets V and E. The set V is a discrete set containing all vertices of the graph. The set E is a binary set, whose pairwise elements are elements of set V. Each pair in set E represents an edge connecting two vertices.
+
+If every two nodes have an edge between them, then the graph is called the  complete graph''.
+
+ References 
+ reflist 2 
+
+ Category:Graph theory  

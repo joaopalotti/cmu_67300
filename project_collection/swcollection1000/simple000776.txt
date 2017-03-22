@@ -1,0 +1,52 @@
+Engineering
+
+File:Windmills D1-D4 - Thornton Bank.jpg thumb| Engineers from different fields need to work together to make  wind turbines  at sea 
+ Engineering  is the use of  science  and  math  to design or make  wikt:thing things . People who do engineering are called  engineer s. They learn engineering at a  college  or  university . Engineers usually  design  or build things. Some engineers also use their skills to solve technical problems. There are different types of engineers that design everything from  computers  and  buildings  to watches and websites.
+
+  What is it?  
+Engineering is a big subject. Here are a few of the many types of engineers:
+
+   aerospace engineering Aerospace engineers  design space vehicles or airplanes. 
+   biomedical engineering Biomedical engineers  design and work with medical equipment.
+   chemical engineering Chemical engineers  use chemicals to make products like drugs and medicines or fertilizers for crops.
+   civil engineering Civil engineers  work on roads, bridges, buildings and other public structures.
+   computer engineering Computer engineers  design and build computers and the parts that computers are made of.
+   electrical engineering Electrical engineers  work with  electricity  and design electrical equipment, from small things like radios and computers to large things like the wires that carry electricity across the country.
+   electronic engineering Electronic engineers  work with  electronics , which are used to build computer parts and electrical equipment. 
+   environment Environmental engineers  design and implement solutions to remediate and restore the environment. 
+   manufacturing engineering Manufacturing engineers  design and improve the machines and assembly lines that make things. They work with robots, hydraulics and air-operated devices to help companies work faster and better with fewer mistakes.
+   mechanical engineering Mechanical engineers  design machines or things that move, like cars and trains. A mechanical engineer also might help design electricity generating stations, oil refineries, and factories.
+   mechatronics engineering Mechatronics engineers  work in multiple fields of engineering that include mechanical engineering, electrical engineering,  telecommunication s engineering,  control engineering  and computer engineering. 
+   Marine Engineering Marine Engineers  design, build, test and repair boats, ships, underwater craft, focusing primarily on their internal systems.  
+   nanotechnology Nanotechnology engineers  study very small things, like strings of atoms and how they are put together.
+   nuclear engineering Nuclear engineers  design and build nuclear plants. They also study the characteristic behaviors of certain radioactive or unstable elements.
+   Structural engineering Structural engineers  are dealing with  design  and  analysis  of  building s and large non-building  structure s to withstand both the  gravity  and  wind  loads as well as  natural disaster s.
+   software engineering Software engineers  design and write programs for computers.
+   systems engineering Systems engineers  look at how complicated things work and try to make them faster and smarter. 
+Engineers do not only work with machines. They also work a lot with other people. ref http://www.niee.org/nafta.html Principles of Ethical conduct in Engineering Practice Under The North American Free Trade Agreement ref  Many engineering projects are large and very complicated. Often  Interdisciplinarity different kinds  of engineers work together and help each other. As an example, computer engineers need help from electrical engineers to build a computer. The computer needs programs written by software engineers. The computer could be used by aerospace engineers to control an airplane. An airplane is a big mechanical system with many parts, so a mechanical engineer and a systems engineer are also needed.
+
+  Study  
+Most (but not all) engineers have had years of training. Much of their training involves working within a limited  budget  and materials.
+
+  American courses  
+In the  United States , most engineers go to a college or university to get an engineering degree. Most people go to school for four years to get a Bachelor's degree in engineering. A Master's Degree is an advanced degree, usually requiring two more years of study after the Bachelors. A person with a Master's degree is eligible to enter a Doctoral program in engineering. A graduate of a Doctoral program is awarded a  Doctor of Philosophy  degree, which is commonly called a PhD. A PhD in engineering requires three or four years of study after a Master's degree, and includes the completion of a long research report called a dissertation. After having gained enough work experience, one can sit for their Professional Engineer's (PE) License, reinforcing their demonstrated proficiency in their speciality.
+
+  British courses  
+In the  United Kingdom , engineering degrees at universities are either three year BEng (Bachelor of Engineering) or four year MEng (Master of Engineering). In many universities it is common to take only one engineering discipline (e.g. aeronautical or civil engineering) although some universities have a general engineering degree. British universities may also offer Doctoral programs as a doctor of philosophy (PhD) or a doctor of engineering (EngD).
+
+Engineers can also get additional recognition in the form of becoming Chartered. A chartered engineer is one who has his degree or doctorate has been recognised by a group of professionals such as the IET (Institute of Engineering and Technology), IMechE (Institution of Mechanical Engineers), IChemE (Institution of Chemical Engineers) or ICE (Institution of Civil Engineers). Experience and responsibility enables a further step of recognition by becoming a Fellow of these institutions.
+
+  French courses  
+The best way to become an engineer in France is to take the CPGE (Classe Preparatoire pour les  Grande ecole Grandes Ecoles  is the French class for engineer's school) for two years and then study for three years in an "Ecole d'Ingenieur" (Engineer's school).
+You can also study in an IUT (Institut universitaire technologique) for two years, and then study three years in an "Ecole d'Ingenieur".
+
+  Notes  
+ reflist 
+
+  Other websites  
+ Wiktionary engineering 
+ commonscat 
+   http://en.citizendium.org/wiki/Engineering Engineering  Citizendium
+
+ Category:Technology 
+ Category:Engineering  

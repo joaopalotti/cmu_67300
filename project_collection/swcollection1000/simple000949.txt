@@ -1,0 +1,59 @@
+Kilogram
+
+Infobox Unit
+  bgcolour  
+  name   kilogram
+  image    File:CGKilogram.jpg 250px 
+  caption   A computer image of the  International Prototype Kilogram . It is the kilogram. It sits next to an inch-based ruler for scale. Like the other prototypes, the edges of the IPK have a four-angle  broken wikt link chamfer chamfer  to minimize wear (although only three can be seen in this image). 
+  standard    SI base unit 
+  quantity    Mass 
+  symbol   kg
+  namedafter  
+  units1    Natural units 
+  inunits1    val 5.609 e 29 ul MeV/c2 
+  units2    Imperial units 
+  inunits2   2.20462262  pound (mass) lbs 
+  units3  
+  inunits3  
+  units4  
+  inunits4  
+  units5  
+  inunits5  
+ 
+The  kilogram  or  kilogramme ref group Note The spelling  kilogram  is used by the International Committee for Weights and Measures (CIPM) and the U.S. National Institute of Standards and Technology (NIST). Sometimes the spelling  kilogramme  is used in British English. ref  is a  International System of Units metric  unit of  mass . The official kilogram is the mass of one piece of  platinum - iridium  metal kept in  Paris . The piece of metal is known as  Prototype Kilogram ref name FirstCGPM 
+ cite web   publisher   BIMP   url    http://www.bipm.org/en/CGPM/db/1/1/    title   Resolution of the 1st CGPM (1889) ref  ( IPK ). ref group Note Also known by its French-language name  lang fr Le Grand K . ref  It is now the only metric unit which is defined as an object. ref http://www.bipm.org/en/si/si_brochure/appendix2/ SI  Practical Realization  brochure ref  
+
+There are attempts to define the kilogram in other ways. One example specifies a number of  atom s of a certain substance (at a certain temperature). 
+
+One kilogram is a little more than 2.2  Pound (mass) pounds . One  tonne  is one thousand kilograms. One  litre  of  water  weighs almost exactly one kilogram, at 3.98deg  centigrade , at sea level. This was the basis of the definition of the  gram  in 1795.
+
+  History  
+In 1879, the piece of metal was made. It was officially chosen to be the kilogram in 1889. It was made of 90% platinum and 10% iridium. ref name Practical realization 
+ cite web   publisher   BIMP   url    http://www.bipm.org/en/si/si_brochure/appendix2/mass.html    title  Practical realization of the definition of the kilogram ref   Those metals were chosen because they do not  rust  or  corrosion corrode  like most metals. It is stored in a vault at the  International Bureau of Weights and Measures BIPM  in  Sevres , France. From 1795 to 1799, the unit of mass was not called "kilogram"  but was called " grave (mass) grave ".  
+
+The original kilogram is kept inside bell jars. Over time, dust can collect on it. Before it is measured, it is cleaned to get the original size. ref name Practical realization 
+
+  Kilograms and mass  
+ File:Little girl on swing.jpg thumb|right|260px|The chains on the swing hold the child's weight. If one were to stand behind her and try to stop her, one would be acting against her inertia. This inertia comes from her mass, not weight. 
+The kilogram is a unit of  mass . In normal language,  measurement measuring  mass defines how  heavy  is something. This is not scientifically correct. Mass is an  inertia l property . It measures the tendency of an object to stay at a given speed when no  Force (physics) force  acts on it. 
+
+ Isaac Newton Sir Isaac Newton's   Newton's laws of motion laws of motion  contain an important formula:  F  =  ma .  F  is force.  m  is mass.  a  is  acceleration . An object with a mass ( m ) of one kilogram will accelerate ( a ) at one  Metre per second squared meter per second per second  when acted upon by a force ( F ) of one  newton (unit) newton . This about one-tenth the acceleration due to  Earth's gravity earth's gravity . ref group Note In professional  metrology  (the science of measurement), the acceleration of earth's gravity is taken as  standard gravity  (symbol:  g span style margin-left:0.15em sub n sub span ). The acceleration is really  val 9.80665 nbsp metre per second squared meters per square second  (m/s sup 2 sup ). The expression  nowrap "1 m/s sup 2 sup  "  means that for every second that elapses, velocity changes an additional 1 meter per second. In more familiar terms: an acceleration of 1 nbsp m/s sup 2 sup  can also be expressed as a rate of change in velocity of precisely 3.6 km/h per second ([?]2.2 mph per second). ref  
+
+The  weight  of matter depends on the strength of gravity. The mass of matter does not. The mass of an object is the same everywhere. ref group Note Matter has invariant mass assuming it is not traveling at a  Mass in special relativity relativistic  speed with respect to an observer. According to  Albert Einstein Einstein's  theory of  special relativity , the  mass in special relativity relativistic mass  (apparent mass with respect to an observer) of an object or particle with rest mass  m sub 0 sub  increases with its speed as  M nbsp = nbsp g m sub 0 sub  (where g is the  Lorentz factor ). This effect is vanishingly small at everyday speeds, which are by  order of magnitude orders of magnitude  less than the  speed of light , but becomes noticeable at very high speeds. For example, traveling at just 10% the speed of light with respect to an observer--exceedingly fast compared to everyday speeds (about 108 nbsp million nbsp km/h or 67 nbsp million nbsp mph)--increases an object's relativistic mass just over 0.5%.
+
+As regards the kilogram, relativity's effect upon the constancy of matter's mass is simply an interesting scientific phenomenon that has zero effect on the definition of the kilogram and its practical realizations. ref  Objects are "weightless" for astronauts in  Micro-g environment microgravity . However, the objects still have their mass and inertia. Astronaut must use ten times as much force to accelerate a ten-kilogram object at the same rate as a one-kilogram object.
+
+A common swing, as shown in the picture, can show the relationship of force, mass and acceleration. Someone could push an adult on the swing. The adult would accelerate slowly. They would only swing a short distance forward before the swing would change direction. If a child is sitting on the swing, then the child would swing forward faster and further.
+
+  Problems  
+There are various copies of the original Kilogram. Some of these copies have gained or lost some mass. This is  a problem for scientists and engineers who need to make exact measurements. Citation needed date July 2011 
+
+  Notes  
+
+ references group Note 
+
+  References  
+ reflist 
+
+ Category:SI units 
+ Category:Units of weight

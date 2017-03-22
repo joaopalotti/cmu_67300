@@ -1,0 +1,124 @@
+Mathematics
+
+File:Egyptian A'h-mose or Rhind Papyrus (1065x1330).png thumb|The  Rhind Papyrus  is the source of most of modern knowledge about mathematics in Ancient Egypt 
+
+ Mathematics  is the study of  number s,  shape s and  pattern s. The word is  sometimes shortened to  maths  (in  England ,  Australia , and  New Zealand ) or  math  (in the  United States  and  Canada ).  Mathematician s are people who do mathematics. Mathematics is useful for solving  problem s that occur in the real world, so many people besides  mathematician s study and use mathematics. Today, some mathematics is needed in many jobs.  Business ,  science ,  engineering , and  construction  need some knowledge of mathematics.
+
+Mathematicians  wikt:solve solve   problem s by using  logic . Mathematicians often use  Deductive reasoning deduction .  Deduction  is a special way of  wikt:think thinking  to  wikt:discover discover  and prove new  wikt:truth truths  using old truths. To a mathematician, the reason something is true is just as important as the fact that it is true. Using deduction is what makes mathematical thinking different from other kinds of thinking.
+
+  About  
+ Mathematics  includes the  Education study  of:
+  Numbers (example 3+6=9)
+   Structure : how things are  organisation organized .
+   wikt:place Place : where things are and their arrangement.
+   wikt:change Change : how things become different over time.
+
+Mathematics uses  logic , paper, and calculator. These things are used to create general  rule s, which are an important part of mathematics. These rules leave out  information  that is not important so that a single rule can cover many situations. By finding general rules, mathematics  solution solves  many  problem s at the same time as these rules can be used on other problems.
+
+A  proof  gives a reason why a rule in mathematics is correct. This is done by using certain other rules that everyone agrees are correct, which are called  axioms . A rule that has a proof is sometimes called a  theorem . Experts in mathematics perform research to create new theorems. Sometimes experts find an idea that they think is a theorem but can not find a proof for it. That idea is called a  conjecture  until they find a proof.
+
+Sometimes, mathematics finds and studies rules or ideas in the real world that we don't understand yet. Often in mathematics, ideas and rules are  choice chosen  because they are considered simple or neat. On the other hand, sometimes these ideas and rules are found in the real world after they are studied in mathematics; this has happened many times in the past. In general, studying the rules and ideas of mathematics can help us  knowledge understand  the world better.
+
+  Number  
+ Mathematics includes the study of  number , or  quantity . 
+
+ {| style="border:1px solid #999; text-align:center;" cellspacing="20"
+|  math 1, 2, 3, \ldots math  ||  math  \ldots, -1, 0, 1,  \ldots math  ||  math \frac{1}{2}, \frac{2}{3}, 0.125,\ldots math  ||  math \pi, e, \sqrt{2},\ldots math  ||  math  1+i, 2e^{i\pi/3},\ldots  math  
+|-
+|  Natural number s ||  Integer s ||  Rational number s ||  Real number s ||  Complex number s 
+|-
+||  math 0, 1, \ldots, \omega, \omega + 1, \ldots, 2\omega, \ldots math  ||  math \aleph_0, \aleph_1, \ldots math  ||  math +,-,\times,\div math  ||  math  >,\ge, =, \le, <  math  ||  math f(x) = \sqrt x math 
+|-
+||  Ordinal number s ||  Cardinal number s ||  Arithmetic Arithmetic operations  ||  Arithmetic Arithmetic relations  ||  Function (mathematics) Functions 
+|}
+
+  Structure  
+ Some areas of mathematics study the structure that an object has. 
+
+ {| style="border:1px solid #999; text-align:center;" cellspacing="30"
+|  File:Elliptic curve simple.svg 96px  ||  File:Free module.png 96px  ||  File:Eigenvectoren.pdf 96px  || File:Lattice of the divisibility of 60.svg 96px  ||  File:6n-graf.svg 128px 
+|-
+|  Number theory  ||  Abstract algebra  ||  Linear algebra  ||  Order theory  ||  Graph theory 
+|}
+
+  Shape  
+ Some areas of mathematics study the shapes of things. 
+
+ {| style="border:1px solid #999; text-align:center;" cellspacing="20"
+|  File:Torus.jpg 128px  ||  File:Pythagorean.svg 128px  ||  File:Sin.svg 160px  ||  File:Osculating circle.svg 128px  ||  File:Koch curve.svg 128px 
+|-
+|  Topology  ||  Geometry  ||  Trigonometry  ||  Differential geometry  ||  Fractal geometry 
+|}
+
+  Change  
+ Some areas of mathematics study the way things change.
+ {| style="border:1px solid #999; text-align:center;" cellspacing="40"
+|  File:Integral as region under curve.svg 128px  ||  File:Vector field.svg 128px  ||  File:LimSup.png 128px  
+|-
+|  Calculus  ||  Vector calculus  ||  Mathematical analysis Analysis 
+|-
+||  File:Damping 1.svg 128px  ||  File:Limitcycle.svg 128px  ||  File:LorenzAttractor.png 128px 
+|-
+||  Differential equation s ||  Dynamical systems theory Dynamical systems  ||  Chaos theory 
+|}
+
+  Applied mathematics  
+ Applied mathematics  uses mathematics to solve problems of other areas such as  engineering ,  physics , and  computing . 
+
+ Numerical analysis  -  Optimization (mathematics) Optimization  -  Probability theory  -  Statistics  -  Mathematical finance  -  Game theory  -  Mathematical physics  -  Fluid dynamics  -  computational algorithms 
+
+  Famous theorems  
+These theorems have interested mathematicians and people who are not mathematicians.
+
+ Pythagorean theorem  -  Fermat's last theorem  -  Goldbach's conjecture  -  Twin Prime Conjecture  -  Godel's incompleteness theorems  -  Poincare conjecture  -  Cantor's diagonal argument  -  Four color theorem  - Zorn's lemma -  Euler's Identity  -  Church-Turing thesis 
+
+These are theorems and  conjecture s that have greatly changed mathematics.
+
+ Riemann hypothesis  -  Continuum hypothesis  -  P versus NP P Versus NP  -  Pythagorean theorem  -  Central limit theorem  -  Fundamental theorem of calculus  -  Fundamental theorem of algebra  -  Fundamental theorem of arithmetic  -  Fundamental theorem of projective geometry  -  classification theorems of surfaces  -  Gauss-Bonnet theorem  -  Fermat's last theorem 
+
+  Foundations and methods  
+Progress in understanding the nature of mathematics also influences the way mathematicians study their subject.
+
+ Philosophy of mathematics  -  Mathematical intuitionism  -  Mathematical constructivism  -  Foundations of mathematics  -  Set theory  -  Symbolic logic  -  Model theory  -  Category theory  -  Logic  -  Reverse Mathematics  -  Table of mathematical symbols 
+
+  History and the world of mathematicians  
+Mathematics in history, and the history of mathematics.
+
+ History of mathematics  -  Timeline of mathematics  -  Mathematician s -  Fields Medal Fields medal  -  Abel Prize  -  Millennium Prize Problems Millennium Prize Problems (Clay Math Prize)  -  International Mathematical Union  -  Mathematics Competitions Mathematics competitions  -  Lateral thinking  -  Maths and gender 
+
+  Name  
+The word "mathematics" comes from the  Greek language Greek  word "mathema" (mathema). The Greek word "mathema" means " science ,  knowledge , or  learning ". 
+
+Often, the word "mathematics" is made shorter into  maths  (in  British English ) or  math  (in  American English ). The short words  maths  or  math  are often used for  arithmetic ,  geometry  or simple  algebra  by  student s and their  schools .
+
+  Awards in mathematics  
+There is no  Nobel prize  in mathematics. Mathematicians can receive the  Abel prize  and the  Fields Medal  for important works. 
+
+The  Clay Mathematics Institute  has said it will give one million dollars to anyone who solves one of the  Millennium Prize Problems 
+
+  Mathematical tools  
+There are many tools that are used to do mathematics or to find answers to mathematics problems.
+
+ Older tools 
+   Abacus 
+   http://www.sumtree.com Order of Operations Calculator 
+   Napier's bones ,  slide rule 
+   Ruler  and  Compass (drafting) Compass 
+   Mental calculation 
+
+ Newer tools 
+   Calculator s and  computer s
+   Programming language s
+   Computer algebra system s ( List of abstract algebra topics#computer algebra listing )
+   Internet shorthand notation 
+   statistical analysis   software  (for example  SPSS )
+   SAS programming language 
+   R programming language 
+
+  Other websites  
+ Wiktionary mathematics 
+ commonscat Mathematics 
+   http://en.citizendium.org/wiki/Mathematics Mathematics  Citizendium
+   DMOZ /Science/Math/ 
+
+ Category:Mathematics *

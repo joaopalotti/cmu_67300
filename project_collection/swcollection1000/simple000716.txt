@@ -1,0 +1,155 @@
+Nitrogen
+
+Elementbox
+ name nitrogen
+ number 7
+ symbol N
+ pronounce IPAc-en ' n aI t r @ dZ @ n   respell NY tr@-j@n 
+ left carbon 
+ right oxygen 
+ above -
+ below phosphorus P 
+ series nonmetal
+ series comment 
+ group 15
+ period 2
+ block p
+ series color 
+ phase color 
+ appearance a gas, liquid or solid without color
+ image name Liquidnitrogen.jpg
+ image size 
+ image name comment Liquid nitrogen 
+ image name 2 Nitrogen Spectra.jpg
+ image name 2 comment Spectral lines  of nitrogen
+ atomic mass 14.007
+ atomic mass 2 1
+ atomic mass comment 
+ electron configuration [He] 2s sup 2 sup  2p sup 3 sup 
+ electrons per shell 2, 5
+ color 
+ phase gas
+ phase comment 
+ density gplstp 1.251
+ density gpcm3nrt 
+ density gpcm3nrt 2 
+ density gpcm3mp 
+ density gpcm3bp 0.808
+ melting point K 63.15
+ melting point C -210.00
+ melting point F -346.00
+ boiling point K 77.36
+ boiling point C -195.79
+ boiling point F -320.33
+ triple point K 63.1526
+ triple point kPa 12.53
+ critical point K 126.19
+ critical point MPa 3.3978
+ heat fusion (N sub 2 sub ) 0.72
+ heat fusion 2 
+ heat vaporization (N sub 2 sub ) 5.56
+ heat capacity (N sub 2 sub ) br 29.124
+ vapor pressure 1 37
+ vapor pressure 10 41
+ vapor pressure 100 46
+ vapor pressure 1 k 53
+ vapor pressure 10 k 62
+ vapor pressure 100 k 77
+ vapor pressure comment 
+ crystal structure hexagonal
+ oxidation states 5, 4,  3 , 2, 1, -1, -2, -3
+ oxidation states comment strongly  acid ic oxide
+ electronegativity 3.04
+ number of ionization energies 4
+ 1st ionization energy 1402.3
+ 2nd ionization energy 2856
+ 3rd ionization energy 4578.1
+ atomic radius 
+ atomic radius calculated 
+ covalent radius 1 E-11 m 71+-1 
+ Van der Waals radius 1 E-10 m 155 
+ magnetic ordering diamagnetic
+ electrical resistivity 
+ electrical resistivity at 0 
+ electrical resistivity at 20 
+ thermal conductivity 25.83 x 10 sup -3 sup 
+ thermal conductivity 2 
+ thermal diffusivity 
+ thermal expansion 
+ thermal expansion at 25 
+ speed of sound (gas, 27 degC) 353
+ speed of sound rod at 20 
+ speed of sound rod at r.t. 
+ Young's modulus 
+ Shear modulus 
+ Bulk modulus 
+ Poisson ratio 
+ Mohs hardness 
+ Vickers hardness 
+ Brinell hardness 
+ CAS number 7727-37-9
+ isotopes 
+ Elementbox_isotopes_decay   mn 13   sym N
+   na synthetic radioisotope syn    hl 9.965 min
+   dm electron capture e    de 2.220   pn 13   ps C  
+ Elementbox_isotopes_stable   mn 14   sym N   na 99.634%   n 7  
+ Elementbox_isotopes_stable   mn 15   sym N   na 0.366%   n 8  
+ isotopes comment 
+ predicted by 
+ prediction date 
+ discovered by Daniel Rutherford 
+ discovery date 1772
+ first isolation by 
+ first isolation date 
+ named by Jean-Antoine Chaptal 
+ named date 1790
+ history comment label 
+ history comment 
+ 
+ Nitrogen  is a  nonmetal   chemical element . The atmosphere contains more than 78 percent of nitrogen. It has the  chemical symbol   N  and  atomic number  7. Its stable inside typically contains 14 nucleons (7  protons  and 7  neutrons ). It has 5 electrons in its outer shell. 
+
+ Properties 
+ File:Liquid nitrogen dsc04496.jpg thumb|Cup of liquid nitrogen 
+Nitrogen is a colorless odorless  gas  at normal temperature. It is normally attached to another nitrogen atom, making a nitrogen molecule (N sub 2 sub ). The bond is very strong. That is why many  explosive s contain nitrogen. The bond is broken when the explosive is made. When it explodes the bond forms, releasing a lot of energy.
+
+It turns into a liquid at -195.8degC and turns into a  solid  at -210degC. If it is compressed, it can be turned into a liquid without making it cold. 
+
+It usually does not combine with other atoms because of its strong bond. The bond prevents it from reacting.  Lithium  is one of the only chemical elements that react with nitrogen without being heated. Magnesium can burn in nitrogen. Nitrogen also makes blue electric sparks. The blue color is caused by the atoms being excited. When they get normal again, they release light. When nitrogen is excited, it reacts with many things that it does not normally react with.
+ File:Nitrogen-glow.jpg thumb|A nice electric spark through a tube filled with nitrogen 
+
+ Compounds 
+ see also Category:Nitrogen compounds 
+Many  chemical compound s that are important for  Industry industrial  purposes contain nitrogen  ion s. These include  ammonia ,  nitric acid ,  nitrate s and  cyanide s. Nitrogen comes in several  oxidation state s; -3, -2, - sup 1 sup / sub 3 sub , +1, +3, +4, and +5. Each of those oxidation states has its set of compounds.
+
+Compounds in the -3 oxidation state are weak  reducing agent s. These include  ammonia ,  ammonium ,  amide  and  nitride s.  Amino acid s and  protein s contain nitrogen in this oxidation state.  Hydrazine , a compound in the -2 oxidation state, is a strong reducing agent.  Azide s contain nitrogen in the - sup 1 sup / sub 3 sub  oxidation state. They are extremely powerful reducing agents, and most are very toxic.
+
+ Nitrous oxide  contains nitrogen in the +1 oxidation state. It is used as an  anesthetic . Compounds containing nitrogen in the +2 oxidation state, such as  nitric oxide , are reducing agents. +3 oxidation state compounds are strong oxidizing agents and weak reducing agents.  Nitrite s are the most common +3 compounds. Compounds in the +4 oxidation state are strong oxidizing agents. They include  nitrogen dioxide  and  dinitrogen tetroxide .
+
+Compounds containing nitrogen in the +5 oxidation state are strong oxidizing agents. They are one of the more common groups of nitrogen compounds. They include  nitric acid  and  dinitrogen pentoxide . They also include  nitrate s, which are used in  explosive s such as  dynamite ,  nitroglycerin  and  trinitrotoluene .
+
+ Occurrence and preparation 
+ Air  is made up of about 78% nitrogen and about 20.95%  oxygen , < 1% argon, and traces of other gasses such as carbon dioxide, and water vapor, among others. It is also in a few  nitrate s in the ground.  Ammonium  minerals are rare. Nitrogen is in  protein s.
+
+Pure liquid nitrogen can be made by cooling air. The nitrogen turns into a liquid at a different temperature than the oxygen. It can also be made by heating certain  chemical compound s, such as  sodium azide .
+
+ Uses 
+ File:Nitrogen.ogv thumb|Liquid nitrogen used to freeze a balloon 
+Nitrogen is an element is used to prevent things from reacting with the oxygen in the air. It can be used to fill crisp bags and  incandescent bulb s. It is also used to fill some  tire s. It can be used to make electric components like  transistor s. Liquid nitrogen can be used to freeze things. 
+
+Nitrogen compounds have many uses, such as  anesthetic s ( nitrous oxide ), explosives ( dynamite ),  housecleaning cleaner s ( ammonia ), and meat ( protein ), and planes (fuel).
+
+ History 
+Nitrogen was discovered by  Daniel Rutherford  in  1772 , who called it  noxious gas  or  fixed gas . They discovered that part of air did not burn. It was found that animals died in it. It was known as "azote". Many nitrogen compounds also contain the "azide" or "azine" letters, such as  hydrazine .
+
+In 1910, Lord Rayleigh found out that when a spark was passed through nitrogen, it made a reactive form of nitrogen. This nitrogen reacted with many metals and compounds. 
+
+ Safety 
+Nitrogen is not  poison ous. We can safely breathe it when it is a part of air, but we cannot breathe pure nitrogen by itself, because it does not have the oxygen that we need to live. Anyone that inhales pure nitrogen will just pass out.
+
+ Related pages 
+   List of common elements 
+
+ Periodic Table 
+
+ Category:Chemical elements 
+ Category:Nonmetals

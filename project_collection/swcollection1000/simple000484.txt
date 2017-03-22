@@ -1,0 +1,196 @@
+Taiwan
+
+simp date November 2011 
+ Infobox country
+ native_name    lang zh-tw Zhong Hua Min Guo  br Zhonghua Minguo efn See  Names of the Republic of China . 
+ conventional_long_name   Republic of China
+ common_name   Taiwan
+ image_flag   Flag of the Republic of China.svg
+ alt_flag   A red flag, with a small blue rectangle in the top left hand corner on which sits a white sun composed of a circle surrounded by 12 rays.
+ image_coat   Republic of China National Emblem.svg
+ symbol_type   Emblem
+ alt_coat   A blue circular emblem on which sits a white sun composed of a circle surrounded by 12 rays.
+ image_map   LocationTaiwan.svg
+ map_caption   Depicting the Free area of the Republic of China territories currently under the control of the  Republic of China 
+ national flower   plumflower.jpg
+ alt_map   A map depicting the location of the Republic of China in East Asia and in the World.
+ national_anthem   " National Anthem of the Republic of China " br <<Zhong Hua Min Guo Guo Ge >> 
+ br br " National Flag Anthem " br <<Zhong Hua Min Guo Guo Qi Ge >> 
+ capital    Taipei ref name capital cite web  title   Yearbook 2004  publisher   Government Information Office of the Republic of China  year   2004  quote   Taipei is the capital of the ROC  url    http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/2004/P045.htm ref 
+ latd 25  latm 02  lats 00  latNS N
+ longd 121  longm 38  longs 00  longEW E
+ largest_city    New Taipei City 
+ 
+ official_languages    Standard Chinese Mandarin ref cite web url http://www.britannica.com/EBchecked/topic/580902/Taiwan   title Taiwan (self-governing island, Asia) publisher Britannica Online Encyclopedia  date 1975-04-05  accessdate 2009-05-07 ref 
+ languages_type    Official script s
+ languages    Traditional Chinese 
+ regional_languages    Taiwanese Hokkien Taiwanese br Hakka language Hakka br Formosan languages 
+ ethnic_groups   98%  Han Chinese Han ref name cia-factbook CIA World Factbook link tw Taiwan , United States  Central Intelligence Agency . ref br 
+ ul style list-style: none; 
+ li 70%  Hoklo people Hoklo li 
+ li 14%  Hakka people Hakka li 
+ li 14%  Waishengren#Mainlanders in Taiwan Mainlanders 
+ li 
+ ul 
+2%  Taiwanese aborigines efn Taiwanese aborigines are officially categorised into  List of ethnic groups in Taiwan 14 separate ethnic groups  by the Republic of China. 
+ government_type    Unitary state Unitary   Semi-presidential system semi-presidential   republic 
+ leader_title1    President of the Republic of China President 
+ leader_name1    Tsai Ing-wen 
+ leader_title2    Vice President of the Republic of China Vice President 
+ leader_name2    Chen Chien-jen 
+ leader_title3    Premier of the Republic of China Premier 
+ leader_name3    Mao Chi-kuo 
+ leader_title4    President of the Legislative Yuan 
+ leader_name4    Wang Jin-pyng   small (KMT) ref cite web url http://www.ly.gov.tw/en/02_chief/chiefIntro.action?id=1 title President > Brief Introduction year 2010 work www.ly.gov.tw publisher Legislative Yuan accessdate 2012-04-22 ref 
+ leader_title5    President of the Judicial Yuan  
+ leader_name5    Rai Hau-min ref cite web url http://www.judicial.gov.tw/constitutionalcourt/en/p01_03_01.asp?curno=24 title Hau-Min Rai work Justices of the Constitutional Court publisher Judicial Yuan accessdate 2012-04-22 ref 
+ leader_title6    President of the Control Yuan 
+ leader_name6    Wang Chien-shien   small ( New Party (Republic of China) NP ) ref cite web url http://www.cy.gov.tw/mp21.htm title President Wang, Chien-shien date 1 June 2011 work www.cy.gov.tw publisher Control Yuan accessdate 2012-04-22 ref 
+ leader_title7    President of the Examination Yuan 
+ leader_name7    Kuan Chung   small (KMT) ref cite web url http://www.exam.gov.tw/lp.asp?CtNode=608&CtUnit=268&BaseDSD=58&mp=5&nowpage=1&pagesize=20 title The Examination Yuan of ROC - President work www.exam.gov.tw date 27 March 2012 publisher Examination Yuan accessdate 2012-04-22 ref 
+ legislature    Legislative Yuan 
+ area_km2   36,193 ref name taiwan-popstat cite web url http://sowf.moi.gov.tw/stat/month/m1-01.xls   title Number of Villages, Neighborhoods, Households and Resident Population  publisher MOI Statistical Information Service  date   accessdate 15 June 2012 ref 
+ area_sq_mi   13,974
+ area_rank   136th
+ area_magnitude   1 E10
+ percent_water   10.34
+ population_estimate   23,261,747 ref name taiwan-popstat 
+ population_estimate_year   2012
+ population_estimate_rank   50th
+ population_density_km2   642
+ population_density_sq_mi   1,664
+ population_density_rank   17th
+ demonym    Taiwanese people Taiwanese ref cite web url http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm   title The ROC's Humanitarian Relief Program for Afghan Refugees  publisher Gio.gov.tw  date 2001-12-11  accessdate 2009-05-07  archiveurl    http://web.archive.org/web/20041215030432/http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm   archivedate   15 December 2004 ref ref cite web url http://www.gio.gov.tw/taiwan-website/4-oa/20051111/2005111101.html   title Taiwanese health official invited to observe bird-flu conference  publisher Gio.gov.tw  date 2005-11-11  accessdate 2009-05-07 ref ref cite web url http://geography.about.com/library/weekly/aa030900a.htm   title Demonyms - Names of Nationalities  publisher Geography.about.com  accessdate 2009-05-07 ref  or  Chinese people Chinese  or both
+ GDP_PPP   $876.035 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?sy=2011&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&c=528&s=NGDP%2CNGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=55&pr.y=14 title Republic of China (Taiwan) publisher International Monetary Fund accessdate 2012-04-22 ref 
+ GDP_PPP_rank   19th
+ GDP_PPP_year   2011
+ GDP_PPP_per_capita   $37,719 ref name imf2 
+ GDP_PPP_per_capita_rank   19th
+ GDP_nominal   $466.832 billion ref name imf2 
+ GDP_nominal_rank   26th
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $20,100 ref name imf2 
+ GDP_nominal_per_capita_rank   39th
+ sovereignty_type    Republic of China Establishment 
+ sovereignty_note    Xinhai Revolution 
+ established_event1    Wuchang Uprising 
+ established_date1   10 October 1911
+ established_event2    Provisional Government of the Republic of China Republic established 
+ established_date2   1 January 1912
+ established_event3    Constitution of the Republic of China Constitution 
+ established_date3   25 December 1947
+ HDI   0.868
+ HDI_change   increase
+ HDI_ref    efn name "HDI-1" The UN has not calculated an HDI for the ROC, which is not a member nation. The ROC government calculated its HDI for 2010 to be 0.868, which would rank it 18th among countries. ref name HDI-2 http://www.dgbas.gov.tw/public/Attachment/11715383471.doc ref 
+ HDI_year   2010
+ HD1_rank   18
+ HDI_category    color green Very high 
+ Gini 34.2
+ Gini_ref    ref Cite book title Report on The Survey of Family Income and Expenditure  url http://eng.stat.gov.tw/ct.asp?xItem=3417&CtNode=1596&mp=5   chapterurl http://win.dgbas.gov.tw/fies/doc/result/99/a11/Year04.xls   chapter Table 4. Percentage Share of Disposable Income by Quintile Group of Households and Income Inequality Indices  publisher Directorate General of Budget, Accounting and Statistics  location Taipei, Taiwan  year 2010 ref 
+ Gini_year 2010
+ Gini_category span style color:#fc0; medium span 
+ currency    New Taiwan dollar  (NT$)
+ currency_code   TWD
+ country_code   TPE
+ time_zone    Chungyuan Standard Time CST 
+ utc_offset    UTC+8 +8 
+ time_zone_DST   not observed
+ utc_offset_DST    UTC+8 +8 
+ date_format   yyyy-mm-dd  br  yyyyNian mYue dRi   br  ( Common Era CE ;  Chinese calendar CE+2697 )  or   Minguo calendar Min Guo yyNian mYue dRi  
+ drives_on   right
+ cctld    .tw ,  .Tai Wan  ,  .Tai Wan  ref cite web url http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt title ICANN Board Meeting Minutes publisher ICANN date 25 June 2010  ref 
+ calling_code    +886 
+ footnotes reflist group lower-alpha 
+ 
+
+ Taiwan  (also known as  Formosa ) officially the Republic of China (ROC; Chinese: Zhong Hua Min Guo ; pinyin: Zhonghua Minguo), is a state in East Asia. It is the nationalist government of China since its settlement in 1949. It is called the   Republic of China  (ROC)  (also called  Taiwan ) which is a special region comprising the island of Taiwan and nearby islands ( Pescadores  islands and parts of  Fujian ). The Chinese Nationalist government ( Kuomintang  also called KMT) moved to Taiwan after the Communist army took over the capital of Beijing. Currently, the Chinese Nationalist government governs  Taipei , the capital of Taiwan. Taiwan is southeast of the  People's Republic of China China  mainland, south of  Japan , and north of the  Philippines .
+
+Formosa is the Portuguese name of Taiwan, which means "beautiful" in  Portuguese language Portuguese .
+
+The largest cities in Taiwan are the  Capital (city) capital  of  Taipei  and the port city of  Kaohsiung .
+
+Most people living in Taiwan (sometimes called Taiwanese) are  Han . There are also  Taiwanese Aborigines  who have lived in Taiwan before the Han came to live there.
+
+Taiwan has three large Han groups. They speak different  dialect s of Chinese and their ancestors came from different places: the Southern Fujianese (from China's  Fujian Fujian Province ), the  Hakka people Hakka  (from China), and Mainlanders (from  Mainland China  after 1948).
+
+  History  
+  1517: A  Portugal Portuguese  ship sees the island and names it "Ilha Formosa", or "Beautiful Island" in  Portuguese language Portuguese .
+  17th century: From 1624 until 1661  Dutch (people) Dutch  colonize the southern part of Formosa and established a colonial administration in  Fort Zeelandia , and the  Spain Spanish  colonize the north and established a colonial administration in Fuerte Santo Domingo or  Fort Santo Domingo .  The Dutch eventually defeated the  Spaniard s and took full control of Formosa. A Chinese general named  Koxinga , defeated the Dutch at the  Siege of Fort Zeelandia .
+  1860: Taiwan becomes a  treaty port  following the  Treaty of Tientsin , opening the island to contact with the world.
+  1874:  Japan  invaded southern Taiwan, seemingly to "punish" the aborigines there for the murder of ship-wrecked Okinawan fishermen in 1871, but actually to establish a colony. Japanese forced withdraw later in the year after the  Meiji  and  Qing  empires nearly went to war.
+  1884-1885: Taiwan is blockaded by French navy during the  Sino-Franco  War.
+  1895: Qing China lost the  First Sino-Japanese War  and gave Taiwan to  Japan  permanently.
+  1945: Japan lost in  World War II  to USA and gave up Taiwan permanently.
+  1946: USA accepts millions refugees and soldiers from China to Taiwan and USA President installs  The Republic of China  to govern Taiwan and to fight China and  communism .  
+  1947: Taiwanese widely protest  government al  corruption  under the Nationalists.  Chiang Kai-shek  sends in the army to restore order, killing tens of thousands. Some Taiwanese began the  Taiwan independence movement .
+  1949:
+   Chinese Civil War  between the  Kuomintang  (KMT) party and the  Communist Party of China  (CCP).
+  The Nationalists (KMT) lose the war, and escape to the island of Taiwan. They set up  Taipei  as the temporary capital of China (ROC).
+  The Communist Party of China (CCP) establishes Beijing as the capital of The  People's Republic of China  (PRC).  
+  1951: Japan signs the  Treaty of San Francisco  (1951) with USA.
+  1979: The KMT government jails many  democracy  activists who opposed it ( Kaohsiung Incident ).
+  1986: The  Democratic Progressive Party  (DPP) is formed; it is the first party to form in the ROC other than the KMT. It remains illegal for several years, but the KMT government does not try to ban it.
+  1987: The KMT government lifts the  martial law  after almost 40 years.
+  2000:  Chen Shui-bian  (DPP) becomes president.
+  2004: Chen Shui-bian is re-elected after a controversial assassination attempt, in which many KMT-supporters believed, was staged by Chen. However, after unwillingness to cooperate about his medical records the investigation was inconclusive.
+  2008: Former president Chen Sui-bian and his wife are arrested for corruption and money laundering.
+  2008: Ma Ying-jeou was elected as the president of the Republic of China and thus creating a change of political parties for the second time.
+  2009: Kaohsiung hosts the 2009 World Games.
+  2016:  Tsai Ing-wen  was elected as the first female president of Taiwan.
+
+  Status of Taiwan  
+There are two  China Chinese  governments in the world: The  People's Republic of China  (PRC) and the  Republic of China  (ROC). Today, in reality, the PRC government controls mainland China, and the ROC government governs Taiwan. The ROC government governed most of China mainland from 1911 to 1949, before losing control of China mainland to the PRC.
+
+Today, people who live in Taiwan have different ideas. Although many Taiwanese think there is no freedom in China, there are still some Taiwanese who want to be united again with China. The majority of the people in Taiwan want to keep everything like it is now.
+
+Today most countries of the world recognize the People's Republic of China as China. Even though Taiwan is not recognized by the UN as a sovereign nation, ref cite web  url http://www.brookings.edu/research/opinions/2012/06/20-taiwan-un-winkler   title Taiwan's UN Dilemma: To Be or Not To Be  author Sigrid Winkler  date June 2012  website   publisher The Brookings Institution  accessdate 26 November 2015 ref  most countries still have close economic and cultural relations with Taiwan. So, both sides are not making any big changes from the political  status quo . This policy was expressed in a 1992  Consensus  among some leaders of both sides.
+
+In  March  2004, China's government passed a law called the Anti- Secession  Law. The law requires the Chinese  military  to  invade  Taiwan immediately if they declare  independence . ref cite web  url http://www.heritage.org/research/reports/2004/12/chinas-new-anti-secession-law-escalates-tensions-in-the-taiwan-strait   title China's New "Anti-Secession Law" Escalates Tensions in the TaiwanStrait  author John J. Tkacik, Jr.  date   website   publisher The Heritage Foundation  accessdate 26 November 2015 ref  The law shows China's  wikt:concern concern  over a growing move towards independence by the government of Taiwan. ref Zou Keyuan, 'Governing the Taiwan Issue in Accordance with Law: An Essay on China's Anti-Secession Law',  Chinese Journal of International Law , Vol. 4, No. 2 (2005), p. 455 ref 
+
+ Geography 
+ File:Taiwan NASA Terra MODIS 23791.jpg thumb|right|upright|Taiwan is mostly mountainous in the east, with gently sloping plains in the west. The  Penghu Islands  are west of the main island. 
+The island of Taiwan is about 180 kilometers off the southeastern coast of China. It is across the  Taiwan Strait . It has an area of  convert 35883 km2 sqmi 0 abbr on . ref name taiwan-popstat  The  East China Sea  is to the north, the  Philippine Sea  to the east, the  Luzon Strait  directly to the south and the  South China Sea  to the southwest. ref name yb:geography cite book  title The Republic of China Yearbook  url http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/   chapter Chapter 1: Geography  chapterurl http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/docs/ch01.pdf   pages 13-25  publisher Government Information Office, Republic of China (Taiwan)  year 2011 ref 
+
+Taiwan's highest point is  Yu Shan  (Jade Mountain). It is 3,952 meters high (12,966 ft).  There are five other peaks over 3,500 meters.
+
+The  Penghu Islands  are  convert 50 km mi 1 abbr on  west of the main island. They have an area of  convert 126.9 km2 sqmi 1 abbr on . More distant islands controlled by the Republic of China are the  Kinmen ,  Wuchiu  and  Matsu Islands  off the coast of  Fujian . They have a total area of  convert 180.5 km2 sqmi 1 abbr on . The  Pratas Islands  and  Taiping Island  in the South China Sea have a total area of  convert 2.9 km2 sqmi 1 abbr on . They have no permanent inhabitants. ref name taiwan-popstat 
+
+ Cities 
+ File:Taipeiview.jpg right|thumb|200px|alt=| Taipei City 
+ File:A Hsinchu street.jpg |right|thumb|200px|alt=| Hsinchu City 
+The largest cities in Taiwan are:
+ class wikitable Rank Division name Chinese name Type Population
+ align center 1 align left New Taipei City Xin Bei Shi  Special municipality (Republic of China) Special municipality align right 3,903,745
+ align center 2 align left Kaohsiung City Gao Xiong Shi  Special municipality (Republic of China) Special municipality align right 2,772,461
+ align center 3 align left Taichung City Tai Zhong Shi  (Tai Zhong Shi ) Special municipality (Republic of China) Special municipality align right 2,655,456
+ align center 4 align left Taipei City Tai Bei Shi  (Tai Bei Shi ) Special municipality (Republic of China) Special municipality align right 2,635,766
+ align center 5 align left Tainan City Tai Nan Shi  (Tai Nan Shi ) Special municipality (Republic of China) Special municipality align right 1,874,724
+ align center 6 align left Hsinchu City Xin Zhu Shi  Provincial city (Republic of China) Provincial city align right 417,335
+ align center 7 align left Taoyuan City Tao Yuan Shi  County-controlled city align right 408,304
+ align center 8 align left Keelung City Ji Long Shi  Provincial city (Republic of China) Provincial city align right 381,770
+ align center 9 align left Zhongli City Zhong Li Shi  County-controlled city align right 370,779
+ align center 10 align left Chiayi City Jia Yi Shi  Provincial city (Republic of China) Provincial city align right 272,128
+ align center 11 align left Changhua City Zhang Hua Shi  County-controlled city align right 236,447
+ align center 12 align left Pingtung City Ping Dong Shi  County-controlled city align right 210,275
+ align center 13 align left Pingzhen City Ping Zhen Shi  County-controlled city align right 207,953
+ align center 14 align left Bade City Ba De Shi  County-controlled city align right 177,020
+ align center 15 align left Yangmei City Yang Mei Shi  County-controlled city align right 151,384
+ align center 16 align left Zhubei City Zhu Bei Shi  County-controlled city align right 144,234
+ align center 17 align left Hualien City Hua Lian Shi  County-controlled city align right 108,938
+ align center 18 align left Taitung City Tai Dong Shi  County-controlled city align right 108,648
+ align center 19 align left Douliu City Dou Liu Shi  County-controlled city align right 107,012
+ align center 20 align left Nantou City Nan Tou Shi  County-controlled city align right 104,069
+ align center 21 align left Magong Ma Gong Shi  County-controlled city align right 104,069
+ 
+
+ References 
+ Reflist 
+
+ Related pages 
+ commonscat 
+ Wikivoyage Taiwan 
+   Political status of Taiwan 
+
+
+ Category:Taiwan   
+ Category:Islands of Asia

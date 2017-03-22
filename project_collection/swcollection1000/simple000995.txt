@@ -1,0 +1,54 @@
+States of matter
+
+File:Phase change - en.svg thumbnail|350px|right|Phase changes 
+
+There are four common  states of matter  (or  phases ) in the  universe :  solid ,  liquid ,  gas , and  Plasma (physics) plasma . The state of matter affects a substance's properties, such as  density ,  viscosity  (how well it flows),  malleability  (how easy it is to bend), and  conduction conductivity .
+
+  Common states of matter  
+  Solids  
+ main Solid 
+In a  solid , the positions of atoms are fixed relative to each other over long time. That is due to the  Cohesion (chemistry) cohesion  or "friction" between  molecule s. This cohesion is provided by  Metallic bond metallic ,  Covalent bond covalent  or  Ionic bond ionic   Chemical bond bonds . Only solids can be pushed on by a force without changing shape, which means that they can be resistant to  deformation . Solids also tend to be strong enough to hold their own shape in a container. Solids are generally denser than liquids. Solid becoming  a gas is sublimation.
+
+  Liquids  
+ main Liquid 
+In a  liquid , molecules are attracted to each other strongly enough to keep them in contact, but not strongly enough to hold a particular structure. The molecules can continually move with respect to each other. This means that liquids can flow smoothly, but not as smoothly as gases. Liquids will tend to take the shape of a container that they are in. Liquids are generally less dense than solids, but denser than gases.
+
+  Gases  
+ main Gas 
+In a  gas , the chemical bonds are not strong enough to hold atoms or molecules together, and from this a gas is a collection of independent, unbonded molecules which interact mainly by  collision . Gases tend to take the shape of their container, and are less dense than both solids and liquids.
+Gases have weaker forces of attraction than solids and liquids. Gas becoming a solid directly is deposition.
+
+  Plasmas  
+ main Plasma (physics) 
+ Plasmas  are gases that have so much  Kinetic energy energy  that  electron s of an atom cannot stay in  orbit  around one  atomic nucleus . The atomic  ion s and free electrons mix around like a hot soup. 
+
+Because the positive and negative  electric charge charged  particles are not stuck together, plasma is a good  conduction conductor  of  electricity . For example, air is not good at conducting electricity. However, in a bolt of  lightning , the atoms in air get so much energy that they no longer can hold on to their electrons, and become a plasma for a brief time. Then an  electric current  is able to flow through the plasma, making the lightning.
+
+Plasma is the most common state of matter in the universe. Both  stars  and the  interstellar medium  are mostly made of plasma.
+
+  Phase changes  
+Phases of matter can be changed by a number of things. This includes  pressure  and  temperature .
+
+When a solid becomes a liquid, it is called  melt ing. When a solid becomes a gas, it is called  sublimation . When a liquid becomes a gas, it is called  evaporation . When a gas becomes a liquid, it is called  condensation . When a liquid becomes a solid, it is called  freezing . The freezing point and the melting point are said to be the same, because any increase in temperature will cause it to melt and any drop in temperature will cause it to freeze. This is also the reason that the vaporizing and condensation point are the same.
+
+  Other states  
+Many other states of matter can exist under special conditions, including  strange matter ,  superfluidity superfluids , and  supersolids , and possibly  string-net liquid s. Scientist work on new experiments at higher temperatures and energy levels than have ever been made. They also work on experiments at very low temperatures. Such experiments help scientists learn more about phases of matter.
+
+  Quark-gluon plasmas  
+ Quark-gluon plasma s are a relatively newly discovered phase of matter that happen at about 2 trillion  Kelvin . Scientists believe that  proton s and  neutron s are held together by tiny things called  quark s (which are "glued" together by things called " gluons "). At an incredibly high temperature only achievable by the  Large Hadron Collider  at  CERN , quarks and gluons begin to separate into a new state of matter. Little is known about quark-gluon plasmas because of the huge amount of energy needed to make them.
+
+  Bose-Einstein condensates  
+ Bose Einstein Condensation Bose-Einstein condensates  and  fermionic condensate s are phases of matter that apply to  particle s called  boson s and  fermion s, respectively. (More than one boson can exist in the same spot at the same time. Only one fermion can exist in the same spot at the same time). Bose-Einstein condensates and fermionic condensates occur at incredibly low temperatures (about 4deg Kelvin, which is the same as -452deg Fahrenheit). Little is known about either state because of the sheer amount of energy needed to be taken away to create them. Inside of them, all of the particles begin to act like one big  quantum state . That is, they have near-zero  electrical resistance , and have almost no  friction .
+
+  Other websites  
+   http://web.mit.edu/newsoffice/2005/matter.html 2005-06-22, MIT News: MIT physicists create new form of matter  Citat: "... They have become the first to create a new type of matter, a gas of atoms that shows high-temperature superfluidity." 
+   http://www.sciencedaily.com/releases/2003/10/031010075634.htm 2003-10-10, Science Daily: Metallic Phase For Bosons Implies New State Of Matter 
+   http://www.sciencedaily.com/releases/2004/01/040115074553.htm 2004-01-15, ScienceDaily: Probable Discovery Of A New, Supersolid, Phase Of Matter  Citat: "...We apparently have observed, for the first time, a solid material with the characteristics of a superfluid...but because all its particles are in the identical quantum state, it remains a solid even though its component particles are continually flowing..."
+   http://www.sciencedaily.com/releases/2004/01/040129073547.htm 2004-01-29, ScienceDaily: NIST/University Of Colorado Scientists Create New Form Of Matter: A Fermionic Condensate 
+ cite web url http://www.grc.nasa.gov/WWW/K-12/airplane/state.html title Phases of Matter publisher NASA accessdate 2011-05-04 
+ cite web  url http://www-istp.gsfc.nasa.gov/Education/Ielect.html   title Electrons, Ions, and Plasma  publisher NASA  accessdate 2011-10-8 
+
+ - 
+ States of matter 
+
+ Category:States of matter  

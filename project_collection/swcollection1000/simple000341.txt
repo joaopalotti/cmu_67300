@@ -1,0 +1,99 @@
+Nauru
+
+Infobox country
+ conventional_long_name   Republic of Nauru
+ native_name    Ripublik Naoero 
+ common_name   Naoero
+ image_flag   Flag of Nauru.svg
+ alt_flag   
+ image_coat   Coat of arms of Nauru.svg
+ national_anthem    br " Nauru Bwiema " br " small Nauru, our homeland "
+ image_map   NRU_orthographic.svg
+ map_width   260px
+ map_caption    map caption  location_color dark green  country Nauru   region Oceania  region_color dark grey  subregion Micronesia  subregion_color legend NRU_orthographic.svg 
+ official_languages    Nauruan language Nauruan ,  English language English 
+ regional_languages   
+ religion   
+ demonym   Nauruan
+ capital   None ( Yaren   small (de facto) small )
+ latd   latm   latNS S  longd   longm   longEW E
+ largest_city   capital
+ government_type    Parliamentary republic 
+ leader_title1    President of Nauru President 
+ leader_name1    Baron Waqa 
+ leader_title2    List of Speakers of the Parliament of Nauru Speaker of the Parliament 
+ leader_name2    Ludwig Scotty 
+ legislature    Parliament 
+ area_rank   239th
+ area_label   Nauru
+ area_km2   21
+ area_sq_mi   8.1  
+ area_footnote   
+ area_label2   
+ area_data2   
+ area_label3   
+ area_data3  
+ population_estimate_year    nowrap Jul 2011 
+ population_estimate   9,378
+ population_label2   
+ population_data2    
+ population_label3   
+ population_data3  
+ population_density_km2   447 
+ GDP_PPP_year   2006
+ GDP_PPP   $36.9 million
+ GDP_PPP_rank   192nd
+ GDP_PPP_per_capita   $2,500
+ GDP_PPP_per_capita_rank   141st
+ GDP_nominal   
+ GDP_nominal_rank   
+ GDP_nominal_year   
+ GDP_nominal_per_capita   
+ GDP_nominal_per_capita_rank   
+ Gini_year   
+ Gini_change   
+ Gini   
+ Gini_ref   
+ Gini_rank   
+ HDI_year  
+ HDI_change   
+ HDI   
+ HDI_ref   
+ HDI_rank   
+ established_event1   
+ established_date1   
+ currency    Australian dollar 
+ currency_code   AUD
+ time_zone   
+ utc_offset   +12
+ time_zone_DST   
+ utc_offset_DST   
+ drives_on   left
+ calling_code    Telephone numbers in Denmark +674 
+ cctld    .nr 
+ 
+ File:Flag of Nauru.svg thumb|300px|right|The flag of Nauru. 
+ File:Nauru satellite.jpg thumb|300px|right|Nauru from the sky. 
+ Nauru  is a small  island  in the  Pacific Ocean . It's 42 kilometers south of the equator and has a surface area of 23.3km2. This one island is one country (a  republic ). It sells  phosphate  (a chemical) to  Australia . Nauru is the smallest republic in the world.  English language English  and  Nauruan language Nauruan  are the official languages of Nauru. Nauru has no official  Capital (city) capital , but its biggest city is  Yaren . The current president of Nauru is  Baron Waqa . There are 14  district s in Nauru:
+
+   Aiwo 
+   Anabar 
+   Anetan 
+   Anibare 
+   Baiti 
+   Boe 
+   Buada 
+   Denigomodu 
+   Ewa 
+   Ijuw 
+   Meneng 
+   Nibok 
+   Uaboe 
+   Yaren 
+ commonscat 
+ Oceania 
+ Commonwealth nations 
+ geo-stub 
+
+ Category:Commonwealth member states 
+ Category:Nauru  

@@ -1,0 +1,35 @@
+Speed
+
+complex date June 2012 
+ for the drug Amphetamine 
+
+ Speed  is the  distance  that an  wikt:object object   movement moves  in a given amount of  time . Speed is a  measure  of how fast something is moving. The  average speed  of an object in a certain time is the distance the object traveled  Division (mathematics) divided  by the time.  
+
+ Finding speed 
+To find speed  math s math ,
+
+ math s = math math  d \over t math 
+
+where  math d math  is the distance and  math t math  is the time that has gone by.
+
+ Units of measurement for speed 
+There are many  units of measurement  for speed. For example, an object's speed can be measured in 
+ miles  per  hour  (mph),
+ kilometre kilometers  per hour (km/h)
+ metre meter s per  second  (m/s), which is the  SI SI-unit  for speed.
+
+ Changing speed 
+When an object changes speed, it gets faster or  slow er. If the speed of the object increases, it is called  acceleration . If the object gets slower, and the speed  wikt:decrease decreases , it is called  deceleration , or  negative  acceleration.
+
+
+ Related pages 
+ Velocity 
+ Momentum 
+ Quantum mechanics 
+ Metric system 
+
+  Other websites  
+ wikiquote-inline Speed 
+
+ Category:Measurement 
+ Category:Physical quantity

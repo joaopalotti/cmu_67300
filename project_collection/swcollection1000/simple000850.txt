@@ -1,0 +1,175 @@
+Iceland
+
+Infobox country
+ conventional_long_name   Republic of Iceland
+ native_name    native name is Lydveldid Island icon no 
+ common_name   Iceland
+ image_flag   Flag of Iceland.svg
+ image_coat   Coat of arms of Iceland.svg
+ image_map   Europe-Iceland.svg
+ map_caption    map caption  location_color dark green  region Europe   region_color dark grey  legend Europe-Iceland.svg#Summary 
+ national_anthem    Lofsongur br small Hymn br center File:Lofsongur.ogg center 
+ languages_type    National language 
+ languages    Icelandic language Icelandic 
+ capital    Reykjavik 
+ latd 64  latm 08  latNS N  longd 21  longm 56  longEW W
+ largest_city   capital
+ ethnic_groups    unbulleted list  298,618 (93.44%)  Icelanders Icelandic   9,049 (2.83%)  Polish people Polish   11,908 (3.73%) others ethnic_groups_year   2013 ref cite web
+  url           http://www.statice.is/Statistics/Population/Citizenship-and-country-of-birth 
+  title        Population by country of citizenship, sex and age 1 January 1998-2013
+  publisher     Statistics Iceland 
+  location     Reykjavik, Iceland
+  accessdate   3 April 2013 ref 
+ demonym    Demographics of Iceland Icelander br Icelandic 
+ government_type    Unitary state Unitary   parliamentary system parliamentary   Constitution of Iceland constitutional   republic 
+ leader_title1    President of Iceland President 
+ leader_name1    Gudni Th. Johannesson 
+ leader_title2    Prime Minister of Iceland Prime Minister 
+ leader_name2    Bjarni Benediktsson  
+ leader_title4    Althing Speaker of the Althing 
+ leader_name4    Einar Kristinn Gudfinnsson 
+ legislature    Althing 
+ area_rank   108th
+ area_magnitude   1 E11
+ area_km2   103,001
+ area_sq_mi   39,770
+ percent_water   2.7
+ population_estimate   329,100 ref label aaa a 
+ population_estimate_rank   182nd
+ population_estimate_year   1 January 2015
+ population_density_km2   3.2
+ population_density_sq_mi   8.29
+ population_density_rank   233rd
+ GDP_PPP   $12.831 billion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=60&pr.y=9&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=176&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=   title Iceland  publisher International Monetary Fund  accessdate 2013-04-17 ref 
+ GDP_PPP_rank  
+ GDP_PPP_year   2012
+ GDP_PPP_per_capita   $39,223 ref name imf2 
+ GDP_PPP_per_capita_rank  
+ GDP_nominal   $13.654 billion ref name imf2 
+ GDP_nominal_rank  
+ GDP_nominal_year   2012
+ GDP_nominal_per_capita   $41,739 ref name imf2 
+ GDP_nominal_per_capita_rank  
+ sovereignty_type   Establishment
+ established_event1    Settlement of Iceland Settlement 
+ established_date1   9th century
+ established_event2    Thjodveldid Commonwealth 
+ established_date2   930-1262
+ established_event3    nowrap Old Covenant (Iceland) Union with Norway 
+ established_date3   1262-1814
+ established_event4    Monarchy of Denmark Danish monarchy 
+ established_date4   1380-1944
+ established_event5    Constitution of Iceland Constitution 
+ established_date5   5 January 1874
+ established_event6    nowrap Kingdom of Iceland 
+ established_date6   1 December 1918
+ established_event7    Icelandic constitutional referendum, 1944 Republic 
+ established_date7   17 June 1944
+ Gini_year   2010
+ Gini_change  
+ Gini   25.0
+ Gini_ref    ref label bbb b 
+ Gini_rank   1st
+ HDI_year   2013
+ HDI_change   steady
+ HDI   0.906
+ HDI_ref    ref name HDI cite web  url http://hdr.undp.org/en/media/HDR2013_EN_Complete.pdf   title Human Development Report 2013  year 2013  publisher United Nations  accessdate 14 March 2013 ref 
+ HDI_rank   13th
+ currency    Icelandic krona 
+ currency_code   ISK
+ country_code   EU ISK
+ time_zone    Greenwich Mean Time GMT 
+ utc_offset   +0
+ time_zone_DST   not observed
+ utc_offset_DST  
+ drives_on   right
+ calling_code    Telephone numbers in Iceland +354 
+ cctld    .is 
+ footnote_a    note aaa   cite web  title Statistics Iceland:Key figures  publisher Statistics Iceland  date 1 October 2002  url http://www.statice.is/?PageID=1390   accessdate 2011-07-02 
+ footnote_b    note bbb   cite web  title CIA - The World Factbook - Field Listing - Distribution of family income - Gini index  publisher United States government  url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html#Govt   accessdate 14 September 2008 
+ 
+ Iceland  ( Icelandic language Icelandic :  Island ) is an  island   country  in the North  Atlantic , between  Greenland  and  Norway , formerly a possession of  Denmark .  It is  culture culturally  considered to be part of  Europe .  Iceland is 301 kilometres east of  Greenland  and 1001 kilometres west of  Norway .  There are about 329,100 people who live in Iceland. Iceland has an area of 103,000 km2.
+
+  History  
+The first people who lived on Iceland are thought to have been  Ireland Irish   monk s. They came to Iceland around the year  800 .
+
+In the  9th century ,  Norsemen  went to live in Iceland. The first Norseman who lived in Iceland was  Floki Vilgerdarson . He was also the one who gave Iceland its name.  Ingolfur Arnarson Ingolfur Arnarsons  was the first permanent settler on the island ref name tomasson Cite book last   Tomasson first   Richard F. title   Iceland, the first new society publisher   U of Minnesota Press year   1980 isbn   0-8166-0913-6 page   63 ref . This  chieftain  from  Norway  went to live in South West Iceland and founded the city of  Reykjavik .
+
+In  930 , the Icelandic rulers wrote a  constitution . They created the  Althing , a kind of  parliament  in a place called  Thingvellir . Therefore, Iceland is the oldest existing  republic .
+
+In  985 ,  Erik the Red  was sent away from the island because he had killed someone. He sailed to the west and discovered  Greenland . Eric's son  Leif Ericson  discovered  The Americas America  in the year  1000 . He called it  Vinland . The voyages of Eric, Leif and others were written down in the  saga s (long stories).
+
+ File:Gerardi Mercatoris Atlas, sive, Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura (24696368309).jpg thumb|left|A map of Iceland published in the early 17th century 
+
+In  1262 , Iceland became part of  Norway . This lasted for 400 years. In  1662 , it became part of  Denmark . In the  19th century , many Icelanders wanted to be independent from Denmark. In  1918 , Iceland got many powers of its own, but the  king  of Denmark was still king of Iceland.
+
+When  Germany  took over Denmark on  April 9   1940 , the Althing decided that Icelanders should rule the country themselves, but they did not declare independence yet.  United Kingdom British  and later  United States American  soldiers occupied Iceland to prevent it from being attacked by the Germans. In  1944 , Iceland finally became fully independent.
+
+After  World War II , Iceland became a member of the  North Atlantic Treaty Organization North Atlantic Treaty Organisation  (NATO), but not of the  European Union . Between  1958  and  1976 , there were three  debates  between Iceland and the  United Kingdom  about the rights to catch  codfish . They were called the  Cod War s.
+
+In  1980 ,  Vigdis Finnbogadottir  was elected  president  of Iceland. She was the first woman ever to be elected president of a country.
+
+  Politics  
+
+Iceland has a  multi-party system . Since the 2013 election, the  Right-wing politics centre-right  Independence Party and Progressive Party are the biggest  Political party political parties  in Iceland. Other powerful parties in Iceland include the  Left wing centre-left  Social Democratic Alliance and Left-Green Movement. See also:  List of political parties in Iceland .
+
+Iceland is a  representative democracy  and a  parliamentary republic . Iceland has a  president  ( Gudni Th. Johannesson ref cite web last Ansari first Azadeh title Iceland elects first new president in 20 years url http://www.cnn.com/2016/06/26/world/iceland-president-gudni-johannesson/ work cnn.com publisher CNN accessdate 2 August 2016 coauthors Hume, Tim ref ) and a  prime minister  ( Sigurdur Ingi Johannsson ). The  parliament ,  Althing , has 63 members and each member can only be in there for four years ref Cite web url    http://www.iceland.is/government-and-politics/ title   Government & Politics publisher   Iceland.is accessdate   10 February 2010 ref . The president is elected by Icelanders, and is in government for four years. The president can be elected an unlimited amount of times.
+
+Iceland has no  standing army . The  United States Air Force  had a base near  Reykjanesbaer , but they left in 2006. Since 2008,  NATO  nations have occasionally had their air force patrol Iceland. This was requested by the Icelandic government ref Cite web title   French Air Force in Iceland url    http://www.mfa.is/speeches-and-articles/nr/4240 publisher   Ministry for Foreign Affairs accessdate   2 October 2010 date   5 May 2008 ref ref Cite web title   Air Policing url    http://www.aco.nato.int/page142085426.aspx publisher   NATO Air Command Operations accessdate   2 October 2010 ref .
+
+  Divisions  
+
+Iceland is divided into 8 regions, 6  Constituency constituencies  and 74  Municipality municipalities  (since 2013). The regions are mainly used for statistics. The constituencies are used for selecting  politician politicians  who will represent them in  Althing parliament . Lastly, the municipalities give services to the people that live there. These services include  education ,  waste management ,  Public transport public transportation , and so on.
+
+Before 2003, the constituencies were the same as regions, but this was changed because it meant that a vote in Reykjavik meant less than one in a rural area. Even though this was addressed, the problem still exists. ref name CIA Govt cite web  authorlink Central Intelligence Agency  title Iceland  publisher Central Intelligence Agency   work The World Factbook   url https://www.cia.gov/library/publications/the-world-factbook/geos/ic.html   accessdate 6 August 2006  ref 
+
+ center 
+ gallery mode packed 
+Regions of Iceland.png|[[Regions of Iceland]]
+Constituencies Iceland.png|[[Constituencies of Iceland]]
+Sveitarfelog-landsvaedi.png|[[Municipalities of Iceland]]
+ gallery 
+ center 
+
+ Economy 
+
+Fishing and fish processing is the main economic activity in Iceland. ref cite web url http://www.fisheries.is/economy/fisheries-impacts/employment/ title Iceland economy accessdate December 16, 2013 ref  Despite effort to diversify, particularly into the travel industry, seafood exports continue to account for nearly three-quarters of merchandise exports and approximately half of all foreign exchange earnings.
+
+Geothermal Energy produces the vast majority of Electrical Power consumed on Iceland, due chiefly to the island's position atop the Mid-Atlantic Ridge and exhibits plentiful hot water reservoirs and geysers. This has the effect of drastically reducing the price of electricity in Iceland, and has attracted several energy-intensive industries.
+
+Aluminum Smelting (The reduction of Aluminum ores to Aluminum metal) is the largest energy-intensive manufacturing sector in Iceland, and the country produced over 800,000 Metric Tonnes per Year in 2013, ref cite web title Aluminium overtakes fish in Iceland url http://www.nordregio.se/en/Metameny/About-Nordregio/Journal-of-Nordregio/Journal-of-Nordregio-no-2-2011/Aluminium-overtakes-fish-in-Iceland/ publisher Nordregio website accessdate 10 August 2014 author Hjalti Johannesson ref  making it the 10th largest producer of Aluminum metal worldwide.
+
+  Geography  
+ File:Icelandic landscapes.jpg thumb|200px|right|Three types of landscapes in Iceland. 
+Iceland is very geologically active and combined with large amounts of rain and snow caused by the warm waters of the gulf stream current which flow toward it, many interesting and unusual geographic features have developed which make it different from any other island so close to the  Arctic Circle .
+
+Some of these features are Iceland's numerous mountains,  volcano es, hot springs, rivers, small lakes, waterfalls, glaciers, and geysers. The word geyser is, in fact, derived from  Geysir , the name of a particularly famous geyser on the southern side of the island. Glaciers cover approximately 11% of the island and the largest,  Vatnajokull , is up to 1 km thick and, by far, the largest glacier in Europe.
+
+Iceland, though considered to be a European country, sits partly in North America since it straddles the  Mid-Atlantic Ridge  which marks the boundary between the Eurasian and North American  tectonic plate s. The ridge runs directly through the populated  Reykjavik  and Thingvellir historic areas, and the tectonic activity of these plates separating is the source of the abundant geothermal energy in the region.
+
+  Towns and cities  
+ main List of settlements in Iceland 
+ File:CentralReykjavik&harbour.jpg thumb|left|200px|Reykjavik. 
+ Reykjavik  is the  capital (city) capital   city  of Iceland. Reykjavik is also the most important port in Iceland.  Other important towns in Iceland are  Akureyri ,  Kopavogur ,  Hafnarfjordur ,  Keflavik ,  Seydisfjordur  and  Vestmannaeyjar .
+
+  People  
+The people in Iceland are mostly of  Scandinavia n origin.  The language they speak is  Icelandic language Icelandic . The language has not changed much in 1,000 years, so Icelanders are still able to read the  saga s about the Vikings without many problems. Most people in Iceland are  Christian . Most of them are  Lutheran .
+
+Icelandic people are considered to be the happiest people on  Earth . ref name TGIL  Iceland has the highest birth rate in Europe, highest divorce rate and the highest percentage of women working outside their home. ref name TGIL cite web url http://www.theguardian.com/world/2008/may/18/iceland title No wonder Iceland has the happiest people on earth publisher The Guardian.com accessdate September 24, 2013 ref 
+
+  Names  
+There are no real  surname s on Iceland. Children get the first name of their father (sometimes mother) with -s+son if it's a boy, and -s+dottir if it's a girl.
+For example, a man named Jon Stefansson has a son named Fjalar. Fjalar's last name will not be Stefansson like his father's, it will become Fjalar Jonsson.
+The same goes for women. Jon Stefansson's daughter Kata would not have the last name Stefansson, she would have the name Jonsdottir. 
+In most countries people use to call other people by their surname, but in Iceland people call other people by their first name. So when people talk about  Halldor Asgrimsson  they do not call him Asgrimsson, but Halldor.
+
+ References 
+ wiktionary Iceland 
+ reflist 
+
+ Europe 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:Iceland   
+ Category:European Union candidate states 
+ Category:Nordic countries

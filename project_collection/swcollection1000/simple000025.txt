@@ -1,0 +1,113 @@
+Algebra
+
+Algebra  is a part of  mathematics  (often called  math  in the  United States  and  maths  in the  United Kingdom ref cite web title Math or Maths url http://mathworld.wolfram.com/Mathematics.html publisher Wolfram.com accessdate 11 April 2013 ref  ). It uses  variable s to represent a value that is not yet known.  When an equals sign (=) is used, this is called an  equation .  A very simple equation using a variable is:  tt 2 + 3 = x tt    In this example,  tt x = 5 tt , or it could also be said, "x equals five".  This is called  solving for x .   ref cite web title Algebra Introduction url http://www.mathsisfun.com/algebra/introduction.html publisher Math Is Fun accessdate 11 April 2013 ref 
+
+Besides equations, there are  inequality inequalities  ( less than  and  greater than ). A special type of equation is called the function.  This is often used in making  graph s.
+
+Algebra can be used to solve real problems because the rules of algebra work in real life and numbers can be used to represent the values of real things.   Physics ,  engineering  and  computer programming  are areas that use algebra all the time.  It is also useful to know in  surveying ,  construction  and  business , especially  accounting .
+
+People who do algebra need to know the rules of  number s and mathematic  operation (mathematics) operations  used on numbers, starting with  addition adding ,  subtraction subtracting ,  multiplication multiplying , and  division (mathematics) dividing .  More advanced operations involve  exponent s, starting with  square (algebra) squares  and  square root s. Many of these rules can also be used on the variables, and this is where it starts to get interesting.
+
+Algebra was first used to solve  algebraic equation equations  and inequalities. Two examples are  linear equation s (the equation of a line,  tt y=mx+b tt ) and  quadratic equation s, which has variables that are squared (power of two, a number that is multiplied by itself, for example:  tt 2*2, 3*3, x*x tt ).  How to  factorization factor   polynomial s is needed for quadratic equations.
+
+  History  
+Early forms of algebra were developed by the  Babylonian s and the  Ancient Greece Greeks . However the word "algebra" is a  Latin language Latin  form of the  Arabic language Arabic  word  Al-Jabr  ("casting") and comes from a mathematics book  Al-Maqala fi Hisab-al Jabr wa-al-Muqabilah , ("Essay on the Computation of Casting and Equation") written in the  9th century  by a  Iran Persian  mathematician,  Muhammad ibn Musa al-Khwarizmi , who was a  Islam Muslim  born in  Khwarizm  in  Uzbekistan . He flourished under Al-Ma'moun in  Baghdad ,  Iraq  through 813-833 AD, and died around 840 AD. The book was brought into  Europe  and  translation translated  into Latin in the  12th century . The book was then given the name 'Algebra'. (The ending of the mathematician's name, al-Khwarizmi, was changed into a word easier to say in Latin, and became the English word  algorithm ). ref cite web title History of Algebra url http://www.ucs.louisiana.edu/~sxw8045/history.htm publisher UCS Louisiana accessdate 11 April 2013 ref 
+
+ Examples 
+
+Here is a simple example of an algebra problem:
+
+ Sue has 12 candies, Ann has 24 candies. They decide to share so that they have the same number of candies. 
+
+These are the steps you can use to solve the problem:
+
+  To have the same number of candies, Ann has to give some to Sue.  Let  x  represent the number of candies Ann gives to Sue. 
+  Sue's candies, plus  x , must be the same as Ann's candies minus  x .  This is written as:  tt 12 + x = 24 - x tt  
+  Subtract 12 from both sides of the equation. This gives:  tt x = 12 - x tt .  (What happens on one side of the equals sign must happen on the other side too, for the equation to still be true. So in this case when 12 was subtracted from both sides, there was a middle step of  tt 12 + x - 12 = 24 - x - 12 tt .  After a person is comfortable with this, the middle step is not written down.)
+  Add  x  to both sides of the equation. This gives:  tt 2x = 12 tt 
+  Divide both sides of the equation by 2. This gives  tt x = 6 tt . The answer is six.  If Ann gives Sue 6 candies, they will have the same number of candies.
+  To check this, put 6 back into the original equation wherever  x  was:  tt 12 + 6 = 24 - 6 tt 
+  This gives  tt 18=18 tt , which is true.  They both now have 18 candies.
+
+With practice, algebra can be used when faced with a problem that is too hard to solve any other way. Problems such as building a freeway, designing a cell phone, or finding the cure for a disease all require algebra.
+
+  Writing algebra  
+As in most parts of mathematics, adding  z  to  y  (or  y  plus  z ) is written as  tt y + z tt .
+Subtracting  z  from  y  (or  y  minus  z ) is written as  tt y - z tt .
+Dividing  y  by  z  (or  y  over  z :  math y \over z math ) is written as  tt y / z tt  or  tt y/z tt .  tt y/z tt  is more commonly used.
+
+In algebra, multiplying  y  by  z  (or  y  times  z ) can be written in 4 ways:  tt y x z tt ,  tt y * z tt ,  tt y*z tt , or just  tt yz tt . The multiplication symbol "x" is usually not used, because it looks too much like the letter x, which is often used as a variable.  Also, when multiplying a larger expression, parentheses can be used:  tt y (z+1) tt .
+
+When we multiply a number and a letter in algebra, we write the number in front of the letter:  tt 5 x y = 5y tt . When the number is 1, then the 1 is not written because 1 times any number is that number (1 x  y  =  y ) and so it is not needed.
+
+  Functions and Graphs  
+ File:Linear equation for y=3x+1.png thumb|Linear equation for y=3x+1 
+An important part of algebra is the study of  Function (mathematics) functions , since functions often appear in equations that we are trying to solve. A function is like a box you can put a number or numbers into and get a certain number out. When using functions,  graph s can be powerful tools in helping us to study the solutions to equations. 
+
+A graph is a picture that shows all the values of the variables that make the equation or inequality true. Usually this is easy to make when there are only one or two variables. The graph is often a line, and if the line does not bend or go straight up-and-down it can be described by the basic formula  tt y = mx + b tt . The variable  b  is the  y-intercept  of the graph (where the line crosses the vertical axis) and  m  is the  mathematics slope  or steepness of the line. This formula applies to the  Cartesian coordinate system coordinates  of a graph, where each point on the line is written  tt (x, y) tt .  
+
+In some math problems like the equation for a line, there can be more than one variable ( x  and  y  in this case).  To find points on the line, one variable is changed. The variable that is changed is called the "independent" variable.  Then the math is done to make a number. The number that is made is called the "dependent" variable. Most of the time the independent variable is written as  x  and the dependent variable is written as  y , for example, in  tt y = 3x + 1 tt .  This is often put on a graph, using an  x  axis (going left and right) and a  y  axis (going up and down).  It can also be written in function form:  tt f(x) = 3x + 1 tt .  So in this example, we could put in 5 for  x  and get  tt y = 16 tt .  Put in 2 for  x  would get  tt y=7 tt .  And 0 for  x  would get  tt y=1 tt .  So there would be a line going thru the points (5,16), (2,7), and (0,1) as seen in the graph to the right.
+
+If x has a power of 1, it is a straight line.  If it is squared or some other power, it will be curved.  If it uses an inequality ( <  or  > ), then usually part of the graph is shaded, either above or below the line.
+
+  Rules of algebra  
+In algebra, there are a few rules that can be used for further understanding of equations. These are called the rules of algebra. While these rules may seem senseless or obvious, it is wise to understand that these properties do not hold throughout all branches of mathematics. Therefore, it will be useful to know how these axiomatic rules are declared, before taking them for granted. Before going on to the rules, reflect on two definitions that will be given.
+  Opposite - the opposite of  math a math  is  math -a math .
+  Reciprocal - the reciprocal of  math a math  is  math \frac{1}{a} math .
+
+  Rules  
+
+  Commutative property of addition  
+'Commutative' means that a function has the same result if the numbers are swapped around. In other words, the order of the terms in an equation do not matter. When the operator of two terms is an addition, the 'commutative property of addition' is applicable. In algebraic terms, this gives  math a + b = b + a math .
+
+Note that this does not apply for subtraction! (i.e.  math a - b \ne b - a math )
+
+  Commutative property of multiplication  
+When the operator of two terms is an multiplication, the 'commutative property of multiplication' is applicable. In algebraic terms, this gives  math a \cdot b = b \cdot a math .
+
+Note that this does not apply for division! (i.e.  math \frac{a}{b} \ne \frac{b}{a} math , when  math a \neq b  math )
+
+  Associative property of addition  
+'Associative' refers to the grouping of numbers. The associative property of addition implies that, when adding three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives  math a + (b + c) = (a + b) + c math . Note that this does not hold for subtraction, e.g.  math 1 = 0 - (0 - 1) \neq (0 - 0) - 1 = -1 math  (see the distributive property).
+
+  Associative property of multiplication  
+The associative property of multiplication implies that, when multiplying three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives  math a \cdot (b \cdot c) = (a \cdot b) \cdot c math . Note that this does not hold for division, e.g.  math 2 = 1/(1/2) \neq (1/1)/2 = 1/2 math .
+
+  Distributive property  
+The distributive property states that the multiplication of a number by another term can be distributed. For instance:  math a \cdot (b + c) = ab + ac math . (Do  not  confuse this with the associative properties! For instance,  math a \cdot (b + c) \ne (a \cdot b) + c math .)
+
+  Additive identity property  
+'Identity' refers to the property of a number that it is equal to itself. In other words, there exists an operation of two numbers so that it equals the variable of the sum. The additive identity property states that the sum of any number and 0 is that number:  math a + 0 = a math . This also holds for subtraction:  math a - 0 = a math .
+
+  Multiplicative identity property  
+The multiplicative identity property states that the product of any number and 1 is that number:  math a \cdot 1 = a math . This also holds for division:  math \frac{a}{1} = a math .
+
+  Additive inverse property  
+The additive inverse property is somewhat like the opposite of the additive identity property. When an operation is the sum of a number and its opposite, and it equals 0, that operation is a valid algebraic operation. Algebraically, it states the following:  math a - a = 0 math . Additive inverse of 1 is (-1).
+
+  Multiplicative inverse property  
+The multiplicative inverse property entails that when an operation is the product of a number and its reciprocal, and it equals 1, that operation is a valid algebraic operation. Algebraically, it states the following:  math \frac{a}{a} = 1 math . Multiplicative inverse of 2 is 1/2.
+
+ Advanced Algebra 
+In addition to " elementary algebra ", or basic algebra, there are advanced forms of algebra, taught in colleges and universities, such as  abstract algebra ,  linear algebra , and  universal algebra . 
+This includes how to use a  matrix (mathematics) matrix  to solve many linear equations at once.  Abstract algebra  is the study of things that are found in equations, going beyond numbers to the more abstract with groups of numbers.
+
+Many math problems are about physics and engineering. In many of these physics problems time is a variable. Time uses the letter  t . Using the basic ideas in algebra can help reduce a math problem to its simplest form making it easier to solve difficult problems. Energy is  e , force is  f , mass is  m , acceleration is  a  and speed of light is sometimes  c .  This is used in some famous equations, like  tt f = ma tt  and  tt e=mc^2 tt  (although more complex math beyond algebra was needed to come up with that last equation).
+
+ Related pages 
+   List of mathematics topics 
+   Order of Operations 
+   Parabola 
+   Computer Algebra System 
+
+ References 
+ reflist 
+
+  Other websites  
+ Wiktionary algebra 
+ Wikibooks Algebra 
+   http://www.khanacademy.org/math/algebra Khan Academy: Algebra theory and practice 
+   http://algebrarules.com Algebrarules.com: A free place to learn the basics of Algebra 
+   https://www.khanacademy.org/math/algebra/introduction-to-algebra/overview_hist_alg/v/origins-of-algebra Khan Academy: Origins of Algebra, free online micro lectures 
+
+ Category:Algebra  

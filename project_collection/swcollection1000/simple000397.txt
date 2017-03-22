@@ -1,0 +1,242 @@
+Periodic table
+
+File:Periodic table.svg thumb|300px|right|The standard variation of the periodic table 
+The  periodic table of the chemical elements  is a list of known  Element Elements . In the  Table (information) table , the elements are placed in the order of their  atomic number s starting with the lowest number. The atomic number of an element is the same as the number of   protons  in that particular  atom .
+
+In the periodic table the elements are arranged into  Period (periodic table) periods  and  Group (periodic table) groups . 
+
+A row of elements across the table is called a  period . Each period has a number: from 1 to 7. Period 1 has only 2 elements in it:  hydrogen  and  helium . Period 2 and Period 3 both have 8 elements. Other periods are longer.
+
+A column of elements down the table is called a  group . There are 18 groups in the standard periodic table. Each group has a number: from 1 to 18. Elements in a group have electrons arranged in similar ways, which gives them similar  chemical property chemical properties  (they behave in similar ways). For example, group 18 is known as the  noble gas es because they are all gases and they do not combine with other atoms.
+
+The periodic table can be used by  chemist s to observe patterns, and relationships between the elements. There are 3 main groups in in the Periodic Table;  metals ,  metalloids , and  gases . For example, elements to the bottom and far left of the table are the most  metal metallic , and elements on the top right are the  nonmetal least metallic . (e.g.  cesium  is much more metallic than  helium ). There are also many other patterns and relationships.
+
+There are two systems of group numbers; one using  Hindu-Arabic numeral system Arabic numerals  (1,2,3) and the other two using  Roman numeral s (I, II, III). The Roman numeral names were used at first and are the traditional names; the Arabic numeral names are newer names that the International Union of Pure and Applied Chemistry (IUPAC) decided to use as well. The IUPAC names were meant to replace the older Roman numeral systems as they used the same names to mean different things, which was confusing.
+
+The Periodic Table was invented and arranged by the  Russia n  chemist   Dmitri Mendeleev Dmitry Ivanovich Mendeleyev  ( 1834 - 1907 ).
+
+  Standard periodic table  
+ style width: 80% Periodic table group Group - 
+ Alkali metal 1 
+ Alkaline earth metal 2 
+ Group 3 element 3 
+ Group 4 element 4 
+ Group 5 element 5 
+ Group 6 element 6 
+ Group 7 element 7 
+ Group 8 element 8 
+ Group 9 element 9 
+ Group 10 element 10 
+ Coinage metal 11 
+ Group 12 element 12 
+ Boron group 13 
+ Carbon group 14 
+ Pnictogen 15 
+ Chalcogen 16 
+ Halogen 17 
+ Noble gas 18 
+ Periodic table period Period | 
+ colspan 20 br 
+ Period 1 element 1 
+ style text-align:center;background-color:#a0ffa0;color:blue;border:1px solid black; 1 br Hydrogen H 
+ colspan 16 br 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px solid black; 2 br Helium He 
+ Period 2 element 2 
+ style text-align:center;background-color:#ff6666;color:black;border:1px solid black; 3 br Lithium Li 
+ style text-align:center;background-color:#ffdead;color:black;border:1px solid black; 4 br Beryllium Be 
+ colspan 10 br 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 5 br Boron B 
+ style text-align:center;background-color:#a0ffa0;color:black;border:1px solid black; 6 br Carbon C 
+ style text-align:center;background-color:#a0ffa0;color:blue;border:1px solid black; 7 br Nitrogen N 
+ style text-align:center;background-color:#a0ffa0;color:blue;border:1px solid black; 8 br Oxygen O 
+ style text-align:center;background-color:#ffff99;color:blue;border:1px solid black; 9 br Fluorine F 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px solid black; 10 br Neon Ne 
+ Period 3 element 3 
+ style text-align:center;background-color:#ff6666;color:black;border:1px solid black; 11 br Sodium Na 
+ style text-align:center;background-color:#ffdead;color:black;border:1px solid black; 12 br Magnesium Mg 
+ colspan 10 br 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 13 br Aluminium Al 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 14 br Silicon Si 
+ style text-align:center;background-color:#a0ffa0;color:black;border:1px solid black; 15 br Phosphorus P 
+ style text-align:center;background-color:#a0ffa0;color:black;border:1px solid black; 16 br Sulfur S 
+ style text-align:center;background-color:#ffff99;color:blue;border:1px solid black; 17 br Chlorine Cl 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px solid black; 18 br Argon Ar 
+ Period 4 element 4 
+ style text-align:center;background-color:#ff6666;color:black;border:1px solid black; 19 br Potassium K 
+ style text-align:center;background-color:#ffdead;color:black;border:1px solid black; 20 br Calcium Ca 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 21 br Scandium Sc 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 22 br Titanium Ti 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 23 br Vanadium V 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 24 br Chromium Cr 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 25 br Manganese Mn 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 26 br Iron Fe 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 27 br Cobalt Co 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 28 br Nickel Ni 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 29 br Copper Cu 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 30 br Zinc Zn 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 31 br Gallium Ga 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 32 br Germanium Ge 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 33 br Arsenic As 
+ style text-align:center;background-color:#a0ffa0;color:black;border:1px solid black; 34 br Selenium Se 
+ style text-align:center;background-color:#ffff99;color:green;border:1px solid black; 35 br Bromine Br 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px solid black; 36 br Krypton Kr 
+ Period 5 element 5 
+ style text-align:center;background-color:#ff6666;color:black;border:1px solid black; 37 br Rubidium Rb 
+ style text-align:center;background-color:#ffdead;color:black;border:1px solid black; 38 br Strontium Sr 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 39 br Yttrium Y 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 40 br Zirconium Zr 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 41 br Niobium Nb 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 42 br Molybdenum Mo 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dashed black; 43 br Technetium Tc 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 44 br Ruthenium Ru 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 45 br Rhodium Rh 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 46 br Palladium Pd 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 47 br Silver Ag 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 48 br Cadmium Cd 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 49 br Indium In 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 50 br Tin Sn 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 51 br Antimony Sb 
+ style text-align:center;background-color:#cccc99;color:black;border:1px solid black; 52 br Tellurium Te 
+ style text-align:center;background-color:#ffff99;color:black;border:1px solid black; 53 br Iodine I 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px solid black; 54 br Xenon Xe 
+ Period 6 element 6 
+ style text-align:center;background-color:#ff6666;color:black;border:1px solid black; 55 br Caesium Cs 
+ style text-align:center;background-color:#ffdead;color:black;border:1px solid black; 56 br Barium Ba 
+ style vertical-align: top; text-align:center;background-color:#ffbfff;1px; * br Lanthanide Lanthanides 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 72 br Hafnium Hf 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 73 br Tantalum Ta 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 74 br Tungsten W 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 75 br Rhenium Re 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 76 br Osmium Os 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 77 br Iridium Ir 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 78 br Platinum Pt 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px solid black; 79 br Gold Au </td>
+ style text-align:center;background-color:#ffc0c0;color:green;border:1px solid black; 80 br Mercury (element) Hg 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 81 br Thallium Tl 
+ style text-align:center;background-color:#cccccc;color:black;border:1px solid black; 82 br Lead Pb 
+ style text-align:center;background-color:#cccccc;color:black;border:1px dashed black; 83 br Bismuth Bi 
+ style text-align:center;background-color:#cccc99;color:black;border:1px dashed black; 84 br Polonium Po 
+ style text-align:center;background-color:#ffff99;color:black;border:1px dashed black; 85 br Astatine At 
+ style text-align:center;background-color:#c0ffff;color:blue;border:1px dashed black; 86 br Radon Rn 
+ Period 7 element 7 
+ style text-align:center;background-color:#ff6666;color:black;border:1px dashed black; 87 br Francium Fr 
+ style text-align:center;background-color:#ffdead;color:black;border:1px dashed black; 88 br Radium Ra 
+ style vertical-align: top; text-align:center;background-color:#ff99cc;1px; **
+ Actinides br 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 104 br Rutherfordium Rf 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 105 br Dubnium Db 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 106 br Seaborgium Sg 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 107 br Bohrium Bh 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 108 br Hassium Hs 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 109 br Meitnerium Mt 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 110 br Darmstadtium Ds 
+ style text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black; 111 br Roentgenium Rg 
+ style text-align:center;background-color:#ffc0c0;color:green;border:1px dotted black; 112 br Copernicium Cn 
+ style text-align:center;background-color:#cccccc;color:black;border:1px dotted black; 113 br Ununtrium Uut 
+ style text-align:center;background-color:#cccccc;color:black;border:1px dotted black; 114 br Flerovium Fl 
+ style text-align:center;background-color:#cccccc;color:black;border:1px dotted black; 115 br Ununpentium Uup 
+ style text-align:center;background-color:#cccccc;color:black;border:1px dotted black; 116 br Livermorium Lv 
+ style text-align:center;background-color:#ffff99;color:black;border:1px dotted black; 117 br Ununseptium Uus 
+ style text-align:center;background-color:#c0ffff;color:black;border:1px dotted black; 118 br Ununoctium Uuo 
+ colspan 21 br                         
+ colspan 4 style text-align:right *  Lanthanide Lanthanide Series 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 57 br Lanthanum La 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 58 br Cerium Ce 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 59 br Praseodymium Pr 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 60 br Neodymium Nd 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px dashed black; 61 br Promethium Pm 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 62 br Samarium Sm 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 63 br Europium Eu 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 64 br Gadolinium Gd 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 65 br Terbium Tb 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 66 br Dysprosium Dy 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 67 br Holmium Ho 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 68 br Erbium Er 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 69 br Thulium Tm 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 70 br Ytterbium Yb 
+ style text-align:center;background-color:#ffbfff;color:black;border:1px solid black; 71 br Lutetium Lu 
+ colspan 4 style text-align:right **  Actinide Actinide Serie s 
+
+
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dashed black; 89 br Actinium Ac 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dashed black; 90 br Thorium Th 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dashed black; 91 br Protactinium Pa 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dashed black; 92 br Uranium U 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dashed black; 93 br Neptunium Np 
+ style text-align:center;background-color:#ff99cc;color:red;border:1px dashed black; 94 br Plutonium Pu 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 95 br Americium Am 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 96 br Curium Cm 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 97 br Berkelium Bk 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 98 br Californium Cf 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 99 br Einsteinium Es 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 100 br Fermium Fm 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 101 br Mendelevium Md 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 102 br Nobelium No 
+ style text-align:center;background-color:#ff99cc;color:black;border:1px dotted black; 103 br Lawrencium Lr 
+ 
+
+ Periodic table series Chemical Series of the Periodic Table 
+
+
+   div style background-color:#ff6666 Alkali metal s div 
+   div style background-color:#ffdead Alkaline earth s div 
+   div style background-color:#ffbfff Lanthanide s div 
+   div style background-color:#ff99cc Actinide s div 
+   div style background-color:#ffc0c0 Transition metal s div 
+   div style background-color:#cccccc Poor metal s div 
+   div style background-color:#cccc99 Metalloid s/ Metalloid Semi metals / Metalloid Half metals div 
+   div style background-color:#a0ffa0 Nonmetal s div 
+   div style background-color:#ffff99 Halogen s div 
+   div style background-color:#c0ffff Noble gas es div 
+
+State at  standard temperature and pressure 
+
+The colour of the number ( atomic number ) above the element symbol shows the state of the element at normal conditions.
+  those in  font color blue blue font  are gases
+  those in  font color green green font  are liquids
+  those in  font color black black font  are solid
+
+ Radioactivity 
+
+
+   div style border:solid 1px black;padding:1px; Those with solid borders have stable isotopes ( Elementary algebra Primordial elements ) div 
+   div style border:dashed 1px black;padding:1px; Those with dashed borders have only radioactive naturally occurring isotopes div 
+   div style border:dotted 1px black;padding:1px; Those with dotted borders do not occur naturally ( Synthetic Synthetic Elements ) div 
+   div style border:none;padding:1px; those without borders are too radioactive to have been discovered yet. div 
+
+  Other methods for displaying the chemical elements  
+The version of the periodic table shown above is the one most used.  Other widespread versions are shown below:
+ gallery 
+File:Elementspiral.svg| Theodor Benfey developed a version that arranges the elements in a spiral, around [[hydrogen]]. The [[atomic weight]] determines the position of the element.
+File:Mendeleev flower.jpg|Dmitry Ivanovich Mendeleyev used a flower arrangement; [[Actinides]], [[Lanthanides]] are shown as loops beside the main group.
+File:Periodic system Stowe format.svg|Timothy Stove arranged the elements by [[quantum number]]. 
+File:Das Bettermannsche Periodensystem.jpg|Betterman arranged the elements by their [[isoelectric]] properties, which can be converted to a [[polynomial]] form. 
+File:Periodic system Zmaczynski&Bayley.svg|Triangular version, by Zmaczynski and Bayley
+File:Periodic system Pyramid format.svg|Arranged in a pyramid. 
+ gallery 
+
+ Versions used less 
+  The standard table provides the basics. It is shown above.
+  A  Periodic table (alternate) vertical table  for improved readability in web browsers
+  The  Periodic table (big) big table  provides the basics plus full element names.
+  The  Periodic table (huge) huge table  provides the basics plus full element names and  atomic mass es.
+   Electron configuration s
+   Periodic table (metals and non-metals) Metals and Non Metals 
+   List of elements : includes name, symbol, atomic number, atomic mass, group, and period; sortable by any of those
+   List of elements by symbol 
+   List of elements by boiling point 
+   List of elements by melting point 
+   List of elements by density 
+
+ Related pages 
+   Periodic table group 
+   Periodic table period 
+
+  Other websites  
+   http://www.periodic-table.com/ Periodic Table of the Elements - displays basic properties 
+   http://www.webelements.com/webelements/scholar/index.html WebElements Periodic table 
+   http://www.egregoralfa.republika.pl/english/newtable.html New Periodic Table of the Chemical Elements - triangular table 
+
+ BranchesofChemistry 
+
+ Category:Periodic table  

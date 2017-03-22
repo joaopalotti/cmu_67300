@@ -1,0 +1,125 @@
+Ion
+
+For the television network Ion Television 
+An  ion  is an  electric charge electrically charged   atom  or group of atoms. ref name fund cite book title Fundamentals of Chemistry: A Modern Introduction publisher Academic Press date 1966 first1 Frank last1 Brescia first2 John last2 Arents first3 Herbert last3 Meislich first4 Amos last4 Turk edition First page 5 ref 
+It is a part of an  atom , or part of a group of atoms ( molecule ). It is " electric charge charge d" so it will move near electricity. This is because atoms are made of three smaller parts:  neutron s (with no charge), and equal numbers of (2) charged  proton s and (3) oppositely-charged  electron s. An ion has unequal numbers of protons and electrons. Making an ion from an atom or molecule is called  ionization .
+
+The charge on a proton is measured as +1 (positively charged). The charge on an electron is measured as -1 (negatively charged). An atom that is ionized makes two ions, one positive, and one negatively charged. For example, a neutral hydrogen atom has one proton and one electron. Heating the atom breaks it into two parts: (1) a positively charged hydrogen ion, H+ (2) a negatively charged electron.
+
+A liquid with ions is called an  electrolyte . A gas with lots of ions is called a  plasma (physics) plasma . When ions move, it is called  electricity . For example, in a wire, the metal ions do not move, but the electrons move as electricity. A positive ion and a negative ion will move together. Two ions of the same charge will move apart. When ions move they also make  magnetic field s .
+
+Many ions are colourless. Elements in the  main group s in the  Periodic Table  form colourless ions. Some ions are coloured. The  transition metal s usually form coloured ions.
+
+ Physics 
+In  physics , atomic nuclei that have been completely ionized are called  charged particles . These are ones in  alpha radiation .
+ 
+Ionization happens by giving atoms high energy. This is done using electrical  voltage  or by high-energy  ionizing radiation  or high  temperature . 
+
+A  simple ion  is formed from a single atom.
+
+ Polyatomic ions  are formed from a number of atoms. Polyatomic ions usually consist of all non-metal atoms. But sometimes the polyatomic ion can have a metallic atom too.
+
+Positive ions are called  cation s . ref name fund  They are attracted to  cathode s (negatively charged  electrodes ).  ( Cation  is pronounced "cat eye on", not "kay shun".) All simple metal ions are cations.
+
+Negative ions are called  anion s . ref name fund  They are attracted to  anode s (positively charged electrodes). All simple non-metal ions (except H sup + sup , which is a  proton ) are anions (except NH sub 4 sub sup + sup ). 
+
+ Transition metal s can form more than one simple cation with different charges.
+
+Most ions have a charge of less than 4, but some can have higher charges.
+
+ Michael Faraday  was the first person to write a theory about ions, in 1830. In his theory, he said what the portions of molecules were like that moved to anions or cations.  Svante August Arrhenius  showed how this happened. He wrote this in his doctoral dissertation in 1884 ( University of Uppsala ). The university did not accept his theory at first (he only just passed his degree). But in 1903, he won the  Nobel Prize in Chemistry  for the same idea.
+
+In  Greek language Greek   ion  is like the word "go". "Anion" and "cation" mean "up-goer" and "down-goer". "Anode" and "cathode" are "way up" and "way down".
+
+ Common ions 
+ valign top 
+ class wikitable +Common cations
+ style text-align: left Common name
+ style text-align: left Formula
+ style text-align: left Historic name
+ colspan 3 style background:aliceblue; Simple cations 
+ Aluminium Al sup 3+ sup 
+ Barium Ba sup 2+ sup 
+ Beryllium Be sup 2+ sup 
+ Calcium Ca sup 2+ sup 
+ Chromium(III) Cr sup 3+ sup 
+ Copper(I) Cu sup + sup cuprous
+ Copper(II) Cu sup 2+ sup cupric
+ Hydrogen H sup + sup 
+ Iron(II) Fe sup 2+ sup ferrous
+ Iron(III) Fe sup 3+ sup ferric
+ Lead(II) Pb sup 2+ sup plumbous
+ Lead(IV) Pb sup 4+ sup plumbic
+ Lithium Li sup + sup 
+ Magnesium Mg sup 2+ sup 
+ Manganese(II) Mn sup 2+ sup 
+ Mercury(II) Hg sup 2+ sup mercuric
+ Potassium   K sup + sup kalic  
+ Silver Ag sup + sup argentous
+ Sodium Na sup + sup natric  
+ Strontium Sr sup 2+ sup 
+ Tin(II) Sn sup 2+ sup stannous
+ Tin(IV) Sn sup 4+ sup stannic
+ Zinc Zn sup 2+ sup 
+ colspan 3 style background:aliceblue; Polyatomic cations 
+ Ammonium chem NH 4 + 
+ Hydronium H sub 3 sub O sup + sup 
+ Mercury(I) chem Hg 2 2+ mercurous
+ 
+ valign top 
+ class wikitable +Common anions
+ style text-align: left Formal name
+ style text-align: left Formula
+ style text-align: left Alt. name
+ colspan 3 style background:aliceblue; Simple anions 
+ Azide chem N 3 - 
+ Bromide Br sup - sup 
+ Chloride Cl sup - sup 
+ Fluoride F sup - sup 
+ Hydride H sup - sup 
+ Iodide I sup - sup 
+ Nitride N sup 3- sup 
+ Oxide O sup 2- sup 
+ Sulfide S sup 2- sup 
+ colspan 3 style background:aliceblue; Oxoanions 
+ Carbonate chem CO 3 2- 
+ Chlorate chem ClO 3 - 
+ Chromate chem CrO 4 2- 
+ Dichromate chem Cr 2 O 7 2- 
+ Dihydrogen phosphate chem H 2 PO 4 - 
+ Hydrogen carbonate chem HCO 3 - bicarbonate
+ Hydrogen sulfate chem HSO 4 - bisulfate
+ Hydrogen sulfite chem HSO 3 - bisulfite
+ Hydroxide OH sup - sup 
+ Hypochlorite ClO sup - sup 
+ Monohydrogen phosphate chem HPO 4 2- 
+ Nitrate chem NO 3 - 
+ Nitrite chem NO 2 - 
+ Perchlorate chem ClO 4 - 
+ Permanganate chem MnO 4 - 
+ Peroxide chem O 2 2- 
+ Phosphate chem PO 4 3- 
+ Sulfate chem SO 4 2- 
+ Sulfite chem SO 3 2- 
+ Superoxide chem O 2 - 
+ Thiosulfate chem S 2 O 3 2- 
+ Silicate chem SiO 4 4- 
+ Metasilicate (disambiguation) Metasilicate chem SiO 3 2- 
+ Aluminium silicate chem AlSiO 4 - 
+ colspan 3 style background:aliceblue; Anions from organic acids 
+ Acetate chem CH 3 COO - ethanoate
+ Formate chem HCOO - methanoate
+ Oxalate chem C 2 O 4 2- ethanedioate
+ Cyanide CN sup - sup 
+ 
+ 
+
+  Other meanings  
+In  Greek mythology ,  Ion  was a son of  Xuthus  and  Creusa .  He founded the  Ionia n  race (sociology) race  and became a  king of Athens king  of  Athens .
+The term is also used for an element of the  Plato  texts, and a  Window manager .
+
+  References  
+ references 
+  See also  
+ List of ions 
+ Category:Chemistry

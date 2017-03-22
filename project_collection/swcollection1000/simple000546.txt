@@ -1,0 +1,155 @@
+Chinese language
+
+Infobox language
+ name Chinese
+ image  Hanyu_trad_simp.svg
+ imagecaption  Hanyu ( Chinese ) written in  Chinese character Hanzi 
+ imagesize 
+ nativename   lang zh Yi Yu /Han Yu  ,  lang zh Hua Yu /Hua Yu   or  lang zh Zhong Wen  br Hanyu, Huayu, or Zhongwen
+ ethnicity 
+ states China People's Republic of China  (PRC, commonly known as China),  Taiwan Republic of China  (ROC, commonly known as Taiwan),  Singapore ,  Malaysia ,  Brunei , the  United States ,  Canada , the  Philippines ,  Australia ,  Thailand ,  Vietnam ,  Indonesia ,  Mauritius ,  Peru , and other places with Chinese communities
+ region  
+ speakers 1.2 billion 
+ date 1984-2000
+ ref ref Ethnologue16 zho ref 
+ familycolor Sino-Tibetan
+ fam2 Sinitic languages Sinitic 
+ stand1 Standard Chinese Mandarin 
+ dia6 Gan Chinese Jiangxinese 
+ dia7 Hakka language Hakka 
+ dia5 Xiang Chinese Hunanese 
+ dia2 Jinyu Chinese Jin 
+ dia1 Mandarin Chinese Mandarin 
+ dia4 Wu Chinese Wu  (including Shanghainese)
+ dia3 Huizhou Chinese Huizhou 
+ dia8 Yue Chinese Yue  (including Cantonese-Taishanese)
+ dia9 Ping Chinese Pinghua 
+ dia10 Shaojiang Min Shaojiang 
+ dia11 Min Bei Northern Min 
+ dia12 Min Dong Eastern Min  (including Fuchow)
+ dia13 Min Zhong Central Min 
+ dia14 Puxian Min Pu Xian 
+ dia15 Min Nan Southern Min  (including Amoy, Taiwanese)
+ dia16 Teochew dialect Teochew  (including Swatow, Chaozhou, Jieyang, parts of Shanwei/Meizhou)
+ script Chinese character s,  zhuyin fuhao ,  pinyin ,  Xiao'erjing 
+ nation UNO United Nations br 
+ PRC People's Republic of China 
+
+ ROC-TW Republic of China br 
+ SGP Singapore   (one of four official languages) br 
+ flagicon image Flag of Wa.svg size 22px   Wa State   (alongside the  Wa language ) br 
+ flag Brunei 
+ minority    flag United States  (minority and auxiliary) br flag Malaysia  (minority and auxiliary) br flag Philippines  (minority and auxiliary)
+ agency In the PRC: National Commission on Language and Script Work ref http://www.china-language.gov.cn/ china-language.gov.cn   zh icon ref br In the ROC:  National Languages Committee br In Singapore:  Promote Mandarin Council / Speak Mandarin Campaign ref cite web  url http://www.mandarin.org.sg/   title Speak Mandarin Campaign  accessdate 2011-08-09 ref 
+ iso1 zh iso2b chi iso2t zho
+ iso3 zho lingua 79-AAA
+ lc1 cdo ld1 Min Dong 
+ lc2 cjy ld2 Jin Chinese Jinyu 
+ lc3 cmn ld3 Mandarin Chinese Mandarin 
+ lc4 cpx ld4 Pu Xian 
+ lc5 czh ld5 Huizhou Chinese Huizhou 
+ lc6 czo ld6 Min Zhong 
+ lc7 gan ld7 Gan Chinese Gan 
+ lc8 hak ld8 Hakka language Hakka 
+ lc9 hsn ld9 Xiang Chinese Xiang 
+ lc10 mnp ld10 Min Bei 
+ lc11 nan ld11 Min Nan 
+ lc12 wuu ld12 Wu Chinese Wu 
+ lc13 yue ld13 Yue Chinese Yue 
+ lc14 och ld14 Old Chinese 
+ lc15 ltc ld15 Middle Chinese Late Middle Chinese 
+ lc16 lzh ld16 Classical Chinese 
+ map New-Map-Sinophone World.PNG
+ mapcaption Map of the  Chinese Language Sinophone  world. br 
+ Information: 
+ legend #0E0069 Countries identified Chinese as a primary, administrative, or native language 
+ legend #7FABAB Countries with more than 5,000,000 Chinese speakers 
+ legend #9fceff Countries with more than 1,000,000 Chinese speakers 
+ legend #D5E8FF Countries with more than 500,000 Chinese speakers 
+ legend #F7D5FF Countries with more than 100,000 Chinese speakers 
+ legend #0080ff Major Chinese speaking settlements 
+ 
+ ChineseText 
+ Infobox Chinese title Chinese languages (Spoken) l Han Chinese Han  language t wikt:Han Yu  Han Yu  s wikt:Yi Yu  Yi Yu  p Hanyu w Han4-yu3 mi xan y myr Han-yu tp Han-yu h Hon Ngi j Hon3 jyu5 buc Hang-ngu poj Han-gi, Han-gu wuu hoe3 nyiu2 
+ Infobox Chinese title Chinese language (Written) c wikt:Zhong Wen  Zhong Wen  h Chung-Vun p Zhongwen w Chung1-wen2 mi tsUNG u@n myr jung-wen tp jhong-wun buc Dung-ung poj Tiong-bun wuu tson1 ven1 j Zung1 man4*2 l Chinese  text (literary theory) text 
+
+The  Chinese language  is the group of languages used by Chinese in  China  and elsewhere. It forms part of a language family called the  Sino-Tibetan languages Sino-Tibetan family of languages . 
+
+Chinese includes many regional language varieties, the main ones being  Mandarin Chinese Mandarin ,  Wu Chinese Wu ,  Yue Chinese Yue , and  Min Chinese Min . These are not  Mutual intelligibility mutually intelligible , ref This means a speaker from one region cannot understand a speaker from another region, unless they have also learnt that language. ref  and many of the regional varieties are themselves a number of non-mutually-intelligible subvarieties.  Jerry Norman estimated that there are hundreds of mutually unintelligible varieties of Chinese. ref Norman J. 2003. The Chinese dialects: phonology. In Thurgood, Graham & LaPolla, Randy J. (eds)  The Sino-Tibetan languages . Routledge, pp. 72-83. ISBN 978-0-7007-1129-1 ref  As a result, many linguists refer to these varieties as separate languages. ref DeFrancis, John 1984. The Chinese language: fact and fantasy. Honolulu: University of Hawaii Press. ISBN 978-0-8248-1068-9 ref  
+
+'Chinese' can refer to the written or the spoken languages. Although there are many spoken Chinese languages, they use only one writing system for the language. ref As do European languages, which all use an alphabetic script. ref  Differences in speaking are reflected in differences in writing. Official China adopts a similar policy to the one in the  Soviet Union . All official documents are written in  Mandarin , and Mandarin is taught all over China. They have one standard language for all of the schools in China and  Taiwan . It is also a standard for language teaching in some other countries. In English we call it  Mandarin language Mandarin . In China they call it " Putonghua " or "common to everybody speech." In Taiwan they call it " Guoyu " or "language of the whole country". They need a standard language because otherwise many people would not understand each other, despite being in the same country .
+
+Chinese is used by the  Han people  in China and other ethnic groups who have come into China and are declared Chinese by the Chinese government. Chinese is almost always written in  Chinese character s. They are symbols that have meaning, called  logogram s. They also give  some  indication of pronunciation. But just as "Xavier" sounds very different in English (ex-aye-vee-er), French (za-vee-aye), and Spanish (khah-veer), the same character can get very different pronunciations among the different kinds of Chinese.  Since Chinese characters have been around for at least 3500 years, people in places far from each other say them differently, just as "1, 2, 3" can be read differently in different languages.
+
+Chinese people needed to write down pronunciations in dictionaries. Chinese does not have an alphabet, so how to write down sounds was a big problem in the beginning. Nowadays the Mandarin language uses  Hanyu Pinyin Hanyu pinyin  to represent the sounds in  Roman letter s.
+
+All the Chinese languages (or  dialect s) use  tonal language tones . This means that they use high and low pitches to help make differences in meaning clear.
+
+  Different languages or dialects of Chinese  
+The Chinese language is like a big tree. The base of the tree started thousands of years ago. It now has several main limbs. Some people call "just a branch" what other people call a main limb, so you can say there are six or seven main limbs. Each of these main limbs splits off into branches about the way there are branches of English spoken in Great Britain, the United States, Australia, India, and so forth. Line the Chinese limbs up by number of speakers and we get: Mandarin, the language spoken in an area centering on Shanghai, the language spoken in Guangdong province (Cantonese), the language spoken mostly in Fujian province (but also by many speakers in Taiwan), the language spoken mostly in Hunan province, a language that is historically that of a refugee group and so not so closely concentrated in any one area in south-east China (it is called "Hakka" or "guest family" speech), and a language spoken in an area that centers on Jiangxi province. Just as the  Romance languages  all come from the area around Rome and are based on Latin, the Chinese languages all have some common source, so they keep many common things among them.
+
+ File:Origin of Chinese Languages rev.svg 350px|thumb|Branches in modern times are only shown for "Guan" (Language of the officials. Mandarin). 
+Here are the main seven main groups of languages/dialects of Chinese by size:
+
+  Guan ("Northern" or Mandarin) Bei Fang Hua /Bei Fang Hua  or Guan Hua /Guan Hua , (about 850 million speakers), 
+  Wu Wu /Wu , which includes Shanghainese, (about 90 million speakers), 
+  Yue ( Cantonese language Cantonese ) Yue /Yue , (about 80 million speakers), 
+  Min ( Hokkien , which includes Taiwanese) Min /Min , (about 50 million speakers), 
+  Xiang Xiang , (about 35 million speakers), 
+   Hakka (language) Hakka  Ke Jia  or Ke , (about 35 million speakers), 
+  Gan Gan /Gan , (about 20 million speakers)
+
+  Traditional and simplified characters  
+
+In 1956, the government of the People's Republic of China made public a set of  simplified Chinese characters  to make learning, reading and writing the Chinese language easier. In Mainland China and  Singapore , people use these simpler characters. In  Hong Kong ,  Taiwan , and other places where they speak Chinese, people still use the more  Traditional Chinese characters traditional characters . The  Korean language  also uses Chinese characters to represent certain words. The  Japanese language  uses them even more often. These characters are known in Korean as  Hanja  and in Japanese as  Kanji . 
+
+A Chinese person with a good education today knows 6,000-7,000 characters. About 3,000 Chinese characters are needed to read a Mainland newspaper. However, people who have learned only the 400 most frequently used characters can read a newspaper--but they will have to guess some less-used words.
+
+  Examples  
+
+Here are some samples of some words and sentences in  Mandarin Chinese . Simplified Characters are on the left, and Traditional characters are on the right. The pronunciation is given in the  pinyin  system, which may not always be as simple as it looks for those who have not studied it.
+
+The Traditional Characters are now used in Hong Kong and Taiwan. Chinese from Mainland China uses the Simplified Characters, but may recognize Traditional Characters.
+
+Before 1956, Chinese was written using only Traditional Characters. At that time most Chinese people could not read or write at all. The government of the People's Republic of China thought that the Traditional characters were very hard to understand. They also thought that if they made the characters simpler more people could learn how to read and write. Today, many people in China can read and write with the new Simplified Characters.
+
+ class wikitable border 1  Word
+  Pinyin
+  Simplified
+  Traditional
+  How are you?   Ni hao ma?   Ni Hao Ma ?   Ni Hao Ma ?
+  What is your name?   Ni jiao shenme mingzi?   Ni Jiao Shi Yao Ming Zi ?   Ni Jiao Shi Mo Ming Zi ?
+   United States America    Meiguo   Mei Guo    Mei Guo 
+   France    Faguo   Fa Guo    Fa Guo 
+   Britain    Yingguo   Ying Guo    Ying Guo 
+   Germany    Deguo   De Guo    De Guo 
+   Russia    Eguo   E Guo    E Guo 
+   Thailand   Taiguo   Tai Guo    Tai Guo 
+   Poland    Bolan   Bo Lan    Bo Lan 
+   Japan    Riben   Ri Ben    Ri Ben 
+   Pakistan    Bajisitan   Ba Ji Si Tan    Ba Ji Si Tan 
+ 
+
+ Related pages 
+   Standard Chinese (language) 
+   Mandarin language 
+   Cantonese language 
+
+ References 
+ reflist 
+
+  Other websites  
+   http://www.chinese-course.com Chinese Flashcard Website  Learn Chinese Online
+   http://www.hellomandarin.com I Love Chinese  Learning Chinese Magazine
+   http://www.learnmandarinonline.org Learn Chinese  Free Chinese Learning Lessons and mp3
+   http://tools.google.com/pinyin/ Free Chinese Character Input Software  Google Pinyin Input Software
+   http://www.hellomandarin.net Chinese Pinyin  a brief introduction to standard Chinese phonetic system
+   http://www.daydayupchinese.com Day Day Up Chinese  Online Chinese textbook
+   http://www.china-learn.info/Hanyu/Learn_Chinese.html Direct method of learning Chinese --no English translation. A wok is just a wok.
+   http://studymorechinese.com/ Study More Chinese  social network for Mandarin learners with videos, blogs, forum.
+   http://www.ichineselearning.com/ iChineseLearning  A site for learning Chinese through skype Chinese lessons.
+
+ Official UN languages 
+
+ Category:Chinese language   
+ Category:Tonal languages

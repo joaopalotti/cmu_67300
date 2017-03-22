@@ -1,0 +1,16 @@
+Subtraction
+
+Subtraction  is the  arithmetic  operation for finding the  wikt:difference difference  between two  number s. The special names of the numbers in a subtraction expression are, minuend - subtrahend = difference. The expression 7 - 4 = 3 can be spoken as "seven minus four equals three," "seven take away four leaves three," or "four from seven leaves three."
+
+If the minuend is less than the subtrahend, the difference will be a  negative number . For example, 17 - 25 = ( -8 ). We can say this as, "Seventeen minus twenty-five equals negative eight." This is how  cash register s determine the  change (money) change  you receive when you pay with more money than your purchase costs. 
+
+ Related pages  
+   arithmetic 
+   addition 
+   multiplication 
+   Division (mathematics) 
+
+
+ Math-stub 
+
+ Category:Arithmetics

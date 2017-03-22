@@ -1,0 +1,3 @@
+Text Of The GNU Free Documentation License
+
+REDIRECT  Wikipedia:Text_of_the_GNU_Free_Documentation_License 

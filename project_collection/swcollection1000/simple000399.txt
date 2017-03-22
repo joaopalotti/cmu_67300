@@ -1,0 +1,59 @@
+Planet
+
+Multiple image direction vertical align right image1 Terrestrial planet size comparisons.jpg image2 Gas giants and the Sun (1 px = 1000 km).jpg width 300 caption2 Image of the Solar System planets. Top image shows the  Terrestrial planets  and the bottom image shows the  Gas giants . 
+
+ onlyinclude A  planet  is a large object such as  Jupiter (planet) Jupiter  or  Earth  that  orbit s a  star . It is smaller than a star, and it does not make  light . 
+
+Planets are shaped like a slightly squashed ball (a  spheroid ). Objects that orbit planets are called  Satellite (natural) satellites . A star and everything which orbits it are called a star system. 
+
+There are eight planets in our  Solar System .  Pluto  used to be called a planet, but in August 2006, the  International Astronomical Union  decided it was a  dwarf planet  instead. There are four more known dwarf planets in the Solar System,  1 Ceres Ceres ,  Makemake (dwarf planet) Makemake ,  136199 Eris Eris  and  Haumea (dwarf planet) Haumea .
+
+The name "planet" is from the  Greek language Greek  word planetes ( planetes ), meaning "wanderers", or "things that move". Until the 1990s, people only knew of those in the Solar System. As of June 2011, we know of 563 other planets. ref cite web author Jean Schneider title Interactive Extra-solar Planets Catalog url http://exoplanet.eu/catalog.php work The Extrasolar Planets Encyclopedia accessdate 2011-06-23 ref  All of these newly found planets are orbiting other stars: they are  Extrasolar planet extrasolar  planets . Sometimes people call them "exoplanets". onlyinclude 
+
+  In the Solar System  
+ Main History of astronomy 
+ File:Planets2008.jpg thumb|right|300px|Planets of the  Solar System 
+
+The planets in the Solar System have names of  Greek mythology Greek  or  Roman mythology Roman  gods, apart from Earth, because people did not think Earth was a planet in old times. However, Earth is occasionally referred by the name of a Roman god:  Terra . Other languages, for example  Chinese language Chinese , use different names. Moons also have names of gods and people from classical  myth ology, or from the  theatre plays  written by  Shakespeare . 
+
+  Planets  
+Here is a  list of planets  in the Solar System. They are ordered by how close they are to the Sun, nearest first. 
+ class wikitable  style text-align: left;  Planet
+  Symbol
+   Mercury (planet) Mercury  
+ File:Mercury symbol.svg 14px|Astronomical symbol for Mercury 
+   Venus (planet) Venus  
+   File:Venus symbol.svg 14px|Astronomical symbol for Venus 
+   Earth 
+   File:Earth symbol.svg 14px|Astronomical symbol for Earth 
+   Mars (planet) Mars  
+   File:Mars symbol.svg 14px|Astronomical symbol for Mars 
+   Jupiter (planet) Jupiter 
+   File:Jupiter symbol.svg 14px|Astronomical symbol for Jupiter 
+   Saturn (planet) Saturn  
+   File:Saturn symbol.svg 14px|Astronomical symbol for Saturn 
+   Uranus (planet) Uranus  
+   File:Uranus symbol.ant.png 14px|Astronomical symbol for Uranus 
+   Neptune (planet) Neptune 
+   File:Neptune symbol.svg 14px|Astronomical symbol for Neptune 
+ 
+
+  Types of planets  
+Astronomers speak about  major  (or true) planets, and  minor planet s, which are smaller objects that go around the Sun. Some examples of "minor planets" are  asteroid s,  comet s, and  trans-Neptunian object s.
+
+Planets in the Solar System are of three sorts:
+   Terrestrial planet Terrestrial  or  rocky : Planets that are similar to Earth -- in them is mostly  Rock (geology) rock : Mercury, Venus, Earth, Mars. 
+   Gas giant Jovian  or  gas giant : These planets are mostly made of  gas : Jupiter, Saturn, Uranus, Neptune. Uranian planets are a special sort of gas giants, they have more  hydrogen  and  helium .
+   Ice dwarf Icy : Sometimes people also have a third sort, for bodies such as  Pluto  (though Pluto is no longer called a planet by everyone). These planets are mostly made of  ice .
+Many objects in the Solar System that are not planets are also "icy". Examples are the icy moons of the outer planets of the Solar System (like  Triton (moon) Triton ).
+
+ Related pages 
+   List of planets 
+   Ice dwarf s
+
+ References 
+ references 
+
+ Solar System 
+
+ Category:Planets  

@@ -1,0 +1,80 @@
+Saarbrucken
+
+Foreignchar u Saarbruecken 
+ div style float: right; width: 310px; margin-left: 1em; 
+ Infobox Ort in Deutschland
+ Art   Stadt
+ image_photo   SB-Rathaus.jpg
+ Wappen   Wappen saarbruecken.PNG
+ lat_deg   49   lat_min   14
+ lon_deg   7   lon_min   0
+ Lageplan   Karte Freundschaftsbrucke.png
+ Bundesland   Saarland
+ Landkreis   Saarbrucken District
+ Hohe   230.1
+ Flache   167.07
+ Einwohner   180515
+ Stand   2006-12-31
+ PLZ   66001-66133
+ PLZ-alt   6600
+ Vorwahl   0681, 06893, 06897, 06898, 06805
+ Kfz   SB
+ Gemeindeschlussel   10 0 41 100
+ NUTS  
+ LOCODE  
+ Gliederung   20
+ Adresse   Rathaus St. Johann br 66111 Saarbrucken
+ Website    http://www.saarbruecken.de/ www.saarbruecken.de 
+ Burgermeister   Charlotte Britz
+ Partei   SPD
+ 
+
+ Infobox Former Country
+ native_name    Grafschaft Saarbrucken   small ( German language de ) small br Comte de Sarrebruck   small ( French language fr ) small br Grofschaft Saarbrecken   small ( Luxembourgish language lb ) small 
+ conventional_long_name   County of Saarbrucken
+ common_name   Saarbrucken
+ 
+ continent   Europe
+ region   Rhine basin
+ country   Germany
+ era   Middle Ages
+ status   Vassal
+ empire   Holy Roman Empire
+ government_type   Principality
+ 
+ year_start   12th century
+ year_end   1797
+ 
+ event_pre   Joined  Holy Roman Empire 
+ date_pre   925
+ event_start    
+ date_start    ca  1120
+ event1   Passed to  House of Nassau-Weilburg Nassau-Weilburg 
+ date_event1   1353
+ event2   Occupied by  First French Republic France 
+ date_event2   1793
+ event_end    Treaty of Campo Formio Annexed  by France
+ date_end    
+ event_post    Congress of Vienna Passed  to  Kingdom of Prussia Prussian   Grand Duchy of the Lower Rhine Grd br Dchy Lwr Rhine 
+ date_post    br June 9   1815 
+ 
+ p1   Bishopric of Metz
+ image_p1    File:Blason Metz 57.svg 20px|Bishopric of Metz 
+ s1   Sarre (department)
+ flag_s1   Flag of France.svg
+ 
+ common_languages    Rhine Franconian ;  see  Saarland#Language language of the Saarland 
+ capital   Saarbrucken
+ 
+ footnotes    
+ 
+ div 
+ Saarbrucken  (French Sarrebruck) is a  Germany German  city and a district in the  States of Germany state  of  Saarland .
+
+It is also the capital of the Saarland. Saarbrucken has 180,000  inhabitant s and is on the river  Saar River Saar .
+
+ geo-stub 
+ Commonscat 
+
+ Category:Saarbrucken District 
+ Category:States of the Holy Roman Empire

@@ -1,0 +1,27 @@
+Wiki
+
+A  wiki  is a type of  website  that lets anyone who can access the wiki create and change its  webpage pages . The word is  Internet slang . The word  Wiki  is short for WikiWikiWeb.  Wikiwiki  is a word from the  Hawaiian language , meaning "fast" or " speed ". ref cite web accessdate 2008-09-19   url http://www.mauimapp.com/moolelo/hwnwdshw.htm    title Hawaiian Words; Hawaiian to English   publisher mauimapp.com   work Maui Island Guide   accessdate 10 November 2011 ref  Examples of wikis include  Wikipedia ,  Citizendium , and  Conservapedia .
+
+Every wiki can be changed, or edited, by anyone who has an account on the wiki, or by everyone in the world if the wiki allows it.  Some important pages can only be changed by certain users.  Wikis are central places where we all can share information, people can add new information, and then people read them.  Wikis allow information from all around the world to be collected.
+
+On a wiki, people can write pages by collaboration.  Pages are watched closely to see whether changes are good or bad.  If one person writes something wrong, another can correct it. Other users can also add something new to the page.  Because of this, the page gets better when people change it.  Administrators can block someone from editing if they  vandalism vandalise , or for other reasons.   
+
+Users can also discuss things on wikis.   Discussion  can help people understand things better and get a chance to tell their views.  In Wikipedia the talk pages are for that, but in some wikis, the article and the discussion are in the same page.
+
+Wikis can be used for different things; not all wikis follow the same rules for using them.  For example, the purpose of Wikipedia is to write  article s for an  encyclopedia .  That is why in Wikipedia, people do not want general discussion that does not help in writing articles.
+
+ Ward Cunningham  started the first wiki in March 1995. ref cite web  url   http://www.c2.com/cgi/wiki?WikiWikiWeb   title Wiki Wiki Web  first   last   work c2.com  year 2011  accessdate 10 November 2011 ref ref cite web  url   http://www.re-public.gr/en/?p=141   title Wiki and the rise of gift economies first Ward  last Cunningham  work Re-imagining democracy  year 2011 [last update]  accessdate 10 November 2011 ref ref cite book title Blogs, Wikis, Podcasts, and Other Powerful Web Tools for Classrooms last Richardson first Bill publisher Corwin Press date 2008 page p.60 isbn 1412959713 ref   Many people liked it, and wrote there, after which they started similar websites.   MediaWiki  is the most used software for wikis.   JSPWiki  is one of many others.  "Wiki" is also sometimes an abbreviation for Wikipedia.
+
+  Vandalism  
+A wiki is freely editable by anyone. Some wikis are even available to people without an account, so wikis are targets for vandals to add bad content to because it is easy. There are many ways to prevent this. Individual pages can be protected to allow only certain users, or only those with an account, to edit them. Administrators can also block users who make much trouble. Vandalism may not be stopped totally, but regular, careful checking can diminish the amount. 
+
+  References  
+ reflist 
+
+ Other websites 
+ wiktionary 
+   http://www.youtube.com/watch?v=-dnL00TdmLY Wikis in plain English  on  YouTube 
+
+ Category:Internet slang 
+ Category:Software 
+ Category:Wikis  

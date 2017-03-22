@@ -1,0 +1,49 @@
+Yiddish
+
+Infobox language
+ name   Yiddish
+ nativename    lang yi yyidysh   yidish 
+ states    Argentina ,  Australia ,  Austria ,  Belarus ,  Belgium ,  Bosnia and Herzegovina ,  Brazil ,  Canada ,  France ,  Germany ,  Hungary ,  Israel ,  Latvia ,  Lithuania ,  Mexico ,  Moldova ,  Netherlands ,  Poland ,  Romania ,  Russia ,  Sweden ,  Ukraine ,  United Kingdom ,  United States , and elsewhere
+ speakers   1.8 million
+ date   no date
+ ref    ref name Ethnologue http://www.ethnologue.com/show_language.asp?code=ydd Yiddish, Eastern , on  Ethnologue . Retrieved 11 March 2010. ref 
+ speakers2   11 million  second language L2  speakers
+ familycolor   Indo-European
+ fam2    Germanic languages Germanic 
+ fam3    West Germanic languages West Germanic 
+ fam4    High German languages High German 
+ script   uses a  Yiddish orthography Hebrew-based alphabet 
+ nation    Jewish Autonomous Oblast ,  Russia 
+ minority    BIH   br   NED   br   POL   br   ROM   br   SWE   br   UKR 
+ agency   no formal bodies; br YIVO  de facto
+ iso1   yi
+ iso2   yid
+ iso3   yid
+ lc1   ydd
+ ld1   Eastern Yiddish
+ lc2   yih
+ ld2   Western Yiddish
+ lingua   52-ACB-g = 52-ACB-ga (West) + 52-ACB-gb (East); totalling 11 varieties
+ 
+ Yiddish  is a  language  used by some  Jew s. At first it was a  dialect  of the  German language  which Jews began to use in  Europe  about a thousand years ago. It was (and is) used in the  United States , especially in  New York , and other countries where Jews have migrated to. Most of its words are of  German language German  origin. Also, Yiddish has many words from  Hebrew language Hebrew  and  Slav ic languages, notably  Polish language Polish . It also contains some French, Hungarian, and Latin words. Yiddish is usually written in Hebrew characters.
+
+In the whole world, Yiddish is spoken by about 3 million people. It is mainly spoken by  Hasidic Judaism Hasidic Jews. 
+
+  European Charter  
+In the  Netherlands  and  Sweden , Yiddish is protected by the  European Charter for Regional or Minority Languages .
+
+  Related pages  
+   Ladino language 
+
+ References 
+ reflist 
+
+  Other websites  
+ http://yiddish.haifa.ac.il/Stories.html Di Velt fun Yidish: Audio Stories 
+ InterWiki code yi 
+ Germanic languages 
+
+
+ stub 
+
+ Category:Germanic languages

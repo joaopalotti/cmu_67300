@@ -1,0 +1,184 @@
+Brazil
+
+for the city in the U.S. state of Indiana Brazil, Indiana 
+ Infobox country
+ native_name    span style line-height:1.33em; native name pt Republica Federativa do Brasil span 
+ conventional_long_name    span style line-height:1.33em; Federative Republic of Brazil span 
+ common_name   Brazil
+ image_flag   Flag of Brazil.svg
+ alt_flag  
+ image_coat   Coat of arms of Brazil.svg
+ alt_coat  
+ symbol_type   Coat of arms
+ national_motto    " lang pt Ordem e Progresso " br small pt icon br "Order and Progress" small 
+ national_anthem    Brazilian National Anthem Hino Nacional Brasileiro br small pt icon br "Brazilian National Anthem" small 
+ royal_anthem  
+ other_symbol_type    Seal (emblem) National seal 
+ other_symbol    National Seal of Brazil Selo Nacional do Brasil   File:National Seal of Brazil (color).svg 150px 
+ image_map   Brazil (orthographic projection).svg
+ alt_map  
+ map_caption  
+ image_map2  
+ alt_map2  
+ map_caption2  
+ capital    Brasilia 
+ latd  15   latm  45   latNS   S
+ longd  47  longm  57  longEW   W
+ largest_city    Sao Paulo 
+ official_languages    Portuguese language Portuguese ref cite web title Demographics publisher Brazilian Government date 2011 url http://www.brasil.gov.br/sobre/brazil/brazil-in-numbers/demographics accessdate 2011-10-08   en ref 
+ national_languages  
+ regional_languages  
+ languages_type  
+ languages  
+ ethnic_groups   47.73%  White Brazilian White br 43.13%  Pardo Brown  ( Multiracial#Brazil Multiracial ) br 7.61%  Black Brazilian Black br 1.09%  Asian Brazilian Asian br 0.43%  Indigenous peoples in Brazil Amerindian 
+ ethnic_groups_year   2010 ref name raca2010 http://www.ibge.gov.br/home/estatistica/populacao/censo2010/caracteristicas_da_populacao/tabelas_pdf/tab3.pdf Caracteristicas da Populacao e dos Domicilios do Censo Demografico 2010 -- Cor ou raca ref 
+ demonym    Brazilian people Brazilian 
+ government_type    Federalism Federal   Presidential system presidential   constitutional republic 
+ leader_title1    President of Brazil President 
+ leader_name1    Michel Temer  ( PMDB ) ref cite web title Brazil President Dilma Rousseff removed from office by Senate url http://www.bbc.com/news/world-latin-america-37237513 publisher BBC accessdate 30 October 2016 date 1 September 2016 ref  
+ leader_title2    Vice-President of Brazil Vice President 
+ leader_name2    Vacant 
+ leader_title3    List of Presidents of the Chamber of Deputies of Brazil President of the Chamber of Deputies 
+ leader_name3    Rodrigo Maia  (DEM)
+ leader_title4    President of the Senate of Brazil President of the Senate 
+ leader_name4    Renan Calheiros  (PMDB)
+ leader_title5    Supreme Federal Court (Brazil)#Chief Justice Chief Justice 
+ leader_name5    Carmen Lucia 
+ leader_title6  
+ leader_name6  
+ legislature    National Congress of Brazil National Congress 
+ upper_house    Senate of Brazil Federal Senate 
+ lower_house    Chamber of Deputies of Brazil Chamber of Deputies 
+ sovereignty_type    Brazilian Declaration of Independence Independence 
+ sovereignty_note   from  Portugal 
+ established_event1    Empire of Brazil Declared 
+ established_date1   7 September 1822
+ established_event2    Empire of Brazil Recognized 
+ established_date2   29 August 1825
+ established_event3    Republica Velha Republic 
+ established_date3   15 November 1889
+ established_event4    Constitution of Brazil Current constitution 
+ established_date4   5 October 1988
+ established_event5  
+ established_date5  
+ 
+ established_event9  
+ established_date9  
+ area_rank   5th
+ area_magnitude   1 E12
+ area  
+ area_km2   8514877
+ area_sq_mi   3287597
+ area_footnote  
+ percent_water   0.65
+ area_label   Total
+ area_label2  
+ area_dabodyalign  
+ population_estimate  
+ population_estimate_rank  
+ population_estimate_year  
+ population_census   204,450,649  ref cite web url http://saladeimprensa.ibge.gov.br/en/noticias?view=noticia&id=1&busca=1&idnoticia=2204   title IBGE   Sala de imprensa   noticias   IBGE releases the population estimates of the municipalities in 2012  publisher Saladeimprensa.ibge.gov.br  date   accessdate 2013-06-04 ref 
+ population_census_rank   5th
+ population_census_year   2015
+ population_density_km2   23.6
+ population_density_sq_mi   57
+ population_density_rank   182nd
+ GDP_PPP   $2.172 trillion ref name imf cite web url http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=223&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=25&pr.y=4   title Brazil publisher International Monetary Fund accessdate 2011-04-21 ref 
+ GDP_PPP_rank  
+ GDP_PPP_year   2010
+ GDP_PPP_per_capita   $11,239 ref name imf 
+ GDP_PPP_per_capita_rank  
+ GDP_nominal   $2.090 trillion ref name imf 
+ GDP_nominal_rank  
+ GDP_nominal_year   2010
+ GDP_nominal_per_capita   $10,816 ref name imf 
+ GDP_nominal_per_capita_rank  
+ Gini   53.6
+ Gini_ref    ref name 2010censusgini http://www.ibge.gov.br/home/estatistica/populacao/censo2010/caracteristicas_da_populacao/tabelas_pdf/tab8.pdf Caracteristicas da Populacao e dos Domicilios do Censo Demografico 2010 -- Rendimento ref 
+ Gini_year   2010
+ Gini_category    span style color:#e0584e; high span 
+ HDI   0.744
+ HDI_change   
+ HDI_ref    ref name HDI11 cite web title Table 1: Human development index 2011 and its components url http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf format PDF accessdate 2011-12-04 publisher UNDP  author UNDP Human Development Report 2011 ref 
+ HDI_rank   79th
+ HDI_year   2011
+ HDI_category    span style color:#090; high span 
+ currency    Brazilian real Real  (R$)
+ currency_code    BRL 
+ time_zone    Time in Brazil BRT ref name timezones cite web  title Hora Legal Brasileira  publisher Observatorio Nacional  url http://pcdsh01.on.br/Fusbr.htm   archiveurl http://web.archive.org/web/20110722173247/http://pcdsh01.on.br/Fusbr.htm   archivedate 2011-07-22  accessdate 2009-02-21 ref 
+ utc_offset    UTC-02 -2  to  UTC-05 -5 ref name timezones 
+ time_zone_DST    Time in Brazil#Summer time BRST 
+ antipodes  
+ date_format   dd/mm/yyyy ( Common Era CE )
+ DST_note  
+ utc_offset_DST    UTC-02 -2  to  UTC-05 -5 
+ drives_on   right
+ cctld    .br 
+ iso3166code  
+ calling_code    Telephone numbers in Brazil +55 
+ image_map3  
+ alt_map3  
+ footnotes  
+ footnote1  
+ footnote2  
+ footnote7  
+ 
+ File:Brazilian National Congress.jpg thumb|Brazilian National Congress 
+ Brazil  (officially called  Federative Republic of Brazil ; how to say:  IPA2 bra'ziw ) is a  country  in  South America . It is the  earth world 's fifth largest country. The country has about 209 million people. The  capital (city) capital  of Brazil is  Brasilia . Brazil was named after  brazilwood . Brazilwood is a tree that once grew very well along the Brazilian coast. ref name Fausto1999 cite book author Boris Fausto title A Concise History of Brazil url http://books.google.com/books?id=HJdaM325m8IC&pg=PA9 year 1999 publisher Cambridge University Press isbn 978-0-521-56526-4 page 9 ref 
+
+  History  
+ expand section 
+The first people to come to Brazil came around 9,000 B.C. ref cite web title People of the Earth: An Introduction to World Prehistory url https://books.google.com/books?id=M8lwCgAAQBAJ&pg=PA157&lpg=PA157&dq=first+people+to+come+to+Brazil+came+around+9,000+B.C&source=bl&ots=EJsVa2_mPB&sig=PTUqvtsyFvbCCFqNaJEJeyX9s1o&hl=en&sa=X&ved=0ahUKEwiIjJ3cqejQAhVfVWMKHcc4Bg8Q6AEIODAE#v=onepage&q=first%20people%20to%20come%20to%20Brazil%20came%20around%209%2C000%20B.C&f=false accessdate 10 December 2016 author Dr. Brian Fagan coauthors Nadia Durrani page 157 ref  That group of people is often called the  South American Indians .  They probably came from  North America . Some of them were hunters and gatherers, but others were farmers. ref name Britannica citeweb url http://school.eb.com/levels/high/article/106094   title Brazil  website Britannica School  publisher Encyclopaedia Britannica  accessdate 30 July 2014 ref 
+ File:Flag of Brazil (1500).png thumb|Flag of Brazil, 1500. 
+ Pedro Alvares Cabral  was the first  Europe European  to see Brazil. He saw it in 1500. He was from  Portugal  and the Portuguese government claimed Brazil. Soon, explorers explored the whole coastline of Brazil and colonies were set up. In the late 1500s and early 1600s the Dutch and the French would sometimes try to take land in Brazil. Brazilians started moving inland farther than the  Treaty of Tordesillas  said they could. This caused some fights with the Spaniards and native people in the area. ref name Britannica 
+
+In 1822, Brazil claimed to be its own country and not a part of  Portugal  anymore. Soon there was  civil war . But the emperor  Pedro II of Brazil Pedro II  improved the economy, and in 1888, he freed the  slavery slaves . In 1889, there was a military  coup  and Pedro II had to leave the country. ref name Britannica 
+
+In 1889, Brazil became a  republic . It was not very  Democracy democratic , because the only people who could vote were people who owned land. There were some uprisings in the 1920s because some people thought the government was unfairly helping coffee growers. Brazil joined the  Allies of World War II Allies  during  World War II . ref name Britannica 
+
+During the 1960s, the leader  Castelo Branco  made the government like a  dictatorship . Since then, the country has become more democratic, but some people feel that there are still big problems in health and education.
+
+In September 2016, then- president   Dilma Rousseff  was removed from office because of  impeachment . fact date December 2016 
+
+ Languages 
+Most people in Brazil speak  Portuguese language Portuguese . Brazil is the only country in South America that speaks  Portuguese language Portuguese .
+
+Some people in Brazil speak  German language German  dialects. That came from German immigrants. 2% of Brazilians speak German as their  first language .  Yiddish  is spoken by the elders of the  Jew Jewish  community. 
+
+Other people in Brazil speak their ancestors languages like  Italian language Italian ,  Japanese language Japanese ,  Polish language Polish ,  Ukrainian language Ukrainian ,  French language French ,  Russian language Russian ,  Lithuanian language Lithuanian ,  Chinese language Chinese ,  Dutch language Dutch  and  Korean language Korean .  Spanish language Spanish  or "Portunhol", a mix of Portuguese and Castilian (Spanish) is spoken at some of the borders. Indigenous languages as  Guarani language Guarani  and  Aymara language Aymara  are the first languages of a small number of Brazilians.
+
+  Geography  
+Brazil has the world's largest  rainforest , the  Amazon Rainforest . It makes up 40% of the country's land area. Brazil also has other types of land, including a type of  savanna  called  cerrado , and a dry plant region named  caatinga .
+
+The most important cities are  Brasilia  (the capital),  Belem (Brazil) Belem ,  Belo Horizonte ,  Curitiba ,  Florianopolis ,  Fortaleza (Brazil) Fortaleza ,  Goiania ,  Manaus ,  Porto Alegre ,   Recife ,  Rio de Janeiro ,  Salvador, Bahia Salvador ,  Sao Paulo  (the biggest city) and  Vitoria (Brazil) Vitoria .  Other cities are at  List of largest cities in Brazil .
+
+Brazil is divided into  Political subdivisions of Brazil 26 states  plus the Federal District in five regions (north, south, northeast, southeast and centre-west):
+ North : Acre, Amazonas, Rondonia, Roraima, Para, Amapa, Tocantins
+ Northeast : Maranhao, Pernambuco, Ceara, Piaui, Rio Grande do Norte, Paraiba, Alagoas, Sergipe, Bahia
+ Centre-West : Goias, Mato grosso, Mato Grosso do Sul, Distrito Federal/ Federal District
+ Southeast : Sao Paulo, Rio de Janeiro, Espirito Santo, Minas Gerais
+ South : Parana, Santa Catarina and Rio Grande do Sul
+
+The country is the fifth largest in the world by area. It is known for its many  Rainforest rainforests  and  Jungle jungles . It is next to every country in South America except  Chile  and  Ecuador .
+
+  People/culture  
+Brazil is the largest country in South America and fifth largest in the world. ref cite web title The 50 largest (area) countries in the world url http://www.geohive.com/earth/area_top50.aspx publisher GeoHive accessdate 9 December 2016 ref  Its people are called Brazilians or Brasileiros (In Portuguese). The people include citizens of Portuguese or other European descent who mainly live in the South and Southeast, Africans, Native Americans, Arabs, Gypsies and people of Mixed ancestry. Brazil also has the largest Japanese community outside  Japan . ref name cnn cite web last Veselinovic first Milena title Mixing sushi and samba - meet the Japanese Brazilians url http://www.cnn.com/2013/06/11/world/brazil-japanese-community/ publisher CNN accessdate 10 December 2016 date July 24, 2013 ref  Other East Asians follow the Japanese group. 
+
+Two major  sport ing events were held in Brazil recently: the  2014 FIFA World Cup  and the  2016 Summer Olympics  in  Rio de Janeiro .
+
+  Related pages  
+   Civil Police (Brazil) 
+   Political subdivisions of Brazil 
+   https://www.cia.gov/library/publications/the-world-factbook/geos/br.html CIA World Factbook 
+
+  References  
+ Reflist 
+
+ Other websites 
+   commons-inline 
+   wikivoyage-inline 
+ File:Rio de Janiero banner 1.jpg thumb|Rio de Janiero. 
+ South America 
+
+ Category:Brazil   
+ Category:Portuguese-speaking countries

@@ -1,0 +1,29 @@
+Coordinated Universal Time
+
+Time zones of Europe 
+
+ Coordinated Universal Time  (UTC) is the  standard   time zone time system  of the  world . It is the standard by which the world regulates  clocks  and time. It is, within about 1 second,  Solar time#Mean solar time mean solar time  at 0deg  longitude . 
+
+The standard before was  Greenwich Mean Time  (GMT). UTC and GMT are almost the same. In fact, there is no practical difference which would be noticed by ordinary people. ref Guinot, Bernard 2011. Solar time, legal time, time in use.  Metrologica   48  (4): S181-185.  http://iopscience.iop.org/article/10.1088/0026-1394/48/4/S08/meta;jsessionid=EFE4FABEA4925A8AF5687B5CFDC8BFF3.c1.iopscience.cld.iop.org ref  
+
+Some  website s, like  Wikipedia , use UTC because it does not make any  country  look more important than the others. It offers one time for all the  internet  (the same time can be used by people all over the world). 
+
+Timezones are often named by how many hours they are different from UTC time. For example, UTC -5 ( United States  east coast) is 5 hours behind UTC. If the time is 07:00 UTC, the local time is 02:00 in  New York City New York  (UTC -5) and 10:00 in  Moscow  (UTC +3).
+
+07:00 UTC is also written more simply as 0700Z (or 07:00Z).
+
+Note that UTC uses the 24-hour clock.  That means there is no 'AM' or 'PM'.  For example, 4:00PM would be 16:00 or 1600.
+
+When this page loaded, it was  CURRENTDAYNAME ,  CURRENTYEAR   CURRENTMONTHNAME   CURRENTDAY ,  CURRENTTIME  in UTC 
+
+When this page loaded, it was  CURRENTDAYNAME ,  CURRENTYEAR   CURRENTMONTHNAME   CURRENTDAY ,  CURRENTTIME Z 
+ align center File:Standard World Time Zones.png thumb|800px|center|Standard Time Zones Map, as of August 15, 2015 
+ 
+
+  References  
+ reflist 
+
+
+ Category:Time zones 
+
+ fi:Aikajarjestelma#UTC

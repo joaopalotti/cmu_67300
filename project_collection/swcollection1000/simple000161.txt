@@ -1,0 +1,43 @@
+Flesch Reading Ease
+
+The  Flesch Reading Ease  measures  textual difficulty , which indicates how easy a text is to  read .
+
+Tools to calculate the Flesch Reading Ease include:
+
+   Microsoft Word 's  grammar  check
+   Abiword  (open source)
+   Koffice KWord  (open source)
+
+ How it works 
+
+The Flesch Reading Ease Scale measures readability as follows: 
+
+100: Very easy to read.  Average   sentence  length is 12  word words  or fewer. No words of more than two  syllable syllables . 
+
+65: Plain English. Average sentence is 15 to 20 words long. Average word has two syllables. 
+
+30: A little hard to read. Sentences will have mostly 25 words. Two syllables usually.
+
+0: Very hard to read. Average sentence is 37 words long. Average word has more than two syllables. 
+
+The higher the  rating , the easier the text is to understand. By the very nature of technical subject matter, the Flesch score is
+usually relatively low for technical documentation. If the Flesch test is used regularly, one may develop a sense of what a
+reasonable score is for the type of documentation one is working on and aim to align with this score. The approach to calculating
+the Flesch score is as follows: 
+
+  Calculate the average sentence length, L. 
+  Calculate the average number of syllables per word, N. 
+  Calculate score (between 0-100%).
+
+The Flesch score for this subsection is 61.
+
+  Other websites  
+
+ http://www.checktext.org CheckText.org  ; A website that calculates Flesch Reading Ease
+  Rudolf Flesch, the developer of the test, provides some background information on  http://www.mang.canterbury.ac.nz/writing_guide/writing/flesch.shtml how to write plain English .
+
+
+ Category:Linguistics 
+ Category:Written communication 
+
+ de:Lesbarkeitsindex#Flesch Reading Ease

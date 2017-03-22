@@ -1,0 +1,68 @@
+Copyright
+
+morefootnotes date May 2012 
+ for Wikipedia copyrights Wikipedia:Copyrights 
+ File:Copyright.svg thumb|150px|Copyright symbol. 
+ File:FixCopyright- Copy (aka copyright) Tells the Story of His Life.webm thumb|Video explaining the history of copyright 
+A  copyright  is a  law  that gives the owner of a written  wikt:document document ,  music al composition,  book , picture, or other creative work, the  rights right  to decide what other people can do with it. Copyright laws make it easier for  author s to make money by selling their works. Because of copyright, a work can only be copied if the owner of the copyright gives  wikt:permission permission .
+
+When someone copies or edits a work that is protected under copyright without permission, the owner may  Lawsuit sue  for the value of the violation. Most such cases are handled by  civil law . In more serious cases, a person who copies a work that is protected under copyright could be  arrest ed,  fine d or even go to  prison .
+
+  Who owns copyright?  
+
+In most countries, authors automatically own the copyright to any work they make or create, as long as they do not give the copyright to someone else.
+
+In most countries, there is no need to  Registration register  the copyright, and some countries do not even have procedures to register copyrights.  But, where registration is available, many authors register anyway, especially for works that are sold for money. That is because registration helps to  wikt:proof prove  that the copyright of a work belongs to a certain author. 
+ 
+If an author gets paid to make a work for someone else, the person who pays for making the work (for example, the author's  employer ) will often get to own the copyright instead of the author him/herself. For example, if a person working for a company like  Microsoft  creates a new computer software program at work, the Microsoft company would own the copyright.
+
+  Length of copyright protection  
+Copyright laws usually protect owners of copyright beyond their lifetime, such as until 50 years after the author's death. In some countries this period has been extended to 70 years. ref cite web title Publication Right, Database Right url http://www.ipo.gov.uk/cdpact1988.pdf ref  When the period of copyright protection has ended, the written document, musical composition, book, picture, or other creative work is in the  public domain . This means that no one owns the copyright and everyone is free to copy, use and change them without having to ask for permission or pay the owner.
+
+  Fair use  
+There is an  wikt:exception exception  to the rules of copyright, called  fair use . This means that people can copy a very small amount of a work to use in reviews or in research reports.
+
+An example of fair use is when  newspaper  writers  wikt:quote quote  several sentences from a copyright-protected document to tell the story. Another example of "fair use" is when a university professor quotes several sentences from a copyright-protected book in a review of the book, or in a research report.
+
+  Copyright in different countries  
+
+Different  Country countries  have different copyright laws. Most of the differences are about:
+  whether or not the  government 's work falls under copyright,
+  how much longer copyright lasts after the author dies or after the work is created or published, and
+  what is and what is not  fair use .
+Because of these differences, a certain piece of work may be under copyright in one country, and in the public domain in another.
+
+  Problems with copyright  
+  Creativity  
+
+Some people argue that copyright laws make it easier for people to make new works and think of new ideas. After all, if authors get to make money for the time, effort and money they put in, then they will want to make more works later, and make more money.
+
+But others believe that copyright laws make it harder to be  Creativity creative . Without copyright, other people could reuse existing work, and copyright law often stops that.
+
+  Publisher control  
+
+If an author wants to sell a work, it's often easiest to give the copyright to a  publisher . The publisher will do all the selling, and in return for that service, will keep part of the money. But the publisher has many different things to sell, and they may not want to sell the work the author made. Authors often find it very hard to find a publisher willing to sell their work.
+
+But without a publisher, it can be even harder for an author to sell his or her work. In many  market s, a few big publishers own the copyrights to almost everything available, and stores will not want to sell works published by small authors themselves. Many people say copyright law helps big publishers stay in control, and keeps smaller authors out of the market. ( tragedy of the anticommons ).
+
+  Open content  
+ main Open content 
+As a solution to these problems, groups of authors have come up with the idea of  open content . With open content, authors give everyone permission to copy, change and give away or sell their works, as long as they follow certain rules. These rules are explained in an open content  license . Some possible open content rules are:
+
+  If a person changes the work, or if a person makes a new  derivative  work based on it, they must give the original author credit (they must say who wrote it).
+  If a person publishes the changed or derivative piece of work, they must let others use it under the same free license.
+  Under some licenses, a person cannot sell the piece of work or use it to make money.
+
+The term for Open Content is sometimes  Copyleft .
+
+ Related pages 
+   Patent 
+
+ References 
+ references 
+  World Intellectual Property Organisation. " http://www.wipo.int/freepublications/en/intproperty/909/wipo_pub_909.pdf Understanding Copyright and Related Rights " (PDF). WIPO. pp. 6-7. Retrieved August 2008.
+  Garfinkle, Ann M; Fries, Janet; Lopez, Daniel; Possessky, Laura (1997). "Art conservation and the legal obligation to preserve artistic intent". JAIC 36 (2): 165-179.
+  17 U.S.C. SS 201(b); Cmty. for Creative Non-Violence v. Reid, 490 U.S. 730 (1989)
+  "Copyright Term and the Public Domain in the United States 1 January 2008.", Cornell University.
+
+ Category:Copyright  

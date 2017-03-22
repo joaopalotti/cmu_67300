@@ -1,0 +1,237 @@
+Switzerland
+
+Infobox country
+ native_name  
+ name  
+ conventional_long_name Collapsible list title center Swiss Confederation center 
+   <center> Schweizerische Eidgenossenschaft   Language icon de German language de 
+   Confederation suisse   Language icon fr French language fr 
+   Confederazione Svizzera   Language icon it Italian language it 
+   Confederaziun svizra   Language icon rm Romansh language rm 
+   Confoederatio Helvetica   Language icon la Latin la 
+   Schwizerischi Eidgnosseschaft   Language icon gsw Swiss German gsw 
+   
+ common_name   Switzerland
+ image_flag   Flag of Switzerland.svg
+ image_coat   Coat of Arms of Switzerland.svg
+ image_map   Europe-Switzerland.svg
+ map_caption    map caption location_color green region Europe region_color dark grey legend Europe-Switzerland.svg 
+ national_motto    lang la Unus pro omnibus, omnes pro uno spaces 2 small (traditional) br ( Latin : One for all, all for one) small 
+ national_anthem    Swiss Psalm 
+ official_languages    German language German  (63.7 %), br French language French  (20.4 %), br Italian language Italian  (6.5 %), br Romansh language Romansh ref http://www.admin.ch/ch/e/rs/101/a4.html Federal Constitution, article 4 , "National languages" :  National languages  are German, French, Italian and Romansh;  http://www.admin.ch/ch/e/rs/101/a70.html Federal Constitution, article 70 , "Languages", paragraph 1: The  official languages  of the Confederation are German, French and Italian. Romansh shall be an official language for communicating with persons of Romansh language. ref  (0.5 %)
+ demonym   Swiss
+ capital    Bern (city) Bern ref group note De jure  "federal city";  de facto  capital. Because of historical federalist sensibilities, Swiss law does not designate a formal capital, and some federal institutions such as courts are located in other cities. ref  (de facto)
+ latd 46  latm 57  latNS N  longd 7  longm 27  longEW E
+ largest_city    Zurich 
+ legislature    Federal Assembly of Switzerland Federal Assembly 
+ upper_house    Swiss Council of States Council of States 
+ lower_house    National Council of Switzerland National Council 
+ government_type    Federation Federal republic , with  directorial system  and  Voting in Switzerland direct democracy 
+ leader_title1    Swiss Federal Council Federal Council 
+ leader_name1    Micheline Calmy-Rey   small ( President of the Swiss Confederation Pres. 11 ) small br Doris Leuthard br Eveline Widmer-Schlumpf   small ( President of the Swiss Confederation VP 11 ) small br Ueli Maurer br Didier Burkhalter br Simonetta Sommaruga br Johann Schneider-Ammann 
+ leader_title2    Federal Chancellor of Switzerland Federal Chancellor 
+ leader_name2    Corina Casanova 
+ area_sq_mi   15,940  
+ area_rank   133rd
+ area_magnitude   1 E10
+ area_km2   41,285
+ percent_water   4.2
+ population_estimate   7,866,500 ref name Population cite web url http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/02/blank/key/bevoelkerungsstand.html title Population size and population composition year 2010 work Swiss Federal Statistical Office  publisher Swiss Federal Statistical Office, Neuchatel accessdate 2011-04-29 ref 
+ population_growth (2009)   +1,0%
+ population_estimate_year   2010
+ population_estimate_rank   95th
+ population_density_km2   201
+ population_density_sq_mi   477.4  
+ population_density_rank   65th
+ population_census   7,452,075
+ population_census_year   2000
+ GDP_PPP   $321.898 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=146&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=84&pr.y=8   title Switzerland publisher International Monetary Fund accessdate 2010-04-21 ref 
+ GDP_PPP_year   2011
+ GDP_PPP_rank  
+ GDP_PPP_per_capita   $45,265 ref name imf2 
+ GDP_PPP_per_capita_rank  
+ GDP_nominal   $512.065 billion ref name imf2 
+ GDP_nominal_rank  
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $75,835 ref name imf2 
+ GDP_nominal_per_capita_rank  
+ HDI_year   2013
+ HDI   0.917
+ HDI_change   increase
+ HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf title Human Development Report 2010 year 2010 publisher United Nations accessdate 4 November 2010 archivedate 8 November 2010 archiveurl http://web.archive.org/web/20101108160356/http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf ref 
+ HDI_rank   3rd
+ HDI_category    span style color:#090; very high span 
+ Gini   33.7
+ Gini_ref   
+ Gini_year   2000
+ Gini_category    span style color:#fc0; medium span 
+ sovereignty_type    Independence 
+ established_event1    History of Switzerland Foundation date 
+ established_event2    Treaty of Basel (1499) de facto 
+ established_event3    Peace of Westphalia Recognised 
+ established_event4    Restauration (Switzerland) Restored 
+ established_event5    Switzerland as a federal state Federal state 
+ established_date1   1 August ref group note Traditional. The  Federal Charter  mentions only "early August" and the treaty is a renewal of an older one, now lost. ref  1291
+ established_date2   22 September 1499
+ established_date3   24 October 1648
+ established_date4   7 August 1815
+ established_date5   12 September 1848 ref A  http://www.verfassungen.de/ch/tagsatzungsbeschluss48.htm solemn declaration of the Tagsatzung  declared the Federal Constitution adopted on 12 September 1848. A  http://www.verfassungen.de/ch/tagsatzungsbeschluss48-2.htm resolution of the Tagsatzung  of 14 September 1848 specified that the powers of the institutions provided for by the 1815 Federal Treaty would expire at the time of the constitution of the  Swiss Federal Council Federal Council , which took place on 16 November 1848. ref 
+ currency    Swiss franc 
+ currency_code   CHF
+ time_zone    Central European Time CET 
+ utc_offset   +1
+ time_zone_DST    Central European Summer Time CEST 
+ utc_offset_DST   +2
+ drives_on   right (trains: left)
+ cctld    .ch 
+ calling_code    +41 
+ footnotes  
+ footnote1  
+ 
+ Switzerland  ( German language German :  Schweiz ;  French language French :  Suisse ;  Italian language Italian :  Svizzera ;  Romansh language Romansh :  Svizra ;  Swiss German :  Schwiz ) is a small country in  Western Europe . The official name of Switzerland is  Confoederatio Helvetica . This is  Latin  and is not often used except for state documents. Switzerland is a  federation  of even smaller states - 26 cantons.
+
+Switzerland is known for its  neutrality (international relations) neutrality . A country is neutral when it does not take sides among the countries who are at war. ref Cite web
+  url   http://www.swissworld.org/en/politics/foreign_policy/neutrality_and_isolationism/ 
+  title Neutrality and isolationism - Switzerland - Information
+  work swissworld.org
+  accessdate March 27, 2010
+ ref  Switzerland has been neutral for more than 190 years. Many international organizations are in Switzerland. The  United Nations  has a main office (but not its headquarters) in  Geneva City Geneva . Its predecessor organization, the League of Nations, was headquartered in Geneva.
+
+There are four official languages in Switzerland:  German language German ,  French language French ,  Italian language Italian , and  Romansh . Some cantons and even towns have two languages spoken in them, and the largest canton by area,  Graubunden , has three. About 2/3 of the population speak German; French is spoken in the west of the country, while Italian is spoken in the canton of  Ticino  and Romansh in parts of Graubunden.
+
+The capital of Switzerland is  Bern (city) Bern . The largest city of Switzerland is  Zurich City Zurich .
+
+To the north of Switzerland is  Germany . East of Switzerland are  Austria  and  Liechtenstein . To the south of Switzerland is  Italy . To the west of Switzerland is  France .
+
+  Geography  
+ File:Matterhornnorth.jpg thumb|left| Matterhorn  in the  Swiss Alps 
+
+The area of Switzerland is 41,285 km2. The confederation is divided into 23 full states called  cantons of Switzerland cantons . All 26 cantons are:  Aargau ,  Appenzell Innerrhoden ,  Appenzell Ausserrhoden ,  Basel-Stadt ,  Basel-Land ,  Bern (canton) Berne ,  Fribourg (canton) Fribourg ,  Geneva (canton) Geneva ,  Glarus (canton) Glarus ,  Graubunden ,   Jura (canton) Jura ,  Lucerne ,  Neuchatel ,  Nidwalden ,  Obwalden ,  Schaffhausen ,  Schwyz ,  Solothurn ,  St. Gallen ,  Thurgau ,  Ticino ,  Canton of Uri Uri ,  Valais ,  Vaud ,  Zug , and  Zurich Canton Zurich .
+
+The  mountain s are very tall in the center and south of Switzerland. About 60% of Switzerland is in the  Alps  area. Only few people live here. The highest mountain is the  Dufour Peak  at 4,634 m.
+
+Many of the mountains have ice all year. This ice is called  glacier s. The rivers  Rhine ,  Rhone , and many other  river s start in the mountains of Switzerland.
+
+There are many  lake s in Switzerland. The biggest lakes are all in the north and west:  Lake Geneva  ( Lac Leman ),  Lake Zurich ,  Lake Neuchatel  and  Lake Constance  ( Bodensee ).
+
+Mountains in the north of Switzerland are fewer and smaller. That is why most Swiss people live in cities and towns in the north. The  Jura mountains  are in the northwest of Switzerland.
+
+  Cities  
+ File:Distrib citta svizzera.png thumb|left|alt=map of Switzerland with dots showing places with more than 10,000 people|370px|Population of cities with more than 10,000 people 
+Switzerland has 2,485 villages, towns and cities.
+
+The largest cities are:
+ columns-list 2 
+ Zurich 
+ Geneva 
+ Basel 
+ Bern (city) Bern 
+ Lausanne 
+ Lucerne 
+ Winterthur 
+ St. Gallen 
+ Lugano 
+ Biel/Bienne 
+ Thun 
+ Koniz 
+ La Chaux-de-Fonds 
+ Schaffhausen 
+ Fribourg (city) Fribourg 
+ Vernier, Switzerland Vernier 
+ Chur 
+ Neuchatel 
+ Uster 
+ Sion, Switzerland Sion 
+ 
+ clear 
+
+  People  
+There are about 8 million people in Switzerland. About 64% of the people speak  German language German  as their first language, in northern and central Switzerland. 19% of the people speak  French language French  as their first language, in the west of Switzerland. 8% of the people speak  Italian language Italian , in the south of Switzerland. Only 1% of the people speak Romansh, in the southeastern part of Switzerland. ref name federalstatistics cite web  url http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/05/blank/key/sprachen.html  title Languages and religions - Data, indicators  author Swiss Federal Statistical Office  accessdate 2007-10-09  The first number refers to the share of languages within total population. The second refers to the Swiss citizens only. ref  Romansh is an old language that is similar to Latin.
+
+The German-speaking people of Switzerland do not actually speak "German" as their native language. Swiss people speak something called  Alemannic German Alemannic  which has its own writing language and grammar but still is normally considered a German dialect. Alemannic may be difficult for Germans to understand. Swiss people do write like the people from Germany and also speak standard German very well, especially in the larger cities.
+
+About 23% of the people in Switzerland do not come from Switzerland. ref http://www.bfs.admin.ch/bfs/portal/de/index/themen/01/22/publ.Document.114724.pdf Auslanderinnen und Auslander in der Schweiz - Bericht 2008 (German)  (1196  KiB ), Swiss Federal Statistical Office, page 12. ref  They come from other places to usually work in Switzerland.
+
+The religion of most people in Switzerland is  Christianity . 43% of the population follow Catholicism. 35% of the population follow Protestantism. 2% follow Eastern Orthodoxy. The religion of 4% of the population is  Islam . The rest follow other religions, or they have no religion.
+
+Switzerland is famous for its  chocolate ,  cheese , banking system,  watch es and  mountain s.
+
+  History  
+In  1291 , people from Uri, Schwyz and Unterwalden wanted to be free. They signed a contract to work together called the  Eternal Alliance . Together, they could be free from the people of  Habsburg , who were very strong. In  1315  the people from the Eternal Alliance fought the Habsburgs in battles at Morgarten, Sempach and Nafels. The people of the Eternal Alliance won all the battles.
+
+People from other areas signed the contract and joined the Eternal Alliance. More and more people worked together to be free. In  1648 , other countries from Europe made an agreement that Switzerland was free. The name of this agreement was the  Peace of Westphalia . More areas came to be part of Switzerland.
+
+In  1798 , France invaded Switzerland.  The ruler of France was  Napoleon .  He changed many laws.  In 1815 Switzerland again became  independent  from France.  Other countries agreed at the  Congress of Vienna  that Switzerland was free and neutral. 
+
+The constitution of Switzerland that was made after a short  civil war  in 1848 was replaced in  1999 . Switzerland did not fight in  World War I  or  World War II . Since  2002 , Switzerland is part of the United Nations.  It did not join the United Nations for 57 years because of its neutrality.
+
+  Government  
+ File:Bern luftaufnahme.png thumb|200px| Bern (city) Bern  is the Swiss Capital 
+
+Switzerland is a  republic . Switzerland does not have the same kind of president as the United States or France. Seven people (called ministers) do the job of president. They are called the Federal Council in English,  Bundesrat  in German,  Conseil Federal  in French,  Consiglio Federale  in Italian and  Cussegl Federal  in Romansh. Every year one of these people is made president. The president is not more important than the other six people. At present 3 of the 7 people are women.
+
+The seven people are:
+   Eveline Widmer-Schlumpf  
+   Doris Leuthard 
+   Simonetta Sommaruga 
+   Didier Burkhalter  (Vicepresident in 2012)
+   Johann N. Schneider-Ammann  
+   Ueli Maurer  (President in  2013 )
+   Alain Berset  
+
+There are two parts of  parliament  in Switzerland. The  Council of States  and the  National Council . Only both together can make laws. There are 46 people in the Council of States. Every full canton of Switzerland can send 2 people. There are 200 people in the National Council. The biggest canton sends most people to the National Council. The smallest 6 cantons can only send one person to the National Council.
+
+The people of Switzerland can collect signatures if they do not like a new law or a law change. This is called a  referendum . If enough people sign a referendum, the people vote. The people can also collect signatures to change the  constitution . This is called an  initiative . The constitution is the basic law of a country. 
+
+  Economy  
+Switzerland is not a member of the  European Union , but it is member of the  European Free Trade Agreement  (EFTA). The EFTA makes trade with other countries in Europe easier. In 1999 Switzerland and the European Union made a  contract . This contract makes  trade  even easier. They recently made two other contracts.
+
+The  bank s of Switzerland and the insurance companies in Switzerland together produce eleven per cent of the  gross domestic product . Tourism is important in Switzerland. There are many places for tourists.  Davos ,  St. Moritz ,  Pontresina  and  Flims  are in Switzerland. These towns are important both in winter (for skiing) and in summer. Tourists also like the cities of  Lucerne ,  Geneva City Geneva , and  Zurich City Zurich .
+
+  Literature  
+ File:Heidi.jpg thumb|upright| Heidi  by  Johanna Spyri 
+
+The literature of Switzerland is divided according to the language used. Most Swiss literature was written in  German language German  from  1291  until  1798 .  French language French  became popular in Bern and elsewhere in the 18th century and many words also in the German speaking parts of Switzerland come from the French and are not known to Germans.  Italian language  and Romansch-Latin literature are less common in Switzerland.
+
+ Heidi , a book for children by  Johanna Spyri , is the most famous book of Switzerland. ref cite web   title Swiss Literature   last    first    work admin.ch   url http://ead.nb.admin.ch/web/swissinfodesk/cultl-en.html    date    accessdate 2008-03-04  ref  It is located in the mountains in Graubunden. ref en http://en.graubuenden.ch/highlights-switzerland/highlights/heidi.html Highlights Switzerland on state tourism site ref 
+
+  Sports  
+ File:Allalinhorn 4027 2007 04 17.JPG thumb|Ski area over the glaciers of  Saas-Fee 
+ Skiing ,  snowboarding  and  mountaineering  are among the most popular sports in Switzerland. Because of the large mountain range the nature of the country is well suited for such activities. ref http://www.europe-cities.com/en/672/switzerland/sport/ Sport in Switzerland  europe-cities.com. Retrieved on 2009-12-14 ref   Bobsleigh  was invented in  St. Moritz . ref http://www.fibt.com/index.php?id=39 A brief history of bobsleigh  fibt.com. Retrieved on 2009-11-02 ref  The first  FIS Alpine World Ski Championships world ski championships  were held in  Murren  (1931) and St. Moritz (1934). St. Moritz hosted the second  Winter Olympic Games  in 1928 and in 1948. Among the most successful skiers and world champions are  Pirmin Zurbriggen  and  Didier Cuche .
+
+ File:Innenaufnahme Vaillant Arena Davos.JPG thumb|left| Spengler Cup  in  Davos 
+Many Swiss are fans of  Association football football . The national team or ' Switzerland national football team Nati ' is widely supported. Switzerland was the joint host, with  Austria , of the  Euro 2008  tournament. Many Swiss also follow  ice hockey . In April 2009, Switzerland hosted the  2009 IIHF World Championship  for the 10th time. ref cite web url http://www.iihf.com/channels/iihf-world-championship-oc09/home-oc/tournament-information.html   title IIHF World Championships 2009 official website  publisher Iihf.com  date 2009-05-10  accessdate 2010-04-29 ref  The  National League A  is the most attended league in Europe. ref cite web author Geering  url http://www.hockeyarenas.net/index.php3?ctID=ch&size=0&page=0701&c=eu&ctID=eu&atType=0&show=25&tdSaison=2011   title Hockeyarenas.net  publisher Hockeyarenas.net  accessdate 2011-11-03 ref  
+
+The many lakes in the country make Switzerland a good place for sailing. The largest,  Lake Geneva , is the home of the sailing team  Alinghi .  They were the first European team to win the  America's Cup  in 2003.  They also won in 2007. Tennis has become more popular. Swiss players such as  Martina Hingis  and  Roger Federer  have won multiple  Grand Slam (tennis) Grand Slams .
+
+ File:Federer Cincinnati (2007).jpg thumb|upright|In an eight-year span,  Roger Federer  has won a record 17 Grand Slam singles titles, making him the most successful men's tennis player ever. ref http://sportsillustrated.cnn.com/vault/gallery/featured/GAL1157546/1/index.htm Roger Federer's Grand Slam Titles  sportsillustrated.cnn.com. Retrieved on 2010-06-14 ref 
+ Motorsport  racecourses and events were banned in Switzerland after the  1955 Le Mans disaster . There were exceptions for events such as  Hillclimbing . This ban was overturned in June 2007. ref cite web   title   Switzerland lifts ban on motor racing   url    http://en.wikinews.org/wiki/Switzerland_lifts_ban_on_motor_racing    publisher   GrandPrix.com & DueMotori.com   date   6 June 2007   accessdate   23 September 2008 ref  During this period, the country still had successful racing drivers such as  Clay Regazzoni ,  Sebastian Buemi ,  Jo Siffert  and successful  World Touring Car Championship  driver  Alain Menu .  A1 Team Switzerland Switzerland  also won the  A1 Grand Prix A1GP World Cup of Motorsport  in  2007-08 A1 Grand Prix season 2007-08  with driver  Neel Jani . Swiss  motorcycle racer   Thomas Luthi  won the 2005  MotoGP  World Championship in the 125cc category.
+
+Traditional sports include Swiss wrestling or " Schwingen ". It is an old tradition from the rural central cantons and considered the national sport by some.  Hornussen  is another native Swiss sport. It is like a cross between baseball and golf. ref http://www.swissroots.org/swissroots/en/stories/heritage/Heritage/Swiss%20Customs/Hornussen%20Baseball%20Swissstyle Hornussen  swissroots.org. Retrieved on 2010-01-25 ref   Steinstossen  is the Swiss version of  stone put , a competition in throwing a heavy stone. It is recorded to have taken place in  Basel  in the 13th century. It is also central to the  Unspunnenfest , first held in 1805. ref http://www.interlaken.ch/erlebnisse/sommer/festivals/unspunnenfest/tradition-und-geschichte.html?L=3 Tradition and history  interlaken.ch. Retrieved on 2010-01-25 ref 
+
+ Related pages 
+ List of rivers of Switzerland 
+ Switzerland at the Olympics 
+ Switzerland national football team 
+
+ Notes 
+ reflist group note 
+
+  References  
+ references 
+
+  Other websites  
+ commonscat 
+ Spoken article Simple Switzerland.ogg 2006-10-12 
+   http://www.admin.ch/index.html?lang=en English homepage of the Federal Authorities of the Swiss Confederation 
+   http://www.admin.ch/dokumentation/00104/index.html?lang=en The Swiss Confederation: A Brief Guide 
+   http://www.swissorama.org/photo-gallery.html Pictures from Switzerland 
+
+ europe 
+ switzerland 
+
+ Category:Switzerland   
+ Category:German-speaking countries 
+ Category:French-speaking countries 
+ Category:Italian-speaking countries 
+ Category:Federations

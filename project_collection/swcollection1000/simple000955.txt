@@ -1,0 +1,37 @@
+M-theory
+
+complex date September 2011 
+ nosources date July 2010 
+ Orphan date October 2011 
+
+ M-theory  is a new  idea  in small-particle  physics  that is part of  w:superstring theory superstring theory  that was initially proposed by Edward Witten.  The idea, or theory, often causes arguments among scientists, because there is no way to test it to see if it is true. If ever proven true, M-theory and  string theory  would mean big progress for science.
+
+ String theory 
+To understand M-theory one must first have some knowledge of string theory. For hundreds of years,  scientist s have thought that the simplest objects in the  universe  are points, like dots. String theory says that this is wrong and that the simplest objects in the universe are shaped like pieces of string. These strings are so small that even when looked at very closely they look like points. Each basic particle is created by the strings  vibration vibrating  in different patterns. The reason scientists had not thought of this idea for so long is that strings are much harder to work with than points. They seem to break such rules as  causality  and  special relativity , which says that information cannot travel faster than the  speed of light .
+
+String theory has been developed because of a very important problem that has existed for almost 100 years.  Albert Einstein 's theory that describes the universe on very large scales (it is called  general relativity ), disagrees with two theories that describe things on very small scales (they are called  quantum mechanics  and the  standard model ). There are also problems with the Standard Model: it includes about 20 numbers that seem to have no explanation; it has too many  basic particles  - some scientists think it needs to have fewer; and it does not include  gravity , which is needed to explain  weight .
+
+Many of these problems can be solved by thinking of basic particles as strings. Now there is only one number with no explanation, which gives the size of the strings. String theory includes particles that cause gravity, called  graviton s; finding this out delighted the scientists who work on string theory. So, string theory successfully brings General Relativity and Quantum Mechanics together.
+
+But there are some problems with string theory. Normally, we think of the universe as having 4  dimensions , or  basic directions . 3 of these basic directions can be thought of as "up/down", "forward/backward" and "left/right". The other direction is time. String theory needs  10  basic directions.
+
+These six other directions can be explained if they are "curled up", so they are much too small to see. For example, by following the path of a  spiral , it is possible to go a great distance along it without moving very far. The 6 other directions can be thought of as tiny spirals - strings can move along them a great distance but not seem to move. This can be looked at as a mathematical trick--a trick that has little to do with the real world that can  be seen and touched. Such tricks are allowed if they give a theory that can better tell us how things work.
+
+Another problem with string theory is that there are 5 different versions of it. Each version allows different kinds of strings and says they work in different ways. String theory is supposed to be a  theory of everything  so there should be only one version, not 5. M-theory solves this problem.
+
+ M-theory 
+In  1995  Edward Witten started what has been called the  Second Superstring Revolution  by introducing M-theory to the world. This theory combines the 5 different string theories (along with a previously abandoned attempt to unify General Relativity and Quantum Mechanics called  11D-Supergravity ) into one theory. What Witten actually did was to predict that the fact that all these different theories were connected was a result of there being some underlying theory of  which they were all approximations. This theory is somewhat vague in nature and has not yet been pinned down.
+
+Additionally, it was found that the equations that required string theory to exist in 10 dimensions were actually approximations as well. The proposed M-theory would need one extra dimension and instead be a theory that takes place in  11 dimensions . Witten has himself compared this idea in simple terms to a general who takes up a position on a hilltop, the extra space-coordinate, to get a better view of the battlefield's two other dimensions.
+
+The combination is accomplished by knitting together a web of relationships between each of the string theories called dualities (specifically,  S-duality ,  T-duality , and  U-duality ). Each of these dualities provides a way of converting one of the string theories into another. T-duality is probably the most easily explained of the dualities. It has to do with the size, written as R, of the curled up dimensions of the string theories. It was discovered that by taking a Type IIA string theory that has a size R and changing the radius to 1/R the result will end up being what is equivalent to a Type IIB theory of size R. This duality, along with the others, creates connections between all 5 (or 6, if supergravity is counted) theories. The fact that these dualities existed had been known before Witten came up with the idea of M-theory. 
+
+Additional amusement has come for many in guessing what the M might stand for (possibilities include  Matrix theory (physics) Matrix , Magic, Muffin, Mystery, Mother and Membrane). Regardless of what the M might possibly mean, M-theory has become one of the most interesting and active areas of research in theoretical physics today.
+
+ For a more technical explanation, see  w:M-theory (simplified explanation) . 
+
+ Books and Links 
+ Brian Greene  has written a book that explains string theory and M-theory for the layman called  The Elegant Universe 
+ http://www.superstringtheory.com The Official String Theory Website  has excellent references on string theory for the layman and expert
+
+ Category:String theory

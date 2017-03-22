@@ -1,0 +1,38 @@
+Bankruptcy
+
+Bankruptcy  is a  law legal process  which happens when a person or an organisation does not have enough  money  to pay all of its  debt s.  Legally they are insolvent.
+
+Where it is a person who cannot pay their debts, the person's creditors may ask the court to appoint a  trustee in bankruptcy .   This is a professional accountant who is appointed by the court, and they will take control of the bankrupt person's assets.  Some assets are protected by law, but the trustee in bankruptcy will sell off all of the other assets and use the proceeds to pay as much of that person's debts as possible.  After the process is complete the person is  discharged from bankruptcy , and the person is free from any further liability to pay those claims, but normally that person will be limited in their ability to borrow money again because their credit rating will be damaged.
+
+Where it is an organisation who cannot pay their debts, the creditors may ask the court to appoint a  liquidator .  The liquidator does a very similar job to the trustee in bankruptcy except that there are no assets which are protected so the liquidator can sell everything.  Once all of the assets of the organisation have been sold, the organisation is then  dissolved  and no longer exists.  Organisations do not get discharged from bankruptcy in the same way that a living person does.
+
+  Insolvency or bankrupcy  
+People often confuse the terms  bankruptcy  and  insolvency , and sometimes they use one word when they really mean the other.  Insolvency usually just means that a someone does not have enough money to pay their debts or (sometimes) that the total amount of their debts is worth more than the total amount of their assets.  Bankruptcy is a formal legal process in front of the courts.  Although the two terms are connected, just because a person is insolvent does not necessarily mean that they will go into bankruptcy.
+
+  Alternatives to bankruptcy  
+Many countries have alternatives to bankruptcy to try and allow people and businesses to try and avoid the bankruptcy process.
+
+In various countries, individual people can try and reach  individual voluntary arrangements  (or IVAs) with their creditors.  This means that the creditors agree to take less money to discharge their debts.  There are similar processes for companies and other organisations, and they go by various different names in different countries, but in many countries they are called  schemes of arrangement .
+
+  Bankruptcy protection  
+In many countries a  company  or  business  can ask the courts for  bankruptcy protection  to try and protect the business so that the  creditor s cannot destroy all of the  physical capital  and  goodwill  by breaking it apart and moving it away. The aim of this is provide is more  time  for the business to reorganise itself and to work out a new deal between the owners and the people the business owes money.  In many countries this is called  going into administration , although in the United States it is usually referred as  going into Chapter 11 .
+
+However, not all countries have bankruptcy protection laws for businesses.
+
+  Debt slavery  
+Often a  creditor  threatens a  debtor  with  debt slavery  in many parts of the world. ref name NoackWP cite web  url http://www.washingtonpost.com/blogs/worldviews/wp/2014/11/18/map-the-worlds-36-million-slaves/   title Map: The world's 36 million slaves  author Rick Noack  date 18 November 2014  website   publisher The Washington Post  accessdate 30 June 2015 ref  In some cases the debtor does not know that they have a right to go  bankrupt . This is a  human rights  problem in some countries. ref name NoackWP  Also, some creditors continue to harass a debtor even though bankruptcy laws say they should not, hoping that the debtor will pay them money that they do not deserve.
+
+  United States  
+Chapter 7 of the Title 11 of the  United States   Law Code  (Bankruptcy Code) can be filed by  business es or individuals. ref name NOLO cite web  url http://www.nolo.com/legal-encyclopedia/chapter-7-13-bankruptcy-basics-29829.html   title What Is Bankruptcy?  author   date   website   publisher NOLO  accessdate 30 June 2015 ref  It is also called  liquidation  bankruptcy because some of a debtor's  property  may be sold (liquidated) to satisfy creditors. ref name NOLO  Chapter 13 is the most popular form of bankruptcy in the United States. ref name NOLO  When a  business  is in  debt  and cannot pay it, it may ask or be forced to file bankruptcy in court under Chapter 7. ref cite web url http://www.law.cornell.edu/uscode/text/11/109 title 11 U.S. Code SS 109 - Who may be a debtor work cornell.edu accessdate 1 July 2015 ref  A chapter 7 usually makes a  company  stop doing business.  Employee s often lose their jobs when company files for chapter 7. When chapter 7 is filed, the  trustee  is chosen. The trustee is in charge of managing the  business  and selling its  asset s to pay the  creditor s.
+
+  References  
+ reflist 
+
+ Other websites 
+   http://chapter7answers.com Information about Bankruptcy 
+   http://www.rapidbk.com Bankruptcy Advice and Legal help 
+   http://www.bankruptcyhome.com/bankruptcy-questions.htm Frequently Asked Bankruptcy Questions 
+   http://www.socaladvocates.com Bankruptcy Information 
+   http://www.fetch123.com/amazing/is-filing-for-personal-bankruptcy-really-the-best-option Is filing for personal bankruptcy really the best option? 
+
+ Category:Economics

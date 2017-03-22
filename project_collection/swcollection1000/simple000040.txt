@@ -1,0 +1,98 @@
+Animal
+
+dablink For the album, see  Animals (album) . 
+ Taxobox
+  name   Animals
+  image   Animalia diversity.jpg
+  image_width   250px
+  image_caption   Various animals
+  domain    Eukaryota 
+  regnum   Animalia
+  subdivision_ranks    Phyla 
+  subdivision  
+   Subkingdom   Parazoa 
+   Porifera 
+   Placozoa 
+   Subkingdom   Eumetazoa 
+   Radiata   (unranked) 
+   Ctenophora 
+   Cnidaria 
+  +  Trilobozoa 
+   Bilateria   (unranked) 
+   Orthonectida 
+   Rhombozoa 
+   Acoelomorpha 
+   Myxozoa 
+   Chaetognatha 
+   Superphylum   Deuterostomia 
+   Chordata  ( mammals ,  fish )
+   Hemichordata 
+   Echinodermata 
+   Xenoturbellida 
+   Protostomia   (unranked) 
+   Kinorhyncha 
+   Loricifera 
+   Priapulida 
+   Nematoda 
+   Nematomorpha 
+   Onychophora 
+   Tardigrada 
+   Arthropoda 
+   Superphylum   Platyzoa 
+   Platyhelminthes 
+   Gastrotricha 
+   Rotifera 
+   Acanthocephala 
+   Gnathostomulida 
+   Micrognathozoa 
+   Cycliophora 
+   Superphylum   Lophotrochozoa 
+   Sipuncula 
+   Nemertea 
+   Phoronida 
+   Bryozoa 
+   Entoprocta 
+   Brachiopoda 
+   Mollusca 
+   Annelida 
+   Echiura 
+
+ Animals  are  opisthokont   eukaryotic   Organism organisms  with  Multicellular organism many cells . They do not use  light  to get  energy  as  plants  do. The study of animals is called  zoology . ref Ville C.A; Walker W.F. & Barnes R.D. 1984.  General zoology . Saunders ref ref Hamilton, Gina.  Kingdoms of life - Animals . Lorenz Educational Press. ISBN 978-1-4291-1610-7 ref  Animals use different ways to get energy from other living things. They usually eat other living things, but some are  parasitism parasites  or have  photosynthesis photosynthetic   protist s as  symbiosis symbionts .
+
+Plants are also  multicellular  eukaryotic  organism s, but most animals are  motile mobile , meaning they can move around. Animals take in  oxygen , and give out  carbon dioxide . This  cellular respiration  is part of their  metabolism  (chemical working). In both these ways they are different from  plants . Also, the cells of animals have different  cell membrane s to other  eukaryotes  like plants and  fungi .
+
+  Grouping animals  
+There are many types of animals. The common animals most  people  know are only about 3% of the animal kingdom. When  biologists  look at animals, they find things that certain animals have in common. They use this to group the animals in a  biological classification . They think several million species exist but they have only identified about one million.
+
+Animals can mainly be divided into two main groups: the  invertebrate s and the  vertebrate s. Vertebrates have a  backbone , or  spine ; invertebrates do not.
+
+Vertebrates are:
+ fish  (or 'fishes': both ways are correct)
+ amphibian s
+ reptile s
+ bird s
+ mammal s
+Some invertebrates are:
+ insect s
+ spider s
+ crustacean s
+ mollusc s (like  squid )
+ worm s
+ jellyfish 
+
+  Life styles  
+The animal mode of  nutrition  is called  heterotroph ic because they get their food from other living organisms. Some animals eat only plants; they are called  herbivore s. Other animals eat only  meat  and are called  carnivore s. Animals that eat both plants and meat are called  omnivore s.
+
+The  environments  animals live in vary greatly. By the process of  evolution , animals  Adaptation adapt  to the  habitats  they live in. A  fish  is adapted to its life in water and a  spider  is adapted to a life catching and eating insects. A  mammal  living on the  savannah s of  East Africa  lives quite a different life from a mammal like a  porpoise  catching fish in the sea.
+
+The  fossil  record of animals goes back about 600 million years to the  Ediacaran  period, or somewhat earlier. ref cite journal title  Possible animal-body fossils in pre-Marinoan limestones from South Australia  journal  Nature Geoscience   volume  3   pages  653-659  url   http://www.nature.com/ngeo/journal/v3/n9/full/ngeo934.html   doi 10.1038/ngeo934   issue  9 bibcode   2010NatGe...3..653M last1  Maloof, Adam C.  et al  2010   http://www.princeton.edu/geosciences/people/maloof/papers_pub/24Maloof.pdf Pdf . These fossils are interpreted as being early sponges. They were found in 665-million-year-old rock. ref  During the whole of this long time, animals have been constantly  evolving , so that the animals alive on  Earth  today are very different from those on the edges of the sea-floor in the Ediacaran. The study of ancient life is called  palaeontology .
+
+  Related pages  
+ wikispecies Animalia 
+   List of animal phyla 
+
+  References  
+ reflist 
+
+ Category:Animals 
+ Category:Basic English 850 words

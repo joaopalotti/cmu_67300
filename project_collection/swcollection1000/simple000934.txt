@@ -1,0 +1,294 @@
+International System of Units
+
+redirect SI 
+ File:SI base unit.svg thumb |upright=1.2| Links between the seven  SI base unit  definitions. Clockwise from top:  second  ( time ),  metre  ( length ),  ampere  ( electric current ),  Mole (unit) mole  ( amount of substance ),  kilogram  ( mass ),  kelvin  ( temperature ), and  candela  ( luminous intensity ). 
+The  International System of Units  is the standard modern form of the  metric system . The name of this system can be shortened or  abbreviation abbreviated  to  SI , from the  French language French  name  S ysteme  I nternational d'unites .
+
+The International System of Units is a  system of measurement  based on 7 base units: the  metre  (length),  kilogram  (mass),  second  (time),  ampere  (electric current),  Kelvin  (temperature),  mole (unit) mole  (quantity), and  candela  (brightness). These base units can be used in combination with each other. This creates  SI derived units , which can be used to describe other quantities, such as  volume ,  energy ,  pressure , and  velocity .
+
+The system is used almost globally. Only  Myanmar ,  Liberia , and the  United States  do not use SI as their official system of measurement. ref name ciawf cite web  title Appendix G: Weights and Measures  url https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-g.html   work The World Facebook  publisher Central Intelligence Agency   date 2013  accessdate 5 April 2013 ref  In these countries, though, SI is commonly used in science and medicine.
+
+  History and use  
+The  metric system  was created in  France  after the  French Revolution  in  1789 . The original system only had two standard units, the kilogram and the metre. The metric system became popular amongst scientists.
+
+In the  1860s ,  James Clerk Maxwell  and  William Thomson  (later known as Lord Kelvin) suggested a system with three base units - length, mass, and time. Other units would be derived from those three base units. Later, this suggestion would be used to create the  centimetre-gram-second system of units  (CGS), which used the  centimetre  as the base unit for length, the  gram  as the base unit for mass, and the second as the base unit for time. It also added the  dyne  as the base unit for  force  and the  erg  as the base unit for energy.
+
+As scientists studied  electricity  and  magnetism , they realized other base units were needed to describe these subjects. By the middle of the  20th century , many different versions of the metric system were being used. This was very confusing.
+
+In  1954 , the 9th  CGPM General Conference on Weights and Measures  (CGPM) created the first version of the International System of Units. The six base units that they used were the metre, kilogram, second, ampere, Kelvin, and candela. ref name 9cgpm citation  url http://www.bipm.org/en/CGPM/db/10/6/   author   International Bureau of Weights and Measures   title Systeme pratique d'unites de mesure (Practical system of units)  year 1954 . 9 sup th sup  session, Resolution 6. ref  The seventh base unit, the mole, was added in  1971 . ref name 14cgpm citation  url http://www.bipm.org/en/CGPM/db/14/3/   author  International Bureau of Weights and Measures  title Unite SI de quantite de matiere (SI unit of amount of substance)  year 1971 . 14 sup th sup  session, Resolution 3. ref 
+
+SI is now used almost everywhere in the world, except in the  United States ,  Liberia  and  Myanmar , where the older  imperial unit s are still widely used. Other countries, most of them historically related to the  British Empire , are slowly replacing the old imperial system with the metric system or using both systems at the same time.
+
+  Units of measurement   
+
+  Base units  
+
+The SI  base units  are  measurement s used by scientists and other people around the world. All the other units can be written by combining these seven base units in different ways. These other units are called "derived units".
+
+ class wikitable style margin:1em auto 1em auto + SI base units
+ Unit name
+ Unit br symbol
+ Physical quantity Quantity  measured
+ General definition
+ metre 
+ style text-align:center m
+ length 
+ 
+ Original  (1793):  sfrac 1 gaps 10 000 000  of the  meridian  through  Paris  between the  North Pole  and the  Equator 
+ Current  (1983):  The distance traveled by light in a  vacuum  in  sfrac 1 gaps 299 792 458  second
+ kilogram   ref group note The kilogram is the SI base unit of mass and is used in the definitions of derived units. However, units of mass are  named  using prefixes as if the gram were the base unit. ref 
+ style text-align:center kg
+ mass 
+ 
+ Original  (1793): The  grave  was defined as being the weight [mass] of one cubic decimetre of pure water at its  freezing point .
+ Current  (1889): The mass of the International Prototype Kilogram, a cylinder of  platinum - iridium   alloy  kept at the  International Bureau of Weights and Measures  near  Paris .
+ second 
+ style text-align:center s
+ time 
+ 
+ Original  (Medieval):  sfrac 1 gaps 86 400  of a day
+ Current  (1967): The time needed for  gaps 9 192 631 770  periods or cycles of the radiation created by  electron s moving between two  energy level s of the  caesium -133  atom .
+ ampere 
+ style text-align:center A
+ electric current 
+ 
+ Original  (1881): A tenth of the  abampere , the unit of current used in the electromagnetic  CGS . ref cite book
+ url    http://books.google.co.uk/books?id=m7c6AAAAIAAJ&pg=PA322&lpg=PA322&dq=cgs+unit+of+current+1881&source=bl&ots=Lw5kV5-jd4&sig=mytqNION410y2qYnGEGn-Hcbu6o&hl=en&sa=X&ei=qaWkUKfiFeeZ0QXpvYC4CA&ved=0CCAQ6AEwADgK#v=onepage&q=cgs%20unit%20of%20current%201881&f=false 
+ page   322
+ title   Magnetism and Electricity
+ last1   McKenzie
+ first1   A.E.E
+ publisher    Cambridge University Press 
+ year   1961 ref 
+ Current  (1946): The current passing through two very long and thin wires placed 1 m apart that produces an  attraction attractive   force  equal to  val 2 e -7  newton per metre of length.
+ kelvin 
+ style text-align:center K
+ temperature 
+ 
+ Original  (1743): The  centigrade scale  is obtained by assigning 0deg to the  freezing point  of water and 100deg to the  boiling point  of water.
+ Current  (1967): The fraction  sfrac 1 273.16  of the thermodynamic temperature of the  triple point  of water.
+ Mole (unit) mole 
+ style text-align:center mol
+ amount of substance 
+ 
+ Original  (1900): The molecular weight of a substance in mass grams.
+ Current  (1967): The same amount as the number of  atom s in 0.012 kilogram of  carbon -12. ref group note When the mole is used, the substance being measured must be specified and may be atoms, molecules, ions, electrons, other particles, or specified groups of such particles. ref 
+ candela 
+ style text-align:center cd
+ luminous intensity 
+ 
+ Original  (1946):  sfrac 1 60  of the brightness per square centimetre of a  black body  at the temperature where  platinum  freezes.
+ Current  (1979): The luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency  val 540 e 12  hertz and that has a radiant intensity in that direction of  sfrac 1 683   watt  per  steradian .
+ colspan 5 
+ Notes
+ reflist group note 
+ 
+
+  Derived units  
+Derived units are created by combining the base units. The base units can be divided, multiplied, or raised to  exponent powers . Some derived units have special names. Usually these were created to make calculations simpler.
+
+ class wikitable style margin:1em 0 1em 0; text-align:center + style font-size:larger;font-weight:bold; Named units derived from SI base units
+  Name
+   Symbol 
+   Physical quantity Quantity 
+  Definition  br other units
+  Definition br SI base unit s
+   radian 
+   rad 
+ style text-align:left  plane  angle 
+  
+  -
+   steradian 
+   sr 
+ style text-align:left  solid angle
+  
+  -
+   hertz 
+   Hz 
+ style text-align:left   frequency 
+  
+  s sup -1 sup 
+   newton (unit) newton 
+   N 
+ style text-align:left   Force (physics) force ,  weight 
+  
+  m[?]kg[?]s sup -2 sup 
+   pascal (unit) pascal 
+   Pa 
+ style text-align:left   pressure ,  Stress (physics) stress 
+  N/m sup 2 sup  
+  m sup -1 sup [?]kg[?]s sup -2 sup 
+   joule 
+   J 
+ style text-align:left   energy ,  Mechanical work work ,  heat 
+  N[?]m 
+  m sup 2 sup [?]kg[?]s sup -2 sup 
+   watt 
+   W 
+ style text-align:left   Power (physics) power ,  radiant flux 
+  J/s 
+  m sup 2 sup [?]kg[?]s sup -3 sup 
+   coulomb 
+   C 
+ style text-align:left   electric charge 
+  
+  s[?]A
+   volt 
+   V 
+ style text-align:left   voltage , electrical  potential difference ,  electromotive force 
+  W/A  br  J/C 
+  m sup 2 sup [?]kg[?]s sup -3 sup [?]A sup -1 sup  
+   farad 
+   F 
+ style text-align:left   electrical capacitance 
+  C/V  
+  m sup -2 sup [?]kg sup -1 sup [?]s sup 4 sup [?]A sup 2 sup  
+   ohm (unit) ohm 
+   O 
+ style text-align:left   electrical resistance ,  electrical impedance impedance ,  reactance 
+  V/A 
+  m sup 2 sup [?]kg[?]s sup -3 sup [?]A sup -2 sup 
+   Siemens (unit) siemens 
+   S 
+ style text-align:left   electrical conductance 
+  1/O
+  m sup -2 sup [?]kg sup -1 sup [?]s sup 3 sup [?]A sup 2 sup 
+   Weber (Wb) weber 
+   Wb 
+ style text-align:left   magnetic flux 
+  J/A
+  m sup 2 sup [?]kg[?]s sup -2 sup [?]A sup -1 sup 
+   tesla (unit) tesla 
+   T 
+ style text-align:left   magnetic field  strength
+  Wb/m sup 2 sup   br  V[?]s/m sup 2 sup   br  N/A[?]m  
+  kg[?]s sup -2 sup [?]A sup -1 sup 
+   henry (inductance) henry 
+   H 
+ style text-align:left   inductance 
+  Wb/A  br  V[?]s/A
+  m sup 2 sup [?]kg[?]s sup -2 sup [?]A sup -2 sup 
+   degree Celsius 
+   degC 
+ style text-align:left   temperature  relative to 273.15 K
+  T sub K sub - 273.15
+  K
+   lumen (unit) lumen 
+   lm 
+ style text-align:left   luminous flux   
+  cd[?]sr 
+  cd
+   lux 
+   lx 
+ style text-align:left   illuminance 
+  lm/m sup 2 sup 
+  m sup -2 sup [?]cd
+   becquerel 
+   Bq 
+ style text-align:left   radioactivity  (decays per unit time)
+  
+  s sup -1 sup 
+   gray (unit) gray 
+   Gy 
+ style text-align:left   absorbed dose  (of  ionizing radiation )
+  J/kg 
+  m sup 2 sup [?]s sup -2 sup 
+   sievert 
+   Sv 
+ style text-align:left   equivalent dose  (of  ionizing radiation )
+  J/kg 
+  m sup 2 sup [?]s sup -2 sup 
+   katal 
+   kat 
+ style text-align:left   catalytic activity 
+  
+  s sup -1 sup [?]mol
+ 
+
+  Prefixes  
+ 
+Very large or very small measurements can be written using  prefix es. Prefixes are added to the beginning of the unit to make a new unit. For example, the prefix  kilo-  means "1000" times the original unit and the prefix  milli-  means "0.001" times the original unit. So one  kilometre  is 1000 metres and one  milligram  is a 1000th of a  gram .
+
+ class wikitable style margin:1em auto 1em auto;line-height:1.4 +  SI prefix#List_of_prefixes Standard prefixes for the SI units of measure 
+ style font-size:90% rowspan 3  Multiples
+  Name
+ 
+   deca- 
+   hecto- 
+   kilo- 
+   mega- 
+   giga- 
+   tera- 
+   peta- 
+   exa- 
+   zetta- 
+   yotta- 
+ style font-size:90%  Prefix
+ 
+  da
+  h
+  k
+  M
+  G
+  T
+  P
+  E
+  Z
+  Y
+ style font-size:90%  Factor
+  10 sup 0 sup 
+  10 sup 1 sup 
+  10 sup 2 sup 
+  10 sup 3 sup 
+  10 sup 6 sup 
+  10 sup 9 sup 
+  10 sup 12 sup 
+  10 sup 15 sup 
+  10 sup 18 sup 
+  10 sup 21 sup 
+  10 sup 24 sup 
+ style font-size:2px colspan 12   
+ style font-size:90% rowspan 3  Fractions
+  Name
+ 
+   deci- 
+   centi- 
+   milli- 
+   micro- 
+   nano- 
+   pico- 
+   femto- 
+   atto- 
+   zepto- 
+   yocto- 
+ style font-size:90%  Prefix
+ 
+  d
+  c
+  m
+  m
+  n
+  p
+  f
+  a
+  z
+  y
+ style font-size:90%  Factor
+  10 sup 0 sup 
+  10 sup -1 sup 
+  10 sup -2 sup 
+  10 sup -3 sup 
+  10 sup -6 sup 
+  10 sup -9 sup 
+  10 sup -12 sup 
+  10 sup -15 sup 
+  10 sup -18 sup 
+  10 sup -21 sup 
+  10 sup -24 sup 
+ 
+
+  References  
+ reflist 
+
+ Category:Measurement 
+ Category:Systems

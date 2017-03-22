@@ -1,0 +1,203 @@
+People's Republic of China
+
+about the People's Republic of China the Republic of China Taiwan Infobox country 
+  native_name   <center>Zhong Hua Ren Min Gong He Guo  br center Zhonghua Renmin Gongheguo center 
+  conventional_long_name   People's Republic of China
+  common_name   the People's Republic of China 
+  image_flag   Flag of the People's Republic of China.svg
+  image_coat   National Emblem of the People's Republic of China.svg
+  symbol_type   National Emblem
+  image_map   China in its region (claimed hatched).svg
+  map_caption   Official area of the People's Republic of China shown in dark red; area claimed but  dispute d shown in light red.
+  map_width   220px
+  national_anthem    center File:March of the Volunteers instrumental.ogg center br " March of the Volunteers " br  Yi Yong Jun Jin Xing Qu 
+  official_languages    nobr Standard Chinese language Standard Chinese br (or Putonghua) ref name langlaw cite web
+  url http://www.gov.cn/english/laws/2005-09/19/content_64906.htm 
+  title Law of the People's Republic of China on the Standard Spoken and Written Chinese Language (Order of the President No.37)
+  publisher Gov.cn
+  date 
+  accessdate 27 April 2010
+  quote For purposes of this Law, the standard spoken and written Chinese language means Putonghua (a common speech with pronunciation based on the Beijing dialect) and the standardized Chinese characters.
+  ref 
+  languages_type   Official written language
+  languages    Chinese language Chinese 
+  languages_sub   yes
+  languages2_type   Official  script 
+  languages2    Simplified Chinese ref name langlaw 
+  languages2_sub   yes
+  regional_languages    small Mongolian language Mongolian ,  Tibetan language Tibetan ,  Uyghur language Uyghur ,  Standard Zhuang Zhuang , and  Languages of China various others small 
+  ethnic_groups   91.51%  Han Chinese Han ; ref name Census2010  55 recognised minorities br Collapsible list title small List of ethnic groups in China List of ethnic groups small 1.30%  Zhuang people Zhuang 0.86%  Manchu people Manchu 0.79%  Uyghur people Uyghur 0.79%  Hui people Hui 0.72%  Miao people Miao 0.65%  Yi people Yi 0.62%  Tujia people Tujia 0.47%  Ethnic Mongols in China Mongol 0.44%  Tibetan people Tibetan 0.26%  Buyei 0.15%  Koreans in China Korean 1.05% other 
+  capital    Beijing 
+  latd 39  latm 55  latNS N  longd 116  longm 23  longEW E
+  largest_city    Shanghai ref cite journal  author Chan, Kam Wing  title Misconceptions and Complexities in the Study of China's Cities: Definitions, Statistics, and Implications  journal Eurasian Geography and Economics   year 2007  volume 48  issue 4  pages 383-412  url http://courses.washington.edu/chinageo/ChanCityDefinitionsEGE2007.pdf   accessdate 2011-08-07  doi 10.2747/1538-7216.48.4.383  p. 395 ref ref cite web  
+url http://china.usc.edu/(S(swqn0p55xbqmsu45cwso5lzy)A(IEcheuFczAEkAAAAODRlNTk2OTMtMDViMC00Yjk5LWFmZTgtODc1OTA1YWYxMDM4e9e8O7-g5_HYhuft0Huy7h2GlGg1))/ShowAverageDay.aspx?articleID=910   
+title What are China's largest and richest cities?  
+publisher University of Southern California ref 
+  demonym   Chinese
+ 
+  government_type    Unitary state Unitary   Socialism with Chinese characteristics socialist   one-party state ref cite web title Constitution of the People's Republic of China url http://www.npc.gov.cn/englishnpc/Constitution/2007-11/15/content_1372963.htm publisher The National People's Congress of the People's Republic of China date 15 November 2007 accessdate 6 August 2016 ref 
+  leader_title1    President of the People's Republic of China President  (and  General Secretary of the Communist Party of China CPC General Secretary )
+  leader_name1    Xi Jinping 
+  leader_title2    Premier of the People's Republic of China Premier 
+  leader_name2    Li Keqiang 
+  leader_title3    Chairman of the Standing Committee of the National People's Congress Congress Chairman 
+  leader_name3    Zhang Dejiang 
+  leader_title4    CPPCC Chairman Conference Chairman 
+  leader_name4    Yu Zhengsheng 
+  legislature    National People's Congress 
+  sovereignty_type    History of China Establishment 
+  established_event1    Qin Dynasty Unification of China  under the Qin Dynasty
+  established_date1   221 BC
+  established_event2    Xinhai Revolution#Establishment of the Republic Republic established 
+  established_date2   1 January 1912
+  established_event3    Chinese Civil War People's Republic of China proclaimed 
+  established_date3   1 October 1949
+  area_footnote  Ref label  territory b  or 9,671,018 km2 Ref label  territory b 
+  area_km2   9,640,821
+  area_sq_mi   3704427  
+  area_rank   3rd/4th
+  area_magnitude   1 E12
+  percent_water   2.8 Ref label  mainland c 
+  population_census   1,339,724,852 ref name Census2010 cite web url http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm   title Communique of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census  publisher Stats.gov.cn  date   accessdate 2011-11-01 ref 
+  population_census_year   2010
+  population_census_rank   1st
+  pop_den_footnote  
+  population_density_km2   139.6
+  population_density_sq_mi   363.3  
+  population_density_rank   83rd
+  GDP_nominal   $8.250 trillion ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=67&pr.y=4&sy=2010&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CNID_NGDP%2CLP&grp=0&a=   title World Economic Outlook Database: China  publisher International Monetary Fund   date October 2012  accessdate 2 January 2013 ref 
+  GDP_nominal_rank   2nd
+  GDP_nominal_year   2012
+  GDP_nominal_per_capita   $6,094 ref name imf2 
+  GDP_nominal_per_capita_rank   90th
+  GDP_PPP_year   2012
+  GDP_PPP   $12.382 trillion ref name imf2 
+  GDP_PPP_rank   2nd
+  GDP_PPP_per_capita   $9,146 ref name imf2 
+  GDP_PPP_per_capita_rank   91st
+  Gini   47.4
+  Gini_ref    ref name giniecon cite web  title Income inequality: Delta blues  url http://www.economist.com/blogs/analects/2013/01/income-inequality   work The Economist  date 23 January 2013  accessdate 23 January 2013 ref 
+  Gini_year   2012
+  HDI_year   2011
+  HDI   0.699
+  HDI_change   increase
+  HDI_ref    ref name HDI cite web  url http://hdr.undp.org/en/media/HDR2013_EN_Statistics.pdf   format PDF title 2013 Human Development Index and its components - Statistics publisher UNDP  year 2013  accessdate 15 March 2013 ref 
+  HDI_rank   101st
+  HDI_category    span style color:#fc0; medium span 
+  currency    Renminbi Renminbi (yuan)  (Y=)
+  currency_code   CNY
+  time_zone    China Standard Time 
+  utc_offset   +8
+  date_format   yyyy-mm-dd  br or  yyyy lang zh Nian  m lang zh Yue  d lang zh Ri    br ( Common Era CE ;  Chinese calendar CE-1949 )
+  drives_on   right, except for Hong Kong & Macau
+  cctld    .cn Ref label  mainland c   .Zhong Guo  ref cite web
+  url http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt 
+  title ICANN Board Meeting Minutes
+  publisher ICANN
+  accessdate 25 June 2010  ref 
+  .Zhong Guo  
+  calling_code    +86 Ref label  mainland c 
+  footnotes  
+a.  note complex  Simple descriptions of the  political structure  since the 1980s are no longer possible.
+
+b.  note territory   convert 9598086 km2 sqmi abbr on  excludes all disputed territories. br   convert 9640821 km2 sqmi abbr on  includes Chinese-administered area ( Aksai Chin  and  Trans-Karakoram Tract , both territories claimed by India), Taiwan is not included. ref cite web
+  url http://www.chinadaily.net/china/2008-01/24/content_6418067.htm 
+  title GDP expands 11.4 percent, fastest in 13 years
+  publisher Chinadaily.net
+  date 24 January 2008
+  accessdate 15 June 2009  ref 
+c.  note mainland  Information for mainland China only. Does not include Hong Kong, Macau, and territories under the control of the Republic of China (Taiwan).
+ 
+
+The  People's Republic of China  ( PRC ) ( zh s Zhong Hua Ren Min Gong He Guo  t Zhong Hua Ren Min Gong He Guo  ) is a  one-party state  in  East Asia  governed by the  Communist Party of China . It was founded on 1 October 1949. It has more than 1.3 billion  people , which is more than any other country in the  world . ref name Census2010  It covers an area of 9.6 million  square kilometers . 
+
+The capital city is  Beijing , and  Shanghai  is the city with the most people living in it. Along with the cities of  Tianjin  and  Chongqing , these four cities are " municipality municipalities " directly controlled by the national government. Two other cities are given the status of " special administrative region ". They are  Hong Kong , which was once a colony of the  United Kingdom  and given back to China in 1997; and  Macau , which  Portugal  gave back in 1999. These two cities remain highly  Autonomy autonomous , or have much of their own power. Aside from the "municipalities" and the "SAR's", there are 23  Province provinces  and five " Autonomous region of the PRC autonomous regions ", or regions with more law-making rights than the provinces and with a large number of people of a  minority group  population. They are the  Xinjiang Uyghur Autonomous Region , the  Tibet Autonomous Region  or Xizang Autonomous Region, the  Guangxi Guangxi Zhuang Autonomous Region , the  Inner Mongolia Inner Mongolia Autonomous Region  or Nei Mongol Autonomous Region, and the  Ningxia Ningxia Hui Autonomous Region .
+
+The central government is responsible for defense and  Foreign policy foreign affairs  but not the daily operations for 50 years. PRC claims  Taiwan  as one of its many provinces.  However, PRC does not have control of  Taiwan  which has an entirely different  political  system and officially known as the  Republic of China Republic of China (Taiwan) .
+
+  History  
+ see also History of China   
+China has one of the world's oldest civilizations and has the oldest continuous civilization. ref http://www.emsc.nysed.gov/ciai/socst/grade3/whatisa.html ref  It has  Archaeology archaeological  evidence over 5,000 years old. ref name Hagg2 Haggett, Peter. [2001] (2001). Encyclopedia of World Geography, Volume 23. Edition 2, illustrated. Marshall Cavendish publishing. ISBN 0-7614-7289-4, 9780761472896. p 37. p 2836. ref  It also has one of the world's oldest  Chinese character writing systems  (and the oldest in use today), and is viewed as the source of many major  inventions . ref name Hagg2 
+
+  Ancient (2100 B.C. - 1500 A.D.)  
+ Ancient China  was one of the first  Civilization civilizations  and was active since the  2nd millennium BC  as a  Feudalism feudal   society . Chinese civilization was also one of the few to invent  writing , ref name Hagg Haggett, Peter. [2001] (2001). Encyclopedia of World Geography, Volume 23. Edition 2, illustrated. Marshall Cavendish publishing. ISBN 0-7614-7289-4, 9780761472896. p 37. p 2836. ref  with the others being  Mesopotamia , the  Indus Valley civilization , the  Maya civilization , the  Minoan civilization  of  ancient Greece , and  Ancient Egypt . ref Gernet, Jacques. [1996] (1996). A history of Chinese civilization Edition 2, illustrated. Cambridge University Press. ISBN 0-521-49781-7, 9780521497817. p 40. ref  It reached its golden age during the  Tang Dynasty  (c. A.D. 10th century).  Home of   Confucianism  and  Daoism , it had great influence on nearby countries including  Japan ,  Korea , and  Vietnam  in the areas of political system, philosophy, religion, art, and even writing and literature. China is home to some of the oldest artwork in the world. Statues and pottery, as well as decorations made of  jade , are some classic examples.
+
+Before the  Qin Dynasty  united China, there were hundreds of small states that fought each other for hundreds of years in a war to control China. This is known as the  Warring States Period . Although the continuing wars made people suffer, it was at this time when many of the great  Eastern philosophy philosophies of the East  were born, including  Confucianism  and  Daoism . Confucianism and Daoism alone have been the foundation of many social values seen in modern eastern-Asian cultures today.
+
+Its geography mostly looked like that of modern China, except with northern and western edges that varied. It was often attacked by northern  nomadic people  such as the  Turkic peoples Turkic tribes  and the  Mongol Mongols  lead by  Genghis Khan  and  Kublai Khan . During the history of ancient China, the northern nomadic people and the Chinese people had been fighting each other and taking turns to rule the land and the people of China. However, when the northern people beat the Chinese people and came to rule the kingdom, they also Incorporated the Chinese way of living and became like the Chinese. Many of the strongest dynasties of China were ruled by the northern people, including the  Qing Dynasty Qin ,  Tang Dynasty Tang ,  Yuan Dynasty Yuan  (Mongolian), and  Qing Dynasty Qing  ( Manchu ). Each time, they also brought new elements into the Chinese culture.
+
+  A new age  
+While China achieved many things in the  First millennium  and early  2nd millennium , it became an  Isolationism isolationist  country in the  15th century 15th century C.E.  This was because Spain found a lot of silver in the newly explored  Continent continents  of  Americas North and South America . Silver was the main currency (money) in China and Europe at the time, and China did not want to be bought by the foreigners.
+
+By the time of the  Renaissance , European powers started to take over other countries in Asia.  While China was never actually taken over by Europeans, many  Europe European   countries , such as  Britain  and  France  built  spheres of influence  in China.  Since China had cut itself off from the world over the previous few  centuries , by the  Qing Dynasty , it had fallen behind other countries in  technology , and was helpless to stop this from happening.  This had become clear when it lost the  Opium Wars  to  Britain  in the  19th century .
+
+In 1912, the Qing dynasty was overthrown by the  Sun Yat-sen  and the  Kuomintang , a  nationalist  party, and the  Republic of China  established. Over time,  Marxism Marxist  ideas grew popular and the  Communist Party of China Communist party  was formed.
+
+The  Chinese Civil War  later started between the  Kuomintang  (Nationalists) of the  Republic of China  (ROC) and the Communists of the People's Republic of China (PRC). The Communists wanted to make China like the  Soviet Union , whereas the other side wanted to keep China in its current state at the time. The Communists were led by  Mao Zedong ,  Liu Shaoqi  and others. Later Liu lost influence with Mao and his death to this day remains unresolved. The Communists eventually won the war. The Nationalists (led by Chiang Kai-shek) fled to the island of Taiwan and set up their new capital city in Taipei. After the Chinese Civil War, the Communist leader Mao Zedong declared a new country, the People's Republic of China (PRC), in Beijing on October 1, 1949.
+
+In 1927, the  Chinese Civil War  began as the Kuomintang, led by  Chiang Kai-shek , and the Communists fought one another. By 1949, the  Red Army  of the Chinese Communist Party had gained control over  mainland China  and  Mao Zedong  announced the creation of the People's Republic of China.  Chiang Kai-shek  and the other nationalists fled to  Taiwan . File:China, Mao (2).jpg thumb|left| Mao Zedong  founding the People's Republic of China in 1949 
+
+As the leader of the People's Republic of China, Mao began many social and economic reform projects with mixed results. The  Great Leap Forward , from 1958 to 1961, tried to  industrialization industrialize  China and increase its food production, but resulted in one of the largest  famine s in history. It is estimated that 45 million people died as a result of this reform project. ref name Akbar2010 Cite news url  http://www.independent.co.uk/arts-entertainment/books/news/maos-great-leap-forward-killed-45-million-in-four-years-2081630.html   title  Mao's Great Leap Forward 'killed 45 million in four years' accessdate 26 March 2013  work The Independent  location London  first Arifa last Akbar date 17 September 2010 ref  In 1966, Mao began the  Cultural Revolution  to remove  capitalism capitalist  influences from society and government. Major government officials and ordinary citizens were accused of being "revisionists" - people who disagreed with some parts of Marxism - or "counter-revolutionaries" and were  persecution persecuted . Many universities and schools were closed, and historical and religious sites were destroyed. Although the program officially ended in 1969, it continued until Mao's death in 1976.
+
+During this time period, the People's Republic of China did not get along with the  capitalist  countries of the  Western world . Beginning in the 1960s, relationships between the People's Republic of China and the  Soviet Union  also became increasingly unfriendly in the  Sino-Soviet Split . In 1972, to counter the power of the Soviet Union, Mao and  Zhou Enlai  met with US President  Richard Nixon  in Beijing. This began to improve relationships between China and the Western world.
+
+After Mao's death, there was a power struggle between the  Gang of Four  and  Hua Guofeng , the man Mao had chosen to be the next leader of China. Eventually,  Deng Xiaoping , one of the  veteran s of the revolution, took power. He began a "Reform and Opening Up" ( zh s Gai Ge Kai Fang  t Gai Ge Kai Fang  ) campaign. These reforms tried to make the People's Republic of China a modern, industrial - but still socialist - nation by moving towards a  market economy market system . Deng's policies would be known as "socialism with Chinese characteristics."
+
+Although Deng's policy helped loosen restrictions on citizens, the People's Republic of China continues to have problems with the amount of control the government has over citizens' private lives. In 1979, the  one-child policy , which limits most couples to one child, was created because of the  overpopulation  problem in the People's Republic of China. This policy is highly  controversy controversial  and many Westerners have criticized it. News and Internet sites are also  censorship censored  by the government.
+
+In 1989, the Chinese government used soldiers and tanks to stop a  Tiananmen Square protests of 1989 protest in Beijing's Tiananmen Square  organized by students seeking political reform. This action received worldwide criticism and led to  economic sanction s being placed on the Chinese government.
+
+In  August  2008, China hosted the  Summer Olympics  for the first time.
+
+  Geography  
+ see also List of cities in the People's Republic of China 
+The People's Republic of China is the fourth-largest country in the world by land area after  Russia ,  Canada , and  the United States . China has every kind of climate in the northern hemisphere except the  polar climate . It is also the largest country without any land north of the  Arctic Circle . China borders 14 nations, which is more than any other country in the world. It borders  Vietnam ,  Laos , and  Burma  in Southeast Asia;  India ,  Bhutan ,  Nepal  and  Pakistan ref name Ref_at China's border with Pakistan falls in the disputed  Kashmir  province. The area under Pakistani-administration is claimed by India. ref  in South Asia;  Afghanistan ,  Tajikistan ,  Kyrgyzstan  and  Kazakhstan  in Central Asia; a small section of  Altai Republic Russian Altai  and  Mongolia  in  Inner Asia ; and the  Russian Far East  and  North Korea  in Northeast Asia. 
+
+China has two major rivers, the  Yellow River  and the  Yangtze River . There is also the  Taklamakan Desert Taklamakan  and the  Gobi Desert .
+
+The world's highest point,  Mt. Everest  (8848m), is on the border between China and  Nepal . The country's lowest point, and the world's fourth-lowest, is the dried lake bed of  Ayding Lake  (-154m). 
+
+  Biodiversity  
+ File:Panda Cub from Wolong, Sichuan, China.JPG thumb|left|A  giant panda  photographed in  Sichuan . 
+China is one of 17  megadiverse countries . ref name Ref_2009a cite web  url http://www.environment.gov.au/soe/2001/publications/theme-reports/biodiversity/biodiversity01-3.html   title Biodiversity Theme Report  publisher Environment.gov.au  date 10 December 2009  accessdate 27 April 2010 ref  It is in two of the world's major  ecozone s: the  Palearctic  and the  Indomalaya . In the Palearctic zone, mammals such as the horse,  camel ,  tapir , and  jerboa  can be found. Among the species in the Indomalaya region are the  Leopard Cat ,  bamboo rat ,  treeshrew , and various  monkey  and  ape  species. Some overlap is between the two regions;  deer ,  antelope , bears,  Gray wolf wolves , pigs, and many rodent species can all be found in China's environments. The famous  giant panda  is found only in a limited area along the Yangtze River. China has a continuing problem with trade in  endanger ed species. There are now laws to stop such activities.
+
+China also has a variety of forest types. Cold  coniferous  forests cover most of the north of the country. The forest have animal species such as  moose  and the  Asian black bear , along with over 120 bird species. Moist  conifer  forests can have thickets of  bamboo . It is replaced by  rhododendron s in higher montane stands of  juniper  and  taxus yew .  Subtropical  forests, which are mostly in central and southern China. These support as many as 146,000 species of flora. Tropical and seasonal  rainforest s, though confined to  Yunnan  and  Hainan Island , have a quarter of all the plant and animal species found in China.
+
+  Military  
+The PRC Armed Forces, also known as the People's Liberation Army (PLA), is one of the most powerful armies in the world. Nowadays PRC is among the atomic powers in the world. It also has the largest standing army in the world of over 2 million soldiers on active duty.
+
+  People and culture  
+There are 56 recognized minority  ethnic group ethnic minority groups  in  China .  Han  is the largest ethnic group in China (92% of the population).  Mandarin Chinese  is the main spoken language.
+
+China is the origin of Eastern  Martial art martial arts , called  Kung-fu Kung Fu  or its first name  Wushu . China is also the home of the well-respected  Spa Monastery  and  Wudang Mountains . Martial art started more for the purpose of  survival , defense, and  War warfare  than  art . Over time some  Art form art forms  have branched off, while others have retained their distinct Chinese flavor.
+
+China has had renoned  Artist artists  including  Wong Fei Hung  ( Huang Fei Hung  or  Hwang Fei Hung ) and many others.  Art  has also co-existed with a variety of  Paint paints  including the more standard 18 colors. Legendary and controversial moves like  Big Mak  are also praised and talked about within the  culture .
+
+China has many traditional  Festival festivals , such as Spring Festival, Dragon Boat Festival, Mid-autumn Festival and so on. The most significant is  Chinese New Year . People in China will have holidays to celebrate these festivals.
+
+ Festivals 
+Spring Festival is the Chinese New Year. It lasts fifteen days. It starts with the first day of the Chinese lunar year and ends with the full moon fifteen days later. On the first day of the Spring Festival, people call on friends and relatives. Because most of people watch the Spring Festival Celebrations on CCTV all the night on New Year's Eve and don't go to bed until 12:00 AM, they usually get up later in the next day. The fifth day of the Spring Festival is the day to welcome the god of Wealth (Chinese:Cai Shen Ye ), many people make and eat dumplings (Chinese:Jiao Zi ). They believe that dumplings can hold the god of Wealth and bring luck.The last day of the Spring Festival is the Lantern Festival. On this day, the moon becomes the full moon. People go out and watch the lantern festivals everywhere. After that, they eat sweet dumpling (Chinese:Tang Yuan ,Yuan Xiao ), a kind of dumpling which is round and looks like the full moon.
+
+Dragon Boat Festival is celebrated to commemorate the death of Qu Yuan, a patriotic poet of the State of Chu during the  Warring States  period. He persuaded his emperor not to accept Qin's diplomats' offers several times but his emperor did not listen to him. He was very sad and ended up jumping into the river to end his life. The people loved him so much that they did not want the fish to eat his corpse. They made and threw rice dumplings into the river. They hope the fish eat these dumplings instead of the poet's corpse. They also rowed dragon boats in the river to get rid of the fish. Such practices, eating rice dumplings and holding dragon boat races, become what Chinese do in this festival nowadays.
+
+Held on the fifteenth day of the eighth lunar month, Mid-Autumn Festival is a festival for families. Now when the festival sets in, people would sit together to eat moon cakes, appreciate the bright full moon cakes, appreciate the bright full moon, celebrate the bumper harvest and enjoy the family love and happiness. To the Chinese people, the full moon symbolizes family reunion, as does the "moon cakes." Hence the Mid-Autumn Festival is also called the Family Reunion Festival.
+
+  Transport  
+ Train Trains  are commonly used for moving from one place to another, mainly for long distances.  Bullet train Bullet trains  are faster and more common in the cities. China has more high-speed trains than any other country in the world.  Bus Buses  and  air travel air transport  are also very common.
+
+ Related pages 
+   List of provinces of China 
+   Political problems of China 
+
+  References  
+ reflist 
+
+  Other websites  
+   en   http://www.china21th.net.ms/ Information, Links, History  and more of China  
+   en   http://www.china-map-guide.com/ China Maps 
+   commons-inline 
+   wikivoyage-inline 
+
+ Asia 
+
+ Category:People's Republic of China  

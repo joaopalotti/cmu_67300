@@ -1,0 +1,23 @@
+Container
+
+A  container  is an  wikt:object object  used for holding something.  People put things in a  container .  The use of shipping containers is called  Containerization . 
+
+ Types of container 
+   Bottle 
+   receptacle 
+   Box 
+   Can 
+   Tin 
+   Jug (container) 
+   Jar 
+   Pan 
+   Tub 
+   Carton 
+   Packet 
+   Barrel 
+   Vessel 
+   Crate 
+
+ tech-stub 
+
+ Category:Containers *

@@ -1,0 +1,3 @@
+Natural Resource
+
+REDIRECT  Natural_resource 

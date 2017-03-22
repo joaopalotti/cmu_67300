@@ -1,0 +1,25 @@
+Light year
+
+A  light year  (symbol:  ly )  ref or light-year or lightyear ref  is the distance that light travels in empty space in one year. Since the  speed of light  is about 300,000 km per second (about 186,000 miles per second), then a light year is about 10  trillion   kilometer s (about 6 trillion  mile s). ref name IAUgen citation  url    http://www.iau.org/public_press/themes/measuring/    title   The IAU and astronomical units   publisher   International Astronomical Union   accessdate 2008-07-05 ref  A light year is not a length of time.
+
+The light year is used in  astronomy  because the  universe  is huge. Space objects such as  star s and  galaxy galaxies  may be hundreds, thousands or millions of light years away.
+
+ Example 
+Think of a star at a distance of 100 light years from us on Earth. Light leaves the  star  and takes 100 years to get to us. When we see the star's light, we are seeing that star as it was 100 years ago.
+
+ Similar distance measurements 
+ Light minute  - The distance that light travels in one minutes (about 18,000,000 km per minute, or 11,160,000 miles per minute).
+ For example, our Sun is about 8 light minutes from Earth
+ Light second  - The distance that light travels in one second (about 300,000 km per second, or 186,000 miles per second)
+ For example, our Moon is about 1  light seconds from Earth
+
+ References 
+ reflist 
+
+
+
+
+ Sci-stub 
+
+ Category:Units of length 
+ Category:Astronomical distances

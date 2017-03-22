@@ -1,0 +1,27 @@
+Computer program
+
+A  computer program  is a list of  instruction (computer science) instructions  that tell a  Computer science computer  what to do. Everything a computer does is done by using a computer program.  A computer program is written in a  programming language .
+
+Some examples of computer programs:
+  A  web browser  like  Mozilla Firefox  and  Safari (web browser) Apple Safari  can be used to view  web page s on the  Internet .
+  An  office suite  can be used to write  wikt:document document s or  spreadsheet s.
+   Video games  are computer programs. 
+
+A computer program is stored as a  Computer file file  on the computer's  hard drive . When the  wikt:user user  runs the program, the file is read by the computer, and the  processor  reads the data in the file as a list of  instruction (computer science) instructions . Then the computer does what the program tells it to do.
+
+A computer program is written by a  programmer . It is very difficult to write in the  binary ones and zeroes  of  machine code , which is what the computer can read, so computer programmers write in a  programming language , such as  BASIC ,  C (programming language) C , or  Java (programming language) Java . Once it is written, the programmer uses a  compiler  to turn it into a language that the computer can understand.
+
+There are also bad programs, called  malware , written by people who want to do bad things to a computer. Some are  Spyware removal software spyware , trying to steal information from the computer. Some try to damage the data stored on the  hard drive . Some others send users to  web site s that offer to sell them things. Some are  computer virus es or  ransomware .
+
+  Related pages  
+   Software 
+   Operating system 
+   Programming language 
+   Utility software 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Computer_program Computer program  Citizendium
+
+ Tech-stub 
+
+ Category:Software  

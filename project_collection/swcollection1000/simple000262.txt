@@ -1,0 +1,73 @@
+Life
+
+otheruses 
+ File:HumanNewborn.JPG thumb|right|250px|A newborn  baby  is an example of  life 
+
+ Life  is a  biological  concept regarding the characteristics, state, or mode that separates a living thing from  dead  matter. It gets more expensive every year, but nonetheless remains fairly popular.
+
+The word itself may refer to a living being or ongoing processes of which living things are a part of. It may also refer to the period during which something is functional (as between birth and death), the condition of an entity that has been born but yet has to die or that which makes a living thing alive. 
+
+The study of life is called  biology  and people who study life are biologists. A lifespan is the  average  length of life in a species. All known life on  Earth  is powered by solar energy. Without energy from the sun no life could exist. All life on Earth is based on the  chemistry  of  carbon  compounds, specifically involving long-chain molecules such as  protein s and  nucleic acid . With  water , which is essential, the long molecules are wrapped inside  Cell membrane membranes  to form  cell s. This may or may not be true of all possible forms of life in the  Universe : it is true of all life on Earth today.
+
+ Summary 
+Living organisms are  Systems theory open systems . They are always changing, because they exchange  material s and  information  with their  environment . They undergo  metabolism , maintain  homeostasis , possess a capacity to  cell growth grow , respond to  stimulus stimuli  and  Reproduction reproduce .
+
+Through  natural selection , they adapt to their environment in successive generations. More complex living organisms can communicate through various means. ref name Koshland Cite journal  title The Seven Pillars of Life  journal Science  date 22 March 2002  first Daniel E.  last Koshland, Jr.  volume 295  issue 5563  pages 2215-2216  doi  10.1126/science.1068489  url http://www.sciencemag.org/cgi/content/full/295/5563/2215   accessdate 25 May 2009  pmid 11910092 ref ref name Chambers cite encyclopedia  encyclopedia Chambers 21st Century Dictionary  edition online  year 1999  title organism ref  Many life forms can be found on  Earth . The properties common to these organisms-- plant s,  animal s,  fungus fungi ,  protist s,  archaea , and  bacteria --are a carbon and water-based  cell (biology) cellular  form with complex  organization  and  heritable   genetics genetic  information.
+
+At present, the  Earth  is the only planet we have detailed information about. The question of whether life exists elsewhere in the Universe is open. There have been a number of claims of life elsewhere in the Universe. None of these have been confirmed so far. The best evidence of life outside of Earth is are nucleic acids that have been found in certain types of meteorites ref cite journal   url    http://astrobiology.gsfc.nasa.gov/analytical/PDF/Martinsetal2008.pdf   quotes   author Zita Martins  authorlink   coauthors Oliver Botta, Marilyn L. Fogel, Mark A. Sephton, Daniel P. Glavin, Jonathan S. Watson, Jason P. Dworkin, Alan W. Schwartz, Pascale Ehrenfreund  year 2008  month   title Extraterrestrial nucleobases in the Murchison meteorite  journal Earth and Planetary Science Letters  volume 270  issue   pages 130-136  id   accessdate 2015-03-10  ref .
+
+  Definitions of life  
+One explanation of life is called the  cell theory . The cell theory has three basic points: all living things are made up of cells. The cell is the smallest living thing that can do all the things needed for life. All cells must come from pre-existing cells.
+
+Something is often said to be alive if it:
+  grows,
+  takes in  food , uses the  food  for  energy , and passes  waste  products (see  metabolism ),
+   Motion (physics) moves : it must either move itself, or have movement inside itself,
+   Reproduction reproduces , either  sexual reproduction sexually  (with another living thing) or  asexual reproduction asexually , by creating  wikt:copy copies  of itself,
+   wikt:reaction reacts  to its surroundings,
+   wikt:function functions  
+
+However, not all living things fit every point on this list. 
+   mule Mules  cannot reproduce, and neither can worker ants.
+   virus (biology) Viruses  and spores are not actively alive (metabolising) until the conditions are right.
+
+They do, however, fit the biochemical definitions: they are made of the same kind of chemicals.
+
+The  thermodynamics thermodynamic  definition of life is any system which can keep its  Thermodynamic entropy entropy  levels below maximum (usually through  adaptation  and  mutation mutations ).
+
+  A modern approach  
+A modern definition was given by  Humberto Maturana  and  Francisco Varela  in 1980, ref Maturana H. & Varela F. 1980.  Autopoiesis and cognition: the realization of the living . Boston: Reidel. ref  to which they gave the name  autopoiesis :
+ The production of their own components
+ The correct assembly of these components
+ Continuous repair and maintenance of their own existence.
+Roth commented that "In short, organisms are self-reproducing and self-maintaining, or 'autopoietic', systems". ref Roth G. 2013.  The long evolution of brains and minds . Heidelberg: Springer. p41, 48 ref  This approach makes use of  molecular biology  ideas and  systems science  ideas.
+
+  Gallery of images of life  
+ center 
+ gallery 
+Image:Linde von linn.jpg|A [[tree]] is an example of a [[plant]]
+Image:Port Ghalib march 2006-0108.jpg|[[Fish]] are examples of [[Marine biology|marine]] life
+Image:Adult citrus root weevil, Diaprepes abbreviatus.jpg|An Adult citrus root weevil is an example of an [[insect]]
+Image:Salmonella typhimurium.png|''[[Salmonella]] typhimurium'' is an example of [[bacteria]]
+Image:Chromista collage 2.jpg|[[Chromalveolate]]s are a group of [[protista]] 
+Image:Amanita muscaria tyndrum.jpg|''[[Amanita muscaria]]'' (Fly agaric) is an example of [[fungi]]
+Image:Fungoid Frog.JPG|The Fungold [[frog]] is an example of an [[amphibian]]
+Image:Cyanocitta-cristata-004.jpg| A [[Blue Jay]] is an example of a [[bird]]
+Image:Djola-2006.jpg|[[Human]]s are an example of people
+ gallery 
+ center 
+
+  Related pages  
+ Death 
+ Birth 
+ Tree of life (biology) Tree of life 
+ Biology 
+ Evolution 
+ Artificial life 
+
+  References  
+ Reflist 
+
+ taxonomic ranks 
+
+ Category:Life  

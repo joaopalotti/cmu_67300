@@ -1,0 +1,61 @@
+Microsoft
+
+Coord 47 38 22.55 N 122 7 42.42 W region:US_dim:540 display title 
+ Infobox company
+ name   Microsoft
+ logo    File:Microsoft_logo_and_wordmark.svg frameless|alt=Microsoft's new logo, introduced in 2012. 
+ type    Public company Public 
+ traded_as    Unbulleted list NASDAQ MSFT SEHK 4338 Dow Jones Industrial Average  component NASDAQ-100  component S&P 500  component 
+ industry    Computer software br Online service s br Video game industry Video games 
+ foundation    Albuquerque, New Mexico Albuquerque ,  New Mexico  ( Start date 1975 04 04 )
+ founder    Bill Gates ,  Paul Allen 
+ location_city    Microsoft Redmond Campus ,  Redmond, Washington Redmond ,  Washington (state) Washington 
+ location_country    United States 
+ area_served   Worldwide
+ key_people    Unbulleted list Satya Nadella  (CEO)  John W. Thompson (Chairman) 
+ products    #Product divisions See listing 
+ services    #Product divisions See listing 
+ revenue    Increase   United States dollar US$  73.72 billion (2012) ref name 10K cite web date February 28, 2011 url http://www.google.com/finance?q=NASDAQ:MSFT&fstype=ii title 2011 Form 10-K, Microsoft publisher Google accessdate April 4, 2011 ref 
+ operating_income    Decrease  US$ 21.76 billion (2012) ref name 10K 
+ net_income    Decrease  US$ 16.97 billion (2012) ref name 10K 
+ assets    Increase  US$ 121.2 billion (2012) ref name 10K 
+ equity    Increase  US$ 66.36 billion (2012) ref name 10K 
+ num_employees   94,000 (2012) ref name 10K  
+ subsid   
+ homepage    URL https://www.microsoft.com/ Microsoft.com 
+ footnotes  ref cite web url http://www.sec.gov/Archives/edgar/data/789019/000119312511200680/d10k.htm title 2011 Form 10-K, Microsoft Corporation date July 28, 2011 publisher United States Securities and Exchange Commission accessdate August 23, 2011 ref 
+ 
+ Microsoft Corporation  ( NASDAQ : http://www.nasdaq.com/symbol/msft MSFT ) is a  company  that makes computer  software  and  video game s for users around the world.  Bill Gates  and  Paul Allen  founded the company in 1975. ref name bbc-timeline cite news url http://news.bbc.co.uk/2/hi/business/5085630.stm title Bill Gates: A timeline work news.bbc.co.uk publisher BBC News date 2006-06-15 accessdate 2008-08-18 ref  Microsoft makes  Microsoft Windows Windows ,  Microsoft Office  (including  Microsoft Word ),  Microsoft Edge Edge ,  MSN  and the  Xbox One , among others. Most Microsoft  computer program programs  cannot be  download downloaded  for free - people have to buy them in a shop or online. Some products (like the  Microsoft Windows Windows   operating system ) are often already installed when people buy a new  computer .
+
+  Software  
+ Microsoft Windows  is an  operating system , which means that it is the basic software that makes people's computers work and lets other programs work.  The majority of desktop and  laptop  computers run Windows, and so do some  tablet computer s and a few  smartphone s. The latest version of Windows is  Windows 10 . 
+
+ Microsoft Office  is an  office suite .  It lets people write documents on their computer with  Microsoft Word , make charts and graphs with  Microsoft Excel  and make presentations with  Microsoft PowerPoint .
+
+ Internet Explorer  is a piece of software that lets people look at things online (known as  web browser browsing ) and download things from the  Internet . 
+
+Microsoft also makes other programs for the Internet.  Many of them are called  Windows Live  services, with the name Windows Live put in front of the old name of the service, like Windows Live  Hotmail , which is an email service. However, the Windows Live name is not being used much anymore. Microsoft runs a service called  Bing  on the internet which lets people  Search engine search for things  like  photography photos  or information online.
+
+ MS-DOS  is the first existing operating system developed by Microsoft, used for primitive computers and terminals.
+
+ Microsoft Sharepoint  is a server tool included in Microsoft Office (2007, 2013).
+Microsoft Expression series is a web development tool which is now discontinued.
+ Minecraft  and many other programs have been bought by Microsoft and developed further.
+
+  Services and hardware  
+ Skype  is also a service by Microsoft. It was not started by Microsoft, but was later purchased by Microsoft. Skype is a free program that lets people call other people, either through the  telephone , or through Skype on the other person's computer.
+
+The  Xbox , the  Xbox 360  and the new  Xbox One  are  video game consoles , which means they let people play video games when connected to their  television s. Microsoft is one of the three big companies that make video game consoles. The other two are  Nintendo  and  Sony .  Xbox Live  is a service that lets people play online against other people anywhere in the world. Microsoft also makes many  personal computer PC  games.
+
+Microsoft also has many other small products such as  tablet computer s and computer peripherals including  Computer mouse mice  and  computer keyboard keyboards  that are used with computers. The Microsoft Surface is an example, which is a laptop/tablet convertible.
+
+ References 
+ reflist 
+
+  Other websites  
+   http://www.microsoft.com/ Main Microsoft Website 
+   http://70-743practice-test.blogspot.com/ Microsoft 70-743 Exam 
+
+ Category:1975 establishments in the United States 
+ Category:Bill Gates 
+ Category:Microsoft  

@@ -1,0 +1,53 @@
+Immunology
+
+Immunology  is the study of the  immune system . The immune system is the parts of the body which work against  infection  and  parasitism  by other living things. Immunology deals with the working of the immune system in health and diseases, and with malfunctions of the immune system.
+
+An immune system is present in all plants and animals. We know this because biologists have found genes coding for  toll-like receptor s in many different  metazoa ns. ref name Janeway Janeway, Charles A. 2001. Evolution of the imune system: past, present and future. In Janeway C.A; Travers P; Walport M. & Shlomchik M. 2011.  Immunobiology: the immune system in health and disease . 5th ed, Garland, New York. 597 ndash 611 ISBN 0-8153-3642-X ref  These toll-like receptors can recognise  bacteria  as 'foreign', and are the starting-point for immune reactions. The type of immunity which is triggered by the toll-like receptors is called  innate immunity . This is because it is entirely  Heredity inherited  in our  genome , and is fully working as soon as our  Tissue (biology) tissues  and  Organ (anatomy) organs  are properly developed. 
+
+ Vertebrate s,  and only vertebrates , have a second type of immunity. This is called  adaptive immunity , because it 'remembers' previous infections. Then, if the same infection occurs again, the reaction is much stronger and faster. This immunological memory "confers a tremendous survival advantage" and with it vertebrates "can survive over a long lifetime in a pathogen-filled environment". ref name Janeway 
+
+  Types of immunity in vertebrates  
+ main Immune system 
+  Innate immune response  
+ main Innate immune system 
+The  innate immune system  is usually means all of the  cell s and systems that does not have to be exposed to a particular  pathogen  before they can work.  
+
+Innate immunity starts with the  skin , which is an excellent barrier to  infection .
+
+  Adaptive immune response  
+ main Adaptive immune system 
+The  adaptive immune system  includes cells and systems that do require previous exposure to a pathogen. It explains the unique ability of the mammalian immune system to remember previous infections and mount a rapid and robust reaction to secondary infections.  This  immunological memory  is due to the biology of  T-cell s and  B-cell s.
+
+  Other aspects of immunity  
+ Vaccine s boost the acquired immune system by offering weak forms of infection that the body can fight off. The system remembers how to do it again when a stronger infection happens. If the vaccine works, the body can then fight off a serious infection.
+
+The distribution of vaccines and other immune system affecting  cure s can be considered another level of acquired immune system, one governed by access to  vaccination  and  medicine  in general.  The intersection of this with the spread of  disease  (as studied in  epidemiology ) is part of the field of  public health .
+
+  Errors and weaknesses  
+Errors of the immune system may cause damage. In  autoimmune disease s, the body attacks parts of itself because the system mistakes some parts of the body as 'foreign'. Some kinds of  arthritis  are caused this way.
+
+Sometimes serious pathogens slip in because their surface is disguised as something the host cell walls can accept. That is how viruses work. Once inside a cell, their genetic material controls the cell. Infections like  HIV  get in this way, and then attack cells which are the basis of the immune system. Artificial means are often used to restore immune system function in an HIV-challenged body, and prevent the onset of  AIDS .  This is one of the most complex issues in immunology as it involves every level of that system.  This research during the 1980s and 1990s radically changed the view of the human immune system and its functions and integration in the  human body .
+
+ History of immunology 
+
+
+Immunology is a science that examines the structure and function of the immune system. It originates from  medicine  and early studies on the causes of immunity to disease. The earliest known mention of immunity was during the  plague of Athens  in 430 BC.  Thucydides  (460-395 BC) noted that people who had recovered from a previous bout of some diseases could nurse the sick without contracting the illness a second time. ref cite journal  author Retief FP, Cilliers L  title The epidemic of Athens, 430-426 BC  journal South African Medical Journal  volume 88  issue 1  pages 50-53  year 1998  pmid 9539938 ref 
+
+In the 18th century,  Pierre Louis Maupertuis Pierre-Louis Moreau de Maupertuis  made experiments with scorpion venom and observed that certain dogs and mice were immune to this venom. ref cite journal  author Ostoya P  title Maupertuis et la biologie  journal Revue d'histoire des sciences et de leurs applications  year 1954  volume 7  issue 1  pages 60-78  url   http://www.persee.fr/web/revues/home/prescript/article/rhs_0048-7996_1954_num_7_1_3379    doi 10.3406/rhs.1954.3379 
+ ref  This and other observations of acquired immunity led to  Louis Pasteur  (1822-1895) developing  vaccination  and the  germ theory of disease . ref cite journal  author Plotkin SA  title Vaccines: past, present and future  journal Nature Medicine  volume 11  issue 4 Suppl  pages S5-11  year 2005   pmid 15812490  doi 10.1038/nm1209 ref  Pasteur's theory was in direct opposition to contemporary theories of disease, such as the  miasma theory of disease miasma theory . It was not until the proofs  Robert Koch  (1843-1910) published in 1891 (for which he was awarded a  Nobel Prize in Physiology or Medicine Nobel Prize  in 1905) that  microorganism s were confirmed as the cause of  infectious disease . ref http://nobelprize.org/nobel_prizes/medicine/laureates/1905/ The Nobel Prize in Physiology or Medicine 1905 , Nobelprize.org, accessed 8 January 2007 ref  Viruses were confirmed as human pathogens in 1901, when the  yellow fever  virus was discovered by  Walter Reed  (1851-1902). ref http://web.archive.org/web/20071023070838/www.wramc.amedd .army.mil/welcome/history/ Major Walter Reed, U.S. Army , Walter Reed Army Medical Center, accessed 8 January 2007. ref 
+
+Immunology made a great advance towards the end of the 19th century, through rapid developments, in the study of  humoral immunity ref In humoral immunity, antibodies are secreted into bodily fluids such as blood and  lymph . ref  and cellular immunity. ref name Metch cite book  last  Mechnikov   first   Ilya  coauthors   translated by F.G. Binnie  title  Immunity in infective diseases  publisher  Cambridge University Press   year  1905   url   http://books.google.com/?id=ywKp9YhK5t0C&printsec=titlepage&vq=Ehrlich&dq=history+of+humoral+immunity  format full text version: Google Books  isbn 0548-64719-4 
+ ref  Particularly important was the work of  Paul Ehrlich  (1854-1915), who proposed the  side-chain theory  to explain the specificity of the antigen-antibody reaction. The Nobel Prize for 1908 was jointly awarded to Ehrlich and the founder of cellular immunology,  Ilya Mechnikov  (1845-1916). ref 
+ http://nobelprize.org/nobel_prizes/medicine/laureates/1908/ The Nobel Prize in Physiology or Medicine 1908  Nobelprize.org, accessed 8 January 2007 ref 
+
+The simplest form of immunity is the  DNA restriction  system in  bacteria  that prevents  infection  by  bacteriophage s.
+
+  References  
+ Commons category Immunology 
+ Reflist 
+
+  Related pages  
+   Lymphatic system 
+   White blood cell 
+ 
+ Category:Immunology  

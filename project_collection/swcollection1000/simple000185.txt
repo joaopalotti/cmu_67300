@@ -1,0 +1,33 @@
+GNU Free Documentation License
+
+File:Heckert GNU white.svg thumb|right|GNU logo 
+ The Good Dinosaur The   GNU Free Documentation License  (GFDL) is a  copyleft   license  for  open content . It was made up by the  Free Software Foundation  (FSF) for the  GNU  project. It was initially created for use with software documentation, but can be applied to other types of works as well, such as  Wikipedia . 
+
+As a  copyright  license, the GFDL is a type of  contract  between the creator of a copyrightable work (such as a  book , an  encyclopedia  article, a  painting , or a piece of  music ) and anyone else who might want to use it. The GFDL is considered "copyleft" because the license is meant to make it easier to use and re-use the copyrighted work, not to restrict its use. 
+
+If a copyrightable work is released under the GFDL, the creator of the work is saying that anyone else may reproduce, distribute, or modify the work, as long as they follow a set of requirements specified in the GFDL. Among the requirements of the GFDL are that any new work created from the original work is also licensed under the GFDL--that is, once something is licensed as GFDL, it will always stay licensed as GFDL, and anything which uses it also is licensed as GFDL. (Because the license "reproduces" and stays with the work, this is sometimes called a " virus viral " license.)
+
+The GFDL also says that in order to distribute or modify a work licensed with the GFDL, the re-user must give credit to any previous authors of the work, and include a list of changes they made to the work. 
+
+Finally, any work licensed with the GFDL must contain, somewhere, the entire text of the license. This provision has been criticized, because it is not always easy to include an entire, long license with a copyrighted work. In a book, for example, it is easy to include one extra page with the license, but if the work is something like a song, or a photograph, it is not easy. 
+
+The GFDL has other requirements that are more complicated. For example, if part of the work is labeled as an "invariant section," it cannot ever be removed or changed by someone using the work ("invariant" means "does not change"). 
+
+Works licensed under the GFDL may be included in with non-GFDL-licensed works only if it is clear which parts of the work are licensed as the GFDL. For example, in a book of poetry it would be easy to label some poems as licensed under the GFDL and some not licensed under it. But it would not be easy to label if part of a song was licensed as GFDL and the rest was not, so this would not be allowed. 
+
+Any use of GFDL material which violates the terms of the GFDL is potentially  copyright infringement .
+
+A number of online projects use the GFDL. An online project to license its content under the GFDL is  Wikipedia . ref Wikipedia:Copyrights ref 
+
+The GFDL has been criticized by many people who wish that it made it even easier for content to be re-used. Among the criticisms are that it is very hard to combine GFDL material with other copyleft licenses, that it is not always clear and easy to understand, and that some of its requirements, such as the "invariant sections", are not free at all. 
+
+  Related pages  
+   Wikipedia:Simple English GFDL Simple English "translation" of the GFDL text 
+
+ References 
+ reflist 
+
+  Other websites  
+   http://www.gnu.org/copyleft/fdl.html Official license text 
+
+ Category:Software licences

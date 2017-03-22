@@ -1,0 +1,160 @@
+HTML
+
+Infobox file format
+  name   HTML br small nowrap (HyperText Markup Language) 
+  icon  
+  screenshot   
+  extension   .html, .htm
+  mime   text/html
+  type code   TEXT
+  uniform type   public.html
+  owner    World Wide Web Consortium  &  WHATWG 
+  genre    Markup language 
+  container for   
+  contained by  
+  extended from    Standard Generalized Markup Language SGML 
+  extended to    XHTML 
+  standard   ISO/IEC 15445 br http://www.w3.org/TR/1999/REC-html401-19991224/ W3C HTML 4.01 br 
+ http://dev.w3.org/html5/spec/ W3C HTML 5  (draft)
+ 
+
+ HyperText Markup Language  ( HTML ) is a  markup language ref cite web url http://infospace.ischool.syr.edu/2012/04/05/why-html-is-not-a-programming-language/ title Why HTML is Not a Programming Language publisher Syracuse University accessdate 27 June 2016 ref  for creating  webpages . Webpages are usually viewed in a  web browser . They can include writing, links, pictures, and even sound and  video . HTML is used to mark and describe each of these kinds of content so the web browser can show them correctly.
+
+HTML can also be used to add meta information to a webpage. Meta information is information  about  the web page. For example, the name of the person who made it. Meta information is not usually shown by web browsers.
+
+ Cascading Style Sheets  (CSS) and  JavaScript  can be included in HTML code. CSS is used to change how a webpage looks. JavaScript is used to add features to webpages and make them more interactive.
+
+HTML was made by the  World Wide Web Consortium  (W3C). There are many versions of HTML. The current standard is HTML 4.01. So, it is the version the W3C recommends. A newer version, called HTML5, will become standard within the next few years. The W3C also develops  XHTML . This is another markup language which is very similar to HTML, but more strict.
+
+  Tags  
+
+HTML uses special bits of programming language called "tags" to let the browser know how a webpage should look. The tags usually come in pairs: an  opening  tag to tell the browser when to start doing something, and an  ending  tag to tell the browser when to stop doing something. There are many different kinds of tags, and each one has a different purpose.
+
+Opening tags have a keyword, such as "p," surrounded by angle brackets (< and >). For example, the tag  code nowiki <p> nowiki code  tells the browser the start a new paragraph. Ending tags look almost exactly the same, only they have a forward slash (/) added just before the keyword. For example, the tag  code nowiki </p> nowiki code  tells the browser to end a paragraph. A small number of tags, like  code nowiki <br> nowiki ,  nowiki <img> nowiki code  and  code nowiki <hr> nowiki code , can be used without an ending tag.
+
+Some tags only work in certain browsers. For example, the  code nowiki <marquee> nowiki code  tag, which is used to make a bit of writing slide across the page, only works in the  Internet Explorer  and  Mozilla Firefox  browsers. Other browsers simply ignore this tag and display the writing normally. Many web page creators avoid using these "non-standard" tags because they want their pages to look the same with all browsers.
+
+  Example  
+
+Here is an example page in HTML:
+
+ source lang html 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is the title of the page.</title>
+  </head>
+  <body>
+    <p>This is a paragraph.</p>
+    <a href="www.domain.com">This is a link.</a>
+    <img url="image.jpg" alt="Image">
+  </body>
+</html>
+ source 
+
+  HTML5  
+
+The W3C is making a new version of HTML, called HTML5, with more features and better support for things like online video. HTML5 is expected to become the standard version of HTML within the next few years.
+
+Some of the new features in HTML5 are:
+
+  The  code nowiki <canvas> nowiki code  tag which can be used with  JavaScript  to draw 2D pictures and animations.
+  A  code nowiki <video> nowiki code  tag for adding videos to a webpage.
+  A  code nowiki <audio> nowiki code  tag for adding audio, like music or sound effects, to a webpage.
+  Tags for marking common kinds of content, including:  code nowiki <article> nowiki code ,  code nowiki <footer> nowiki code ,  code nowiki <header> nowiki code ,  code nowiki <nav> nowiki code ,  code nowiki <progress> nowiki code ,  code nowiki <section> nowiki code ,  code nowiki <summary> nowiki code ,  code nowiki <time> nowiki code 
+
+In addition, some features of HTML4 have been left out of HTML5. For example, the  code nowiki <font> nowiki code  tag, which is used to change how text looks on a page, is not available in HTML5. The W3C recommends doing this with  Cascading Style Sheets CSS  instead.
+
+One of the aims of HTML5 is to remove the need to use third-party software like  Adobe Flash , because it is often slow on mobile devices like phones and can be used to infect your computer with viruses. Another aim is to reduce the amount of program code (JavaScript) running in each webpage, thus making the web faster.
+
+Currently, no browsers completely support all of HTML5's new features. However, some of the features are supported by  Mozilla Firefox ,  Google Chrome  and  Apple Safari .
+
+ Basic HTML tags 
+ class wikitable sortable  Tag name
+ Name
+  Function
+  Code Example
+ <!DOCTYPE>
+ Doctype
+ Defines the Document type
+ syntaxhighlight lang html 
+<!DOCTYPE html>
+ syntaxhighlight 
+ <html>
+ HTML
+ Defines an HTML document
+ syntaxhighlight lang html 
+<html>All code</html>
+ syntaxhighlight 
+ <head>
+ Head
+ Contains any code that is not used to display elements on the webpage
+ syntaxhighlight lang html 
+<head></head>
+ syntaxhighlight 
+ <title>
+ Title
+ Defines the title of the webpage (shown on the tab)
+ syntaxhighlight lang html 
+<title>Webpage</title>
+ syntaxhighlight 
+ <body>
+ Body
+ Contains the visible elements of the webpage
+ syntaxhighlight lang html 
+<body>Html tags</body>
+ syntaxhighlight 
+ nowiki <h1> to <h6> nowiki 
+ Headings
+ Headings of various sizes ( nowiki <h1> being the largest) nowiki 
+ syntaxhighlight lang html 
+<h1>Heading</h1>
+ syntaxhighlight 
+ nowiki <p> nowiki 
+ Paragraph
+ Defines a paragraph of text
+ syntaxhighlight lang html 
+<p>TEXT</p>
+ syntaxhighlight 
+   code nowiki <a> nowiki code 
+ Anchor
+  Creates active links to other web pages
+ syntaxhighlight lang html 
+<a href="www.domain.com">Visit our site</a>
+ syntaxhighlight 
+ img 
+ Image
+ Displays an image on the page
+ syntaxhighlight lang html 
+<img src="ImageUrl" alt="Text displayed if image is not available">
+ syntaxhighlight 
+ nowiki <br> nowiki 
+ Break
+  Inserts a single line break
+ syntaxhighlight lang html 
+Text <br> Text
+ syntaxhighlight  
+   nowiki <center> nowiki 
+ Center
+  Moves content to the center of the page
+ syntaxhighlight lang html 
+<center>Code</center>
+ syntaxhighlight 
+ code nowiki <script> nowiki code 
+ Script
+  Creates a script in the webpage
+ syntaxhighlight lang html 
+<script>document.write("Hello World!")</script>
+ syntaxhighlight 
+ 
+
+  Other websites  
+   http://www.yourhtmlsource.com/ HTML Source: Beginner's HTML Tutorial  - a site of tutorials aimed at web design advanced.
+   http://www.htmldog.com/ HTML Dog  is a site that helps new writers write good, simple HTML and make it look good with  Cascading Style Sheets CSS .
+   http://www.w3schools.com/html/ w3schools  a site of web technologies tutorials
+
+ References 
+ reflist 
+ Category:Markup languages 
+ Category:Internet 
+ Category:Web design

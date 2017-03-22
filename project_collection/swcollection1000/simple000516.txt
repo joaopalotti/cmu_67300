@@ -1,0 +1,90 @@
+Vatican City
+
+distinguish Holy See 
+ redlinks 
+ Infobox country
+ conventional_long_name   Vatican City State
+ native_name    small native name it Stato della Citta del Vaticano icon no 
+ common_name   Vatican City
+ image_flag   Flag of the Vatican City.svg
+ image_coat   Coat of arms of the Vatican City.svg
+ image_map   Location Vatican City Europe.png
+ map_caption    map caption  location_color green  region Europe  region_color dark grey  legend Location Vatican City Europe.png 
+ national_motto   
+ national_anthem    native name it Pontifical Anthem Inno e Marcia Pontificale br small Pontifical Anthem and March br center File:United States Navy Band - Inno e Marcia Pontificale.ogg center 
+ capital    nowrap Vatican City 
+ official_languages   Italian ref group note In accordance with paragraph 2 of the  Legge sulle fonti del diritto  of 7 June 1929, all laws and regulations of the state are published in the Italian language  Supplemento per le leggi e disposizioni dello Stato della Citta del Vaticano  attached to the  Acta Apostolicae Sedis . The text of the first seven items published in that supplement is given  http://www.vaticanstate.va/NR/rdonlyres/FBFEA0E8-B43A-452A-AAA0-1AF49590F658/2615/Supplemento.pdf here.  While the state itself uses only Italian, many other languages are used by institutions situated within the state, such as the  Holy See , the  Pontifical Guard Pontifical Swiss Guard , and the  Pontifical Academy of Sciences . br  The Holy See uses  Latin  as an official language and French as a diplomatic language; in addition, its  Secretariat of State (Holy See) Secretariat of State  uses English, German, Italian, Polish, Portuguese and Spanish. The Swiss Guard, in which commands on parade are given in German, also uses French and Italian in all its official ceremonies. ref 
+ latd 41  latm 54.2  latNS N  longd 12  longm 27.2  longEW E
+ government_type    Ecclesiastical ;  sacerdotal - monarchical ; br absolute monarchy ; ref cite web  url http://www.vaticanstate.va/EN/State_and_Government/StateDepartments/index.htm   title Internet portal of Vatican City State  publisher Vatican City State  accessdate 9 July 2011 ref   elective monarchy ; ref http://books.google.com/books?id=M3A-xgf1yM4C&pg=PA1009 Gerhard Robbers,  Encyclopedia of World Constitutions  (Infobase Publishing 2006 ISBN 978-0-81606078-8), p. 1009 ref  elective  theocracy . ref http://www.staff.ncl.ac.uk/nick.megoran/pdf/theocracy.pdf Nick Megoran, "Theocracy" in  International Encyclopedia of Human Geography , vol. 11, Elsevier 2009 ISBN 978-0-08-044911-1, p.226| Quote:elective theocracy (although its representatives would be unlikely to accept that label) ref 
+ leader_title1    List of Sovereigns of the Vatican City State Sovereign 
+ leader_name1    Incumbent pope 
+ leader_title2    President of the Pontifical Commission for Vatican City State President of br the Governorate 
+ leader_name2    Pietro Parolin 
+ legislature    Pontifical Commission for Vatican City State Pontifical Commission 
+ area_rank   250th
+ area_magnitude   1 E5
+ area_ha   44
+ area_acre   110
+ population_estimate   839
+ population_estimate_rank   240th
+ population_estimate_year   July 2013
+ population_density_km2   1877
+ population_density_sq_mi   4859
+ population_density_rank   6th
+ Gini_year    Gini_change       Gini       Gini_ref    Gini_rank   
+ HDI_year    HDI_change       HDI       HDI_ref    HDI_rank   
+ sovereignty_type   Independence  nobold from the  Kingdom of Italy (1861-1946) Kingdom of Italy 
+ established_event1    Lateran Treaty 
+ established_date1   11 February 1929
+ currency   Euro (EUR) sup b sup 
+ currency_code   EUR
+ country_code   V
+ time_zone    Central European Time CET 
+ utc_offset   +1
+ time_zone_DST    Central European Summer Time CEST 
+ utc_offset_DST   +2
+ drives_on   right ref group note Visitors and tourists are not permitted to drive inside the Vatican without specific permission, which is normally granted only to those who have business with some office in the Vatican. ref 
+ calling_code    Telephone numbers in Vatican City +379 ref ITU-T  assigned code 379 to Vatican City. However, Vatican City is included in the Italian telephone numbering plan and uses the Italian country code 39, followed by 06 (for Rome) and 698. ref 
+ iso3166code   VA
+ sport_code   
+ vehicle_code   V ref http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/sp_ss_scv_info-generale_en.html#Targa www.vatican.va   Holy See Press Office -- General Information. Retrieved 23 October 2009. ref 
+ cctld    .va 
+ footnote_a   Since 1 January 2002 (see  http://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/sp_ss_scv_info-generale_en.html#Valuta Valuta  at www.vatican.va, retrieved 23 October 2009). Before 2002, the currency was the  Vatican lira , on a par with the  Italian lira .
+ 
+ Vatican City  ( IPAc-en audio en-us-Vatican City.ogg ' v ae t i k @n _ ' s I t i ; officially  Vatican City State ,  lang-it Stato della Citta del Vaticano ) ref "Stato della Citta del Vaticano" is the name used in  http://www.vatican.va/vatican_city_state/legislation/documents/scv_doc_20001126_legge-fondamentale-scv_it.html the text  of the state's  Constitution Fundamental Law  and in  http://www.vaticanstate.va/content/vaticanstate/en.html the state's official website . ref  is a  sovereign state country  and the smallest country in the world by size, at 0.44 km2. ref http://www.vaticanstate.va/EN/homepage.htm ref  It is an  enclave , which means it is completely surrounded by the city of  Rome , the capital of  Italy  (it is one of only four countries in the world like this, the others being  San Marino , also in Italy, St.Martin in France and  Lesotho  in Africa). It was established on February 11, 1929, with the  Lateran Agreement  ( Patti Lateranensi ). This was signed by  Benito Mussolini  and  Pope Pius XI . The Vatican City is the  headquarters  of the  Roman Catholic Church  and its government, the  Holy See .
+
+The Head of State is the  Pope , now  Pope Francis , former  cardinal  Jorge Mario Bergoglio, was elected on 13 March 2013.
+It is also important for its culture and art. The Vatican's masterpieces are very well known in the world:  St. Peter's Square ,  St. Peter's Basilica , the  Sistine Chapel , the  Vatican Museums  and the  Apostolic Palace , where the  Pope  lives. There are also  hundreds of other   sculpture s and  picture s.
+
+  History  
+
+The Pope used to rule the Papal States, which included most of Italy. Catholic popes had generally tried to stop Italy from becoming one country because they feared they would lose their control of at least one of the Papal States. cn  In 1861 Italy was unified under the King of Savoy, but  Rome  and  Latium  remained unconquered. On September 20, 1870 Italian troops invaded. Rome became capital of the new kingdom.
+
+The  Pope  claimed he was a prisoner of the Italian state and  excommunication excommunicated  all the people who helped invade the Papal state. This stopped Catholics from taking part in public life under Catholic government.
+
+In 1929  Benito Mussolini , decided to sign an agreement with the Holy See, called the  Lateran Treaty , which created the Vatican State. Another treaty gave the Vatican money each year to compensate for the lost territories.
+
+  Politics and Government  
+The government  Hierarchy structure  is a theocracy with the  Pope Pontifical leader  being the highest authority. A bishop is elected by the College of Cardinals to become the new Pope and leader of the Holy See and the Romans Catholic Church. The Pope also holds the title of "Bishop of Rome".
+
+  Religion  
+The religion of the city is the  Roman Catholic Church .
+
+  Gallery  
+ 
+ gallery 
+Image:Saint Peter's Square from the dome v2.jpg|St. Peter's square seen from the basilica.
+Image:StPetersBasilicaEarlyMorning.jpg|The basilica, in early morning
+ gallery 
+
+  References  
+ commons 
+ reflist 
+
+ Notes 
+ reflist group note 
+
+ Europe 
+
+ Category:Vatican City   
+ Category:Current monarchies

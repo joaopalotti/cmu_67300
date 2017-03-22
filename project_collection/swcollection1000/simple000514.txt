@@ -1,0 +1,43 @@
+Volume
+
+This article is about physical object; for meaning from audio field, see  loudness . 
+
+ wiktionary 
+The  volume  of an object is a measure of the amount of  Space (physics) space  occupied by that object, not to be confused with  mass . The volume of a mountain is much larger than the volume of a rock, for instance.
+
+The word volume implies a  3-D three-dimensional  context where, by convention,
+  the  length  is the longest distance between the object's extremities
+  the  width  (or breadth) refers to the size of the object in a direction perpendicular to its length
+  the  height  (or  depth ) stands for the size of that object in the direction perpendicular to both the length and the width.
+
+For objects at or near the  Earth 's surface, height or depth often refers to the dimension of the object along the local vertical. All physical objects occupy a volume, even if some are so thin that they appear to be  2D two-dimensional , like a sheet of paper.
+
+  Units of volume  
+The unit of volume in the  International System of Units  is the cubic meter, which is represented by the symbol m sup 3 sup .
+
+In some fields or applications, it is convenient to use different units to simplify the discussions or writings. For instance,
+
+  Everyday quantities of  liquid s are often measured in units of a  litre , symbol l, which is the volume occupied by a cubic decimetre.
+  Large quantities of liquids, such as  oil , and sometimes other materials, may be measured and traded in units of  barrel s. There are many different reference volumes called barrels, depending on the nature of the content.
+
+Traditional units are still in encountered in some countries:  Imperial unit s such as the  gallon  or the  fluid ounce  were in widespread use within the British Empire. Some of them are still popular in the United States, which also uses units like the  bushel , or the  quart , the cup and the teaspoon (in cooking recipes, for example). See  U.S. customary units  for more examples.
+
+  Non-conservation of volume  
+The volume of an object is not a fundamental property of that object: it can change with environmental conditions such as pressure and temperature, especially if the object is highly compressible.
+
+The volume of a mixture of  fluid s (liquids,  gas es) may or may not be equal to the sum of their volumes before they were mixed.
+
+  Measuring a volume  
+The volume of simple geometric objects can often be calculated on the basis of their known dimensions:
+
+  The volume of a perfect cube of side  c  is  c sup 3 sup 
+  The volume of a parallelepiped of sides  a ,  b  and  c  is  a     b     c 
+  The volume of a sphere of radius  r  is (4/3) p  r sup 3 sup 
+
+The volume of a gas is typically that of its container, but it could be ill-defined, as in the case of the atmosphere, which has no clear upper limit. The volume of a liquid is often measured by pouring it into a graduated container. The volume of a small  solid  can be estimated by immersing it into a graduated container partially filled with a known amount of liquid, provided the solid is not soluble in the liquid.
+
+ Related pages 
+   Geometry 
+
+ Category:Physical quantity 
+ Category:Geometry

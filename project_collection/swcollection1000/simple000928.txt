@@ -1,0 +1,81 @@
+Game
+
+File:Senet game pieces (Tutankhamun).jpg thumb|Senet the first known board game, made in ancient Egypt. 
+ File:Go-tisch.png thumb|Go, the ancient board game created in China; it then passed to Korea and Japan. 
+ File:Simple Pie Chart Timeline of the History of Games.jpg thumb|This simple pie chart illustrates the timeline for the history of games. 
+ File:Paul Cezanne, 1892-95, Les joueurs de carte (The Card Players), 60 x 73 cm, oil on canvas, Courtauld Institute of Art, London.jpg thumb|1895 painting by  Paul Cezanne  depicting a  card game . 
+ File:Tug-of-war.jpg thumb| Tug of war  is an easily organized, impromptu game that requires little equipment 
+A  game  is something that people do for fun. It is different from  Labour (economics) work . In many games, people play against other people. 
+
+There are different kinds of games. For example, in video games, people often use controllers to control what happens on a screen, such as a  television  screen. In board games, players often move pieces on a flat surface called a  board . In card games, players uses dictionary   playing card playing cards .
+
+  Definitions  
+
+  Ludwig Wittgenstein  
+ Ludwig Wittgenstein  was probably the first academic philosopher to address the definition of the word  game . In his  Philosophical Investigations , ref name wittgen cite book  last   Wittgenstein, Ludwig 1953/2002.  title   Philosophical Investigations  location   Oxford  isbn    0-631-23127-7  publisher   Blackwell ref  Wittgenstein demonstrated that the elements (parts) of games, such as  play (activity) play , rules, and  competition , all fail to correctly define what games are. He concluded that people apply the term  game  to a range of different human activities that are only related a little bit.
+
+  Roger Caillois  
+French sociologist  Roger Caillois , in his book  Les jeux et les hommes (Games and Men) , ref name callois cite book title   Les jeux et les hommes last   Caillois, Roger 1957.  publisher   Gallimard ref  said that a game is an activity which is these things:
+   fun : the activity is  fun  to do
+   separate : the activity cannot happen everywhere or all the time
+   uncertain : the people doing the activity do not know how it will end
+   non-productive : doing the activity does not make or do anything useful
+   governed by rules : the activity has rules that are different from everyday life
+   fictitious : the people doing the activity know that the game is not reality
+
+  Chris Crawford  
+Computer game designer  Chris Crawford (game designer) Chris Crawford  tried to define the word  game ref name craw 
+ cite book title Chris Crawford on game design isbn 0-88134-117-7 last Crawford, Chris 2003.  publisher New Riders ref  using a series of comparisons:
+ Something creative is  art  if it was made because it is beautiful, and  entertainment  if it was made for  money .  (This is the least rigid of his definitions. Crawford acknowledges that he often chooses a creative path over conventional business wisdom, which is why only one of his 13 games is a  sequel .) 
+ Something that is entertainment is a  play (activity) plaything  if it is  wikt:interactive interactive .  Movies  and  book s are entertainment, but not interactive.
+ If a plaything does not have any goals to complete, it is a  toy .  (Crawford notes that by his definition, (a) a toy can become a game element if the player makes up rules, and (b)  The Sims  and  SimCity  are toys, not games.)  If a plaything has goals, it is a  challenge .
+ If a challenge does not have an enemy, it is a  puzzle . If it has an enemy or enemies, it is a  conflict .  (Crawford admits that this is a subjective test. Video games with noticeably  algorithm ic  artificial intelligence  can be played as puzzles; these include the patterns used to evade  Pac-Man#Ghosts ghosts in  Pac-Man .) 
+ If the player can only do better at something than an enemy, and cannot hurt the enemy or slow him down, the conflict is a  competition.   ( Racing  and  figure skating  are competitions.)  However, if attacks are allowed, then the conflict qualifies as a game.
+
+Crawford's definition of a game is: an interactive, goal-oriented activity, with enemies to play against, and where players and enemies can interfere with each other.
+
+   Homo Ludens   
+ Homo Ludens  (Playing Man) is a book written in 1938 by Dutch historian  Johan Huizinga . ref Huizinga, Johan 1955.  Homo ludens; a study of the play-element in culture . Boston: Beacon Press. ISBN 978-0807046814 ref  It discusses the importance of the play element in  culture  and  society . Huizinga suggests that play is a  condition for the generation of culture.
+
+  History of Games  
+The first writer of history was  Herodotus , an ancient Greek. He wrote a book called "The History" around 440 [four hundred and forty] BC, and that is more than 2,450 [two thousand four hundred and fifty] years ago. 
+
+Herodotus tells us about king Atys; he ruled about 5,500 [five thousand five hundred] years ago in a country called Lydia. Today we call the country of king Atys  Turkey , the western half closest to Greece. Atys had a serious problem; his lands had very little food because the climate was not good for agriculture. The people of Lydia demonstrated patience and hoped that the good times of plenty would return. 
+
+But when things failed to get better, the people of Lydia thought up a strange solution for their problem. The path they took to fight their natural need to eat - the hungry times caused by the unusually hard climate - was to play games for one entire day so that they would not think about food. On the next day they would eat, so eating occurred every second day. In this way they passed 18 [eighteen] years, and in that time they invented the dice, the ball, and all the games commonly played today ref McGonigal, Jane. 2011. Reality is Broken: Why Games Make Us Better and How They Can Change the World. New York: Penguin Books. Print. Pages 5-6. ref .
+
+Games appear in all cultures all over the world, an ancient custom that brings people together for social opportunities. Games allow people to go beyond the limit of the immediate physical experience, to use their imagination. Common features of games include a finish that you cannot forecast, agreed upon rules, competition, separate place and time, imaginary elements, elements of chance, established goals and personal enjoyment. Games are used to teach, to build friendships, and to indicate status.
+
+In his 1938 history book the Dutch writer Johan Huizinga says that games are older than human culture. He sees games as the beginning of complex human activities such as language, law, war, philosophy and art. Ancient people used bones to make the first games.  Dice  are very early game pieces. Games began as part of ancient religions. The oldest gaming pieces ever found - 49 [forty nine] small painted stones with pictures cut into them from 5,000 [five thousand] years ago - come from Turkey, so perhaps the history of Herodotus is true. One of the first board games, Senet, appears in  ancient Egypt  around 3,500 [three thousand five hundred] years ago. The  Ancient Greece ancient Greeks  had a board game similar to checkers, and also many ball games. 
+
+The first reference to the game of  Go  occurs in  Ancient China Chinese  records from around 2,400 [two thousand four hundred] years ago. Originally the game Go was used by political leaders to develop skill in strategy and mental skill. Knowing how to play Go was required by a Chinese gentleman, along with the skills of artistic writing or calligraphy, painting and the ability to play a musical instrument. These were regarded as the four most important skills. In ancient China, a gentleman had to pass a test in these four key skills in order to get a good paying job in the government. The Chinese brought Go to  Korea , and it entered  Japan  around 1,500 [one thousand five hundred] years ago, and it has been popular ever since ref History of Games. Wikipedia. 23 December 2016. Online. ref . 
+
+In March of 2016 a Google computer program beat the best Go players in the world. Go is believed to be the most complex board game ever created. Is this computer program smarter than a person? Well, it did beat the South Korean Go master Lee Se-dol, and Lee was surprised by the result.  He acknowledged defeat after three and a half hours of play. Demis Hassabis, who made the  Google  program, called it an important moment in history, because a machine beat the best person in the world in an intelligent game.  Such computer programs rely on what is called  artificial intelligence . Go is a two-player game of strategy said to have had an origin in China perhaps around 3,000 [three thousand] years ago. Players compete to win more territory by placing black and white "stones" on a board made up of 19 [nineteen] lines by 19 [nineteen] lines ref Choe, Sang-Hun and John Markoff. 9 March 2016. Master of Go Board Game Is Walloped by Google Computer Program. The New York Times. 23 December 2016. Online. ref .
+
+The first  Video game computer game  that was ever created was probably the game  OXO  by Alexander Douglas in 1952.  It was a version of tic-tac-toe. But most people consider the first true computer game where players actually participate to be Tennis for Two developed in 1958 by the  physics  scientist William Higginbotham. He wanted to teach about gravity, the force of attraction between masses. These men who created the early computer games did not forecast the potential for the popular use of games, because at that period in modern history it took a small room full of computers to make these games work! Another early game was Spacewar! developed in 1961 by MIT university student Steve Russell. In 1972 the company  Atari, Inc. Atari  produced the Pong game which was a huge commercial success; being a commercial success means that it made a lot of money. This was the true beginning of computer games that could be played at home ref Overmars, Mark. 30 January 2012. A Brief History of Computer Games. PDF. 23 December 2016. Online. Pages 2-3. ref .
+
+Today, all around the world people spend more the 3,000,000,000 [three billion] hours a week playing computer games ref McGonigal, Jane. 2011. Reality is Broken: Why Games Make Us Better and How They Can Change the World. New York: Penguin Books. Print. Page 6. ref . This is equivalent to more than 342,000 [three hundred and forty two hundred thousand] years! 
+
+  Other definitions  
+  "A game is a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome". ( Katie Salen  and  Eric Zimmerman ) ref 
+ citation   title Rules of Play: game design fundamentals   isbn 0-262-24045-9   last Salen, Katie & Zimmerman, Eric 2003.    page 80   publisher MIT Press  ref 
+  "A game is a form of art in which participants, termed  players , make decisions in order to manage resources through game tokens in the pursuit of a goal". ( Greg Costikyan ) ref 
+ citation   title I have no words & I must design   url http://www.costik.com/nowords.html    last Costikyan, Greg 1994.   accessdate 2008-08-17  ref 
+  "A game is an  activity  among two or more independent  decision-makers  seeking to achieve their  objectives  in some  limiting context ". ( Clark C. Abt ) ref 
+ citation   title Serious Games   isbn 0670634905   last  Abt, Clark C. 1970.   page 6    publisher Viking Press  ref 
+  "At its most elementary level then we can define game as an exercise of voluntary control systems in which there is an opposition between forces, confined by a procedure and rules in order to produce a disequilibrial outcome". ( Elliot Avedon  and  Brian Sutton-Smith ) ref 
+ citation   title The study of games   isbn 0471038393   last Avedon, Elliot & Sutton-Smith, Brian 1971.   page 405   publisher J. Wiley  ref 
+  "A game is a form of play with goals and structure". ( Kevin Maroney ) ref 
+ citation   title My entire waking life   url http://www.thegamesjournal.com/articles/MyEntireWakingLife.shtml    last Maroney, Kevin 2001.   publisher The Games Journal   accessdate 2008-08-17  ref 
+
+ Related pages 
+ Video game 
+ Puzzle 
+ Sport s
+ Toy 
+
+  References  
+ Wiktionary game 
+ reflist 
+
+ Category:Games  

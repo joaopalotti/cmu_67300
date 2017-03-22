@@ -1,0 +1,30 @@
+Psychoneuroimmunology
+
+Psychoneuroimmunology  ( PNI ) is the study of the interaction between psychological processes and the nervous and immune systems of the human body. ref cite book   last   Michael Irwin  first   Kavita Vedhara   title   Human Psychoneuroimmunology  publisher   Oxford University Press year 2005  isbn   978-0-19-856884-1 ref  PNI takes an interdisciplinary approach.
+
+The main interests of PNI are the interactions between the  central nervous system nervous  and  immune system s and the relationships between mental processes and  health . 
+
+ History 
+Interest in the relationship between psychiatric syndromes or symptoms and immune function has been a consistent theme since the beginning of modern medicine.
+
+ Claude Bernard , a French physiologist, founded the concept  milieu interieur  in the mid 1800s. In 1865, Bernard described the perturbation of this internal state "... there are protective functions of organic elements holding living materials in reserve and maintaining without interruption humidity, heat and other conditions indispensable to vital activity. Sickness and death are only a dislocation or perturbation of that mechanism." (Bernard, 1865) 
+
+ Walter Cannon , a professor of physiology at  Harvard University  coined the term  homeostasis  in his book  The Wisdom of the Body  in 1932. In his work with animals Cannon observed that any change of emotional state in the beast, such as  anxiety ,  distress , or  rage (emotion) rage  was accompanied by total cessation of movements of the stomach (Bodily Changes in Pain, Hunger, Fear and Rage, 1915). These studies into the relationship between the effects of emotions and perceptions on the  autonomic nervous system , the  responses that led to the  fight or flight response freeze, fight or flight response .  
+
+ Birth of psychoneuroimmunology 
+In 1975 Robert Ader and Nicholas Cohen advanced PNI with a demonstration of classic conditioning of the immune function, and coined the term "psychoneuroimmunology". ref R Ader and N Cohen. 1975. http://www.psychosomaticmedicine.org/cgi/content/abstract/37/4/333 Behaviorally conditioned immunosuppression.   Psychosomatic Medicine .  37 , 333-340. ref ref name roch cite news first last title Robert Ader, Founder of Psychoneuroimmunology, Dies  url http://www.urmc.rochester.edu/news/story/index.cfm?id=3370   work University of Rochester Medical Center  publisher   date 2011-12-20  accessdate 2011-12-20 ref  Ader was investigating how long  conditioned response s  might last in laboratory rats. The highly reproducible results showed that conditioned rats exposed to the conditioned stimulus were immuno suppressed. In other words, a signal via the nervous system (taste) was affecting immune function. This was one of the first scientific experiments that demonstrated that the nervous system can affect the immune system.
+
+In 1981 David Felten, then working at the  Indiana University  of Medicine, discovered a network of nerves leading to blood vessels as well as cells of the immune system. The researchers also found nerves in the  thymus  and  spleen  terminating near clusters of  lymphocyte s,  macrophage s and  mast cell s, all of which help control immune function. This discovery provided one of the first indications of how neuro-immune interaction occurs.
+
+Ader, Cohen and Felten went on to edit the groundbreaking book  Psychoneuroimmunology  in 1981, which laid out the underlying premise that the brain and immune system represent a single, integrated system of defense.
+
+  Link between stress and disease  
+Stressors can produce profound health consequences. In one epidemiological study, for example, all-cause mortality increased in the month following a severe stressor - the death of a spouse. ref name Kaprio, J. 1987 Kaprio J. Koskenvuo M. and Rita H. 1987. Mortality after bereavement: a prospective study of 95,647 widowed persons.  American Journal of Public Health   77 (3), 283-7. ref  Theorists propose that stressful events trigger cognitive and affective responses which, in turn, induce sympathetic nervous system and endocrine changes. These ultimately impair immune function. ref name Chrousos, G. P 1992 Chrousos G.P. and Gold P.W. 1992. The concepts of stress and stress system disorders. Overview of physical and behavioral homeostasis.  JAMA   267 , 1244-52. ref ref Glaser R. and Kiecolt-Glaser J.K. 1994.  Handbook of human stress and immunity . San Diego: Academic Press. ref  Potential health consequences are broad, but include rates of infection, ref Cohen S; Tyrrell D.A. and Smith A.P. 1991. Psychological stress and susceptibility to the common cold.  The New England Journal of Medicine   325 (9), 606-12. ref ref Cohen S. and Williamson G.M. 1991. Stress and infectious disease in humans.  Psychological Bulletin   109 (1), 5-24. ref  HIV progression, ref Leserman J.  et al  2000. Impact of stressful life events, depression, social support, coping, and cortisol on progression to AIDS.  The American Journal of Psychiatry   157 (8), 1221-8. ref ref Leserman J.  et al  1999. Progression to AIDS: the effects of stress, depressive symptoms, and social support.  Psychosomatic Medicine   61 (3), 397-406. ref  and cancer incidence and progression. ref name Kaprio, J. 1987 ref Andersen B.L; Kiecolt-Glaser J.K. and Glaser R. 1994. A biobehavioral model of cancer stress and disease course.  American Psychologist   49 (5), 389-404. ref ref Kiecolt-Glaser J.K. and Glaser R. 1999. Psychoneuroimmunology and cancer: fact or fiction?  European Journal of Cancer   35 , 1603-7. ref 
+
+  References  
+ Reflist 
+
+
+
+ Category:Immunology 
+ Category:Psychology

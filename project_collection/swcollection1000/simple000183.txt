@@ -1,0 +1,52 @@
+Grammar
+
+Grammar  means the rules about how to speak and write in a language. The  Ancient Greek s used to call it  grammatike tekhne , the  craft  of letters. It can have any of these meanings:
+  The study of a  language : how it works, and everything about it. This is  background research on language .
+  The study of  sentence  structure. A set of rules and examples to show how the language should be used. This is a  correct usage grammar , as in a textbook or manual.
+  The system which people learn as they grow up. This is the  native-speaker's grammar . ref name McA McArthur, Tom (ed) 1992.  The Oxford companion to the English language. Oxford University Press . ref sup p446 sup ref name Crystal Crystal, David 1995.  The Cambridge encyclopedia of the English language . Cambridge University Press. ref sup p453 sup 
+
+When we speak, we use the native-person's grammar, or as near as we can. When we write, we try to write with correct grammar. So, speaking and writing a language each have their own style.
+
+  Different languages  
+All languages have their own grammar. Most  Europe an languages are rather similar, but some, such as  Chinese language Chinese  and  Japanese language Japanese , are very different from all European languages.
+
+English makes few changes to its word endings (' suffix es'). In the  Italic  or 'Romance' languages (such as  French language French ,  Italian language Italian , and  Spanish language Spanish ), word endings carry a lot of meaning. In English we have just a few: plurals and possessives ( John's ) are the most common. In our verbs we have dropped most endings except one: I love, you love, but  she love s . That final ' s'  is a remnant of  Old English Anglo-Saxon , which had more suffixes. Verbs do have endings which show changes in  Grammatical tense tense : walk ed , walk ing .
+
+ Word order  is the other big difference. Romance languages normally put  adjective s after the  noun s to which they refer. For example, in English, a person may say  I like fast cars , but in  Spanish language Spanish , it is  Me gustan los coches rapidos . The order of the words has changed: if just the words, without the grammar, are translated into English, it would mean 'to me they please the cars fast'. This is because Spanish and English have different rules about word order. In  German language German , verbs often come near the end of sentences (as:  Die Katze hat die Nahrung gegessen. ), whereas in English we usually put them between  Subject (grammar) subject  and  Object (grammar) object , as:  the cat has eaten the food .
+
+  Changing language  
+Written grammar changes slowly but spoken grammar is more  fluid . Sentences which English speakers find normal today, might have seemed strange 100 years ago. And they might not, because many of our favourite sayings come from the  Authorized King James Version  of the  Bible , and from  Shakespeare .
+
+Some people use grammar that is different from other people when speaking. For example, people who use what is called  General American English  or  Received Pronunciation BBC English  might say,  I didn't do anything , while someone who speaks what is called  African American Vernacular English  or AAVE might say,  I didn't do nothing .  London   working class  version:  I ain't done nuffink!  These are called  double negatives , and are found almost entirely in spoken English, and seldom written.
+
+These differences are called  dialect s. The dialect a person uses is usually decided by where they live. Even though the dialects of English use different words or word order, they still have grammar rules. However, when writing in American English, grammar uses the rules of General American English. When people talk about using 'proper English', they usually mean using the grammar of general British English, as described in standard reference works. ref name Nash Nash, Walter 1986.  English usage: a guide to first principles . Routledge & Kegan Paul, London. Contains a list of sources. ref  The models for  spoken  English in Britain are often called  Received Pronunciation  or BBC English.
+
+  Syntax  
+Grammar studies  syntax  as well as the different parts of language. These are called "parts of speech". They fit together according to rules and create  sentence s. Sentences fit together and create  paragraph s.
+
+  Parts of speech  
+Grammar studies  noun s,  pronoun s,  verb s,  adjective s,  adverb s,  preposition s,  conjunction s,  sentence s,  phrase s,  clause s,  interjection s.
+
+  Nouns  
+Nouns are 'thing' words like 'table and 'chair'. They are  wikt:object objects , things you see in everyday life. Proper nouns are places, people's names, or other things like days of the week. The name 'James' is a proper noun, as is 'Wednesday' and 'London'. Nouns can also be  abstract  things, such as 'suffering' or 'happiness'.
+
+  Verbs  
+Verbs describe  wikt:action actions  and  wikt:state states . Action: "John threw the ball". State: "I am worried". The basic verb form is called the  infinitive . The infinitive for existence is "to be". A famous example is the speech of  Hamlet :  To be or not to be, that is the question .
+
+Variations of the infinitive create  Verb#Tense verb tenses . 
+ col-begin 
+ col-3 
+ big   Past tense  =  was big 
+ col-3 
+ big Present tense  =  is big 
+ col-3 
+ big Future tense  =  will/shall big 
+ col-end 
+
+  Adjectives   
+Adjectives describe nouns. For example, the pretty in "pretty bicycle" says that the bicycle is pretty. In other words, the "pretty" is describing the bicycle. This can also happen with a place. For example, the tall in "that's a tall building" is describing the building.
+
+  References  
+ Reflist 
+
+ Category:Grammar  

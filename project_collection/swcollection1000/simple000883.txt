@@ -1,0 +1,203 @@
+Wales
+
+Infobox country
+ conventional_long_name   Wales
+ native_name    Cymru 
+ common_name   Wales
+ image_flag   Flag of Wales 2.svg
+ alt_flag   A flag of a red dragon passant on a green and white field.
+ national_motto    native phrase cy "Cymru am byth" italics off 
+ englishmotto    "Wales for ever"
+ national_anthem   " Hen Wlad Fy Nhadau " br small "Land of My Fathers" 
+ image_map   Wales in the UK and Europe.svg
+ map_width   250px
+ map_caption    map caption  country nobold Wales   location_color dark green  subregion the  United Kingdom   subregion_color green  region Europe  region_color dark grey 
+ capital    Cardiff   small ( Caerdydd ) 
+ latd 51  latm 29  latNS N  longd 3  longm 11  longEW W
+ largest_city   capital
+ languages_type     Official language s
+ languages    hlist  Welsh language Welsh   English language English 
+ demonym    Welsh people Welsh   small ( Cymry ) 
+ membership_type   Sovereign state
+ membership    United Kingdom 
+ 
+ politics_link   Politics of Wales
+ government_type    Welsh devolution Devolved government  within Parliamentary system parliamentary   constitutional monarchy 
+ leader_title1    Monarchy of the United Kingdom Monarch 
+ leader_name1    Elizabeth II 
+ leader_title2    First Minister of Wales First Minister 
+ leader_name2    Carwyn Jones Members of the National Assembly for Wales AM 
+ infobox child yes headerstyle   text-align:left" colspan="3
+  rowclass1   mergedrow
+  header1    British Government 
+ 
+ leader_title3    Prime Minister of the United Kingdom Prime Minister 
+ leader_name3    David Cameron MPs elected in the United Kingdom general election, 2010 MP 
+ leader_title4    Secretary of State for Wales Secretary of State 
+ leader_name4    Stephen Crabb Stephen Crabb MPs elected in the United Kingdom general election, 2010 MP 
+ legislature    National Assembly for Wales National Assembly br Parliament of the United Kingdom UK Parliament 
+ sovereignty_type    Wales in the High Middle Ages Formation 
+ established_event1   Unification by  nowrap Gruffydd ap Llywelyn 
+ established_date1   1057
+ established_event2    nowrap Statute of Rhuddlan ref cite web url http://www.oxfordreference.com/view/10.1093/oi/authority.20110803100419253 title Statute of Rhuddlan  publisher legislation.gov.uk accessdate 26 July 2014  ref 
+ established_date2   3 March 1284
+ established_event3    nowrap Laws in Wales Act ref cite web url http://www.legislation.gov.uk/aep/Hen8/27/26/contents title Laws in Wales Act 1535 (repealed 21.12.1993) publisher legislation.gov.uk accessdate 26 July 2014  ref 
+ established_date3   1535
+ established_event4    Government of Wales Act 1998 Devolution ref cite web url http://www.legislation.gov.uk/ukpga/1998/38/contents title Government of Wales Act 1998  publisher legislation.gov.uk accessdate 26 July 2014  ref 
+ established_date4   31 July 1998
+ area_rank   
+ area_magnitude   1 E10
+ area_km2   20,779
+ area_sq_mi   8,022
+ percent_water   
+ population_estimate    population_estimate_rank    population_estimate_year   
+ population_census   3,063,456
+ population_census_year   2011
+ population_density_km2   148
+ population_density_sq_mi   381
+ population_density_rank   
+ GDP_PPP    nowrap USD85.4 billion 
+ GDP_PPP_rank   
+ GDP_PPP_year   2006  
+ GDP_PPP_per_capita   USD30,546
+ GDP_PPP_per_capita_rank   
+ GDP_nominal    GDP_nominal_rank    GDP_nominal_year    GDP_nominal_per_capita    GDP_nominal_per_capita_rank   
+ Gini_year    Gini_change       Gini       Gini_ref    Gini_rank   
+ HDI_year    HDI_change       HDI       HDI_ref    HDI_rank   
+ currency    Pound sterling 
+ currency_code   GBP
+ time_zone    Greenwich Mean Time GMT 
+ utc_offset            
+ time_zone_DST    British Summer Time BST 
+ utc_offset_DST   +1
+ date_format    nowrap dd/mm/yyyy ( Anno Domini AD  /  Common Era CE ) 
+ drives_on   left
+ calling_code    +44 
+ patron_saint    Saint David   small ( Dewi Sant ) 
+ cctld    .uk ref group nb Also  .eu , as part of the European Union.  ISO 3166-1  is  Great Britain GB , but  .gb  is unused. ref br Nominet has applied for new gTLDs,  .cymru  and  .wales , which are expected to go live in 2014. ref name newgTLD cite web url http://www.nominet.org.uk/whoweare/whatwedo/our-products-services/cymru-wales title Nominet announcement on the .cymru and .wales gTLDs publisher nominet.org.uk accessdate 31 January 2014 ref 
+ 
+ Wales  ( IPAc-en ' w eI l z audio   en-us-Wales.ogg ;  lang-cy Cymru ) is a  country   nowiki on the  island  of  Great Britain , and is one of  Countries of the United Kingdom the four countries  that make up the  United Kingdom . It is to the  west   nowiki of  England , and east of the  Irish Sea   nowiki and  Ireland .
+
+Wales is one of the six  Celt ic  nowiki nations, and the native people of Wales, called  Welsh people the Welsh , have their own  culture  and  tradition s. They have their own  Celtic language , which is called  Welsh language Welsh . Although not all Welsh people can speak Welsh (nearly all Welsh people can speak  English language English  and some of them speak only English), it is becoming more popular because all children going to school in Wales have to learn the language.
+
+Just under three  million  people live in Wales, most of who live in the southern and eastern parts of the country. In this area is the  capital city capital  and largest  city  of Wales,  Cardiff , and the next largest city,  Swansea .
+
+  History  
+People have lived in Wales for at least 29,000 years. The Romans first entered Wales in 43 AD, and took it around 77 AD.
+
+  The word 'Wales'  
+The English words  Wales  and  Welsh  come from the old Germanic word  Walh  (plural:  Walha ).  Walh  itself came from a Celtic tribe, called the  Volcae  by the  Ancient Rome Romans . That was eventually used for the name of all Celts and later to all people who lived in the  Roman empire . The  Anglo-Saxons  who lived in  England  and who spoke  Old English  called the people living in Wales  Waelisc  and the land itself  Wealas . ref name Wales Hist 71 Davies (1994) p. 71 ref  Other names that come from these origins  Wallonia ,  Wallachia , and Vlachs. ref (French) Albert Henry,  UK Histoire des mots Wallons et Wallonie , Institut Jules Destree, Coll. <<Notre histoire>>, Mont-sur-Marchienne, 1990, 3rd ed. (1st ed. 1965), footnote 13 p. 86. Henry wrote the same about  Westminster Wallachia 
+ ref ref name Tolkien 1222 cite book last   Tolkien first   J. R. R. authorlink   J. R. R. Tolkien title   Angles and Britons: O'Donnell Lectures publisher   University of Wales Press year   1963 location   Cardiff pages   English and Welsh, an O'Donnell Lecture delivered at Oxford on 21 October 1955 nopp   true 
+ ref ref name Gilleland222 cite web last   Gilleland first   Michael title   Laudator Temporis Acti: More on the Etymology of Walden work   Laudator Temporis Acti website publisher   Michael Gilleland date   12 December 2007 url    http://laudatortemporisacti.blogspot.com/2007/12/more-on-etymology-of-walden.html accessdate   29 October 2008 
+ ref 
+
+In the past, the words  Wales  and  Welsh  were used to mean anything that the  Anglo-Saxons  associated with the Celtic Britons. That included  Cornwall , Walworth, and  Walton , ref Cite book last   Rollason first   David year   2003 contribution   Origins of a People title   Northumbria, 500-1100 publisher   Cambridge University Press publication-date   2003 location   Cambridge page   60 isbn   978-0-521-04102-7 
+ ref  as well as things associated with non-Germanic Europeans like  walnut s.
+
+  Conquest by Edward I and brief independence under Owain Glyndwr  
+After Llywelyn ap Gruffudd died in 1282, Edward I of England finished his conquest of Wales, which made it a part of England. Owain Glyndwr was a Welsh fighter who managed to fight back and restored independence to Wales, in the early 15th century. However, this didn't last for a long time, and after he was defeated by the English, the whole of Wales was taken over by England, with the Laws in Wales Acts 1535-1542.
+
+  Laws in Wales Acts and annexation by England  
+In the 16th century, the Laws in Wales Acts 1535-1542 were passed in England while Henry VIII was king there. These added Wales to England. They also said that people who spoke Welsh instead of English could not hold public of gutt.
+
+  Industrial Revolution  
+At the start of the Industrial Revolution, the mining and metal industries transformed the country from an agricultural society into an industrial country. The new jobs created from the coalfields in South Wales caused a quick rise in the number of people living in Wales. This is the reason why two-thirds of the population live in South Wales, mainly in the capital Cardiff ( Caerdydd ), as well as Swansea ( Abertawe ), Newport ( Casnewydd ), and in the nearby valleys. Now that the coal industry has become a lot smaller, Wales' economy depends mostly on the public sector, light and service industries and tourism. In 2010, the Gross Value Added of Wales was PS45.5 billion - PS15,145 per head, 74.0% of the average for the UK, and the lowest GVA per head in Britain.
+
+  Return of Welsh identity and devolution of Government  
+It took until the 19th Century for Welsh-centric politics to return to Wales.  Liberalism  in Wales, which was introduced in the early 20th century by Lloyd George, was overtaken by the growth of socialism and the  Labour Party . However, Welsh pride got stronger, and in 1925  Plaid Cymru  was made, which was the first political party to campaign for Welsh independence. In 1962, the Welsh Language Society was made to encourage the  Welsh language , which had nearly disappeared during the take over by England. A big change was made in 1998, when the first Government of Wales for the country since its addition to the United Kingdom under the Government of Wales Act (1998). This created an Assembly for Wales, known in Welsh as the senedd. The Senedd has responsibility for a range of laws which have been  Devolved power devolved  from the main  UK  government in  Westminster . This means the members of the Assembly can change certain laws in Wales to be different to the rest of the UK.
+
+  Geography  
+Wales has a coastline which is 1680 miles long, and the country itself is 20,779 km sup 2  sup large. The highest mountains in Wales are in  Gwynedd , in the north-west, and include  Snowdon  ( lang cy Yr Wyddfa ), which is the highest peak in Wales at 1085 m (3,560 ft). There are three National Parks in Wales:  Snowdonia  ( lang-cy Parc Cenedlaethol Eryri ), Brecon Beacons ( lang-cy Parc Cenedlaethol Bannau Brycheiniog ), and  Pembrokeshire  Coast ( lang-cy Parc Cenedlaethol Arfordir Penfro ).
+
+  Politics  
+ Local government 
+Wales is divided into 22 council areas. These areas are responsible for local government services, such as education, social work, environment and roads services. ref cite web url http://new.wales.gov.uk/topics/localgovernment/localauthorities/?lang=en   title Local Authorities  publisher Welsh Assembly Government   accessdate 9 September 2010 ref 
+
+ class wikitable valign top center Map of principal areas center File:Wales Administrative Map 2009.png noframe|500px|link= 
+ 
+  Blaenau Gwent +
+  Bridgend ( Pen-y-bont ar Ogwr ) +
+  Caerphilly ( Caerffili ) +
+   Cardiff  ( Caerdydd ) *
+  Carmarthenshire ( Sir Gaerfyrddin )
+   Ceredigion 
+  Conwy +
+   Denbighshire  ( Sir Ddinbych )
+  Flintshire ( Sir y Fflint )
+   Gwynedd 
+  Isle of Anglesey ( Ynys Mon )
+  Merthyr Tydfil ( Merthyr Tudful ) +
+   Monmouthshire  ( Sir Fynwy )
+  Neath Port Talbot ( Castell-nedd Port Talbot ) +
+   Newport  ( Casnewydd ) *
+   Pembrokeshire  ( Sir Benfro )
+   Powys 
+  Rhondda Cynon Taf +
+   Swansea  ( Abertawe ) *
+  Torfaen ( Tor-faen ) +
+  Vale of Glamorgan ( Bro Morgannwg ) +
+  Wrexham ( Wrecsam ) +
+ 
+
+ The list to the right of the map shows counties, unless they are marked *, meaning they are cities, or + for County Boroughs.  Welsh language Welsh-language  forms are given in parentheses. 
+
+  Welsh identity  
+Welsh people are very proud of their country. The first people in Wales to call themselves 'Welsh' were the Celts. The Celts lived in Wales after the Romans left in the 5th century. The national emblems of Wales are  leek s and  daffodil s. 
+
+Although Wales is very close to the rest of Great Britain, and despite most people speaking  English language English , the country has always had a distinct  culture . It is officially  bilingual  in English and Welsh. Over 560,000 people in Wales speak the  Welsh language . In some parts of the north and west of the country, particularly in small, rural communities, the majority of people speak  Welsh language Welsh .
+
+From the late 19th century, Wales became famous as the "land of song", and for its  Eisteddfod  culture festival. At many international sport events, for example the  FIFA World Cup , the  Rugby World Cup , and the  Commonwealth Games , Wales competes on its own, as a separate country. However, at most international events, such at the  Olympics , Wales competes with the rest of the Great Britain, and sometimes as the  United Kingdom  with  Northern Ireland  included.  Rugby Union  is strongly associated with Wales as a national sport.
+
+  Famous Welsh people and artists  
+   Tom Jones (singer) Tom Jones  (singer)
+   Catherine Zeta-Jones  (actress)
+   Shirley Bassey  (musician)
+   Charlotte Church  (musician)
+   Gareth Bale  (footballer)
+   Marina and the Diamonds  (musician)
+   Owain Glyndwr  (fighter)
+  Griff Rhys-Jones (comedian, actor, presenter)
+   Roald Dahl  (writer)
+  Iwan Rheon (actor)
+   Laura Ashley  (fashion)
+  Jeff Banks (fashion)
+  Rhod Gilbert (comedian)
+  Ruth Jones (comedian, actress)
+   Paul Whitehouse  (comedian, actor)
+  Rob Brydon (comedian, actor)
+  Sian Williams (news reporter)
+
+ Transport 
+ File:Second Severn crossing.jpg thumb|The  Second Severn Crossing  bridge. The M4 motorway goes along it. 
+
+  Roads  
+The main road on the coast of South Wales is the  M4 motorway . It links Wales to southern England, and  London . It also connects the Welsh cities of  Newport ,  Cardiff  and  Swansea . The A55 road is the main road along the north Wales coast, and connects Holyhead and  Bangor, Gwynedd Bangor  with Wrexham and Flintshire. It also links to north-west England, including  Chester . The main road between North and South Wales is the A470 road, which goes from the capital  Cardiff  to Llandudno.
+
+  Airports  
+Cardiff International Airport is the only large airport in Wales. It has flights to Europe, Africa and North America and is about  convert 12 mi  southwest of  Cardiff , in the Vale of Glamorgan. Flights between places in Wales run between Anglesey (Valley) and Cardiff, and are operated by the  Isle of Man  airline called Manx2 ref cite web url http://www.walesonline.co.uk/news/wales-news/2010/04/30/flights-set-to-resume-between-north-and-south-91466-26346467/ title Flights set to resume between North and South  accessdate  6 June 2010  date 30 April 2010  publisher Media Wales Media Wales Ltd   work WalesOnline  website ref  Other internal flights operate to northern England, Scotland and Northern Ireland.
+
+ File:BR Class 175 at Llandudno Junction.jpg thumb|left|190px|A  Arriva Trains Wales  train 
+
+  Railway  
+ Cardiff Central railway station Cardiff Central  is Wales' busiest railway station. ref cite web url http://www.rail-reg.gov.uk/upload/xlsx/station_usage_estimates_1112.xlsx   title Estimates of station usage format Excel  accessdate 3 October 2013  date May 2013  publisher Office of Rail Regulation   work 2011-12 report and data ref  The area around Cardiff also has its own rail network. Trains from north to south Wales go through the English towns of  Chester  and  Shrewsbury  on the Welsh Marches Line. All trains in Wales are powered by diesel, as there are no electric rail lines. However, the South Wales Main Line which is used by trains going from  London Paddington  to Cardiff and Swansea, is currently being changed to electric. ref cite web url http://www.walesonline.co.uk/cardiffonline/cardiff-news/2011/01/25/business-leaders-back-electric-railway-demand-91466-28047043/   title Business leaders back electric railway demand  publisher WalesOnline.co.uk.  date  25 January 2011  accessdate 7 June 2012 ref ref name GvtGWMLElecAnnouncement cite web url http://collections.europarchive.org/tna/20100408232230/http:/www.dft.gov.uk/pgr/rail/pi/rail-electrification.pdf   publisher Department for Transport  title Britain's Transport Infrastructure, Rail Electrification accessdate 7 June 2012 year 2009 ref 
+
+  Sea  
+Wales has four  ferry  ports. Regular ferries to  Ireland  go from Holyhead, Pembroke and Fishguard. The Swansea to  Cork (city) Cork  ferry which was stopped in 2006, but then opened again in March 2010, is under threat of closure again in 2012. ref cite news title Revived Swansea-Cork ferry service sets sail url http://news.bbc.co.uk/1/hi/wales/south_west/8561187.stm accessdate 19 June 2010  date 10 March 2010  publisher BBC  work BBC News  website ref ref cite news title Swansea-Cork ferry: Fastnet Line to close service with loss of 78 jobs url http://www.bbc.co.uk/news/uk-wales-south-west-wales-16854680 accessdate 15 April 2012  date 2 February 2012  publisher BBC  work BBC News  website ref 
+
+  Related pages  
+   Local Government Act 1972#Wales Local Government Act 1972 
+   Powys 
+   Kingdom of England 
+   Welsh language 
+   Welsh people 
+
+  References  
+ Reflist 
+
+ Notes 
+ commonscat Wales 
+ Reflist group nb 
+
+ United Kingdom constituents and affiliations 
+
+ Category:Wales  

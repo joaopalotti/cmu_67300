@@ -1,0 +1,101 @@
+Google
+
+about the Internet company the number Googol 
+ Infobox company
+  name   Google Inc.
+  logo    File:Google 2015 logo.svg frameless|alt=Google Logo 
+  type   Public
+  traded_as    NASDAQ GOOG br NASDAQ-100 NASDAQ-100 Component br S&P 500 S&P 500 Component 
+  industry   Internet br Computer  software br Telecoms equipment 
+  foundation    Menlo Park, California br ( Start date 1998 09 4 ) ref cite web title Company url http://www.google.com/intl/en/about/corporate/company/ publisher Google accessdate August 31, 2011 ref ref cite web last Claburn first Thomas title Google Founded By Sergey Brin, Larry Page... And Hubert Chang?!? url http://www.informationweek.com/news/internet/google/210603678 publisher InformationWeek accessdate August 31, 2011 ref 
+  founder    #property:p112 
+  location_city    #property:p159 ,  Mountain View, California , U.S. ref cite web url http://www.google.com/about/jobs/locations/   title Locations - Google Jobs  publisher Google.com  date   accessdate 2013-09-27 ref 
+  location_country
+  area_served   Worldwide
+  key_people    Joseph Bailey  (Co-founder) br Eric Schmidt br ( Chairman Executive Chairman ) br Larry Page br (Co-founder &  CEO ) br Sergey Brin  (Co-founder)
+  products    See   list of Google products 
+  revenue    Increase  US$ 59.82 billion (2013) ref name Google-Inc-Jan-2013-10-K cite web url http://edgar.secdatabase.com/1404/119312513028362/filing-main.htm   title Google Inc, Form 10-K, Annual Report, Filing Date Jan 29, 2013  publisher secdatabase.com  accessdate  Mar 8, 2013 ref 
+  operating_income    Increase  US$ 13.96 billion (2013) ref name Google-Inc-Jan-2013-10-K 
+  net_income    Increase  US$ 12.92 billion (2013) ref name Google-Inc-Jan-2013-10-K 
+  assets    Increase  US$ 110.92 billion (2013) ref name Google-Inc-Jan-2013-10-K 
+  equity    Increase  US$ 87.30 billion (2013) ref name Google-Inc-Jan-2013-10-K 
+  num_employees   47,756 (Q4 2013) ref name 10K cite web  url   http://investor.google.com/financial/tables.html   title Google's Income Statement Information
+  publisher   Google ref 
+  subsid    #property:p355 
+  parent    Alphabet Inc. 
+  homepage    URL google.com 
+  intl   yes
+  footnotes  ref name form 10-k cite web  url http://www.sec.gov/Archives/edgar/data/1288776/000119312511032930/d10k.htm   title Form 10-K  publisher U.S. Securities and Exchange Commission   year 2010  location Washington, D.C.  at Part II, Item 6  accessdate June 29, 2011 ref 
+ 
+ File:Googleplex-SignIn.jpg right|thumb|250px|A man signing in at Google's main office, Googleplex. 
+ Google Inc.  is an American  multinational corporation  that runs one of the largest  search engine s on the  World Wide Web  (WWW). Every day 200 million (200,000,000) people use it. Google's main office ("Googleplex") is in  Mountain View, California ,  United States .
+
+ picture Pictures ,  Usenet  newsgroups,  news , and things to  Online shopping buy online  and other things can be found using Google. By June  2004 , Google had 4.28 billion  web page s on its database, 880 million (880,000,000) pictures and 845 million (845,000,000) Usenet messages -- six billion things. 
+
+"To  wikt:google google ," as an action word ( verb ) means "to search for something on Google". Because Google has an Alexa rank of 1 (more than half of people on the web use it) it has been used to mean "to search the web". Google dislikes this use since the name of the company is a  trademark . fact date August 2016 
+As a  public company , Google Inc.  Stock trading trades  on the  NASDAQ  under the tickers  http://www.nasdaq.com/symbol/goog GOOG  and  http://www.nasdaq.com/symbol/googl GOOGL .
+
+In August 2015, Google announced it was being restructured under a new  holding company  called  Alphabet Inc. Alphabet Inc, a company founded by the same people who founded Google itself. 
+
+  History  
+Google was started in early 1996 by Larry Page and Sergey Brin, two students at  Stanford University , USA. It used to be called Backrub. they made it into a company, Google Inc., on  September 7 ,  1998  at a friend's garage in  Menlo Park, California Menlo Park ,  California . In February  1999 , the company moved to 165 University Ave.,  Palo Alto, California .  it moved to another place called the Googleplex.
+
+In September 2001, Google's rating system (PageRank, for saying which information is more helpful) got a U.S.  Patent . The patent was to Stanford University, with Lawrence (Larry) Page as the  inventor  (the person who first had the idea).
+
+Google makes a percentage of its money through  America Online  and InterActiveCorp. It has a special group known as the Partner Solutions Organization (PSO) which helps make  contract s, helps making accounts better, and gives engineering help.
+
+ How Google makes money 
+Google makes money by  advertising . People or companies who want people to buy their product, service, or ideas give Google money, and Google shows an advertisement to people Google thinks will click on the advertisement. Google only gets money when people click on the link, so it tries to know as much about people as possible to only show the advertisement to the "right people". It does this with Google Analytics, which sends data back to Google whenever someone visits a web site. From this and other data, Google makes a profile about the person, which it then uses to figure out which advertisements to show.
+
+  The name "Google"  
+The name "Google" is a misspelling of the word  googol . ref Koller, David. " http://graphics.stanford.edu/~dk/google_name_origin.html Origin of the name, "Google."   Stanford University .  January, 2004. ref ref name hiw citation title Google revolution publisher Imagine Publishing newspaper How it Works pages 40-43 issue 37 date 2012-08-09 ref   Milton Sirotta , nephew of U.S. mathematician  Edward Kasner , made this word in 1938, for the number 1 followed by one hundred zeroes ( math 10^{100} math ). It is said that the word "googol" was chosen as a name for this number because it sounded like baby talk. fact date August 2016 
+ Google uses this word because the company wants to make lots of stuff on the Web easy to find and use. Andy Bechtolsheim thought of the name. 
+
+The name for Google's main office, the "Googleplex," is a play on a different, even bigger number, the " googolplex ", which is 1 followed by one googol of zeroes.
+
+  Google's products  
+   Android (operating system) Android   is an  operating system  for  mobile device mobile devices  and was originally made by Google as part of the  Open Handset Alliance , which Google leads. It is the chief competitor to  Apple Inc. Apple 's  iOS ,  BlackBerry , and  Windows Phone  by  Microsoft .
+   span class plainlinks http://www.google.com/products Froogle span   (Now renamed to Google Product Search)  lets the user find out about things for sale on the  Internet . Its name is a combination of "Google" and " frugal ", which means smart with  money .
+   span class plainlinks http://books.google.com Google Books span  lets people search for books.
+   span class plainlinks http://calendar.google.com Google Calendar span  is an online  calendar .
+   span class plainlinks http://checkout.google.com Google Checkout span  is a way to pay online. Users can send money using their  credit card s or  bank account s to other users.
+   Google Chrome  is a web browser that Google made
+   span class plainlinks http://dictionary.google.com Google Dictionary span  is a  dictionary  that can be in many  languages .
+   span class plainlinks http://docs.google.com Google Drive span  is an online document editor.
+   span class plainlinks Google Earth span  is the  3D  version of  Google Maps  with a  digital   globe .
+   span class plainlinks http://groups.google.com Google Groups span  is a place for users to discuss topics.
+   span class plainlinks http://images.google.com Google Images span  is an  image  search  utility .
+  <span class="plainlinks"> http://www.google.com/language_tools Google Language Tools </span>;  span class plainlinks http://translate.google.com Google Translate span  is an online  translation  service. It can translate websites and text into other languages.
+   Google Mail Gmail  is an  e-mail  service that Google started in  2004 . It is called  Google Mail  in the  United Kingdom  and  Germany . Users get free space to store e-mail.
+   span class plainlinks http://news.google.com Google News span  is a  facility  which shows  news  stories from over 4,500 news  source s.  http://news.google.com/archivesearch Google News Archives 
+   Google Maps  is a service from Google to provide satellite pictures and road maps for everywhere around the world.
+   span class plainlinks http://www.google.com/pack Google Pack span  is a pack of Google software.
+   Google Talk  is an  instant messenger  where you can talk to friends.
+   Google Video  is an online  collection  of  videos  which have been  uploaded  by users from around the  world .
+   span class plainlinks http://knol.google.com/ Google Knol span  was an online  encyclopedia .
+   Google Picasa  is a software for organizing and editing photos.
+   span class plainlinks http://sites.google.com/ Google Sites span  is a service for making websites.
+   Google Wave  was a software for discussing with other people live.
+   span class plainlinks http://buzz.google.com/ Google Buzz span  was an update and photo sharing service.
+   span class plainlinks http://alerts.google.com/ Google Alerts span  Google Alerts are email updates of the latest relevant Google results (web, news, etc.) based on your choice of query or topic.
+   span class plainlinks http://adsense.google.com/ Google Adsense span  is a free program that enables website publishers of all sizes to display relevant Google ads and earn money.
+   span class plainlinks http://analytics.google.com/ Google Analytics span  is the enterprise-class web analytics solution that gives you rich insights into your website traffic and marketing effectiveness.
+   span class plainlinks http://base.google.com/ Google Base span  is the " Google Merchant Center ", where you can upload your product feeds and make them easy to find on Google Product Search.
+   span class plainlinks http://www.blogger.com/ Blogger span  is a free tool that allows users to publish  blog s on a Google website.
+   Google+  is a  social networking  service operated by Google Inc. that is like  Facebook . The service launched on June 28, 2011.
+   YouTube  is a  video  hosting service which was bought by Google from  PayPal  for 1.2 billion dollars and now runs as a Google service.
+
+  References  
+ Reflist 
+
+  Other websites  
+ sisterlinks Google 
+   URL https://www.google.com/about/company/facts/management Corporate homepage 
+   https://www.google.com The search engine 
+   dmoz Computers/Companies/Google%2C_Inc./ 
+   crunchbase Google Google 
+
+ Category:1998 establishments in the United States 
+ Category:Companies listed on NASDAQ 
+ Category:Google 
+ Category:Mountain View, California

@@ -1,0 +1,68 @@
+Infinity
+
+Infinity  is about things which never end. Sometimes, it is also written  math \infty math . Infinity means many different things, depending on when it is used. The word is from a  Latin  word, which means "without end". Infinity goes on forever, so sometimes space, numbers, and other things are said to be 'infinite', because they never come to a stop.
+
+Infinity is not really an ordinary number, but it is sometimes used as one. Infinity often says how  many  there is of something, instead of how  big  something is. For example, there are infinitely many  whole number s (called  integer s), but there is no integer which is infinitely big. But different kinds of math have different kinds of infinity. So its meaning often changes.
+
+There are two kinds of infinity:  potential  infinity and  wikt:actual actual  infinity. Potential infinity is a process that never stops. For example, adding 10 to a number. No matter how many times 10 is added, 10 more can still be added. Actual infinity is a more abstract idea. For example, there are infinitely many numbers as it is impossible to write them all down.
+
+  Infinity in Mathematics  
+ Mathematicians  have different sizes of infinity and three different kinds of infinity. ref name ax To simply, we will assume several axioms like the  Axiom of Choice  and the  Generalized Continuum Hypothesis . ref 
+
+ Counting infinity 
+The number of things, beginning with 0, 1, 2, 3, ..., to include infinite cardinal numbers. There are many different cardinal numbers. Infinity can be defined in one of two ways: Infinity is a number so big that a part of it can be of the same size; Infinity is larger than all of the  natural numbers . There is a smallest infinite number,  countable infinity . It is the counting number for all of the whole numbers. It is also the counting number of the  rational numbers . The mathematical notation is the Hebrew letter aleph with a subscrpt zero;  math \aleph_0 math . It is spoken "aleph null". 
+It was a surprise to learn that there are larger infinite numbers. ref name ax  The number of  real numbers , that is all numbers with decimals, is larger than the number of  rational numbers , the number of fractions. This shows that there are real numbers which are not fractions. The smallest infinite number greater than  math \aleph_0 math  is  math \aleph_1 math . 
+The number of mathematical  functions  is the next infinite cardinal number,  math \aleph_2 math .
+And these numbers go on without end.
+
+ Ordering infinity 
+A different  type  of infinity are the  ordinal numbers , beginning "first, second, third, ...". The order "first, second, third, ..." and so on to infinity is  different  from the order  ending  "..., third, second, first". The difference is important for  mathematical induction . The simple  first, second, third, ...   has the mathematical name: the Greek letter omega with subscript zero:  math \omega_0 math . (Or simply omega  math                                                                                                                                                                                                                                                                           \omega math .) The infinite series ending "... third, second, first" is  math  ^*\omega  math .
+
+ The real line and complex plane 
+The third  type  of infinity has the symbol  math \infty math . This is treated as addition to the  real numbers  or the  complex numbers . It is the result of division by zero, or to indicate that a  series  is increasing (or decreasing) without bound. The series 1, 2, 3, ... increases without upper bound. This is written: the limit is  math +\infty math . In  calculus , the  integral  over all real numbers is written:  math  \int_{-\infty}^{+\infty} f(x)\,dx math 
+
+ The arithmetic of infinity 
+Each kind of infinity has different rules.
+
+ Addition, multiplication, exponentiation 
+
+ math \aleph_0 + 1 = 1 + \aleph_0 = \aleph_0 + \aleph_0 = \aleph_0  math  Addition with "alephs" is  commutative .
+
+ math  2 \times \aleph_0 = \aleph_0 \times 2 = \aleph_0 \times \aleph_0 = \aleph_0 math  Multiplication with "alephs" is commutative.
+
+ math  \aleph_0 + \aleph_1 = \aleph_1 \times \aleph_0 = \aleph_1 math 
+
+ math  2 ^ {\aleph_0} = \aleph_1  math . ref name ax 
+
+ math  1 + \omega = \omega \neq \omega +1  math . Addition with "omegas" is not commutative.
+
+ math  2 \times \omega = \omega \neq \omega \times 2  math . Multiplication with "omegas" is not commutative.
+
+ math  \omega + \omega = \omega \times 2  math 
+
+ math  x + \infty = \infty = \infty + \infty = \infty \times \infty = 2 ^ \infty  math 
+
+ Subtraction, division 
+
+ math  1 / \infty = 0 math  Otherwise, division by infinity is not meaningful. Subtraction with infinity is not meaningful.
+
+ Related pages 
+ Hilbert's paradox of the Grand Hotel 
+ Countable set 
+ Uncountable set 
+
+ References 
+ reflist 
+
+  Other websites  
+   http://www.earlham.edu/~peters/writing/infapp.htm A Crash Course in the Mathematics of Infinite Sets , by Peter Suber. From the St. John's Review, XLIV, 2 (1998) 1-59. The stand-alone appendix to  Infinite Reflections , below. A concise introduction to Cantor's mathematics of infinite sets.
+   http://www.earlham.edu/~peters/writing/infinity.htm Infinite Reflections , by Peter Suber. How Cantor's mathematics of the infinite solves a handful of ancient philosophical problems of the infinite. From the St. John's Review, XLIV, 2 (1998) 1-59.
+   http://pespmc1.vub.ac.be/INFINITY.html Infinity , Principia Cybernetica 
+   http://www.c3.lanl.gov/mega-math/workbk/infinity/infinity.html Hotel Infinity 
+   http://samvak.tripod.com/infinite.html The concepts of finiteness and infinity in philosophy 
+
+
+ Math-stub 
+
+ Category:Numbers 
+ Category:Mathematics

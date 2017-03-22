@@ -1,0 +1,170 @@
+Hydrogen
+
+Elementbox
+ name hydrogen
+ symbol H
+ number 1
+ pronounce IPAc-en ' h aI d r o dZ i n ref cite book
+  last Simpson first J.A.  last2 Weiner first2 E.S.C.
+  chapter Hydrogen  title Oxford English Dictionary
+  edition 2nd volume 7  publisher Clarendon Press
+  year 1989  isbn 0-19-861219-2  ref   respell HYE dro-jin 
+ left -
+ right helium 
+ above -
+ below Lithium Li 
+ series nonmetal
+ series comment 
+ group 1
+ period 1
+ block s
+ series color 
+ phase color 
+ appearance Colorless gas with purple glow in its plasma state
+ image name Hydrogen discharge tube.jpg
+ image size 
+ image name comment 
+ image name 2 Hydrogen Spectra.jpg
+ image size 2 
+ image name 2 comment Spectral lines of hydrogen
+ atomic mass 1.00794
+ atomic mass 2 7
+ atomic mass comment 
+ electron configuration 1s sup 1 sup 
+ electrons per shell 1
+ color colorless
+ phase gas
+ phase comment 
+ density gplstp 0.08988
+ density gpcm3nrt 
+ density gpcm3nrt 3 
+ density gpcm3mp 0.07 (0.0763 solid) ref cite book url http://books.google.com/books?id=vEwj1WZKThEC&pg=PA240 page 240 title Inorganic chemistry author Wiberg, Egon; Wiberg, Nils; Holleman, Arnold Frederick publisher Academic Press year 2001 isbn 0123526515 ref 
+ density gpcm3bp 0.07099
+ melting point K 14.01
+ melting point C -259.14
+ melting point F -434.45
+ melting point pressure 
+ sublimation point K 
+ sublimation point C 
+ sublimation point F 
+ sublimation point pressure 
+ boiling point K 20.28
+ boiling point C -252.87
+ boiling point F -423.17
+ boiling point pressure 
+ triple point K 13.8033
+ triple point kPa 7.042
+ triple point K 2 
+ triple point kPa 2 
+ critical point K 32.97
+ critical point MPa 1.293
+ heat fusion (H sub 2 sub ) 0.117
+ heat fusion 2 
+ heat fusion pressure 
+ heat vaporization (H sub 2 sub ) 0.904
+ heat vaporization pressure 
+ heat capacity (H sub 2 sub ) 28.836
+ heat capacity pressure 
+ vapor pressure 1 
+ vapor pressure 10 
+ vapor pressure 100 
+ vapor pressure 1 k 
+ vapor pressure 10 k 15
+ vapor pressure 100 k 20
+ vapor pressure comment 
+ crystal structure hexagonal
+ oxidation states 1, -1
+ oxidation states comment amphoteric oxide
+ electronegativity 2.20
+ number of ionization energies 1
+ 1st ionization energy 1312.0
+ 2nd ionization energy 
+ 3rd ionization energy 
+ atomic radius 
+ atomic radius calculated 
+ covalent radius 31+-5
+ Van der Waals radius 120
+ magnetic ordering diamagnetic ref 
+ cite book
+  url http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf 
+  chapter Magnetic susceptibility of the elements and inorganic compounds
+  title CRC Handbook of Chemistry and Physics
+  edition 81st
+  publisher CRC Press
+  isbn 
+ ref 
+ electrical resistivity 
+ electrical resistivity at 0 
+ electrical resistivity at 20 
+ thermal conductivity 0.1805
+ thermal conductivity 2 
+ thermal diffusivity 
+ thermal expansion 
+ thermal expansion at 25 
+ speed of sound (gas, 27 degC) 1310
+ speed of sound rod at 20 
+ speed of sound rod at r.t. 
+ Tensile strength 
+ Young's modulus 
+ Shear modulus 
+ Bulk modulus 
+ Poisson ratio 
+ Mohs hardness 
+ Vickers hardness 
+ Brinell hardness 
+ CAS number 1333-74-0
+ isotopes 
+ Elementbox_isotopes_stable   mn 1   sym H   na 99.985%   n 0  link   Hydrogen atom 
+ Elementbox_isotopes_stable   mn 2   sym H   na 0.015%   n 1   link Deuterium  
+ Elementbox_isotopes_decay   mn 3   sym H   na Trace radioisotope trace    hl 12.32  years y    dm beta minus decay b sup sup    de 0.01861   pn 3   ps helium He    link Tritium  
+ 
+
+ Hydrogen  is a  chemical element .  Its  atomic number  is 1, which makes it the simplest, known  Chemical element element  in the entire  universe . ref name EIA http://www.eia.doe.gov/kids/energyfacts/sources/IntermediateHydrogen.html EIA.doe.gov - What is Hydrogen? ref  Hydrogen is the true primordial substance, the first atom produced after the  big bang . All chemical elements were formed from hydrogen by the processes of  nuclear fusion . ref Carroll, Bradley W. & Ostlie, Dale A. 2006.  An introduction to modern astrophysics . 2nd ed, Addison-Wesley, San Francisco. ISBN 0-8053-0402-9 ref 
+
+Hydrogen glows  purple  when it is in  Plasma (physics) plasma   state of matter state . ref cite web  url   http://www.chemrec.se/Syngas_the_link_from_feedstock_to_synthetic_product.aspx   title The magic of syngas  first   last   work chemrec.se  year 2012 [last update]  accessdate 7 March 2012 ref 
+
+  Hydrogen in nature  
+In its pure form on Earth, hydrogen is usually a  gas . Hydrogen is also one of the parts that make up a  water  molecule. Hydrogen is important because it is the  fuel  that powers the  Sun  and other stars. 
+Hydrogen makes up about 74% of the entire  universe .  ref name ut cite web last Cain first Fraser title When was the first light in the universe? url http://phys.org/news/2016-11-universe.html publisher Phys.org accessdate 29 November 2016 author Universe Today date November 7, 2016 ref  Hydrogen's symbol on the  Periodic Table  of Elements is H.
+
+Pure hydrogen is normally made of two hydrogen  atoms  connected together. Scientists call these  diatomic   molecules . Hydrogen will have a  chemical reaction  when mixed with most other elements. It has no  color  or  Odor smell . 
+
+Pure hydrogen is very uncommon in the  Earth 's  atmosphere . In nature, it is usually in  water .  Hydrogen is also in all living things, as a part of the  organic compounds  that living things are made of.  In addition, hydrogen atoms can combine with  carbon  atoms to form  hydrocarbons .   Petroleum  and other  fossil fuels  are made of these  hydrocarbons  and commonly used to create energy for human use.
+
+Hydrogen has two different  isotopes , called  deuterium  and  tritium . Like regular hydrogen, they both have only one  proton  and one  electron , but deuterium also has one  neutron  and tritium has two. These other types of hydrogen are important in  nuclear energy  and  organic chemistry  reactions. 
+
+Some other facts about hydrogen:
+  It is a gas at  room temperature 
+  It acts like a  metal  when it is solid.
+  It is the lightest element in the  Universe .
+  It is the most common element in the Universe. ref name EIA 
+  It burns or  explosion explodes  when it touches a  fire flame .
+
+  History of Hydrogen  
+Hydrogen was discovered in 1671 by Robert Boyle even though many people think it was discovered by Henry Cavendish in 1776.
+
+  The word  
+The name 'Hydrogen' comes from the  Greek language Greek  word for  water , 'udor (pronounced /HEEW-dor/) and gennen meaning to "generate" as it forms water in a  chemical reaction  with oxygen.
+
+  Uses of Hydrogen  
+The main uses of hydrogen are in the  petroleum  industry and in making  ammonia  by the  Haber process . Some is used elsewhere in the  chemical  industry. A little of it is used as  fuel , for example in  rocket s for  spacecraft . Most of the hydrogen that people use comes from a  chemical reaction  between  natural gas  and  steam . 
+
+  Nuclear fusion  
+
+ Nuclear fusion  is a very powerful source of  energy . It relies on forcing  atom s together to make  helium  and energy, exactly as happens in a  star  like the  Sun , or in a  hydrogen bomb . This needs a large amount of energy to get started, and is not easy to do yet. A big advantage over  nuclear fission , which is used in today's  nuclear power  stations, is that it makes less nuclear waste and does not use a toxic and rare  fuel  like  uranium .  More than 600 million tons of hydrogen undergo fusion every second on the Sun. ref cite web  url   http://www.iter.org/sci/whatisfusion   title What is Fusion?  first   last   work iter.org  year 2012 [last update]  accessdate 7 March 2012 publisher ITER Organization ref ref cite web url http://helios.gsfc.nasa.gov/qa_sun.html title NASA's Cosmicopia publisher NASA accessdate 28 February 2013 ref 
+
+  Burning Hydrogen  
+The  electrolysis of water  easily breaks water into hydrogen and oxygen, using a large amount of electricity.  Burning hydrogen combines with oxygen molecules to make  steam  (pure water vapor).  A  fuel cell  combines hydrogen with an oxygen  molecule , releasing an electron as electricity.  For these reasons, many people believe hydrogen power will eventually replace  technology technologies  such as  diesel-electric   engine s and  biodiesel  fuel.
+
+Some people think it is not correct to see hydrogen as a  fuel  if it is used in a fuel cell.  Because it is not found naturally on Earth, it is more of a replacement for the  power grid .  Such a grid and  infrastructure  with new  vehicle s might be first made in  Iceland , a country that has much free  geothermal energy  and is quite small.  Because it  import s all  fossil fuel , it would help Iceland to completely stop using it. The huge advantage of hydrogen is that when burnt in an engine or in a fuel cell, there is no pollution. Only a small amount of water forms.
+
+  References  
+ reflist 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Hydrogen Hydrogen  -Citizendium
+
+ Periodic Table 
+
+ Category:Nonmetals 
+ Category:Hydrogen  

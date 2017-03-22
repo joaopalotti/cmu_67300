@@ -1,0 +1,9 @@
+Webpage
+
+A  webpage  is part of a  website . It is in the form of text and images. Web pages are connected by  link s.  Click ing on a link makes another webpage appear. Webpages are hosted on  server web servers  and  download ed and viewed with a  web browser . Web pages are sent to the browser in  HTML  code. The writer of the page can write HTML directly, or use a computer program to convert other writing to HTML. 
+
+For example, each Wikipedia article, like this one, is a page of the large  Wikipedia  web site. 
+
+ tech-stub 
+
+ Category:Internet

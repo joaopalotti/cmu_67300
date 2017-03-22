@@ -1,0 +1,141 @@
+Oxygen
+
+Elementbox
+ name oxygen
+ number 8
+ symbol O
+ pronounce IPAc-en ' a k s i dZ @ n   respell OK si-j@n 
+ left nitrogen 
+ right fluorine 
+ above -
+ below sulfur S 
+ series nonmetal
+ series 2 chalcogen 
+ group 16
+ period 2
+ block p
+ series color 
+ phase color 
+ appearance colorless gas; light blue liquid. 
+ image name A liquid oxygen delivery completed - geograph.org.uk - 868850.jpg
+ image alt A glass bottle half-filled with a bluish bubbling liquid
+ image size 
+ image name comment 
+ image name 2 Oxygen spectre.jpg
+ image name 2 comment Light reflection lines of oxygen
+ atomic mass 15.999
+ atomic mass 2 1
+ atomic mass comment 
+ electron configuration [He] 2s sup 2 sup  2p sup 4 sup 
+ electrons per shell 2, 6
+ color 
+ phase gas
+ phase comment 
+ density gplstp 1.429
+ density  
+ density gpcm3nrt 2 
+ density gpcm3mp 
+ density gpcm3bp 1.141
+ melting point K 54.36
+ melting point C -218.79
+ melting point F -361.82
+ boiling point K 90.20
+ boiling point C -182.95
+ boiling point F -297.31
+ triple point K 
+ triple point kPa 
+ critical point K 154.59
+ critical point MPa 5.043
+ heat fusion (O sub 2 sub ) 0.444
+ heat fusion 2 
+ heat vaporization (O sub 2 sub ) 6.82
+ heat capacity (O sub 2 sub ) br 29.378
+ vapor pressure 1 
+ vapor pressure 10 
+ vapor pressure 100 
+ vapor pressure 1 k 61
+ vapor pressure 10 k 73
+ vapor pressure 100 k 90
+ vapor pressure comment 
+ crystal structure cubic
+ oxidation states Oxygen difluoride 2 ,  Dioxygen difluoride 1 ,  peroxide 1 ,  2 
+ oxidation states comment 
+ electronegativity 3.44
+ number of ionization energies 4
+ 1st ionization energy 1313.9
+ 2nd ionization energy 3388.3
+ 3rd ionization energy 5300.5
+ atomic radius 
+ atomic radius calculated 
+ covalent radius 1 E-11 m 66+-2 
+ Van der Waals radius 1 E-10 m 152 
+ magnetic ordering paramagnetism paramagnetic 
+ electrical resistivity 
+ electrical resistivity at 0 
+ electrical resistivity at 20 
+ thermal conductivity 26.58x10 sup -3 sup 
+ thermal conductivity 2 
+ thermal diffusivity 
+ thermal expansion 
+ thermal expansion at 25 
+ speed of sound (gas, 27 degC) 330
+ speed of sound rod at 20 
+ speed of sound rod at r.t. 
+ Young's modulus 
+ Shear modulus 
+ Bulk modulus 
+ Poisson ratio 
+ Mohs hardness 
+ Vickers hardness 
+ Brinell hardness 
+ CAS number 7782-44-7
+ isotopes 
+ Elementbox_isotopes_stable   mn oxygen-16 16    sym oxygen-16 O    na 99.76%   n 8  
+ Elementbox_isotopes_stable   mn oxygen-17 17    sym oxygen-17 O    na 0.039%   n 9  
+ Elementbox_isotopes_stable   mn oxygen-18 18    sym oxygen-18 O    na 0.201%   n 10  
+ isotopes comment 
+ predicted by 
+ prediction date 
+ discovered by Carl Wilhelm Scheele 
+ discovery date 1772
+ first isolation by 
+ first isolation date 
+ named by Antoine Lavoisier 
+ named date 1777
+ history comment label 
+ history comment 
+ 
+ Oxygen  ( O ) is a  chemical element . In nature, oxygen is a  gas  with no  color  or  Odor smell . Oxygen is a very important  Chemical element element  because it is a part of the  air  people  breathe and the  water  people drink. Because of this, oxygen supports  life . Many living things (including  human s) need oxygen to live and breathe, though it is poisonous to some forms of life. In  liquid   states of matter state of matter , oxygen is light blue. ref cite web  url   http://www.allatoms.com/LOXpage.htm   title Liquid Oxygen Page  first   last   work allatoms.com  year 2003 [last update]  accessdate 22 May 2012 ref ref cite web  url   http://chemistry.about.com/od/elementfacts/a/oxygen.htm   title Oxygen Facts - Periodic Table of the Chemical Elements  first   last   work about.com  year 2012 [last update]  accessdate 22 May 2012 ref ref cite web  url   http://www.astronautix.com/props/loxlh2.htm   title Lox/LH2  first   last   work astronautix.com  year 2011 [last update]  accessdate 22 May 2012 ref 
+
+  Discovery of oxygen  
+Oxygen was initially discovered in 1772 by  Carl Wilhelm Scheele . Then  Joseph Priestley  also discovered it two years later and spread the news before Scheele. This made many people think that Priestley discovered oxygen first. The word oxygen comes from Greek words: oxus (acid) and gennan (generate).
+Oxygen comes to earth from all parts of the universe in  meteorites . It is also found in minerals and plants that grow on the earth and other planets.
+
+  Oxygen in nature  
+ File: Water droplet blue bg05.jpg thumb|left|150px|A drop of water.   Water  contains oxygen. When one oxygen  atom  combines with two  hydrogen   atoms , they form a  molecule  of  water  (also written as H sub 2 sub O). This  water  is required by all living things to live.
+
+ Air  also contains oxygen.  Air  is made of many gases that are mixed together. Approximately 21% of the  air  is oxygen. Oxygen is especially important because all  animals  use oxygen to get energy from their food.
+
+ File: Streichholz.jpg thumb|right|100px|Combustion of wood in a match. 
+
+  Uses of oxygen  
+
+Oxygen is also what makes burning possible. This is called  combustion . When an object or something burns or  combusts , oxygen combines with another substance and releases heat and light. For instance, when you burn wood, the oxygen in air combines with the wood to create fire. This ability of oxygen has many uses. But it also makes pure oxygen very dangerous. If pure oxygen touches a flame or spark, it can  combust  and cause great damage. Combustion is used in many ways. For example, when oxygen is mixed with  acetylene , it can create a very hot flame. The hot flame is used in  welding , where  metal  is heated and melted together. Also, oxygen is used to create powerful fuels, which also can be used in  rockets  and  jets .
+
+Oxygen can be used in smelting metal from ore.
+
+Oxygen is used in hospitals for killing bacteria. It is also used when a patient has had carbon monoxide poisoning.
+
+Oxygen is used in water treatment to purify the water to make it safe for us to drink.
+
+  Production of gas  
+Pure oxygen can be produced in several ways. In nature,  plants  produce oxygen by using sunlight,  carbon dioxide  (another gas) and water. This process is called  photosynthesis . Most of the oxygen in the air is produced by  photosynthesis .
+
+Oxygen can also be created by humans, using a process called  electrolysis . In this process,  electricity  passes through water. As a result, the  water   molecules  break and release oxygen and  hydrogen   gas .
+
+  References  
+ reflist 
+
+ Periodic Table 
+
+ Category:Nonmetals

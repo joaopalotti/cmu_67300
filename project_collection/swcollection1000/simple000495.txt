@@ -1,0 +1,221 @@
+United Kingdom
+
+Infobox country
+ conventional_long_name            United Kingdom of Great Britain and Northern Ireland
+ common_name                       the United Kingdom
+ image_flag                        Flag of the United Kingdom.svg
+ alt_flag                          A flag featuring both cross and saltire in red, white and blue that is the flag that we have
+ image_coat                        Royal_Coat_of_Arms_of_the_United_Kingdom.svg
+ alt_coat                          Coat of arms containing shield and crown in centre, flanked by lion and unicorn
+ symbol_type                       Royal coat of arms
+ image_map                         EU-United Kingdom.svg
+ alt_map                           Two islands to the north-west of continental Europe. Highlighted are the larger island and the north-eastern fifth of the smaller island to the west.
+ map_caption                        map_caption  location_color dark green  region Europe  region_color dark grey  subregion the  European Union   subregion_color green  legend EU-United Kingdom.svg 
+ national_anthem center File:United States Navy Band - God Save the Queen.ogg center br " God Save the Queen " ref group note No law was passed making  God Save the Queen  the official anthem. In the British tradition, such laws are not necessary; proclamation and usage are sufficient to make it the official national anthem.  God Save the Queen  also serves as the  Honors music Royal anthem  for several other countries. ref 
+ official_languages                British English (National Language)
+ regional_languages                 Irish language in Northern Ireland Irish ,  Ulster Scots dialects Ulster Scots ,  Scottish Gaelic ,  Scots language Scots ,  Welsh language Welsh ,  Cornish language Cornish #tag:ref Under the  Council of Europe 's  European Charter for Regional or Minority Languages ,  Welsh language Welsh ,  Scottish Gaelic ,  Cornish language Cornish ,  Irish (language) Irish ,  Scots language Scots  and its regional variant  Ulster Scots dialects Ulster Scots  are officially recognised as  Regional language Regional  or minority languages by the  British Government UK Government  for the purposes of the Charter. ref Cite web url http://www.scotland.gov.uk/Topics/ArtsCulture/gaelic/gaelic-english/17910/europeancharter title European Charter for Regional or Minority Languages  publisher Scottish Government   accessdate 11 December 2010 ref   group "note" 
+ ethnic_groups                    98% Britons, 2% Others.
+ ethnic_groups_year                United Kingdom Census 2001 2001 br small  See:  Ethnic groups in the United Kingdom#2001 Census ethnicity results UK ethnic groups list small ref cite web  url http://www.statistics.gov.uk/StatBase/Expodata/Spreadsheets/D6588.xls   title United Kingdom population by ethnic group  publisher Office for National Statistics   date 1 April 2001  work United Kingdom Census 2001   accessdate 15 April 2009  format XLS archiveurl http://webarchive.nationalarchives.gov.uk/20031221162206/http://www.statistics.gov.uk/StatBase/Expodata/Spreadsheets/D6588.xls archivedate 21 December 2003 ref 
+ demonym British or  British people Briton 
+ capital                          London 
+ latd                            51
+ latm                            30
+ latNS                           N
+ longd                           0
+ longm                           7
+ longEW                          W
+ largest_city                    London
+ government_type                  Unitary state Unitary   parliamentary system parliamentary democracy  and  constitutional monarchy 
+ leader_title1                    Monarchy of the United Kingdom Monarch 
+ leader_name1                     Elizabeth II 
+ leader_title2                    Prime Minister of the United Kingdom Prime Minister 
+ leader_name2                     Theresa May   Parliament of the United Kingdom MP 
+ sovereignty_type                 History of the United Kingdom Formation 
+ legislature                      Parliament of the United Kingdom Parliament 
+ upper_house                      House of Lords 
+ lower_house                      House of Commons of the United Kingdom House of Commons 
+ state_religion                   Anglicanism 
+ sovereignty_note               
+ established_event1               Acts of Union 1707 
+ established_date1               1 May 1707
+ established_event2               Acts of Union 1800 
+ established_date2               1 January 1801
+ established_event3               Anglo-Irish Treaty 
+ established_date3               12 April 1922
+ accessionEUdate                 1 January 1973
+ religion                         Church of England Anglican 
+ EUseats                         78
+ area_rank                       80th
+ area_magnitude                  1 E11
+ area_km2                        243610
+ area_sq_mi                       convert 243610 km2 sqmi disp output number only 
+ percent_water                   1.34
+ population_estimate             63,705,000 ref cite web  url http://www.ons.gov.uk/ons/dcp171778_320900.pdf   title Annual Mid-year Population Estimates, 2011 and 2012  publisher Office for National Statistics  accessdate 24 February 2014 ref 
+ population_estimate_year        2012
+ population_estimate_rank        22nd
+ population_census               63,181,775 ref name 2011 Census cite web  url http://www.ons.gov.uk/ons/guide-method/census/2011/uk-census/index.html   title 2011 UK censuses  publisher Office for National Statistics  accessdate 17 December 2012 ref 
+ population_census_year          2011
+ population_density_km2          255.6
+ population_density_sq_mi        661.9
+ population_density_rank         51st
+ GDP_PPP_year                    2014
+ GDP_PPP                          nowrap $2.497 trillion ref name imf2 
+ GDP_PPP_rank                    8th
+ GDP_PPP_per_capita   $38,710 ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?sy=2013&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=46&pr1.y=7&c=112&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=   title United Kingdom  publisher International Monetary Fund  accessdate 30 May 2014 ref 
+ GDP_PPP_per_capita_rank         21st
+ GDP_nominal_year                2014
+ GDP_nominal_rank                6th
+ GDP_nominal_per_capita          $43,829 ref name imf2 
+ GDP_nominal_per_capita_rank     24th
+ GDP_nominal                      nowrap $2.827 trillion ref name imf2 
+ Gini_year                       2012
+ Gini_change                     decrease 
+ Gini                            32.8
+ Gini_ref                         ref name eurogini cite web title Gini coefficient of equivalised disposable income (source: SILC) url http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12 publisher Eurostat Data Explorer accessdate 13 August 2013 ref 
+ Gini_rank                       33rd
+ HDI_year                        2013
+ HDI_change                      increase
+ HDI                             0.875
+ HDI_ref                          ref cite web  url http://hdr.undp.org/en/reports/global/hdr2013/ title Human Development Report 2013 publisher United Nations  accessdate 3 September 2013 ref 
+ HDI_rank                        26th
+ currency                         Pound sterling 
+ currency_code                   GBP
+ country_code                    GBR
+ time_zone                        Greenwich Mean Time GMT 
+ utc_offset                      +0
+ time_zone_DST                    Western European Summer Time BST 
+ date_format                     dd/mm/yyyy ( Anno Domini AD )
+ utc_offset_DST                  +1
+ drives_on                       left ref group note British dependencies drive on the left except for  British Indian Ocean Territory BIOT  and  Gibraltar . ref 
+ cctld                            .uk ref group note ISO 3166-1 alpha-2  states that this should be  Great Britain GB  and  .gb  was initially used by the Government, but registration has been suppressed in favour of  .uk . The  .eu  domain is shared with other  European Union  member states. ref 
+ Refend 
+ calling_code                     Telephone numbers in the United Kingdom 44 
+ footnote1                       A  Royal coat of arms of the United Kingdom#Scotland second coat of arms  is used in Scotland. 
+
+The  United Kingdom of Great Britain and Northern Ireland , called the  United Kingdom ,  GB  or  UK , is a  sovereign state  in  Northern Europe . It is a  constitutional monarchy  that is made up of four separate  Countries of the United Kingdom countries . ref cite web url http://www.statistics.gov.uk/geography/uk_countries.asp title The Countries of the UK publisher www.statistics.gov.uk accessdate 2008-10-10 archiveurl http://webarchive.nationalarchives.gov.uk/20020329130655/http://www.statistics.gov.uk/geography/uk_countries.asp archivedate 2002-03-29 ref  It is a member of the  European Union ,  United Nations , the  Commonwealth of Nations Commonwealth ,  NATO  and the  G8 . It has the fifth largest economy in the world.
+
+Around 65 million people live in the UK. ref name 2011 Census  They can be divided into four big  nationality nationalities  based on the countries where they live. These countries, and the names of the people and language spoken there, are as follows:
+ England  is the biggest country, and the one where most people in the UK live. People who live in England are called  English people English . Their native  language  is called  English language English , which is spoken by almost everyone in the UK and has become a global  lingua franca . A few people in the southwest part of England can speak  Cornish language Cornish , a  Celtic language .
+ Scotland , to the north of England, is the second biggest country. People who live here are called  Scottish people Scottish , and some speak languages called  Scottish Gaelic , a Celtic language, or  Scots , which is a lot like English but is different from it.
+ Wales  is to the west of England. Its people are called  Welsh people Welsh  and have their own Celtic language which is also called  Welsh language Welsh . Not everyone on Wales can speak Welsh.
+ Northern Ireland  is on the island of  Ireland , which is west of  Great Britain  where the other three countries are on. Some  Irish people  live here and speak  Irish language Irish , another Celtic language, or Ulster Scots, a dialect of the language spoken in Scotland.
+
+Between the 17th and mid 20th-centuries, Britain was a world power. It became a  British Empire colonial empire  that controlled large areas of  Africa ,  Asia ,  North America  and  Oceania . ref http://www.bbc.co.uk/history/british/ ref  Many countries left and became independent from the empire in the 20th century, although Britain keeps  Commonwealth of Nations links with most countries of its former empire .
+
+The UK has many  city cities . England is home to  London , the biggest city in the UK and also its  capital city . There are also many smaller cities in England including  Manchester ,  Bristol ,  Liverpool ,  Birmingham ,  Preston , and  York . Scotland has  Edinburgh  and  Glasgow .  Cardiff  and  Swansea  are in Wales and  Belfast  is in Northern Ireland.
+
+ Prehistory 
+
+ File:Stonehenge Wide Angle.jpg thumb|left| Stonehenge  in the United Kingdom 
+
+ Archaeology Archaeological  remains show that the first group of people to live in the British Isles were hunter-gatherers after the last  ice age  ended. The date is not known: perhaps as early as 8000 small BC small  but certainly by 5000 small BC small . They built  mesolithic  wood and stone  monument s.  Stonehenge  was built between 3000 and 1600 small BC small . ref cite web url http://www.english-heritage.org.uk/daysout/properties/stonehenge/world-heritage-sites/ title Stonehenge and Avebury: A World Heritage Site author English Heritage accessdate 2011-06-21 ref   Celt ic tribes arrived from mainland Europe. Britain was a changing collection of tribal areas, with no overall leader. Julius Caesar tried to invade (take over) the island in 55 small BC small  but was not able to do so. The Romans successfully invaded in 43 small AD small . ref Branigan, Keith, 1980,  Roman Britain: Life in an Imperial Province , Readers Digest, pp12-16 ref 
+
+ History 
+ see also History of the United Kingdom 
+History begins when there is a written record. Writing was brought to Britain by the  Roman Empire Romans . Rome ruled in Britain from 44AD to 410AD, but they only ruled England and Wales. The Romans never ruled Scotland north of the Clyde-Forth valley, or Ireland; their northern boundary varied from time to time, and was marked for a while at  Hadrian's Wall .
+
+After the Romans, two waves of  immigration immigrants  came to Britain. The first were  Germanic peoples German  tribes: the  Angles ,  Saxons  and  Jutes .  English language English , the language, is a development from  Anglo-Saxon   Old English , and is a Germanic language.  The second were the  Viking s.
+
+ Britain unified 
+After a long period when  England  was split into various kingdoms, it was made into one country by AEthelstan ( Athelstan ) in 945 small AD small . England and Wales were unified by  Edward I of England Edward I  (Longshanks) by force in the 13th century.
+
+Union with Scotland took much longer; there were hundreds of years of conflicts between both parts of Britain. This union between England and Scotland in 1707 formed the United Kingdom of Great Britain, which merged Scotland and England into one country.
+
+In 1603, when  Queen   Elizabeth I of England  died, her closest relative was  King   James I of England James VI of Scotland . He became king of England as well as king of Scotland. In 1707, the Scottish and English Parliaments agreed the Treaty of Union, which joined the two countries into one country called  The Kingdom of Great Britain  under Queen  Anne of Great Britain Anne .
+ File:Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg left|120px|thumb| Elizabeth II Queen Elizabeth  has reigned since 1952. 
+
+By 1800, both Scotland and England had already independently had much influence over  Ireland  since 1200. In that year laws were passed in Great Britain and Ireland to merge the two states. The new country was called the  United Kingdom of Great Britain and Ireland . In 1922 much of Ireland became independent as the  Irish Free State  (now called  Republic of Ireland Ireland ) from the United Kingdom. However, six northern counties (called  Northern Ireland ) continue to be part of the United Kingdom. The country was renamed  The United Kingdom of Great Britain and Northern Ireland .
+
+ Parliament 
+The British people are ruled by  Parliament , not by monarchs. Parliament started in 1215 as an advisory body for the monarch, but by the 17th century it had gained enough power to successfully defeat  Charles I of England Charles I , in the  English Civil War .  Oliver Cromwell  became Lord Protector. Though the monarchy was restored after his death, the Crown slowly became the secondary power, and Parliament the first. Members of Parliament (called MPs) were elected, but until the early twentieth century, only men who owned property could vote. In the nineteenth century, more people were given  suffrage  (the right to vote), but even so, by 1900, women could not vote, and only 40% of men were rich enough to vote. But in 1928, all adults, male and female, got the vote: this is called universal suffrage.
+
+Parliament is in London, but it has power over the whole of the UK. Today, Wales, Scotland and Northern Ireland each have their own parliaments as well, but they have more limited powers. There are also parliaments in the  Isle of Man  and the  Channel Islands , which are islands that are partly controlled by the UK, and partly independent.
+
+The members of Parliament belong to  political party political parties : the biggest parties are the Labour Party, the Conservative Party and the Liberal Democrats. Members of the same party agree to act and vote more or less together. A party with more than half the seats (a majority) forms the government; the leader of the party becomes the  Prime Minister , who then appoints other ministers. Because the government has a majority in Parliament, it can normally control what laws are passed.
+
+ Native languages in the UK 
+ Celtic languages 
+ Welsh language Welsh 
+ Cornish language Cornish 
+ Irish language Irish Gaelic 
+ Scottish Gaelic 
+
+ Germanic languages 
+ English language English 
+ Scots 
+ Ulster Scots 
+
+ Foreign languages 
+Major languages spoken in the United Kingdom other than English include  Polish language Polish  (500,000 - approximate number of speakers in the United Kingdom), Eastern Panjabi or  Punjabi language Punjabi  (471,000),  Bengali language Bengali  (400,000),  Urdu  (400,000),  Cantonese language Cantonese  (300,000),  Greek language Greek  (200,000), Southwestern Caribbean  Creole language Creole  English (170,000). ref cite web title   Languages of the UK  url    http://www.ethnologue.com/show_country.asp?name=gb    publisher   SIL International: ethnologue.com  author   Gordon, Raymond G. Jr. (ed) 2005.  work   Ethnologue: languages of the world, 15th ed,  publisher   Dallas, Tex.: SIL International. Online version  ref 
+
+ Geography 
+ File:United Kingdom labelled map7 vector.svg thumb|175px|The  countries of the United Kingdom 
+ File:uk topo en.jpg thumb|175px|left|The topography of the UK 
+The UK is made up of four different countries:  Wales ,  England  and  Scotland  and  Northern Ireland . The capital city of Wales is  Cardiff . The capital city of England is  London . The capital city of Scotland is  Edinburgh  and the capital city of Northern Ireland is  Belfast . Other large cities in the UK are  Birmingham ,  Bristol ,  Manchester ,  Liverpool, Mersyside Liverpool ,  Newcastle upon Tyne ,  Leeds ,  Sheffield ,  Glasgow ,  Southampton ,  Leicester ,  Coventry ,  City of Bradford Bradford  and  Nottingham .
+
+The UK is north-west off the coast of mainland  Europe . Around the UK are the  North Sea , the  English Channel  and the  Atlantic Ocean . The UK also rules, usually indirectly, a number of smaller places (mostly islands) round the world, which are known as  overseas territories . They are remnants of the   British Empire .
+
+The  weather  of the United Kingdom is changeable and unpredictable. Summers are moderately warm, winters are cool to cold. Rain falls throughout the year, and more on the west than the east because of its northerly latitude and the warm water from the  Atlantic Ocean 's  Gulf Stream . The usually moderate prevailing winds from the Atlantic may be interrupted by  Arctic  air from the north-east or hot air from the  Sahara .
+
+ Politics 
+ File:Westminster palace.jpg left|thumb| Westminster ,  London  has the clock tower, which holds the bell  Big Ben 
+
+The UK is a  parliament ary  democracy  based on a  constitutional monarchy constitutional  and  hereditary monarchy . The people of the United Kingdom vote for a  Member of Parliament members of Parliament  to speak for them and to make laws for them. Queen  Elizabeth II  is the  monarch queen  of the UK and is the  head of state . Even though she is the head of state, she does not actually govern the country. The  government , led by the  Prime Minister , governs the country and decides  policy . Today, the Prime Minister is  Theresa May , who is the leader of the Conservative  political party party  and was not directly elected by the people of the country.
+
+ Parliament  is where laws are made. It has three parts: the  House of Commons of the United Kingdom House of Commons , the  House of Lords , and the Queen. The House of Commons is the most powerful part. It is where Members of Parliament sit. The Prime Minister sits here as well, because they are a Member of Parliament. The people who sit in the House of Lords are called peers: they are not chosen by the people. Most peers are now appointed by the government. There are some who are hereditary  Peerage peers  (their fathers were peers); and a few others, such as certain  bishop s in the established  Church of England , and the  Judiciary  (Law Lords).
+
+Scotland has its own devolved Parliament with power to make laws on things like education, health and Scottish law. Northern Ireland and Wales have their own devolved Assemblies which have some powers but less than the Scottish parliament. The UK Parliament remains sovereign and it could end the devolved administrations at any time.
+
+ Military 
+The UK has a military of around 223,000 people, not including reserve forces. The UK has one of the most advanced military in the world, alongside such countries such as the  USA  and  France , and operates a large army ( British Army ), a sizable navy ( Royal Navy ) and air force ( Royal Air Force ). From the 18th century to the early 20th century, the UK was one of the most powerful nations in the world, with a huge navy (due to the fact it was surrounded by sea, so a large navy was the most practical option). This status has faded in recent times, but the UK remains a member of various military groups such as the  United Nations Security Council UN Security Council  and  NATO . It is also still seen as a great military power.
+
+ Economy 
+The UK is a  Development developed  country with the sixth largest  economy  in the world. It was a  superpower  during the 18th, 19th and early 20th century and was considered since the early 1800s to be the most powerful and influential nation in the world, in politics, economics (For it was the wealthiest country at the time.) and in military strength. Britain continued to be the biggest manufacturing economy in the world until 1908 and the largest economy until the 1920s. The economic cost of two world wars and the decline of the  British Empire  in the 1950s and 1960s reduced its leading role in global affairs. The UK has strong economic, cultural, military and political influence and is a  nuclear power . It is a member state of the  European Union  at the moment, but is planning on leaving after brexit was voted for. The UK holds a permanent seat on the  United Nations Security Council , and is a member of the  G8 ,  NATO ,  World Trade Organization  and the  Commonwealth of Nations .
+
+ London , the capital, is famous as being the largest centre of  finance  in the world, along with  New York City  in the  United States .
+
+ Literature 
+ see also English literature 
+ File:Paget holmes.png thumb| Sherlock Holmes  and Dr. Watson 
+ William Shakespeare  was an  English people English   playwright . He wrote plays in the late 16th century. Some of his plays were  Romeo and Juliet  and  Macbeth . In the 19th century,  Jane Austen  and  Charles Dickens  were novelists. Twentieth century writers include the science fiction novelist  H.G. Wells  and  J.R.R. Tolkien . The children's fantasy  Harry Potter  series was written by  J.K. Rowling .  Aldous Huxley  was also from the United Kingdom.
+
+English language literature is written by authors from many countries. Eight people from the United Kingdom have won the  Nobel Prize in Literature .  Seamus Heaney  is a writer who was born in  Northern Ireland .
+
+ Arthur Conan Doyle  from  Scotland  wrote the  Sherlock Holmes  detective novels. He was from  Edinburgh . The poet  Dylan Thomas  brought Welsh culture to international attention.
+
+ Education 
+England, Northern Ireland, Scotland, and Wales have separate, but similar, systems of education. They all have rules that education is required from ages five to eighteen, except for in Scotland where school departure is allowed from the age of sixteen. Many children attend state schools and other children attend private schools.
+
+Britain's universities are the  University of Cambridge  and  University of Oxford , and London universities ( University College London , the  London School of Economics and Political Science London School of Economics ,  King's College London  and  Imperial College London ) which collectively form the 'Golden Triangle' of UK universities.
+
+A broader group of twenty universities form the  Russell Group , which account for two thirds of research grants and contract funding out of the total of 100 universities.
+
+ Transport 
+Road traffic in the United Kingdom drives on the left hand side of the road (unlike the Americas and some of the rest of Europe), and the driver steers from the right hand side of the vehicle. The road network on the island of  Great Britain  is extensive, with most local and rural roads having evolved from Roman and Medieval times. Major routes developed in the mid 20th Century were made to the needs of the motor car. The high speed  motorway  (freeway) network was mostly constructed in the 1960s and 1970s and links together major towns and cities.
+
+The system of  rail transport  was invented in England and Wales, so the United Kingdom has the oldest  railway  network in the world. It was built mostly during the Victorian era. At the heart of the network are five long distance main lines which radiate from  London  to the major cities and secondary population centres with dense commuter networks within the regions. The newest part of the network connects London to the Channel Tunnel from St Pancras station and is built to the same standard as the French TGV system. The  British Rail  network is part privatised, with privately owned train operating companies providing service along particular lines or regions, whilst the tracks, signals and stations are owned by a Government controlled company called Network Rail. The system of underground railways in London, known as the  London Underground Tube , has been copied by many other cities.
+
+Most domestic  air travel  in the United Kingdom is between London and the major cities in Scotland and the North of England.  London Heathrow Airport London-Heathrow  is the nation's largest airport and is one of the most important international  Airline hub hub s in the world. Other major airports with principal international service include London-Gatwick, Birmingham, Manchester and Glasgow.
+
+An extensive system of  ferry  networks operate between the Scottish islands, and major ferry routes operate between England and France (via the English Channel), Scotland-Northern Ireland (via the Irish Sea) and England/Wales-Republic of Ireland (from Liverpool/Holyhead).
+
+ Notes 
+ Reflist 2 group note 
+
+ References 
+ commons United Kingdom 
+ Reflist 
+
+ United Kingdom constituents and affiliations 
+ Europe 
+ European Union 
+ G8 
+ Commonwealth nations 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:United Kingdom   
+ Category:Commonwealth realms 
+ Category:European Union member states 
+ Category:Current monarchies 
+ Category:English-speaking countries 
+ Category:G8 nations

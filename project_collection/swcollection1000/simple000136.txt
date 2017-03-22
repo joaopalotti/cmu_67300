@@ -1,0 +1,141 @@
+Earth
+
+Infobox planet
+  bgcolour   #BEB
+  name   Earth
+  symbol    File:Earth symbol.svg 16px 
+  image    File:Nasa blue marble.jpg 250px 
+  caption   Earth seen from a  Satellite (artificial) satellite 
+  apsis   helion
+  alt_names  Terra, ref name Terra By  International Astronomical Union  convention, the term "Terra" is used for naming extensive land masses, rather than for the planet Earth.  Cf.   cite web
+   last Blue   first Jennifer   date July 5, 2007
+   url http://planetarynames.wr.usgs.gov/jsp/append5.jsp 
+   title Descriptor Terms (Feature Types)
+   work Gazetteer of Planetary Nomenclature
+   publisher USGS   accessdate 2007-07-05  ref br the World
+  designations   yes 
+  aphelion   152,097,701 km br 1.0167103335  Astronomical unit AU ref name earthfact 
+  perihelion   147,098,074 km br 0.9832898912 AU ref name earthfact 
+  semimajor   149,597,887.5 km br 1.0000001124 AU ref name earthfact cite web url http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html title Earth Fact Sheet last Williams first Dr. David R. publisher NASA accessdate 2011-02-03 ref 
+  avg_speed   29.783 km/s br 107,218 km/h ref name earthfact 
+  eccentricity   0.016710219 ref name standish_williams_iau cite web   author Standish, E. Myles; Williams, James C   title Orbital Ephemerides of the Sun, Moon, and Planets   publisher International Astronomical Union Commission 4: (Ephemerides)   url http://iau-comm4.jpl.nasa.gov/XSChap8.pdf    format PDF   accessdate 2010-04-03   See table 8.10.2. Calculation based upon 1 AU = 149,597,870,700(3) m. ref 
+  period   365.256366 days br 1.0000175 yr ref name earthfact 
+  inclination   1deg34'43.3" br to the invariable plane invariable plane ref name Allen294 cite book   title Allen's Astrophysical Quantities   author Allen, Clabon Walter; Cox, Arthur N.   publisher Springer   year 2000   isbn 0387987460   url http://books.google.com/?id=w8PK2XFLLH8C&pg=PA294    page 294 ref 
+  angular_dist   
+  long_periastron   
+  time_periastron   
+  semi-amplitude   
+  physical_characteristics   yes
+  mean_radius      convert 6371.0 km abbr on ref name hbcp2000 cite book  author Various  editor David R. Lide  date 2000  title Handbook of Chemistry and Physics  edition 81st  publisher CRC  isbn 0-8493-0481-4 ref 
+  surface_area   510,072,000 km2
+  volume    1.08321 x 1012 km3
+  density   5.515 g/cm3
+  mass   5.9736 x 10 sup 24 sup kg
+  surface_grav   0.99732 g
+  escape_velocity   11.186 km/s
+  single_temperature   14 degC 
+  epoch    Julian calendar J 2000.0
+ 
+ Earth  is the spherical planet we live on. It is the third planet from the  sun . It is the only planet known to have  life  on it. Earth  Age of the Earth formed around 4.5 billion years ago . ref name age earth citeweb url http://sp.lyellcollection.org/cgi/content/abstract/190/1/205 title The age of the Earth in the twentieth century- a problem (mostly) solved accessdate 2009-07-28 publisher Geological Society, London, Special Publications ref  It is one of four  terrestrial planet rocky planets  on the inside of the  Solar System . The other three are  Mercury (planet) Mercury ,  Venus  and  Mars (planet) Mars .
+
+The large  mass  of the sun makes Earth  orbit move around it , just as the mass of Earth makes the  moon  move around it. Earth also turns around in space, so that different parts face the sun at different times. Earth goes around the  sun  once (one " year ") for every 3651/4 times it turns all the way around (one " day ").
+
+Earth is the only  planet  in our solar system that has a large amount of  liquid   water . ref citeweb url http://www.msnbc.msn.com/id/4202901/ title Rover reveals Mars was once wet enough for life accessdate 28 July 2009 publisher Microsoft ref  About 71 percent %  of the surface of Earth is covered by  ocean s. Because of this, people some times called it  "blue planet". refn Blue Planet  is a poetic title for the Earth used in  movie s, in  magazine cheap paper book s, in  poetry , and in government reports (such as the  European Space Agency 's " http://www.esa.int/esapub/bulletin/bulletin137/bul137b_drinkwater.pdf Exploring the water cycle of the 'Blue Planet' ") 
+
+Because of its water, Earth is home to millions of  species  of  plant s and  animal s. ref citeweb url http://adsabs.harvard.edu/abs/1988Sci...241.1441M title  How many species are there on Earth publisher Harvard University accessdate 2009-07-28 ref ref name purves_et_al2001 cite book   author Purves, William Kirkwood  et al    title Life, the science of biology  publisher Macmillan   page 455   year 2001   isbn 0716738732  ref  The things that live on Earth have changed its surface greatly. For example, early  cyanobacteria  changed the  Atmosphere of Earth#History of Earth's atmosphere air  and gave it  oxygen . The living part of Earth's surface is called the " biosphere ". ref citeweb url http://www.space.com/searchforlife/life_origins_001205.html title  Origins of life on Earth accessdate 2009-07-28 publisher Space.com ref 
+
+ Orbit and turning 
+ File:AxialTiltObliquity.png thumb|right|300px|Earth turns at an angle (an " axial tilt ") in relation to its path around the Sun. 
+Earth is part of the eight  planet s and many thousands of small bodies that move around the  Sun  as its  solar system . The Solar System is moving through the  Orion Arm  of the  Milky Way   galaxy  now, and will be for about the next 10,000 years. ref citeweb url http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/030827a.html title Earth's location in the Milky Way accessdate 2009-08-06 publisher NASA ref 
+
+Earth is generally  convert 150,000,000 km mi sp us disp or sigfig 2  away from the  sun  (this distance is named an " Astronomical Unit "). Earth moves along its way at an  average  speed of about  convert 30 km mi sp us abbr on disp or sigfig 2  a second. ref citeweb url http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html title NASA- an Earth fact sheet accessdate 2009-08-06 publisher NASA ref  Earth turns all the way around about 3651/4 times in the time it takes for Earth to go all the way around the  sun . ref name IERS cite web   author Staff   date 2007-08-07   url http://hpiers.obspm.fr/eop-pc/models/constants.html    title Useful Constants   publisher International Earth Rotation and Reference Systems Service  accessdate 2008-09-23  ref  To make up this extra bit of a day every year, an  leap day additional day  is used every four years. This is named a " leap year ".
+
+The  Moon  goes around Earth at an  average  distance of  convert 250,000 mi km sp us disp or disp flip sigfig 2 . It is locked to Earth, so that it always has the same half facing Earth; the other half is called the "dark side of the moon". It takes about 27 1/3  days for the Moon to go all the way around Earth, but because Earth is moving around the Sun at the same time, it takes about 291/2 days for the Moon to go from dark to bright to dark again. This is where the word " month " came from, even though most months now have 30 or 31 days.
+
+  History of Earth  
+ seealso Historical geology Age of the Earth Giant impact hypothesis Great Oxygenation Event 
+
+ Age of the Earth Earth  and the other  planet s formed about 4.6 billion years ago. ref name age_earth ref cite journal  last Dalrymple   first G. Brent  title The age of the Earth in the twentieth century: a problem (mostly) solved   journal Special Publications, Geological Society of London  year 2001   volume 190  issue 1   pages 205-221  doi 10.1144/GSL.SP.2001.190.01.14  bibcode   2001GSLSP.190..205D  
+ ref  They were made of the leftover  gas  from the  nebula  that  Formation and evolution of the Solar System made the Sun . The Moon may have been formed after a collision between the early Earth and a smaller planet (sometimes called  Theia ). Scientists believe that parts of both planets broke off -- becoming (by  gravity ) the Moon. ref cite web url http://www.nature.com/nature/journal/v412/n6848/abs/412708a0.html title Origin of the Moon in a giant impact near the end of the Earth's formation accessdate 2009-07-28 publisher Nature.com ref 
+
+Earth's water came from different places.  Condensation Condensing   water vapour , and  comet s and  asteroid s hitting Earth, made the  ocean s. Within a billion years (that is at about 3.6 billion years ago) the first  life   evolution evolved , in the  Archaean   era . ref citeweb url http://www.spaceref.com/news/viewnews.html?id=258 title Earth life appeared on land 1.5 billion years earlier than previously thought accessdate 2009-07-03 publisher SpaceRef.com ref  Some  bacteria  developed  photosynthesis , which lets plants make  food  from the  Sun 's  light  and  water . This released a lot of  oxygen , which was first taken up by  iron  in  solution . Eventually, free oxygen got into the  atmosphere  or air, making Earth's surface  wikt:suitable suitable  for  aerobic  life (see  Great Oxygenation Event ). This oxygen also formed the  ozone   wikt:layer layer  which protects Earth's surface from bad  ultraviolet   radiation  from the  Sun . Complex life on the surface of the land did not exist before the ozone layer.
+
+Earth was very different in the distant past. Long ago, almost all land was in one place. This is called a  continent supercontinent . The earliest known supercontinent was called  Vaalbara . Much later, there was a time (the  Cryogenian ) when Earth was almost entirely covered by thick ice sheets ( glacier s). ref name snearth citeweb url https://web.archive.org/web/20090910075356/http://www.eps.harvard.edu/people/faculty/hoffman/snowball_paper.html title The Snowball Earth accessdate 2009-07-28 publisher Harvard University work Paul F. Hoffman and Daniel P. Schrag date August 8, 1999 ref  This is called the  Snowball Earth   theory . ref name snearth 
+
+  What it is made of  
+ File:Terrestrial planet size comparisons.jpg thumb|right|Size of Earth compared with the other rocky planets in the  Solar System :  Mercury (planet) Mercury ,  Venus , and  Mars 
+
+Earth is  Rock (geology) rocky . It is the largest of the rocky planets moving around the sun by mass and by size. It is much smaller than the  gas giant s such as  Jupiter .
+
+  Chemical make-up  
+Overall, Earth is made of  iron  (32.1 percent % ),  oxygen  (30.1 percent % ),  silicon  (15.1 percent % ),  magnesium  (13.9 percent % ),  sulfur  (2.9 percent % ),  nickel  (1.8 percent % ),  calcium  (1.5 percent % ), and  aluminium  (1.4 percent % ). The 1.2 percent %  left over is made of many different kinds of other chemicals. Chemicals that are very uncommon (such as  gold  and  platinum ) can be very valuable.
+
+The structure of Earth changes from the inside to the outside. The  Planetary core center of earth  ( Earth's core ) is mostly iron (88.8%), nickel (5.8%), sulfur (4.5%), and less than 1% other things. ref Morgan J.W. & Anders E. 1980. Chemical composition of Earth, Venus, and Mercury.  Proceedings of the National Academy of Science   77  (12): 6973-6977.  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC350422/?tool=pmcentrez  Full free text ref  The  Earth's crust   is largely  oxygen  (47 percent % ). Oxygen is normally a gas but it can  oxide join  with other  chemicals  to make  chemical compound compounds  like  water  and rocks. 99.22 percent %  of rocks have  oxygen  in them. The most common  oxygen -having rocks are  silica  (made with  silicon ),  alumina  (made with  aluminum ),  rust  (made with  iron ),  lime (chemical) lime  (made with  calcium ),  magnesia  (made with  magnesium ),  potash  (made with  potassium ), and  sodium  oxide, and there are others as well. ref Chisholm, Hugh (editor). 1911. "Petrology" in the  Encyclopaedia Britannica , 11th edition. Cambridge University Press. ref 
+
+  Shape  
+Earth's  shape  is a  spheroid : not quite a  sphere  because it is slightly  oblate squashed  on the top and bottom. The shape is called an  oblate spheroid . As Earth spins around itself, the  centrifugal force  forces the  equator  out a little and pulls the  geographical pole poles  in a little. The equator, around the middle of Earth's surface, is about  convert 40,075 km mi sp us disp or sigfig 4  long. 
+
+The highest mountain above  sea level the well-known  Mount Everest  (which is  convert 8.8 km mi sp us abbr on disp or sigfig 2   elevation above sea level ) is  not  actually the one that is the farthest away from the center of the Earth. Instead, the sleeping  volcano   Mount Chimborazo  in  Ecuador  is; it is only  convert 6.3 km mi sp us abbr on disp or sigfig 2   elevation above sea level  but it is almost at the  equator . Because of this, Mount Chimborazo is  convert 6,384.4 km mi sp us abbr on disp or sigfig 5  from the center of the Earth, while  Mount Everest  is  convert 2.1 km mi sp us disp or sigfig 2  closer to it. ref cite web url http://www.profsurv.com/archive.php?issue=42&article=589 title Did Edmund Hilary climb the wrong mountain? publisher    Professional Surveyor Magazine   work   May 2000 Volume 20 Number 5 first   Joseph H.  last   Senne  date   May 2000 accessdate   2008-10-24 ref ref name lancet365_9462_831 cite journal   last Sharp   first David   title Chimborazo and the old kilogram   journal The Lancet   date 2005-03-05   volume 365   issue 9462   pages 831-832   doi 10.1016/S0140-6736(05)71021-7  ref ref name tall_tales cite web   url http://www.abc.net.au/science/k2/moments/s1086384.htm    title Tall tales about highest peaks   publisher Australian Broadcasting Corporation   accessdate 2008-12-29 ref  Similarly, the lowest point below sea level that we are conscious of is the  Challenger Deep  in the  Mariana Trench  in the  Pacific Ocean . It is about  convert 10.9 km mi sp us abbr on disp or sigfig 2   depth below sea level , ref name kaiko7000 cite web title 7,000 m Class Remotely Operated Vehicle  KAIKO 7000 url http://www.jamstec.go.jp/e/about/equipment/ships/kaiko7000.html publisher Japan Agency for Marine-Earth Science and Technology (JAMSTEC) accessdate 2008-06-07 ref  but, again, there are probably places at the bottom of the  Arctic Ocean  that are nearer to the center of the Earth.
+
+  What it is like inside  
+ File:Earth-crust-cutaway-english.svg thumb|right|A picture of the inside of the Earth, showing the different levels. In fact, the air and the outside levels are much thinner than shown here 
+
+The  Kola superdeep borehole deepest hole ever dug  is only about  convert 12.3 km mi disp or sp us sigfig 2 . We know something about the inside of the Earth, though, because we can learn things from  earthquake s and the times when  volcano es  Volcanic eruption erupt . We are able to see how quickly the  shock wave s move through Earth in different places.
+
+The inside of Earth is very different from the outside. Almost all of Earth's liquid water is in the  ocean sea s or close to the surface. The surface also has a lot of  oxygen , which comes from plants. Small and simple kinds of life can live far under the surface, but animals and plants only live on the surface or in the seas. The rocks on the surface of Earth ( Earth's crust ) are well known. They are thicker where there is land, between  convert 30 to 50 km mi disp or sp us abbr on sigfig 2  thick. Under the  ocean sea s they are sometimes only  convert 6 km mi disp or sp us abbr on sigfig 2  thick. ref cite web url http://www.agu.org/reference/gephys/15_tanimoto.pdf title Crustal Surface of the Earth author Toshiro Tanimoto accessdate 2009-08-02 publisher American Geophysical Union ref  There are three groups of rocks that make up most of the Earth's crust. Some rock is made when the hot liquid rock comes from inside the earth ( igneous rock s); another type of rock is made when  sediment  is laid down, usually under the sea ( sedimentary rock s); and a third kind of rock is made when the other two are changed by very high  temperature  or  pressure  ( metamorphic rock s). A very few rocks also fall out of the sky ( meteorite s).
+
+Below the crust is warm and almost- liquid  rock that is always moving around (the  Earth's mantle ). Then, there is a thin liquid layer of heated rock (the  outer core ). This is very hot:  convert 7000 degC degF disp or sigfig 2 . ref cite web url http://chianti.geol.ucl.ac.uk/~dario/pubblicazioni/PTRSA2002.pdf title The ab initio simulation of the Earth's core date 2002-04-25 accessdate 2009-08-02 publisher The Royal Society author D. Alfe ref  The middle of the inside of the Earth would be liquid as well but all the weight of the rock above it pushes it back into being solid. This solid middle part (the  inner core ) is almost all  iron . This is what makes the Earth  magnetic field magnetic .
+
+  Pieces of the crust form plates  
+ File:Plates tect2 en.svg thumb|right|A  map picture  showing the Earth's largest and most important plates. 
+ main Plate tectonics 
+
+The  Earth's crust  is solid but made of  plate tectonics parts  which move very slowly. ref name jour cite journal  last Tackley   first Paul J.  title Mantle convection and plate tectonics: towards an integrated physical and chemical theory  journal Science   date 2000-06-16  volume 288   issue 5473   pages 2002-2007  doi 10.1126/science.288.5473.2002  pmid 10856206  ref  The thin level of hard rock on the outside of the Earth rests on hot liquid material below it in the deeper  mantle (geology) mantle . ref name TecPlates cite web url http://volcano.oregonstate.edu/education/vwlessons/lessons/Earths_layers/Earths_layers4.html title The Crust accessdate 2009-07-03 publisher Oregon State University ref  This liquid material moves because it gets heat from the hot center of the earth. The slow movement of the plates is what causes  earthquake s,  volcano es and large groups of mountains on the Earth.
+
+There are three ways plates can come together. Two plates can move towards each other ("convergent" plate edges). This can form  island s (such as  Japan ),  volcanoes , and high  mountain range s (such as the  Andes  and  Himalayas ). ref name book1 cite book  last   Seyfert   first  Carl K.  title   The encyclopedia of structural geology and plate tectonics year 1987 isbn 9780442281250 ref  Two plates can move away from each other ("divergent" plate edges). This gives the  magma warm liquid rock inside the earth  a place to come out. This makes  mid-ocean ridge special mountain range s below the sea or large low lands like  Africa 's  Great Rift Valley . ref name platetectonics.com cite web  title Plate Tectonics: plate boundaries  url   http://www.platetectonics.com/book/page_5.asp   publisher platetectonics.com  accessdate 12 June 2010  ref ref name usgs.understanding.com cite web  title Understanding plate motions  url   http://pubs.usgs.gov/gip/dynamic/understanding.html publisher USGS accessdate 12 June 2010 ref  Plates are able to move beside each other as well ("transform" plate edges, such as the  San Andreas Fault ). This makes their edges crush against each other and makes many  earthquakes shocks as they move . ref name book2 cite book title Plate tectonics: an insider's history of the modern theory of the Earth isbn 9780813341329 last Oreskes fisrt Naomi publisher Westview Press year 2003 ref 
+
+  Surface  
+The outside of the Earth is not even. There are high places called  mountain s, and high flat places called  plateau s. There are low places called  valley s and  canyon s. For the most part, moving  wind air  and  rain water from the sky  and  tide sea s  erosion damages rocks in high places and breaks them into small pieces . The air and water then move these pieces to lower places. Because of this, the Earth would have been very flat a long time before now. The fundamental cause of the differences in the Earth's surface is  plate tectonics .
+
+All places on Earth are made of, or are on top of, rocks. The outside of the Earth is usually not uncovered rock. Over 70 percent %  of the Earth is covered by  ocean sea s full of  salt y water. ref name Physical-Hydro cite web url http://www.physicalgeography.net/fundamentals/8a.html title Chapter 8: Introduction to the Hydrosphere accessdate 2009-08-06 publisher Physical Geography ref  This salty water makes up about 971/2 percent %  of all Earth's water. The  fresh water  people can drink is mostly  ice . Only a very small amount is in  river s and under the Earth for people to drink and use. ref cite web url http://webworld.unesco.org/water/ihp/db/shiklomanov/   title World water resources and their uses  accessdate 2009-08-06 publisher UNESCO ref  The air above the Earth stops the water from going away into  outer space . Also, much of the land on Earth is covered with plants, or with what is left from earlier living things. Places with very little rain are dry wastes called  desert s. Deserts usually have few living things, but life is able to grow very quickly when these wastes have rainfall. Places with large amounts of rain may be  rain forest large woods . Lately, people have changed the  environment  of the Earth a great deal.
+
+  Air  
+ main Atmosphere 
+All around the Earth is a large amount of air (the  atmosphere ). The mass of the Earth pulls the  gas ses in the air down and does not let them go into outer space. The air is mostly made of  nitrogen  (about 78 percent % ) and  oxygen  (about 21 percent % ) but there are a few other gasses as well. ref citeweb url http://www.nasa.gov/audience/forstudents/9-12/features/912_liftoff_atm.html title NASA - Earth's atmosphere accessdate 2009-08-06 publisher NASA ref  Most living things need the air (or parts of the air gripped in the water) to breathe and live. They use the gasses especially  oxygen  and  carbon dioxide to make and use  sugar  and to give themselves power.
+
+The air animals and plants use to live is only the first level of the air around the Earth (the  troposphere ). The day to day changes in this level of air are named  weather ; the changes between places far away from each other and from year to year are named the  climate .  Rain  and  storm s are both in this level. Both come about because this part of the air gets colder as it goes up.  convection Cold air becomes thicker and falls, and warm air becomes thinner and goes up . ref name NASA citeweb url http://www.nasa.gov/worldbook/weather_worldbook.html title  What causes weather? accessdate 2009-08-06 publisher NASA ref  The turning Earth moves the air as well and air moves north and south because the middle of the Earth generally gets more power from the Sun and is warmer than the north and south points. At the same time, air over water (specially very warm water)  evaporation gets water in it  but, because cold air is not able to take in as much water, it starts to make  cloud s and  rain  as it gets colder. The way water moves around in a circle like this is called the  water cycle . ref name NASA 
+
+Above this first level, there are four other levels. The air gets colder as it goes up in the first level; in the second level (the  stratosphere ), the air gets warmer as it goes up. This level has a special kind of  oxygen  called  ozone . The  ozone  in this air keeps living things safe from  ultraviolet radiation damaging rays from the Sun . The power from these rays is what makes this level warmer and warmer. The middle level (the  mesosphere ) gets colder and colder with height; the fourth level (the  thermosphere ) gets warmer and warmer; and the last level (the  exosphere ) is almost outer space and has very little air at all. It reaches about half the way to the Moon. The three outer levels have a lot of  electricity electric power  moving through them; this is called the  ionosphere  and is important for  radio  and other electric waves in the air. It is also where the  Northern Lights  are.
+
+Even though air seems very light, the weight of all of the air above the outside of the Earth ( air pressure ) is important. Generally, from  sea level  to the top of  exosphere the outer level of the air , a space of air one  square centimeter  across has a mass of about 1.03  kilogram kg  and a space of air one  square inch  across has a weight of about 14.7  Pound (mass) pounds . The mass of the air also keeps the Earth safe when rocks ( meteorite s) hit it from outer space. Without the air, the damage meteorites do would be much greater. Because of the air, meteorites generally burn up long before they get to the earth.
+
+The air also keeps the Earth warm, specially the half turned away from the Sun. Some gasses   especially  methane  and  carbon dioxide     greenhouse effect work like a blanket to keep things warm . ref citeweb url http://www.physicalgeography.net/fundamentals/7h.html title Fundamentals of physical geography - the greenhouse effect accessdate 2009-08-06 publisher Physical Geography ref   #History In the past , the Earth has been much warmer and much colder than it is now. Since people have grown used to the heat we have now, though, we do not want the Earth to be too much warmer or colder. Most of the ways people create  electricity electric power  use burning kinds of  carbon especially  coal ,  oil , and  natural gas . Burning these creates new  carbon dioxide  and can cause more warming. A  climate change large discussion  is going on now about what people should do about  global warming the Earth's latest warming , which has gone on for about 150 years. So far, this warming has been good for people: plants have grown better and the weather has been better than  Little Ice Age when it was colder before . Some people who learn about science, though, say that many bad things will possibly come about if the warming goes on.
+
+  People  
+ main Human 
+About seven  billion  people live on Earth. They live in about 200 different lands called  countries . Some (like  Russia ) are large with many large cities. Others (like  the Vatican ) are small. The five countries with the most people are  China ,  India , the  United States ,  Indonesia , and  Brazil . About 90% of people live in the  northern hemisphere north half  of the world, which has most of the land.  Scientist s think that people originally came from  Africa . Now, 70% of all people do not live in Africa but in  Europe  and  Asia . ref Diamond, Jared. 1997.  Guns, Germs, and Steel : the fate of human societies . New York: Norton. ref 
+
+People change the Earth in many ways. They have been able to grow plants for food and clothes for about ten thousand years. When there was enough food, they were able to build towns and cities. Near these places, men and women were able to change rivers,  irrigation bring water to farms , and stop  flood s (rising water) from coming over their land. People found useful animals and  domestication bred  them so they were easier to keep.
+
+  Related pages  
+   Structure of the Earth 
+   Age of the Earth 
+   Geology 
+   Solar System 
+   List of planets 
+
+  References  
+ reflist 2 
+
+  Other websites  
+ Commons Earth 
+ wiktionary Earth earth 
+   Cite web   url    http://www.solarviews.com/eng/earth.htm    title   Solar Views   publisher   Calvin J. Hamilton  
+   Cite web   url    http://www.earth.nasa.gov/science/questions.html    title   NASA - Earth   publisher   Nasa  
+
+ Solar System 
+ good 
+
+ Category:Earth   
+ Category:Geology 
+ Category:Geography

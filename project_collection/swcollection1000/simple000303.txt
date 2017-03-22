@@ -1,0 +1,33 @@
+Mechanistic paradigm
+
+complex date May 2014 
+ original research date May 2014 
+The  mechanistic paradigm , also known as the Newtonian paradigm, assumes that things in the  environment  around  human s are more like  machine s than like  life .  It was more common in the  19th century .  This is a set of loosely related beliefs that affects all  sciences :
+
+ In  physics  it presents  atom s as made of  particle physics particles  in preference to say the  wave theory of light .  In fact, both the particle and wave view are required to explain everything light does, but are rarely presented as equals.  Many physics students graduate fully understanding the  hydrogen bomb  but having no clear idea of how  musical instrument s work.
+ In  astrophysics  it assumes that the  universe  is like  clockwork  and works on its own without our choice making any difference - this fits  relativity  but is not easy to combine with  quantum mechanics .
+ In  cosmology  it accepts  models of our universe  more easily if reject the  continuous creation  of  matter ,  energy  or any new "other universes".
+ In  chemistry  it assumes that  molecule s are like  building block s, and have no unpredictable or strange and unique effects when combined.  This is the basic assumption of  mechanosynthesis  which some scientists think will create a  molecular assembler .
+ In  biology  it assumes that everything about life - all of  biochemistry  - is predictable from  chemistry  and  physics .
+ Believers tend to regard  ecology  and  psychology  as "less scientific" than  physics ,  chemistry  and  biology .
+ Believers may reject ideas like  psychoneuroimmunology ,  Gaia philosophy  or  Fecund universes  for no scientific reason, simply because these theories assume "higher level phenomena" sometimes drive lower levels.
+ Greedy Reductionism  may be more likely among believers in mechanistic ideas.  For instance, they may want to always see things as made of smaller, even invisible, parts that no one can see or prove is real - like in  string theory .
+ For this reason, when they work in  psychology , they may prefer theories like  behaviorism  that deny  free will  and try to explain  human behaviour  as a function of  biology .
+ The  philosophy of mathematics  of most believers is a form of  Platonism .  This assumes there is a perfect or  ideal form  that theories only approximate.  This lets them explain inaccuracies in mechanistic theories as being due to an imperfection in human ability to reason, instead of imperfections in math itself.
+
+Believers in this paradigm sometimes say that those who do not believe in it are following a  cognitive paradigm  - but almost no one uses this term, since it is  redundant  -  cognitive science  is already accepted as the most basic idea in the  philosophy of science .  But mechanists reject some of the ideas of cognitive scientists, like  cognitive science of mathematics .
+
+Mechanistic thinking also assumes that  philosophy of perception  is much less important than cognitive scientists say it is - that humans and their beliefs and equipment do not generally add a lot of  bias  to a scientific theory.   Thomas Kuhn  said otherwise, that these things matter, and that the major assumptions of science, can shift drastically.  This he called a  paradigm shift .  The shift from mechanistic to cognitive paradigm is an example of this.
+Later he used other words to describe the assumptions and beliefs, like  mind-set , but the word "paradigm" is still used.  Some say it is much over-used.
+
+ Economics  is often said to "suffer from" assumptions of the mechanistic paradigm.  Sometimes those who believe in  neoclassical economics  and also in the mechanistic paradigm say they "seek to unify physics and economics," as if people and particles behaved as two examples of the same kind of thing.
+
+ Technology  is often easier to make if people accept a mechanistic paradigm - but it may be harder to say why it does not work, if one believes in these ideas.  For instance,  creating   diagnostic tree s might be easier if one works from  experience , not from an idea of how a technology should or must work.
+
+A controversial idea is that mechanistic ideas are just an older idea called  scholasticism , with more  mathematics .  Both tried to work from what should or must be, instead of what  experiment  seemed to show.
+
+Another controversial idea is that  scientism , belief in science as if it were a  religion  or  ethical tradition , comes from this paradigm.  Most scientists who are mechanistic do not say they see science as a guide to  ethics , but try to keep them separate.
+
+ category:Physics 
+ category:Chemistry 
+ category:Biology

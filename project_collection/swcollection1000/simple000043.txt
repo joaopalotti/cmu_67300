@@ -1,0 +1,19 @@
+Boot device
+
+A  boot device  is used to start a  computer .  It is named after a  boot  which fits on the  foot .  The word  bootstrap  is also closely related, and means, to use something simpler to get something more complex to make itself work better. It comes from the English phrase "pull yourself up by your own bootstraps."
+
+Before a computer can operate normally, it must have  operating system  instructions that tell it how to perform basic functions.  A boot device loads the operating system into the  memory  of the computer. 
+
+Devices that can boot a computer are usually  boot disks  or  boot drives  
+(normally a  hard drive , but can be a  floppy disk  or a  compact disk CD ).  Some  network computer s use  boot chips  that get the  operating system  over a  network .   Web phone s also use such chips to identify the user to the  cell network .   Boot card  standards may let many users boot  kiosk computer s with full  privacy  and access to all  applications  they own. There are also  boot boards  or  boot  add-in  cards  that are more permanent than boot cards.
+
+Some people refer to the boot device as just a  boot  and non-boot devices as  data device s, although it is not the  computer  but the  operating system  that cares about the difference between these.
+
+ Origin 
+The boot in  boot device  is the same as  booting  (or starting up). This is short for bootstrapping, or to start with simple stuff and make complex stuff out of it.
+
+ Other pages 
+ Booting 
+ 
+ category:software 
+ Category:Computer hardware

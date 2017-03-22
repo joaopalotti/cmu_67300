@@ -1,0 +1,74 @@
+Second
+
+complex date April 2012 
+ otheruses 
+
+The  second  (symbol:  s ), sometimes abbreviated  sec. , is the name of a  units of measurement unit  of  time . It is one of the seven  SI base unit s. It is the time taken by 9,192,631,770  cycle s of  radiation  that comes from  electron s moving between two  energy level s of the  caesium -133  atom .
+
+Other (non-SI) units of time are defined in terms of the second. There are 86,400 seconds in one  day , 3,600 seconds in one  hour , and 60 seconds in one  minute .
+
+ SI prefixes  are frequently combined with the word  second  to denote subdivisions of the second,  e.g. , the  millisecond  (one thousandth of a second) and  nanosecond  (one billionth of a second). Though SI prefixes may also be used to form multiples of the second (such as "kilosecond", or one thousand seconds), such units are rarely used in practice. More commonly encountered, non-SI units of time such as the  minute ,  hour , and  day  increase by multiples of 60 and 24 (rather than by powers of ten as in the SI system).
+
+  International second  
+Under the  International System of Units , the second is currently defined as the duration of 9,192,631,770  Period (physics) periods  of the radiation corresponding to the transition between the two  Hyperfine structure hyperfine levels  of the  ground state  of the  caesium -133  atom . ref name USNO cite web   title   Leap Seconds   publisher   Time Service Department,  United States Naval Observatory    url    http://tycho.usno.navy.mil/leapsec.html    accessdate   2006-12-31  ref  This definition refers to a caesium atom at rest at a temperature of 0  Kelvin K  ( absolute zero ). The ground state is defined at zero magnetic field. ref name USNO  The second thus defined is equivalent to the  ephemeris  second.
+
+The international standard symbol for a second is  s  (see  ISO 31-1 )
+
+  Equivalence to other units of time  
+1 international second is equal to:
+  1/60  minute  (1 minute is equal to 60 seconds)
+  1/3,600  hour  (1 hour is equal to 3,600 seconds)
+  1/86,400  day  (1 day, in the sense of non-SI units accepted for use with the International System of Units, is equal to 86,400 seconds)
+There are 31,536,000 seconds in a  common year , 31,622,400 seconds in a  leap year , and 31,557,600 seconds in a  Julian year (astronomy) Julian year 
+
+  Historical origin  
+Originally, the second was known as a "second minute", meaning the second minute (i.e. small) division of an hour. The first division was known as a "prime minute" and is equivalent to the  minute  we know today.
+
+The factor of 60 comes from the  Babylon ians who used factors of 60 in their counting system. However, the Babylonians did not subdivide their time units sexagesimally (except for the day). The  hour  had been defined by the  ancient Egypt ians as either 1/12 of daytime or 1/12 of nighttime, hence both varied with the seasons.  Hellenistic  astronomers, including  Hipparchus  and  Ptolemy , defined the hour as 1/24 of a mean  solar time solar day . Sexagesimally subdividing this mean solar hour made the second 1/86,400 of a mean solar day. fact date April 2007 it's rather unlikely the ancients defined the second this way - which placing it here suggests  Hellenistic time periods like the mean  synodic month  were usually specified quite precisely because they were  calculated  from carefully selected  eclipse s separated by hundreds of years--individual  mean  synodic months and similar time periods cannot be  measured . Nevertheless, with the development of  pendulum  clocks keeping  mean time  (as opposed to the  apparent time  displayed by sundials), the second became measurable. The seconds pendulum was proposed as a unit of length as early as 1660 by the  Royal Society of London . The duration of a beat or half period (one swing, not back and forth) of a pendulum one  metre  in length on the Earth's surface is approximately one second. ref http://www.roma1.infn.it/~dagos/history/sm/node3.html The seconds pendulum ref 
+
+In 1956 the second was defined in terms of the period of revolution of the  Earth  around the Sun for a particular  epoch (astronomy) epoch , because by then it had become recognized that the Earth's rotation on its own axis was not sufficiently uniform as a standard of time. The Earth's motion was described in  Newcomb's Tables of the Sun , which provides a formula for the motion of the Sun at the epoch 1900 based on astronomical observations made between 1750 and 1892. ref name USNO  The second thus defined is
+
+ the fraction 1/31,556,925.9747 of the  tropical year  for 1900 January 0 at 12 hours ephemeris time. ref name USNO 
+
+This definition was ratified by the Eleventh General Conference on Weights and Measures in 1960. The  tropical year  in the definition was not measured, but calculated from a formula describing a tropical year which decreased linearly over time, hence the curious reference to a specific  instantaneous  tropical year. Because this second was the independent variable of time used in  ephemeris ephemerides  of the Sun and Moon during most of the twentieth century (Newcomb's Tables of the Sun were used from 1900 through 1983, and  Ernest William Brown Brown 's Tables of the Moon were used from 1920 through 1983), it was called the ephemeris second. ref name USNO 
+
+With the development of the  atomic clock , it was decided to use atomic clocks as the basis of the definition of the second, rather than the revolution of the Earth around the Sun.
+
+Following several years of work,  Louis Essen  from the  National Physical Laboratory  (Teddington, England) and  William Markowitz  from the  United States Naval Observatory  (USNO) determined the relationship between the hyperfine transition frequency of the  caesium  atom and the ephemeris second. ref name USNO  Using a common-view measurement method based on the received signals from  radio station   WWV (radio station) WWV , ref cite journal title The definition of the 'atomic' second journal Metrologia date first Sigfrido last Leschiutta coauthors volume 42 issue 3 pages S10-S19 id   url http://stacks.iop.org/0026-1394/42/S10 format accessdate ref  they determined the orbital motion of the  Moon  about the Earth, from which the apparent motion of the Sun could be inferred, in terms of time as measured by an atomic clock. As a result, in 1967 the Thirteenth  Conference Generale des Poids et Mesures General Conference on Weights and Measures  defined the second of  International Atomic Time atomic time  in the  SI International System of Units (SI)  as
+
+ the duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom. ref name USNO 
+
+The ground state is defined at zero  magnetic field . The second thus defined is equivalent to the ephemeris second. ref name USNO 
+
+The definition of the second was later refined at the 1997 meeting of the  Bureau International des Poids et Mesures BIPM  to include the statement
+
+ This definition refers to a caesium atom at rest at a temperature of 0 K. 
+
+The revised definition would seem to imply that the ideal atomic clock would contain a single caesium atom at rest emitting a single frequency. In practice, however, the definition means that high-precision realizations of the second should compensate for the effects of the ambient temperature ( black-body radiation ) within which atomic clocks operate and extrapolate accordingly to the value of the second as defined above.
+
+  The second in Role-playing games 
+
+Sometimes in  Role-playing game role-playing games  a second is used to refer to a small period of time or a single turn of combat. It is used as a standard moment of time, and does not necessarily refer to a real second, and could be shorter or longer depending on the scenario.
+
+  Trivia  
+  Until modern times, degrees and hours were divided successively by 60 in  pars minuta prima ,  pars minuta secunda ,  pars minuta tertia  and so on. This evolved to the modern minute and second, but for smaller divisions we follow now the decimal division. In some languages, dictionaries still keep the word for  third  for 1/60 of a second, for example Polish ( tercja ) and Arabic (thlth@).
+
+ Related pages 
+   Leap second 
+   Orders of magnitude (time) 
+   UTC 
+   SI#Units International System of Units 
+   Hertz 
+   Becquerel 
+
+  References  
+ reflist 
+
+  Other websites  
+   http://www.bipm.fr/en/si/si_brochure/chapter2/2-1/second.html Official BIPM definition of the second 
+   http://tycho.usno.navy.mil/leapsec.html Seconds and leap seconds by the USNO 
+   http://www.cl.cam.ac.uk/~mgk25/time/metrologia-leapsecond.pdf The leap second: its history and possible future 
+
+ Category:Units of time 
+ Category:Basic English 850 words 
+ Category:SI units

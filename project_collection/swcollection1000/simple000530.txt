@@ -1,0 +1,111 @@
+Microsoft Windows
+
+Redirect Windows the part of a building Window the version of the OS used on phones Windows Phone 
+ File:Windows logo and wordmark - 2012 (dark blue).png alt=Windowslogo|thumb|200x200px|The Windows logo 
+ Microsoft Windows  is an  operating system  for  computer s which is made by  Microsoft , a company from the  United States .  Almost 90% of  desktop  and  laptop  computers use Windows.
+
+  History  
+The first version of Windows came out on November 20, 1985 and was called  Windows 1.0 . Since then, new versions of Windows go on sale every three years. The newest version,  Windows 10 , came out July 29, 2015. Most newly bought  personal computer s come with Windows 10, although some older or cheaper ones may have older versions such as  Windows 8.1  or  Windows 7  installed. Until July 29, 2016, they can be upgraded to Windows 10 for free.
+
+Windows makes it easier to run  computer software programs  (applications) than  MS-DOS  did. To use  DOS , you  typing typed   Command Line Interface commands  to make the computer do something. You had to use the correct  syntax  of each command. If you made a mistake, the computer usually gave an  error  message and did nothing.
+
+  Design  
+Windows makes it easier to do things because of its  Graphical user interfaces and consoles graphical user interface  (or GUI for short).  It only needs a keyboard  or  a  Computer mouse mouse  to work. However, using both a keyboard and a mouse makes it easier to use Windows. By clicking a few  Button (control) buttons  on the screen, Windows helps keep your files safe, and easier to change and move. The latest versions of Windows also work with  touch screen s, making it even easier to use for  accessibility users with disabilities . Because of this, Windows even comes with some  tablet computer s and  smartphone s.   Mobile device s that use Windows include  Microsoft Surface  and  Microsoft Lumia .
+
+  Programs  
+Some programs are included with Windows. Some examples are:
+
+   WordPad  - to write simple documents, typically using words/text.
+  Windows Photo Viewer - to look at pictures.
+   Microsoft Paint  - to make simple drawings or change pictures.
+   Microsoft Edge  web browser - to use the  Internet  to look at  World Wide Web web  pages and  download  files.
+  Windows DVD Player to watch videos. 
+  Windows Groove to play and listen to music 
+
+Many kinds of applications/programs are available for Windows.  Some popular applications are  video games games ,  word processor s (to write words) or additional programs like  Adobe Flash Player  (to watch some videos and play many games on internet sites).  Adding new applications to Windows is called "installing".  Applications can be bought/purchased on a CD or  DVD .  Applications can also be downloaded from the Internet, some for free, and others you can  Online shopping buy using the internet .
+
+ Software versioning Versions 
+ class wikitable style font-size: 90%; text-align: left;  abbr release  Release date
+ abbr name  Product name
+  Notes
+  Last  Internet Explorer IE 
+ rh  May 22, 1990
+   Windows 3.x Windows 3.xxx 
+  Unsupported (help for problems no longer given by Microsoft)
+   Internet Explorer 5 5.x 
+ rh  July 27, 1993
+   Windows NT 
+  Unsupported
+   Internet Explorer 5 5.x 
+ rh  August 24, 1995
+   Windows 9x 
+  Unsupported
+   Internet Explorer 6 6 
+ rh  November 17, 1996
+   Windows CE 
+  Unsupported
+   Internet Explorer 6 6 
+ rh  February 17, 2000
+   Windows 2000 
+  Unsupported ref cite web url http://support.microsoft.com/lifecycle/?p1=3071 title Microsoft Support Lifecycle date May 4, 2005 accessdate 2007-03-25 publisher Microsoft ref 
+   Internet Explorer 6 6 
+ rh  September 14, 2000
+   Windows Me 
+  Unsupported
+   Internet Explorer 6 6 
+ rh  October 25, 2001
+   Windows XP 
+  Unsupported
+   Internet Explorer 8 8 
+ rh  November 30, 2006 (volume licensing) br January 30, 2007 (retail)
+   Windows Vista 
+  Supported (Microsoft will help fix  Software bug problems  for this kind of Windows, including  Computer security problems that make your computer less safe )
+Version Changed to NT 6.0.6001 with SP1 (4 February 2008)
+   Internet Explorer 9 9 
+ rh  July 2007
+   Windows Home Server  20xx
+  Supported
+   Internet Explorer 8 8 
+ rh  February 2008
+   Windows Server 2008 
+  Supported
+   Internet Explorer 9 9 
+ rh  October 22, 2009
+   Windows 7 
+  Supported
+   Internet Explorer 11 11 
+ rh  October 26, 2012
+   Windows 8 .x
+  Supported
+   Internet Explorer 11 11 
+ rh  August 26, 2012
+   Windows RT  8.x
+  Supported
+   Internet Explorer 11 11 
+ rh  September 4, 2012
+   Microsoft Windows Server 2012 
+  Supported
+ 
+ 
+ rh  July 29, 2015
+   Windows 10  
+  Supported / Current (This is the newest kind of Windows by Microsoft. Microsoft will fix problems like older kinds of Windows, but also sometimes add new features to Windows)
+  11 or  Microsoft Edge Edge 
+ 
+
+  Criticism  
+Many users complain that Windows creates problems for them. Some people say that their computers become slower/less fast because of Windows. Many people also complain about problems that make their computer less safe to use, even though Microsoft tries to fix these problems. Because Windows was until recently the most popular operating system (today mobile operating systems such as Android are more popular), most  computer virus es are created to infect computers running Windows.  fact date February 2015 
+
+  References  
+ reflist 
+
+  Other websites  
+   http://www.microsoft.com/windows The Microsoft Windows website 
+   https://blogs.windows.com/ The Windows Team Blog  - Official blog of the Windows Team at Microsoft
+   http://www.windowsforbeginners.com/ Windows for Beginners  - a site that explains Windows for beginners
+
+
+ Microsoft Windows operating systems 
+ Operating systems 
+
+ Category:Microsoft operating systems

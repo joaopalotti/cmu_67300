@@ -1,0 +1,11 @@
+Server log
+
+A  server log  records what is happening on a  server  at any time.  For example, an  HTTP server  runs a  web site .
+
+ tech-stub 
+
+ Category:internet 
+ Category:Software 
+ Category:Servers 
+
+ de:Logdatei

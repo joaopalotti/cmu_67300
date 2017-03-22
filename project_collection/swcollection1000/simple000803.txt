@@ -1,0 +1,84 @@
+Natural satellite
+
+File:Moon.jpg thumb|230px|Earth's Moon 
+
+A  natural satellite  in  astronomy  is a smaller body which moves around a larger body. The smaller body is held in  orbit  by  gravitation . The term is used for moons which go around  planets , ref name tbf cite book title Edexcel IGCSE Physics Student Book page 51 author1 Arnold, Brian author2 Woolley, Steve author3 Johnson, Penny publisher Pearson Education date 2009 isbn 9780435966904 ref ref cite book author Holland, Simon title Dorling Kindersley Eyewonder: Space date 2001 publisher Dorling Kindersley isbn 9781405304726 ref  and it is also used for small  galaxies  which orbit larger galaxies.
+
+Bodies which orbit planets are called moons. They vary in size, and are ball-shaped. The  Earth  has only one  moon . Some other planets have many moons, and some have none. When people write just " the  moon", they are usually talking about the moon of the Earth. Earth's moon is written with a capital letter,  Moon . The  Latin language Latin  word for the moon is  luna , ref name Collinsfact cite book author Kidd, D. A. title Collins Pocket Latin Dictionary year 2008 publisher HarperCollins isbn 9780007263745 page 207 ref  which is why the  adjective  used to talk about the moon is "lunar". For example,  lunar eclipse .
+
+Anything that goes around a planet is called a  satellite . Moons are  nature natural  satellites. People also use  rocket s to send  machine s into orbit around the Earth. These machines are called  wikt:artificial artificial  (man-made)  Satellite (artificial) satellites .
+
+ Earth's moon 
+ mainarticle The Moon 
+Moons do not make their own  light . We can see the Earth's moon because it acts like a  mirror , and reflects the light of the  Sun .  The same half of the moon faces toward Earth at all times, no matter where it moves. But different parts of the moon are lit up by the Sun, so it looks different at different times of the month. This change as seen from Earth is called the phases of the moon, or  lunar phase s.
+
+A moon's  cycle  is the time the moon takes to change from looking very bright and round to looking very small and thin, and then back to bright and round again. In the case of the Earth's moon, this is about four  week s. It does this about 13 times in one year. The moon's cycle is about 28 days, a bit shorter than a  calendar  month.
+
+The  Apollo 11  mission helped  Neil Armstrong  and  Buzz Aldrin  become the first people to walk on the Moon. They did this in  July 20 ,  1969 .
+
+ Orbits 
+The  orbit  of a moon or other satellite is affected by two  Force (physics) forces :  gravity , and the  centripetal force .
+For example, the Earth's moon is kept in orbit by the gravitational pull from the Earth. This is also the way the Earth is attracted to the  Sun , and stays in its orbit. The orbit of the Earth's moon actually causes the  tide s and  wave s on Earth.
+
+ File:Moons of solar system v7.jpg thumb|center|440px|Selected moons, with the Earth to scale. Nineteen moons are large enough to be round, and one, Titan, has a substantial atmosphere. 
+
+ Moons of moons 
+ File:Rhean rings PIA10246 Full res.jpg thumb|Artist impression of Rhea's rings 
+No moons that belong to moons have been found. In most cases, the tidal effects of the main body would make such as unstable.
+
+However, math completed after the recent finding  ref cite web
+ url http://www.sciencemag.org/cgi/content/abstract/319/5868/1380?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=rhea&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT 
+ title The Dust Halo of Saturn's Largest Icy Moon, Rhea -- Jones et al. 319 (5868): 1380 -- Science
+ accessdate 2008-03-06
+ format 
+ work 
+ ref  of a possible  Rings of Rhea ring system  around Saturn's moon  Rhea (moon) Rhea  show that Rhean orbits would be stable. Also, the rings are thought to be narrow, ref cite web
+ url http://www.newscientist.com/article/dn13421-saturn-satellite-reveals-first-moon-rings.html 
+ title Saturn satellite reveals first moon rings - 06 March 2008 - New Scientist
+ accessdate 2008-03-06
+ format 
+ work 
+ ref  something that is known with shepherd moons.
+
+ Asteroid moons 
+The finding of  243 Ida 's moon  Dactyl (asteroid) Dactyl  in the early 1990s was the proof that some  asteroid s have moons; indeed,  87 Sylvia  has two. Some, such as  90 Antiope , are double asteroids with two same-sized parts.
+
+ Moons of the Solar System 
+The biggest moons in the Solar System (those bigger than about 3000 km across) are Earth's moon,  Jupiter (planet) Jupiter 's  Galilean moon s ( Io (moon) Io ,  Europa (moon) Europa ,  Ganymede (moon) Ganymede , and  Callisto (moon) Callisto ),  Saturn (planet) Saturn 's moon  Titan (moon) Titan , and  Neptune (planet) Neptune 's captured moon  Triton (moon) Triton .
+
+The following is a table grouping the moons of the solar system by diameter. The column on the right has some notable planets, dwarf planets, asteroids, and Trans-Neptunian Objects for comparing.  It is normal for moons to be named after people from  mythology .
+
+ Natural satellites 
+
+ Planets that have moons 
+Planets in our  Solar System  that have moon(s) ref name The Jupiter Satellite and Moon Page cite web last Sheppard first Scott S title The Jupiter Satellite and Moon Page url https://home.dtm.ciw.edu/users/sheppard/satellites/ work Department of Terrestrial Magnetism at Carnegie Institution for Science accessdate 24 August 2016 ref :
+   Earth , 1 moon
+   Mars (planet) Mars , 2 moons
+   Jupiter (planet) Jupiter , 67 moons
+   Saturn (planet) Saturn , 62 moons
+   Uranus (planet) Uranus , 27 moons
+   Neptune (planet) Neptune , 14 moons
+
+ Dwarf planets that have moons 
+   136199 Eris Eris , 1 moon
+   Pluto , 5 moons
+   Haumea , 2 moons
+
+ Planets that do not have moons 
+Planets in our  Solar System  that do not have moons:
+   Mercury (planet) Mercury 
+   Venus (planet) Venus 
+   Makemake (dwarf planet) 
+   Ceres (dwarf planet) 
+
+  Galaxies  
+Galaxies are found in groups called  galaxy cluster s which are also held together by gravitation. Our own  Milky Way  is the second largest galaxy in our  Local Group  (the largest is  Andromeda ). Many smaller galaxies and  star clusters  are also held in the Local Group, outside the two main galaxies. They are all in orbits round one of the  centre of gravity centres of gravity . That means most of them move round either Andromeda or the Milky Way. so it seems natural for astronomers to use the term 'satellite' for these as well.
+
+Our Local Group is itself part of an even larger group, the  Virgo Supercluster . There are other, even larger, groups of galaxies: see the  Great Wall  for an example.
+
+ References 
+ reflist 
+
+ Solar System 
+
+ Category:Moons  

@@ -1,0 +1,29 @@
+Multiplication
+
+File:Simple multiplication.png right|300px 
+ Multiplication  is an  arithmetic  operation for finding the  Product (mathematics) product  of two  number s.
+Multiplication is the third operation in maths after addition which is the first, subtraction which is the second and then there is multiplication.
+
+With  natural number s, it tells you the number of tiles in a  rectangle  where one of the two numbers equals the number of tiles on one side and the other number equals the number of tiles on the other side.
+
+With  real number s, it tells you the  area  of a  rectangle  where the first number equals the size of one side and the second number equals the size of the other side.
+
+For example, three multiplied by five is the  wikt:total total  of five threes  addition added  together, or the total of three fives. This can be written down as 3 x 5 = 15, or spoken as "three times five equals fifteen."  Mathematics Mathematicians  call the two numbers you wish to multiply "coefficients" together, or  "multiplicand"  and  "multiplicator"  separately. Multiplicand x multiplicator = product.
+
+Multiplication between numbers is said to be commutative- when the order of the numbers does not influence the value of the product. This is true for the  Integer s (whole numbers), e.g. 4 x 6 is the same as 6 x 4, and also for the  Rational number s (fractions), and for all the other Real numbers (representable as a field in the continuous line), and also for  Complex number s (numbers representable as a field in the plane). It is not true for  quaternion s (numbers representable as a ring in the four-dimensional space),  vector s or  Matrix (mathematics) matrices .
+ File:Multiplication as scaling integers.gif thumb|245x245px 
+The definition of multiplication as repeated addition provides a way to arrive at a set-theoretic interpretation of multiplication of  cardinal numbers . A more accurate representation is to think of it as scaling quantities. This animation illustrates 3 being multiplied by 2, giving 6 as a result. Notice that the blue dot in the blue segment of length 3 is placed at position 1, and the blue segment is scaled so that this dot is placed at the end of the red segment, of length 2. For multiplication by any X, the blue dot will always start at 1 and end at X. This works even for X smaller than 1, or negative.
+
+The opposite of multiplication is  Division (mathematics) division .
+
+ Multiplication table 
+Teachers usually require their pupils to memorize the table of the first 9 numbers when teaching multiplication.
+ Multiplication table 
+
+  Other pages  
+   Addition 
+   Square number 
+   Subtraction 
+
+ Category:Arithmetics 
+ Category:Hyperoperations

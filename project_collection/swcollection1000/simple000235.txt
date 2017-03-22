@@ -1,0 +1,33 @@
+Pint
+
+The  pint  (abbreviated  pt. ) is a unit of volume in  Imperial units Imperial  and  U.S. customary units U.S. units . There are several types of pints used in different countries. An Imperial pint and U.S. pint both equal  frac 1 2  of a quart and  frac 1 8  of a gallon.
+
+An Imperial fluid ounce is approx. 4% smaller than a U.S. fluid ounce although an Imperial pint has 4 more fluid ounces than a U.S. pint making 1 Imperial Pint roughly 20% larger than a U.S. pint in total.
+
+ Imperial Pint 
+The Imperial pint is the pint used in the  United Kingdom ,  Canada ,  Republic of Ireland Ireland  and  Burma . The unit may appear in other  Commonwealth of Nations Commonwealth  countries that converted to the  Metric System . Confusion in Canada often arises as liquids are often sold in U.S. pints although the official and only pint that is legal in Canada is the Imperial pint. The Imperial system has no dry pint and volume in dry units e.g. apples are the same as liquid pints. 1 Imperial pint of water at 62 degF (16.7 degC) weighs 1 frac 1 4  lbs. (566.99 g)
+
+ class wikitable  Units   Fluid Ounces   Gills   Cups   Pints   Quarts   Gallons   U.S Fluid Ounces   U.S Pints   Millilitres
+  Pint   20   4   2   1    frac 1 2     frac 1 8    19.2152   1.20095   568.26125
+ 
+
+ U.S. Wet Pint 
+The U.S. wet pint or more commonly 'pint' is the unit used to measure volume in the  United States of America United States . It is more common than the dry pint which is used for non-liquid volume measurements. 1 U.S. pint of water at 62 degF (16.7 degC) weighs 1.04375 pounds lbs. (473.437g)
+ class wikitable  Units   Fluid Ounces   Gills   Cups   Pints   Quarts   Gallons   Imp. Fluid Ounces   Imp. Pints   Millilitres
+  Pint   16   4   2   1    frac 1 2     frac 1 8    16.6535   0.832674   473.176473 millilitres
+ 
+
+ U.S. Dry Pint 
+The U.S. dry pint is the unit used for measuring the volume of solid objects instead of by mass or quantity. E.g. a pint of strawberries is a container with a volume of 1 dry pint full of strawberries. 
+ class wikitable  Units   Dry Pints   Dry Quarts   Dry Gallons   Pecks   Bushels   Dry Hogshead   U.S Wet Pints   Imp. Pints   Millilitres
+  Pint   1    frac 1 2     frac 1 8     frac 1 16     frac 1 64     frac 1 512    [?]1.16   [?] 0.97   550.6104713575 
+ 
+
+ Usage 
+  The Wet and Dry U.S pints are still commonly used in the United States.
+ In Canada it is commonly used for alcohol although a pint can vary from 12 fl oz to 20 fl oz and is sometimes incorrectly given in U.S. fl oz
+ In the United Kingdom and Ireland: milk, alcohol and cooking ingredients/tools are often given in pints, although due to E.U regulations most liquids are now given in  Metric system metric units  with occasional dual units.
+ In the United Kingdom milk is often sold in metric quantities equivalent to Imperial pints.
+
+ Category:Imperial units 
+ Category:Units of volume

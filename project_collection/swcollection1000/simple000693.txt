@@ -1,0 +1,17 @@
+Tone language
+
+A  tone language  or  tonal language  is a  language  in which saying  word s with different "tones" (which are like  Pitch (music) pitches in music , but not as many) will change the  meaning  of the words, even if the  pronunciation  of the word is the same otherwise.
+
+Many languages that people in  Asia  speak are tone languages, such as  Chinese language Chinese ,  Vietnamese language Vietnamese ,  Thai language Thai , and  Punjabi . But most languages, including those that come from  Europe  like English, are not tone languages at all. But in some of these,  pitch accent  is important. That means a word's meaning could be different depending on which  syllable  is stressed. Examples include  Swedish language Swedish ,  Norwegian language Norwegian ,  Serbo-Croatian ,  Lithuanian language Lithuanian , and some Asian languages like  Japanese language Japanese . However, pitch accent is not the same as tones.
+
+Some tones may sound alike to people who do not speak a tone language, and can be easy to forget. They are the most difficult part of learning a tone language for many people.
+
+ Example 
+In  Mandarin language Mandarin , the sentence  ma ma ma ma  ( lang cmn Ma Ma Ma Ma  ) includes four different words. If we add numbers to identify the tones, it can be written  ma2 ma1 ma4 ma3 , which means "the  hemp 's mother scolds the  horse ." Some ways of  romanization  write each tone with a different spelling;  ma2 ma1 ma4 ma3  in  Pinyin  would be written  ma mha mah maa  in  Gwoyeu Romatzyh  romanization. Most use numbers or  Diacritic accent marks  ( ma ma ma ma  in Pinyin). There is a  poem  called  :en:Lion-Eating Poet in the Stone Den Lion-Eating Poet in the Stone Den  ( lang zh Shi Shi Shi Shi Shi  ). It has 92  Chinese character characters  in it which are all read the same way in Mandarin ("shi") but have different tones.
+
+Mandarin does not have many  syllable s. For instance, the words for "mother," "hemp," "horse," "scold," and a word put at the end of sentences to make them into questions are all pronounced "ma." For "mother," you say "ma" high and level. For "hemp," you say "ma" starting low and ending high. For "horse," you say "ma" starting fairly high, dipping very low, and then going back up again. For "scold," you say "ma" starting high and ending low. To make a question out of a statement, you add "ma" but keep it very soft and short, and about on the same level. Mandarin has "first tone," "second tone," "third tone," "fourth tone," and "neutral tone." Other Chinese  dialect s have more tones, some as many as twelve.
+
+ Tonal markings 
+ Vietnamese language Vietnamese  and  Pinyin  use accents ( diacritic s) as the  Tonality tone   mark s for the  Latin alphabet Latin script . Each marking defines an altered sound for the  syllable . Most syllables only have one tone marking. But the letters in the syllable can be altered by other special character/letter markings. Syllables usually form one word in un- hyphen ated  Compound word compound  words. Pinyin may have style differences that break from convention (in use) because it is a  demonstration  language. Vietnamese has a national script that always follows the syllable marking style.
+
+ Category:Tonal languages  

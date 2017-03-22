@@ -1,0 +1,236 @@
+Jupiter
+
+otheruses 
+ Infobox Planet
+  bgcolour   #FFC8A0
+  name  Jupiter
+  symbol    File:Jupiter symbol.svg 25px|Astronomical symbol of Jupiter 
+  image    File:Jupiter by Cassini-Huygens.jpg 230px 
+  image_width   230px
+  caption   Photo of Jupiter from  Cassini-Huygens Cassini .
+  orbit_ref  
+ ref name horizons cite web
+   last   Yeomans   first   Donald K.   date   2006-07-13
+   url    http://ssd.jpl.nasa.gov/?horizons 
+   title   HORIZONS System   publisher   NASA JPL
+   accessdate   2007-08-08   -- At the site, go to the "web interface" then select "Ephemeris Type: Elements", "Target Body: Jupiter Barycenter" and "Center: Sun". ref 
+  epoch   J2000
+  aphelion    convert 816520800 km AU 4 abbr on 
+  perihelion    convert 740573600 km AU 4 abbr on 
+  semimajor    convert 778547200 km AU 4 abbr on 
+  eccentricity   0.048775
+  inclination   1.305deg to  Ecliptic br 6.09deg to  Sun 's  equator br 0.32deg to  Invariable plane ref name meanplane cite web
+   date 3 March, 2009
+   title The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+   url http://home.comcast.net/~kpheider/MeanPlane.gif 
+   accessdate 2009-04-10  archiveurl http://web.archive.org/web/20110605114720/http://home.comcast.net/~kpheider/MeanPlane.gif   archivedate  2011-06-05  (produced with  http://chemistry.unina.it/~alvitagl/solex/ Solex 10  written by Aldo Vitagliano; see also  Invariable plane ) ref 
+  asc_node   100.492deg
+  arg_peri   275.066deg
+  mean_anomaly   18.818deg
+  period   4,331.572 day s br 11.85920 julian year (astronomy) yr 
+  synodic_period   398.88 days ref name fact cite web url    http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html title   Jupiter Fact Sheet publisher   NASA last   Williams first   Dr. David R. accessdate   2013-07-19 date   2013-07-01 ref 
+  avg_speed   13.07 km/s ref name fact 
+  satellites   67 ref name fact 
+  physical_characteristics   yes
+  flattening   0.06487 +- 0.00015  
+  mean_radius    nowrap val fmt commas 69911 6 u km   ref name Seidelmann Archinal A'hearn et al. 2007 cite journal  doi   10.1007/s10569-007-9072-y  last1   Seidelmann  first1   P. Kenneth  last2   Archinal  first2   Brent A.  last3   A'Hearn  first3   Michael F.  display-authors   3  last4   Conrad  first4   Albert R.  last5   Consolmagno  first5   Guy J.  last6   Hestroffer  first6   Daniel  last7   Hilton  first7   James L.  last8   Krasinsky  first8   Georgij A.  last9   Neumann  first9   Gregory A.  last10 Oberst   first10 Jurgen    last11 Stooke   first11 Philip J.   last12 Tedesco   first12 Edward F.   last13 Tholen   first13 David J.   last14 Thomas   first14 Peter C.   last15 Williams   first15 Iwan P.   year   2007  title   Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006  journal   Celestial Mechanics and Dynamical Astronomy  volume   98  issue   3  pages   155-180  pmid     pmc     bibcode   2007CeMDA..98..155S  ref    sfnRef Seidelmann Archinal A'hearn et al. 2007 ref 
+  surface_area   6.21796x10 sup 10 sup km2 ref name 1bar This refers to the level of 1  bar (unit) bar   atmospheric pressure  on the planet ref ref name nasafact cite web url http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jupiter&Display=Facts title NASA: Solar System Exploration: Planets: Jupiter: Facts & Figures publisher NASA accessdate 2011-05-07 ref br 121.9 Earths
+  volume   1.43128x10 sup 15 sup km3 ref name fact ref name 1bar   br 1321.3 Earths
+  mass   1.8986x10 sup 27 sup kg ref name fact   br 317.83 Earths
+  density   1.326 g/cm3 ref name fact ref name 1bar 
+  surface_grav   24.79 Acceleration m/s2 ref name fact ref name 1bar br 2.528 g-force g 
+  escape_velocity   59.5 km/s ref name fact ref name 1bar 
+  sidereal_day   9.925 h ref cite web
+    author   Seidelmann, P. K.; Abalakin, V. K.; Bursa, M.; Davies, M. E.; de Burgh, C.; Lieske, J. H.; Oberst, J.; Simon, J. L.; Standish, E. M.; Stooke, P.; Thomas, P. C.
+    year   2001   url    http://www.hnsky.org/iau-iag.htm 
+    title   Report of the IAU/IAG Working Group on Cartographic Coordinates and Rotational Elements of the Planets and Satellites: 2000
+    publisher   HNSKY Planetarium Program
+    accessdate   2007-02-02  ref 
+  rot_velocity   12.6 km/s br 45,300 km/h
+  axial_tilt   3.13deg ref name fact 
+  declination   64.496deg ref name Seidelmann2007 cite journal
+    last  Seidelmann  first  P. Kenneth
+    coauthors  Archinal, B. A.; A'Hearn, M. F.; et al.
+    title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+    journal  Celestial Mechanics and Dynamical Astronomy
+    volume 90   pages 155-180   year 2007
+    doi 10.1007/s10569-007-9072-y
+    url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y 
+    accessdate 2007-08-28  ref 
+  albedo   0.343 ( Bond albedo bond ) br 
+0.52 ( Geometric albedo geom. ) ref name fact 
+  magnitude   -1.6 to -2.94 ref name fact 
+  angular_size   29.8" -- 50.1" ref name fact 
+  pronounce    IPA-en 'dZu:pit@r en-us-Jupiter.ogg ref Jupiter, entry in the Oxford English Dictionary, prepared by J.A. Simpson and E.S.C. Weiner, vol. 8, second edition, Oxford: Clarendon Press, 1989. ISBN 0-19-861220-6 (vol. 8), ISBN 0-19-861186-2 (set.) ref 
+  adjectives   Jovian
+  temperatures   yes
+  temp_name1   1 bar level
+  min_temp_1   
+  mean_temp_1   165 Kelvin K ref name fact 
+  max_temp_1   
+  temp_name2   0.2 bar
+  min_temp_2   
+  mean_temp_2   112 K ref name fact 
+  max_temp   
+  atmosphere   yes
+  atmosphere_ref  
+ ref name fact 
+  surface_pressure   20-200 Pascal (unit) kPa ref cite journal
+    title Probe Nephelometer
+    journal Galileo Messenger   publisher NASA/JPL
+    month March   issue 6
+    url http://www2.jpl.nasa.gov/galileo/messenger/oldmess/2Probe.html 
+    accessdate   2007-02-12  ref  (cloud layer)
+  scale_height   27 km 
+  atmosphere_composition   
+ table 
+ tr td 
+87.8 to 91.8% td td Hydrogen  (H sub 2 sub )
+ td tr tr td 
+8.2 to 12.2% td td Helium 
+ td tr tr td 
+~0.3% td td Methane 
+ td tr tr td 
+~0.026% td td Ammonia 
+ td tr tr td 
+~0.003% td td Hydrogen deuteride  (HD)
+ td tr tr td 
+0.0006% td td Ethane 
+ td tr tr td 
+0.0004% td td water  
+ td tr tr td 
+ Ices : td td 
+ td tr tr td 
+ td td Ammonia 
+ td tr tr td 
+ td td water 
+ td tr tr td 
+ td td ammonium hydrosulfide (NH sub 4 sub SH)
+ td tr table 
+ 
+ File:Jupiter diagram.svg thumb|right|300px|Diagram of Jupiter 
+ File:790106-0203 Voyager 58M to 31M reduced.gif thumb|right|A series of photographs taken by  Voyager 1  as it approached Jupiter, made into an  animation . 
+
+ Jupiter  is the largest  planet  in the  Solar System . ref 'Jupiter' is pronounced  Audio-IPA en-us-Jupiter.ogg ['dZu:pit@] ref  It is the fifth planet from the  Sun . ref name what cite web  url   http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-jupiter-k4.html#.VRt-v45Nhaw   title What Is Jupiter?  first   last   work NASA  year 2014   accessdate April 1, 2015 ref  Jupiter is a  gas giant , both because it is so large and made up of  gas . The other gas giants are  Saturn (planet) Saturn ,  Uranus (planet) Uranus , and  Neptune (planet) Neptune . 
+
+Jupiter has a  mass  of 1.8986x10 sup 27 sup Kilogram kg , or about 318 Earths. ref name fact  This is twice the mass of all the other planets in the Solar System put together. ref name hamilton cite web  url   http://solarviews.com/eng/solarsys.htm   title The Solar System  first Calvin  last Hamilton  work solarviews.com  year 2015  accessdate April 1, 2015 ref 
+
+Jupiter can be seen with the naked eye. It was known to the  Ancient Rome ancient Romans , who named it after their god  Jupiter (god) Jupiter  ( Latin :  Iuppiter ). ref cite book
+ author Stuart Ross Taylor
+ year 2001 title Solar system evolution: a new perspective : an inquiry into the chemical composition, origin, and evolution of the solar system
+ edition 2nd, illus., revised publisher Cambridge University Press
+ isbn 0-521-64130-6 page 208 ref ref cite book last Kidd first D. A. title Collins Pocket Latin Dictionary date 2008 publisher HarperCollins page 194 isbn 9780007263745 ref  Jupiter is the third brightest object in the night sky. Only  the Moon the Earth's moon  and  Venus (planet) Venus  are brighter. ref name unaidedeye cite web  url http://web.archive.org/web/20090605113054/http://www.gsfc.nasa.gov/scienceques2001/20020201.htm title The biggest single object we can see in our galaxy, with the unaided eye  publisher NASA accessdate 2013-09-26  format   work   ref ref cite book first Kenneth R. last Lang title The Cambridge Guide to  the Solar System publisher Cambridge University Press date 2011 edition Second page 285 isbn 978-0-521-19857-8 ref 
+
+Jupiter has at least 67  Satellite (natural) moons . Of these, 55 are very small and less than five  Kilometre kilometres  wide. The four largest  moons of Jupiter  are  Io ,  Europa (moon) Europa ,  Ganymede (moon) Ganymede , and  Callisto . They are called the  Galilean moons , because  Galileo Galilei  discovered them. Ganymede is the largest moon in the Solar System. It is larger in diameter even than  Mercury (planet) Mercury .is my nan
+
+  Structure  
+Jupiter is the biggest planet in the Solar System with a  wikt:diameter diameter  of 142,984 km . This is eleven times bigger than the diameter of Earth. ref name coffey cite web  url   http://www.universetoday.com/22710/jupiter-compared-to-earth/   title Jupiter Compared to Earth  first Jerry  last Coffey  work universetoday.com  year December 22, 2008 accessdate April 1, 2015 ref 
+ File:PIA02863 - Jupiter surface motion animation.gif thumb|right|An  animation  of part of Jupiter's cloud system. The animation is made of over 40  photograph s taken by the  Cassini-Huygens Cassini   spacecraft  between October 31 and November 9, 2000. 
+ File:SL9ImpactGalileo.jpg thumb|Four photographs of Jupiter taken in 1994. The bright white spots are  explosion s where parts of the  comet  Shoemaker Levy-9 hit the planet. 
+ File:Voyager.jpg thumb|right|A picture by an  artist  of the  Voyager 1  spacecraft that flew past Jupiter in 1979. 
+
+  Atmosphere  
+The  atmosphere  near the  wikt:surface surface  of Jupiter is made of about 88 to 92%  hydrogen , 8 to 12%  helium , and 1% other gases. ref name fact  
+
+The lower atmosphere is so heated and the  pressure  so high that helium  condensation changes to liquid . It  rain s down onto the planet. ref cite web  url http://web.archive.org/web/20090410221648/http://ael.gsfc.nasa.gov/jupiterHighlights.shtml   title Highlights of the Galileo Probe Mass Spectrometer Investigation  accessdate 2013-08-23  format   work   ref  Based on  spectroscopy , Jupiter seems to be made of the same gases as  Saturn (planet) Saturn . It is different from  Neptune (planet) Neptune  or  Uranus (planet) Uranus . These two planets have much less hydrogen and helium gas. ref cite web
+    author Ingersoll, A. P.; Hammel, H. B.; Spilker, T. R.; Young, R. E.
+    date 2005  
+    url    http://www.lpi.usra.edu/opag/outer_planets.pdf 
+    format PDF   title   Outer Planets: The Ice Giants
+    publisher   Lunar & Planetary Institute
+    accessdate   2007-02-01  ref 
+
+The very high  temperature s and  pressure s in Jupiter's core mean  scientist s cannot tell what  material s would be there. This cannot be found out, because it is not possible to create the same amount of pressure on Earth. 
+
+Above the unknown inner core is an outer core. The outer core of Jupiter is thick, liquid  hydrogen . ref cite web  url   http://www.universetoday.com/14470/does-jupiter-have-a-solid-core/   title Does Jupiter Have a Solid Core?  first Jerry last Coffey  work universetoday.com  year May 22, 2008  accessdate April 1, 2015 ref  The pressure is high enough to make the hydrogen  solid , but then it  melting melts  because of the heat.
+
+  Mass  
+Jupiter is twice as  mass ive as all the other planets in the Solar System put together. ref name hamilton  It gives off more  heat  than it gets from the  sun . ref cite book
+    first Linda T.   last Elkins-Tanton   year 2006
+    title Jupiter and Saturn   publisher Chelsea House
+    location New York  ref 
+Jupiter is 11 times the width of Earth and 318 times as massive. The  volume  of Jupiter is 1,317 times the volume of Earth. In other words, 1,317 Earth-sized objects could fit inside it. ref citeweb url http://er.jsc.nasa.gov/SEH/jupiter.html title Jupiter publisher NASA accessdate 2009-07-20 ref 
+
+  Cloud layers  
+Jupiter has many bands of  cloud s going  wikt:horizontal horizontally  across its surface. The light parts are zones and the darker are belts. The zones and belts often  wikt:interaction interact  with each other. This causes huge  storm s.  Wind  speeds of 360 kilometres per hour  (km/h) are common on Jupiter. ref cite web  url http://www.lpl.arizona.edu/~showman/publications/ingersolletal-2004.pdf   title Dynamics of Jupiter's atmosphere  accessdate 2009-07-20  format   publisher The University of Arizona ref  To show the difference the strongest  tropical storm s on Earth are about 100 km/h. ref cite web url http://old.weathersa.co.za/References/Cyclones.jsp title Tropical cyclones publisher Weather South Africa accessdate 2009-07-19 archiveurl http://www.webcitation.org/652Gwj0pZ archivedate 2011-01-28 ref 
+
+Most of the clouds on Jupiter are made of  ammonia . ref citeweb url http://www.solarviews.com/eng/jupiter.htm title Jupiter accessdate 2009-07-20 publisher Solar View ref  There may also be clouds of  water vapour  like clouds on Earth.  Spacecraft s such as  Voyager 1  have seen  lightning  on the surface of the planet. Scientists think it was water vapour because lightning needs water vapour. ref name nasagal  These lightning bolts have been measured as up 1,000 times as powerful as those on Earth. ref name nasagal cite web  url http://www.nasa.gov/vision/universe/solarsystem/galileo_end.html   title Surprising Jupiter - Busy Galileo spacecraft showed jovian system is full of surprises  accessdate 2009-07-20  format   publisher NASA ref 
+The  brown  and  orange  colours are caused when sunlight passes through or  refraction refracts  with the many gases in the  atmosphere .
+
+  Great Red Spot  
+One of the biggest features in Jupiter's  atmosphere  is the  Great Red Spot . It is a huge  storm  which is bigger than the entire  Earth . It is on record since at least 1831,  ref cite journal
+  last Denning first W. F.
+  title Jupiter, early history of the great red spot on
+  journal Monthly Notices of the Royal Astronomical Society 
+  date 1899 volume 59 pages 574-584
+  bibcode 1899MNRAS..59..574D
+  doi 10.1093/mnras/59.10.574  ref  and as early as 1665. ref name kyrala26 cite journal
+  last   Kyrala first   A.
+  title An explanation of the persistence of the Great Red Spot of Jupiter
+  journal Moon and the Planets date 1982 volume 26
+  issue   1
+  pages 105-7
+  bibcode 1982M&P....26..105K
+  doi 10.1007/BF00941374 ref ref http://www.gutenberg.org/files/28758/28758-h/28758-h.htm Philosophical Transactions Vol. I  (1665-1666.). Project Gutenberg. Retrieved on December 22, 2011. ref  Images by the  Hubble Space Telescope  have shown as many as two "red spots" adjacent to the Great Red Spot. ref cite web url http://hubblesite.org/newscenter/archive/releases/2008/23/image/a/ title HubbleSite- NewsCenter publisher NASA accessdate December 12, 2013 ref ref cite web url http://hubblesite.org/newscenter/archive/releases/2008/27/image/a/ title HubbleSite- NewsCenter publisher NASA accessdate April 26, 2015 ref  Storms can last for hours or as long as hundreds of years in the case of the Great Red Spot. ref citeweb url http://www.space.com/scienceastronomy/060504_red_jr.html title New Storm on Jupiter Hints at Climate Change publisher Space.com accessdate 2009-07-26 ref ref cite web url http://pds.jpl.nasa.gov/planets/captions/jupiter/febgrs.htm publisher NASA title Great Red Spot accessdate 2009-07-26 ref 
+
+  Magnetic field  
+Jupiter has a  magnetic field  like Earth's but 11 times stronger. ref citeweb url http://csep10.phys.utk.edu/astr161/lect/jupiter/magnetic.html title The Magnetic Field of Jupiter publisher AstroWiki accessdate 2009-07-21 ref  It also has a  magnetosphere  much bigger and stronger than Earth's. The field traps radiation belts much stronger than Earth's  Van Allen radiation belt s, strong enough to endanger any  spacecraft  travelling past or to Jupiter. The magnetic field is probably caused by the large amounts of liquid  metal lic  hydrogen  in the core of Jupiter. ref cite web  url   http://cseligman.com/text/planets/metallichydrogen.htm   title Planetary Magnetic Fields and Metallic Hydrogen  first Courtney  last Seligman  work cseligman.com  year 2014  accessdate April 1, 2015 ref  The four largest  moons of Jupiter  and many of the smaller ones  orbit  or go around the planet within the magnetic field. This protects them from the  solar wind . Jupiter's magnetic field is so large, it reaches the orbit of  Saturn (planet) Saturn  7.7 million  miles  (12 million km) away. ref cite web  url http://www.astrophysicsspectator.com/topics/planets/JupiterMagnetosphere.html   title Jupiter's Magnetosphere  accessdate 2009-07-20  format   work   publisher Astrophysics Spectator ref  The  Earth 's magnetosphere does not even cover its  moon , less than a quarter of a million miles (400,000 km) away.
+
+  Ring system  
+ main article Rings of Jupiter 
+Jupiter also has a thin  planetary ring  system. ref cite web url http://www.nasa.gov/pdf/316306main_JunoFactSheet_2009sm.pdf format PDF page 2 title Juno Mission to Jupiter publisher NASA accessdate 2011-07-21 ref  These rings are difficult to see and were not discovered until 1979 by  NASA 's  Voyager 1  probe. ref name nsse  There are four parts to Jupiter's rings. The closest ring to Jupiter is called the Halo Ring. ref name roj cite web  url   http://www.windows2universe.org/jupiter/rings.html&edu=high   title The Rings of Jupiter - Halo, Main and Gossamer RIng - Composition  first Randy  last Russell  work windows2universe.org  year 2012 accessdate 2012-01-24 ref  The next ring is called the Main Ring. It is about  convert 6440 km mi 0 lk off abbr on  wide and only  convert 30 km mi 0 lk off abbr on  thick. ref name roj  The Main and Halo rings of Jupiter are made of small, dark particles. ref name nsse cite web url http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Jupiter&Display=OverviewLong title NASA: Solar System Exploration: Planets: Jupiter:  Read More publisher NASA accessdate 2011-04-24 ref   The third and fourth rings, called the  Gossamer  Rings, are  transparent  (see through) and are made from  microscopic  debris and dust. ref name nsse  This dust probably comes from small meteors striking the surface of Jupiter's moons. The third ring is called the Amalthea Gossamer Ring, named after moon  Amalthea (moon) Amalthea . The outer ring, the Thebe Gossamer Ring, is named after the moon  Thebe (moon) Thebe . The outer edge of this ring is about  convert 220000 km mi 0 lk off abbr on  from Jupiter. ref name roj 
+
+  Orbit  
+The  orbit  of a planet is the time and path it takes to go around the  Sun . In the amount of time it takes for Jupiter to orbit the Sun one time, the Earth orbits the Sun 11.86 times. ref cite web  url http://zebu.uoregon.edu/~soper/Orbits/jupiterorbit.html   title Jupiter's path in the sky  accessdate 2009-07-20  format   publisher The Electronic Universe ref  One  year  on Jupiter is equal to 11.86 years on Earth. The  wikt:average average  distance between Jupiter and the Sun is 778 million  kilometre s. This is five times the distance between  Earth  and the Sun. Jupiter is not tilted on its  Cartesian coordinate system axis  as much as the Earth or  Mars . This causes it to have no seasons, for example  Summer  or  Winter . Jupiter rotates, or spins around very quickly. ref name cain cite web  url   http://www.universetoday.com/23914/rotation-of-jupiter/   title Rotation of Jupiter  first Fraser  last Cain  work universetoday.com  year January 20, 2009 accessdate April 1, 2015 ref  This causes the planet to  wikt:bulge bulge  in the middle. Jupiter is the fastest spinning planet in the Solar System. ref name cain  It completes one rotation or spin in 10 hours. ref name what  Because of the bulge, the length of the  equator  of Jupiter is much longer than the length from  Geographical pole pole  to pole. ref cite web  url http://ase.tufts.edu/cosmos/view_chapter.asp?id=9&page=3   title Jupiter: a giant primitive planet  accessdate 2009-07-20  format   publisher NASA's Cosmos  ref 
+
+  Research and exploration  
+  From Earth  
+Jupiter is the third brightest object in the night sky, after  the Moon  and  Venus . ref name unaidedeye  Because of that, people have always been able to see it from Earth. The first person known to really study the planet was  Galileo Galilei  in 1610. ref name Galileo  He was the first person to see Jupiter's  Natural satellite moons   Io ,  Europa (moon) Europa ,  Ganymede  and  Callisto . ref name Galileo citeweb url http://www2.jpl.nasa.gov/galileo/ganymede/discovery.html title Jupiter publisher NASA accessdate 2009-07-17 ref  This was because he used a  telescope , unlike anyone before him.
+
+No new moons were discovered for more than two hundred years. In 1892,  astronomer   E.E Barnard  found a new moon using his  observatory  in  California . He called the moon  Amalthea . ref cite web  url http://www.phys-astro.sonoma.edu/BruceMedalists/Barnard/   title Edward Emerson Barnard  accessdate 2009-07-20  format   publisher The Bruce Medalists  ref  It was the last of Jupiter's 67 moons to be discovered by  human  observation through a  telescope . ref name Galileo 
+In 1994, bits of the  comet   Shoemaker Levy-9  hit Jupiter. It was the first time  humans people  saw a collision between two  Solar System  objects. ref name Shoemaker-Levy cite web  url http://www2.jpl.nasa.gov/sl9/   title Comet Shoemaker-Levy Collision with Jupiter  accessdate 2009-07-20  format   publisher NASA  ref 
+
+  From spacecraft  
+Seven  spacecraft  have flown past Jupiter since 1973. ref name what  These were  Pioneer 10  (1973),  Pioneer 11  (1974), Voyagers  Voyager 1 1  and  Voyager 2 2  (1979),  Ulysses (spacecraft) Ulysses  (1992 and 2004),  Cassini-Huygens Cassini  (2000) and  New Horizons  (2007).
+
+The Pioneer missions were the first spacecraft to take close up pictures of Jupiter and its moons. Five years later, the two Voyager spacecraft discovered over 20 new moons. They captured  Photography photo   evidence  of  lightning  on the night side of Jupiter. ref cite web  url http://adsabs.harvard.edu/abs/1981JGR....86.8713G   title The helium abundance of Jupiter from Voyager  accessdate 2009-07-20  publisher Harvard University  work   ref 
+
+The  Ulysses (spacecraft) Ulysses  probe was sent to study the  Sun . It only went to Jupiter after it had finished its main mission. Ulysses had no  camera s so it took no photographs.
+In 2006, the Cassini spacecraft, on its way to  Saturn (planet) Saturn , took some very good, very clear pictures of the planet. Cassini also found a moon and took a picture of it but it was too far away to show the details. ref cite web  url http://adsabs.harvard.edu/abs/2004Icar..172....1H   title The Cassini-Huygens flyby of Jupiter  accessdate 2009-07-20  format   publisher Harvard University  ref 
+
+The Galileo mission in 1995 was the first spacecraft to go into  orbit  around Jupiter. It flew around the planet for seven years and studied the four biggest moons. It launched a probe into the planet to get  information  about Jupiter's atmosphere. The probe travelled to a depth of about 150 km before it was crushed by the weight of all the  gas  above it. ref name Gal2 cite web  url http://www2.jpl.nasa.gov/galileo/   title Galileo End of Mission Status  accessdate 2009-07-20  format   publisher NASA  ref  This is called  pressure . The Galileo spacecraft was also crushed in 2003 when  NASA   steer ed the craft into the planet. They did this so that the craft could not crash into  Europa (moon) Europa , a  Satellite (natural) moon  which  scientist s think might have  life . ref name Gal2 
+
+ NASA  have sent another spacecraft to Jupiter called  Juno (spacecraft) Juno . It was launched on  August 5, 2011. ref cite web url http://www.nasa.gov/mission_pages/juno/launch/index.html title Juno Launch publisher NASA accessdate 2011-07-05 first Tony last Greicius date 2011-05-24 ref  The spacecraft arrived at Jupiter on July 4, 2016. ref cite web url http://www.nasa.gov/press-release/nasas-juno-spacecraft-in-orbit-around-mighty-jupiter title NASA's Juno Spacecraft in Orbit Around Mighty Jupiter publisher NASA date 2016-07-05 accessdate 2016-07-22 ref  Several missions have been planned to send spacecraft to Jupiter's  Satellite (natural) moons   Europa (moon) Europa  and  Callisto . One called JIMO (Jupiter Icy Moons Orbiter) was cancelled in 2006 because it cost too much  money . ref cite web  url http://www.msnbc.msn.com/id/6928404/   title White House scales back space plans  accessdate 2009-07-20  format   publisher MSN  ref 
+
+  Moons  
+ main Moons of Jupiter 
+
+Jupiter has 67 known moons. ref name fact  The four largest were seen by  Galileo  with his primitive telescope, and nine more can be seen from Earth with modern telescopes. The rest of the moons have been identified by spacecraft. ref citeweb url http://planetarynames.wr.usgs.gov/append7.html#JovianSystem title Jovian System publisher U.S. Geological Survey accessdate 2009-07-24 ref  The smallest moon ( S/2003 J 12 ) is only one  kilometre  across. The largest,  Ganymede , has a diameter of 5,262 kilometres. It is bigger than the planet  Mercury (planet) Mercury . ref cite web  url http://www.nineplanets.org/ganymede.html   title Ganymede  accessdate 2009-07-20  format   publisher Nine Planets  ref  The other three Galilean moons are  Io ,  Europa (moon) Europa  and  Callisto . Because of the way they orbit Jupiter,  gravity  affects three of these moons greatly. The  friction  caused by the gravity of Europa and Ganymede pulling on Io makes it the most  volcanoes volcanic  object in the Solar System. It has over 400 volcanoes, more than three times as many as  Earth . ref cite web  url http://adsabs.harvard.edu/abs/2004Icar..169..140L   title Lava lakes on Io: observations of Io's volcanic activity from Galileo NIMS during the 2001 fly-bys  accessdate 2009-07-20  format   publisher Harvard University  ref 
+
+  Jupiter in the Solar System  
+ File:InnerSolarSystem-en.png thumb|A diagram of the inner Solar System. It shows the two groups of  Trojan asteroid s that follow Jupiter in its orbit 
+Jupiter's large gravity has had a big effect on the  Solar System . Jupiter protects the inner planets from  comet s by pulling them towards itself. Because of this, Jupiter has the most comet impacts in the Solar System. ref name Shoemaker-Levy 
+
+Two groups of  asteroid s, called  Trojan asteroid s, have settled into Jupiter's orbit round the Sun. One group is called the  Trojans  and the other group is called the  Greeks . They go around the Sun at the same time as Jupiter. ref cite journal   title Planetary science: The Trojan is out there   first Alison   last Wright   journal Nature Physics   volume 7   page 592   year 2011   doi 10.1038/nphys2061   date August 1, 2011   url http://www.nature.com/nphys/journal/v7/n8/full/nphys2061.html    accessdate 2011-08-12  bibcode   2011NatPh...7..592W  ref ref Robutel P. & Souchay J. 2010. "An introduction to the dynamics of trojan asteroids", in Dvorak, Rudolf & Souchay, Jean  Dynamics of small Solar System bodies and exoplanets . Lecture Notes in Physics, 790, Springer. p197 ISBN 3642044573 ref 
+
+  Related pages  
+   List of planets 
+   Comet Shoemaker-Levy 9 
+ clear 
+
+  References and Notes  
+ reflist 2 
+
+  Other websites  
+ sisterlinks 
+   citeweb url http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jupiter title  Jupiter Profile publisher http://solarsystem.nasa.gov NASA's Solar System Exploration accessdate 2009-09-05 
+   citeweb url http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html title Jupiter Fact Sheet accessdate 2009-09-05 publisher NASA 
+   citeweb url http://www.psrd.hawaii.edu/Archive/Archive-Jupiter.html title  Moons of Jupiter articles in Planetary Science Research Discoveries publisher Planetary Science Research Discoveries accessdate 2009-09-05 
+   http://en.citizendium.org/wiki/Jupiter_(planet) Jupiter (planet)  -Citizendium
+
+ Moons of Jupiter 
+ Solar System 
+ vgood 
+
+ Category:Jupiter   
+ Category:Very good articles

@@ -1,0 +1,25 @@
+Metabolism
+
+File:ATP-3D-vdW.png thumb|right|Structure of  adenosine triphosphate  (ATP), a central intermediate in energy metabolism 
+
+ Metabolism  is the name given to the  chemical reaction s which keep us alive. It happens in the cells of living  organisms .
+
+Reactions  catalysis catalyzed  by  enzyme s allow organisms to grow, reproduce, maintain their structures, and respond to their environments. The word 'metabolism' can also refer to  digestion  and the transport of substances into and between different cells.
+
+Metabolism is usually divided into two categories.  Catabolism  breaks down organic matter and harvests energy by way of  cellular respiration .  Anabolism  uses energy to construct  molecules  such as  protein s and  nucleic acid s.
+
+The chemical reactions of metabolism are organized into metabolic pathways, or cycles, like the  Krebs cycle . One chemical is transformed through a series of steps into another chemical by a series of enzymes.
+
+The metabolic system of an organism decides which substances it finds  nutrition nutritious  and which  poison ous. For example, some  prokaryote s use  hydrogen sulfide  as a nutrient, yet this gas is poisonous to animals. ref name Physiology1 cite journal  author Friedrich C.  title Physiology and genetics of sulfur-oxidizing bacteria  journal Adv Microb Physiol  volume 39  issue   pages 235-89  year 1998  pmid 9328649  doi 10.1016/S0065-2911(08)60018-1  series Advances in Microbial Physiology  isbn 9780120277391 ref  The speed of metabolism, the  metabolic rate , influences how much food an organism will need, and how it is able to get that food.
+
+A striking feature of metabolism is the similarity of the basic metabolic pathways and components between even vastly different species. ref cite journal  author Pace N.R.  title The universal nature of biochemistry  journal Proc. Natl. Acad. Sci. U.S.A.  volume 98  issue 3  pages 805-8  date 2001  pmid 11158550  pmc 33372  doi 10.1073/pnas.98.3.805  bibcode 2001PNAS...98..805P ref  For example, the set of  carboxylic acid s that are best known as the intermediates in the  citric acid cycle  are present in all known organisms, being found in species as diverse as the  Unicellular organism unicellular  bacterium  Escherichia coli  and huge  multicellular organism multicellular  organisms like  elephant s. ref name SmithE cite journal  author Smith E. & Morowitz H.  title Universality in intermediary metabolism  pmc 516543  journal Proc Natl Acad Sci USA  volume 101  issue 36  pages 13168-73  year 2004  pmid 15340153  doi 10.1073/pnas.0404922101  url http://www.pnas.org/cgi/pmidlookup?view=long&pmid=15340153 bibcode   2004PNAS..10113168S  ref  These striking similarities in metabolic pathways are likely due to their early appearance in the evolution of life, and kept because of their efficiency. ref name Ebenhoh cite journal  author Ebenhoh O. & Heinrich R.  title Evolutionary optimization of metabolic pathways. Theoretical reconstruction of the stoichiometry of ATP and NADH producing systems  journal Bull Math Biol  volume 63  issue 1  pages 21-55  year 2001  pmid 11146883  doi 10.1006/bulm.2000.0197 ref ref name Cascante cite journal  author Melendez-Hevia E; Waddell T. & Cascante M.  title The puzzle of the Krebs citric acid cycle: assembling the pieces of chemically feasible reactions, and opportunism in the design of metabolic pathways during evolution  journal J Mol Evol  volume 43  issue 3  pages 293-303  year 1996  pmid 8703096  doi 10.1007/BF02338838 ref 
+
+ Related pages 
+ Catabolism 
+ Anabolism 
+ Metabolic rate 
+
+ References 
+ Reflist 
+
+ Category:Metabolism  

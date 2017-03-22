@@ -1,0 +1,459 @@
+Romania
+
+cleanup date November 2011 
+ Infobox country
+ native_name    native name ro Romania icon no 
+ conventional_long_name   Romania
+ common_name   Romania
+ image_flag   Flag of Romania.svg
+ image_coat   Coat of arms of Romania.svg
+ image_map   EU-Romania.svg
+ map_caption  Location of  Romania  (dark green):  legend #A9A9A9 on the  Europe European continent  (incl. the EU) legend #90EE90 in the  European Union 
+ national_anthem    span style line-height:1.25em; Desteapta-te, romane! small br Awaken thee, Romanian! small span br center File:Desteapta-te, romane!.ogg center 
+ official_languages    Romanian language Romanian 
+ ethnic_groups    89.5%  Romanians br 6.6%  Hungarians in Romania Hungarians br 2.5%  Roma minority in Romania Roma br 2%  minorities of Romania other minorities ref 
+ cite web
+ url http://www.edrc.ro/recensamant.jsp?regiune_id=0&judet_id=0&localitate_id=0 
+ title Romanian 2002 census  ro icon 
+ publisher www.edrc.ro
+ accessdate 2010-02-22
+ last 
+ first 
+ 
+ ref 
+ ethnic_groups_year   2002
+ demonym    Romanians Romanian 
+ government_type    Unitary state Unitary   Semi-presidential system semi-presidential republic 
+
+ largest_city   capital
+ regional_languages  
+ latd   44
+ latm   25
+ latNS   N
+ longd   26
+ longm   06
+ longEW   E
+ leader_title1    President of Romania President 
+ leader_name1    Klaus Iohannis  
+ leader_title2    Prime Minister of Romania Prime Minister 
+ leader_name2    Sorin Grindeanu 
+ leader_title3    President of the Senate of Romania President of Senate 
+ leader_name3    Catalin-Popescu Tariceanu 
+ leader_title4    President of the Chamber of Deputies of Romania President of Chamber 
+ leader_name4   Valeriu Zgonea
+ legislature    Parliament of Romania Parlamentul Romaniei 
+ upper_house    Senate of Romania Senate 
+ lower_house    Chamber of Deputies of Romania Chamber of Deputies 
+ area_rank   83rd
+ area_magnitude   1_E+11
+ area_km2   238,391
+ area_sq_mi   92,043  
+ percent_water   3
+ population_estimate_year  
+ population_estimate  
+ population_estimate_rank   52nd
+ population_census_year   2011
+ population_census   19,042,936 ref name recensamantromania.ro http://www.recensamantromania.ro/wp-content/uploads/2012/02/Comunicat_DATE_PROVIZORII_RPL_2011.pdf ref 
+ population_density_km2   79
+ population_density_sq_mi   233  
+ population_density_rank   104th
+ GDP_PPP_year   2011
+ GDP_PPP   $254.918 billion ref International Monetary Fund ,  http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/index.aspx World Economic Outlook Database, September 2011 :  http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=PPPGDP&grp=0&a=&pr.x=67&pr.y=9 Nominal GDP list of countries . Data for the year 2010. ref 
+ GDP_PPP_rank   46th
+ GDP_PPP_per_capita   $12,358 ref Data refer to the year 2010.  http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?pr.x=30&pr.y=15&sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=PPPPC&grp=0&a= World Economic Outlook Database-September 2011 ,  International Monetary Fund . Retrieved September 20, 2011. ref 
+ GDP_PPP_per_capita_rank   73rd
+ GDP_nominal   $185.315 billion ref Nominal GDP list of countries for the year 2010.  http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?pr.x=45&pr.y=3&sy=2010&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=NGDPD&grp=0&a= World Economic Outlook Database-September 2011 ,  International Monetary Fund . Retrieved September 26, 2011. ref 
+ GDP_nominal_rank   48th
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $8,666 ref Data refer to the year 2010.  http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?pr.x=61&pr.y=13&sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C869%2C436%2C746%2C136%2C926%2C343%2C466%2C158%2C112%2C439%2C111%2C916%2C298%2C664%2C927%2C826%2C846%2C542%2C299%2C967%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=NGDPDPC&grp=0&a= World Economic Outlook Database-September 2011 ,  International Monetary Fund . Retrieved September 26, 2011. ref 
+ GDP_nominal_per_capita_rank   78th
+ HDI_year   2011
+ HDI   0.781
+ HDI_change   increase 
+ HDI_ref    ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf title Human Development Report 2010 year 2010 publisher United Nations accessdate 5 November 2010 ref 
+ HDI_rank   47th 
+ HDI_category    span style color:#090; very high span 
+ Gini   32
+ Gini_ref    ref cite web url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html title CIA - The World Factbook - Field Listing :: Distribution of family income - Gini index publisher Central Intelligence Agency accessdate 31 December 2010 ref 
+ Gini_year   2008
+ Gini_category    span style color:#fc0; medium span 
+ sovereignty_type    History of Romania Formation 
+ sovereignty_note  
+ established_event1    United Principalities Little Union sup 1 sup 
+ established_date1   January 24, 1859
+ established_event2    Romanian War of Independence Independence  from the  Ottoman Empire sup 2 sup 
+ established_date2   1877/1878
+ established_event3    Union of Transylvania with Romania Great Union sup 3 sup 
+ established_date3   December 1, 1918
+ accessionEUdate   January 1, 2007
+ currency    Romanian leu sup 4 sup 
+ currency_code   RON
+ time_zone    Eastern European Time EET 
+ utc_offset   +2
+ time_zone_DST    Eastern European Summer Time EEST 
+ utc_offset_DST   +3
+ drives_on   right
+ cctld    .ro sup 5 sup 
+ calling_code    Telephone numbers in Romania 40 
+ footnotes    sup 1 sup  The Little Union refers to the double election of  Alexandru Ioan Cuza  in  Wallachia  and  Moldavia  (January 5, respectively January 24, 1859). br sup 2 sup  Independence proclaimed on May 9, 1877, internationally recognized in 1878. br sup 3 sup  The Great Union was the union of Romania with  Bessarabia ,  Bukovina  and  Transylvania  in 1918 and the creation of  Greater Romania . br sup 4 sup  The  Romanian leu leu  was redenominated on July 1, 2005. As of that date 10,000 (old) lei (ROL) = 1 (new) leu (RON). br sup 5 sup  The  .eu  domain is also used, as in other  European Union  member states.
+ 
+
+ Romania  (old spelling:  Rumania ,  Roumania ;  lang-ro Romania ,  IPA2 ro.mi'ni.a ) is a  country  in southeastern  Europe ref Cite web url https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html title 1 first last date website publisher accessdate ref . It is north of the  Balkan Peninsula , on the Lower  Danube Danube River . Part of Romania is circled by the  Carpathian Mountains . It also has a border on the  Black Sea . ref http://www.nato.int/invitees2004/romania/glance.htm North Atlantic Treaty Organization (NATO), Official Raport ref  Most of the  Danube Delta  is found inside Romania. Romania shares borders with  Hungary  and  Serbia  to the west,  Ukraine  to the far northeast, the  Republic of Moldova  to the near northeast, and  Bulgaria  to the south.
+
+Romania is a  semi-presidential system semi-presidential   unitary state . It was created when  Moldavia  and  Wallachia  joined together in 1859. It was given its  Romanian War of Independence independence  in the  Treaty of Berlin (1878) Treaty of Berlin of 1878 . At the end of  World War II , some of its land (close by what is now known as  Moldova ) was occupied by the  USSR . After the  Iron Curtain  fell in  Romanian Revolution of 1989 1989  Romania was liberated from the communist regime. During the  2000s , Romania made changes to the country, such as reform the  democracy democratic  system,  human rights  acts,  freedom of speech  acts,  economy  and  law . That let Romania  Accession of Romania to the European Union join the European Union  on January 1, 2007.
+
+Romania has the  List of European Union member states by area 9th biggest area of land  and the  List of European Union member states by population 7th biggest population  (with 19 million people ref name recensamantromania.ro ) of the  European Union member state s. The  Capital (city) capital  and biggest  city  in Romania is  Bucharest  ( lang-ro Bucuresti   Audio-IPA Ro-Bucuresti.ogg /bu.ku'reStj/ ), with a  population  of 1.6 million. One of the cities in Transylvania,  Sibiu , was named a  European Capital of Culture . ref cite web publisher The Selection Panel for the European Capital of Culture (ECOC) 2007 title Report on the Nominations from Luxembourg and Romania for the European Capital of Culture 2007 date 2004-04-05 url http://ec.europa.eu/culture/not_found_en.htm accessdate 2008-01-20 ref  Romania joined  NATO  on March 29, 2004.
+
+ Origin 
+The word  Romania  ( Rumania  or  Romania ) comes from the  Romanian language Romanian  word  Roman , which comes from the  Latin  word  Romanus  which means " Ancient Rome Roman ". ref cite journal title Decadence, Rome and Romania, the Emperors Who Weren't, and Other Reflections on Roman History journal The Proceedings of the  http://www.friesian.com/ Friesian School author  Kelley L. Ross year 2003 quote Note: The Vlach Connection url http://www.friesian.com/decdenc2.htm accessdate 2008-01-13 ref ref cite journal journal Speculum (A Journal of Mediaeval Studies) title Romania: The Latin Empire of Constantinople first Robert Lee last Wolff volume 23 issue 1 year 1948 month January pages 1-34 url http://www.jstor.org/cookieabsent.html accessdate 2008-01-13 ref  English  wikt:text texts  still used the word  Rumania  during  World War II . This came from the  French language French  word  Roumanie . ref http://www.lib.utexas.edu/maps/historical/s_approaches_1942-1945.jpg Map of Southern Europe, 1942-1945  from the United States Army Center of Military History via the  University of Texas at Austin  Perry-Castaneda Library Map Collection ref 
+
+  History  
+  Prehistory and the Romans  
+
+Some of the oldest  human  remains found in  Europe  were discovered in Romania. ref Citation last Trinkaus first  E. title Early Modern Human Cranial remains from the Pestera cu Oase journal  Journal of Human Evolution volume 45 pages 245-253 year 2003 url  http://www.geo.edu.ro/sgr/mod/downloads/PDF/Trinkaus-JHE-2003-45-245.pdf accessdate 2008-01-10 doi 10.1016/j.jhevol.2003.08.003 ref  They were about 42,000 years old. This may have been when the first  Homo sapiens  came to Europe. ref Citation last Zilhao first Joao title Neanderthals and Moderns Mixed and It Matters journal Evolutionary Anthropology volume  15 pages 183-195 date year 2006 url http://www3.interscience.wiley.com/cookie_setting_error.html accessdate 2008-01-10 doi 10.1002/evan.20110 ref  
+The world's first and oldest  writing  comes from people who lived in today's Romania. Approximately 5300 years BC. According to  archaeology  it is not a matter of symbols, but the world's first writings. It belonged to the Vinca culture which inhabited all of today's Serbia with over 150 Vinca sites and minor parts of Western Romania, northwestern Bulgaria, eastern Bosnia and Herzegovina and Southeastern Hungary.
+ File:REmpire-Dacia.png thumb|350px|left|The Roman province of Dacia in red. 
+
+ Herodotus  in the fourth book of  Histories (Herodotus) The Histories , written in about 440  BCE . Herodotus wrote that the  Getae  were defeated by the  Persian Empire Persian  Emperor  Darius I of Persia Darius the Great  when he battled the  Scythians . ref Citation last  Herodotus author-link  Herodotus translation   William Beloe title  The Ancient History of Herodotus By Herodotus digitized  Google Book Search pages  213-217 publisher   Derby & Jackson year  1859 url  http://books.google.com/books?id=sfHsgNIZum0C&pg=PA215&lpg=PA215&dq=herodotus+dacians+darius&source=web&ots=G4uX7Mnsqb&sig=kYPtXH157JEzuk7V618EreDadqY&hl=en accessdate 2008-01-10 ref  The Getae were called the  Dacians  by the Romans. They were  Thracians  who were living in  Dacia , which is where Romania,  Moldova  and the northern part of  Bulgaria  are now. The Dacians attacked the  Roman province , the border of which was formed by the Danube, in 87  CE . This was during Emperor  Domitian 's rule. The Dacians were defeated by the  Roman Empire  under Emperor  Trajan  in  Trajan's Dacian Wars two battles  that lasted from 101  CE  until 106  CE . ref Citation title  Assorted Imperial Battle Descriptions publisher  De Imperatoribus Romanis, An Online Encyclopedia of Roman Emperors url  http://www.roman-emperors.org/assobd.htm#s-inx accessdate 2008-01-10 ref  The Roman Empire made Dacia into the province of  Roman Dacia .
+
+A lot of  ore , such as  gold  and  silver , were found in Roman Dacia. ref cite web title Dacia-Province of the Roman Empire publisher  United Nations of Roma Victor url  http://www.unrv.com/provinces/dacia.php quote "and were found in great quantities in the  Western Carpathians . After  Trajan 's conquest he brought back to Rome over 165 tons of gold and 330 tons of silver" accessdate 2008-01-10 ref  A lot of gold and silver were found in the  Western Carpathians . Trajan went back to Rome with 165 tons (330,000 pounds) of gold and 330 tons (660,000 pounds) of silver after his  conquest . 
+
+There were many Romans living in the province of Roman Dacia. ref citebook last Deletant first Dennis title Colloquial Romanian publisher Routledge date 1995 location New York pages  1 ref  They spoke  Vulgar Latin . They began to write the local languages using the Latin  alphabet . Writing languages with the Latin alphabet is called  romanization . This became the first version of Romanian. ref citebook last Matley first Ian title Romania; a Profile publisher Praeger date 1970 pages 85 ref ref citebook last Giurescu first Constantin C. title The Making of the Romanian People and Language publisher Meridiane Publishing House date 1972 location Bucharest pages 43, 98-101,141 ref 
+
+In the 3rd century, the province was attacked by groups of  nomad ic people like the  Goths . They made the  Roman Empire  leave  Dacia  about 271  CE . This became the Roman Empire's first  wikt:abandoned abandoned  province. ref citebook last  Eutropius authorlink Eutropius coauthors Justin, Cornelius Nepos title Eutropius, Abridgment of Roman History publisher George Bell and Sons date 1886 location London url http://www.ccel.org/p/pearse/morefathers/eutropius_breviarium_2_text.htm ref ref cite web last Watkins first Thayer title The Economic History of the Western Roman Empire url http://www.sjsu.edu/faculty/watkins/barbarians.htm quote "The Emperor Aurelian recognized the realities of the military situation in Dacia and around 271 A.D. withdrew Roman troops from Dacia leaving it to the Goths. The Danube once again became the northern frontier of the Roman Empire in eastern Europe" ref 
+
+The  wikt:origin origin  of modern Romanians is widely talked about by  historians  to this day. It is thought that the Romanians were formed from big  wikt:ethnic ethnic  groups that came from both the south and north parts of the Danube. ref cite web last Ghyka first Matila title A Documented Chronology of Roumanian History place Oxford publisher  B. H. Blackwell Ltd. year 1841  url http://www.vlachophiles.net/ghika.htm  archiveurl http://web.archive.org/web/20070125091613/http://www.vlachophiles.net/ghika.htm accessdate 2008-08-19 archivedate 2007-01-25 ref 
+
+ Dark Ages and Middle Ages 
+ gallery 
+File:Trajan-Xanten.JPG|[[Trajanus]]
+File:Cucutenireprezentarezoomorfica.JPG|[[Cucuteni-Trypillian culture]]
+File:Vexilloid of the Roman Empire.svg|[[Ancient Rome]]s flag
+File:Bran Castle.jpg|[[Bran Castle]]
+ gallery 
+
+From 271 to 275, the  Goths  took over the abandoned Roman province. ref citebook last Jordanes authorlink Jordanes title   Getica, sive, De Origine Actibusque Gothorum year  551  CE location  Constantinople url http://www.harbornet.com/folks/theedrich/Goths/Goths1.htm ref  They lived in  Dacia  until the 4th century, when another group of wandering peoples, the  Huns , came to Dacia. ref Citation last Iliescu first Vl. last2 Paschale first2 Chronicon title Fontes Historiae Daco-Romanae volume II pages 363, 587 place Bucuresti year 1970 ref  The  Gepids , ref name gepids ref Citation first Istvan last Bona editor-last Kopeczi editor-first   Bela title History of Transylvania: II.3. The Kingdom of the Gepids volume 1 publisher Institute of History of the Hungarian Academy of Sciences  distributor Columbia University Press place New York year 2001 url http://mek.oszk.hu/03400/03407/html/33.html ref   Eurasian Avars Avars , with the Slavic people, ref Citation  first Istvan   last Bona  editor-last   Kopeczi  editor-first   Bela   title   History of Transylvania: II.4. The Period of the Avar Rule  volume   1  publisher   Institute of History of the Hungarian Academy of Sciences  distributor   Columbia University Press  place   New York  year   2001  url    http://mek.oszk.hu/03400/03407/html/41.html ref  were in control of  Transylvania  through the 8th century. In the 8th century, however, the country was taken over by the  Hungarian Empire . ref name gepids citebook last Teodor first Dan Gh. title Istoria Romaniei de la inceputuri pana in secolul al VIII-lea year  1995 location  Bucuresti pages 294-325  volume 2 ref  It was made part of the  First Bulgarian Empire , which ended Romania's Dark Ages.
+
+The Bulgarians held Transylvania until the 11th century. The  Pechenegs , ref cite book  last  Constantine VII  first  Porphyrogenitus  authorlink  Constantine VII Porphyrogenitus  title  Constantine Porphyrogenitus De Administrando Imperio date 950  location  Constantinople  url  http://faculty.washington.edu/dwaugh/rus/texts/constp.html ref  the  Cumans , ref Citation last  Xenopol first  Alexandru D. title  Histoire des Roumains place Paris year  1896 volume  i page 168 ref  and the Uzes were a few of the people later noted in the history of Romania.
+
+In 1310, now called the  High Middle Ages ,  Basarab I  started the Romanian principality of  Wallachia . ref Citation last  Stefanescu first  Stefan  title  Istoria medie a Romaniei year  1991 location  Bucharest volume  I page 114 ref   Moldavia  was begun by  Dragos  around 1352. ref Citation last  Predescu first  Lucian  title  Enciclopedia Cugetarea year  1940 ref  During the  Middle Ages , Romanians were living in three different areas: Wallachia ( Romanian language Romanian :  Tara Romaneasca --"Romanian Land"), Moldavia ( Romanian language Romanian :  Moldova ), and  Transylvania .
+
+Transylvania belonged to the  Kingdom of Hungary  from around the 10th century until the 16th century, ref Citation first Laszlo last Makkai editor-last   Kopeczi editor-first   Bela
+ title   History of Transylvania: III. Transylvania in the Medieval Hungarian Kingdom (896-1526) volume   1 publisher   Institute of History of the Hungarian Academy of Sciences distributor   Columbia University Press place   New York year   2001 url    http://mek.oszk.hu/03400/03407/html/57.html   ref  when it turned into the  Principality of Transylvania . ref Citation
+ editor-last   Kopeczi editor-first   Bela title   History of Transylvania: IV. The First Period of the Principality of Transylvania (1526-1606)
+ volume   1 publisher   Institute of History of the Hungarian Academy of Sciences distributor   Columbia University Press place   New York year   2001 url http://mek.oszk.hu/03400/03407/html/97.html ref  This lasted until 1711. ref Citation first Agnes R. last Varkonyi editor-last   Kopeczi
+ editor-first   Bela  title   History of Transylvania: VI. The Last Decades of the Independent Principality (1660-1711) volume   2
+ publisher   Institute of History of the Hungarian Academy of Sciences distributor   Columbia University Press place   New York year   2001
+ url http://mek.oszk.hu/03400/03407/html/221.html ref   Wallachia  had been on the border of the  Ottoman Empire  since the 14th century. As the Ottoman Empire's influence grew, it gradually fell under the  suzerainty  (control) of the  Ottoman Empire  in the 15th century.
+
+The best known ruler of this period was  Vlad III the Impaler , also known as  Vlad Dracula , or  unicode Vlad Tepes ,  IPA2 'tsepeS ,  List of rulers of Wallachia Prince  of  Wallachia , during the years of 1448, 1456-62, and 1476. ref citebook last  Schoolfield first  George C. title  A Baedeker of Decadence: Charting a Literary Fashion, 1884-1927
+ publisher  Yale University Press date 2004 isbn   0300047142 url    http://books.google.com/books?id=LzBSu7HZLhcC&pg=PA219&dq=ISBN  0300047142+vlad&as_brr=0&sig=b8Gx-Er8uF6EzOVjJRSXTKspVeQ#PPA219,M1 ref ref http://www.donlinke.com/drakula/vlad.htm#Evidence|Vlad Tepes: The Historical Dracula ref  While he was the leader of his people, he had an agreement with the Ottoman Empire to stay independent. Many people in Romania during this time thought of him as a ruler with a great sense of justice ref Citation  title  Count Dracula's Legend  year  2006  url  http://www.romaniatourism.com/dracula.html  accessdate    ref  and defense for his country.
+
+ Moldavia  was at its greatest when  Stephen III of Moldavia Stephen the Great  was ruling between 1457 and 1504. ref Citation last  Marek first  Miroslav title  Rulers of Moldavia: Mushati family url  http://genealogy.euweb.cz/balkan/balkan18.html ref  He was a great  military  leader, winning 47 battles and losing only 2. ref Citation title  St. Stephen the Great Charitable Trust url  http://www.ststephentrust.org.uk/html/ststephen.html ref  After every battle he won, Stephen would build a  church . Because he won 47 of the battles that he fought, he ended up building 48 churches. ref Citation last   Orthodox Church in America title   St. Stephen the Great - Commemorated on July 2 url  http://ocafs.oca.org/FeastSaintsViewer.asp?FSID=149011 ref  After Stephen the Great's death,  Moldavia  came under the  suzerainty  of the  Ottoman Empire  during the 16th century.
+
+ Independence and monarchy 
+When Transylvania was the organic part of the  Austria-Hungary Austro-Hungarian Empire , and the Ottoman Empire was in control of  Wallachia  and  Moldavia , almost all of the Romanians had limited rights as a citizen. ref Citation publisher  GenealogyRO Group title  The Magyarization Process url  http://www.genealogy.ro/cont/13.htm 
+ accessdate    ref  They stayed this way even when they made up most of the people in those areas. ref Citation last  Kocsis  first  Karoly  last2  Kocsis-Hodosi  first2  Eszter  year  1999 title  Ethnic structure of the population on the present territory of Transylvania (1880-1992)
+ url  http://www.hungarian-history.hu/lib/hmcb/Tab14.htm accessdate    ref ref Citation last  Kocsis  first  Karoly last2  Kocsis-Hodosi  first2  Eszter title  Ethnic Geography of the Hungarian Minorities in the Carpathian Basin year  2001 page  102 publisher  Simon Publications isbn  193131375X url  http://books.google.com/books?id=-zZ_NVM9mNEC&pg=PA116&lpg=PA116&dq=hungarian+census+transylvania+1910&source=web&ots=pcesU0UOYB&sig=0h53xLxEHT3rtVue_FWlkollBns#PPA102,M1 ref 
+
+After Wallachian Revolution of 1821 as in the 1830s was addressed  Nationalism nationalists  thoughts and feelings into Romania and became called  "National awakening of Romania'"'. Even then adopted a 3-colored flag, blue-yellow-red, which was later to become a  Flag of Romania .
+
+After the even more violent  European Revolutions of 1848 Revolution of 1848  did not  wikt:succeed succeed , so explained the Great Powers did not like the idea of Romania becoming a free nation and it was not a real possibility.
+
+The people who voted in 1859 in Moldavia and Wallachia picked the same person -  Alexander John Cuza Alexandru Ioan Cuza  - to be the  prince  in those areas. ref Citation last  Bobango first  Gerald J title  The emergence of the Romanian national State publisher  Boulder year  1979 location  New York isbn   9780914710516 ref  He managed to unite the people and  nationalism  was seen as a useful method.
+
+Alexandru Ioan Cuza walked with cautious steps he was not proclaiming a declaration of independence immediately because he knew it would bring a new war. Instead he let Moldavia and Wallachia merged in the  United Principalities  of the Ottoman Empire and increasing self-government to a greater degree.
+
+The new union was at the front of today's Romania. With cautious steps we freed itself more and Bucharest was established as the capital. However, farmers had more land when serfdom was abolished, which led to a  coup d'etat  against the Alexandru Ioan Cuza staged by peasants who overthrew the regime.
+
+Prince Karl of  Hohenzollern-Sigmaringen  became the new leader, and was later called  Carol I of Romania Prince Carol I of Romania . While the  Russo-Turkish War (1877-1878) Russo-Turkish War  was happening, Romania battled on the Russian side. ref ru icon   Citation title  San Stefano Preliminary Treaty year  1878 url  http://www.hist.msu.ru/ER/Etext/FOREIGN/stefano.htm ref  When the  Treaty of Berlin of 1878 ref Citation title  Modern History Sourcebook: The Treaty of Berlin, 1878 - Excerpts on the Balkans date July 13, 1878 place Berlin url  http://www.fordham.edu/halsall/mod/1878berlin.html ref  was signed, the  Great power Great Powers  made Romania an  Romanian War of Independence independent  state. ref Citation last  Patterson first  Michelle title  The Road to Romanian Independence journal  Canadian Journal of History date August 1996 url  http://findarticles.com/p/articles/mi_qa3686/is_199608/ai_n8755098 ref  In return, they had to give Russia three of their southern  district s of  Bessarabia . In 1881, the  principality  became a  monarchy kingdom , with Prince Carol ruling as King Carol I.
+
+ The World Wars and the Great Leaders 
+ gallery 
+File:King Carol II of Romania young.jpg|[[King]] [[Carol II of Romania]]
+File:Mihai.jpg|[[Michael I of Romania]]
+File:Corneliu Zelea Codreanu.jpg|[[Corneliu Zelea Codreanu]]
+ gallery 
+ World War I 
+When  World War I  started in August of 1914, Romania said it was a neutral  country . In 1916, after  wikt:pressure pressure  from the  Allies of World War I Allies , Romania joined the Allies. Romania then started a war against Austria-Hungary. ref cite web last  Horne first  Charles F. year  Horne title  Ion Bratianu's Declaration of War Delivered to the Austrian Minister in Romania on August 28, 1916 volume  V publisher  Source Records of the Great War url http://www.firstworldwar.com/source/romaniawardeclaration.htm accessdate 2008-08-31 ref 
+
+ File:Romanian Officers WWI.jpg thumb|right|250px|Romanian Army officers in World War I. 
+
+The Romanian military campaign ended in disaster for Romania after the invading forces were stopped in 1917. High mortality among military and civilians were estimated. Moldova was one of the only parts of Romania that was not captured when it stopped its attackers in 1917. By the time World War I was over,  Austria-Hungary  had been weakened and an independent Hungarian republic was proclaimed. This allowed Bessarabia,  Bukovina  and Transylvania to become part of the  Kingdom of Romania  in 1918. After the  Treaty of Trianon  was  wikt:sign signed  in 1920,  Hungary , as agreed, gave up the  wikt:claim claims  of the Austro-Hungarian Monarchy over Transylvania. ref cite web url http://wwi.lib.byu.edu/index.php/Treaty_of_Trianon title Text of the Treaty of Trianon publisher World War I Document Archive accessdate 2008-08-31 ref  Romania and Bukovina were joined together in 1919 as a  wikt:result result  of the  Treaty of Saint Germain . ref citebook title Europe Since 1945: An Encyclopedia author Bernard Anthony Cook page 162 isbn 0815340575 year 2001 publisher Taylor&Francis accessdate 2008-08-31 ref  Bessarabia joined with Romania in 1920 when the  Treaty of Paris (1920) Treaty of Paris  was signed. ref citejournal title The Legal Status of the Bukovina and Bessarabia author Malbone W. Graham journal The American Journal of International Law month October   year 1944 volume 38 issue 4 publisher American Society of International Law url http://www.jstor.org/stable/2192802 accessdate 2008-08-31 ref 
+
+ Greater Romania 
+The period after World War I and was characterized by large land gains and strong nationalism. The small and fresh Kingdom Romania was expanded with ("major Transylvania"), principalities Wallachia, Moldavia and Bessarabia (Moldova) together formed the "Greater Romania" 1918-1940. But "Greater Romania" did not survive World War II with the great competition of landmarks in the Molotov-Ribbentrop Pact.
+
+Romanians called their country  Romania Mare , meaning  Greater Romania , in the time between World War I and  World War II . They called it  Romania Mare  because Romania was in  wikt:control control  of almost  convert 300000 km2 mi2 0 ref cite web url http://media.ici.ro/history/ist08.htm language Romanian title Statul National Unitar (Romania Mare 1919 - 1940)publisher=ici.ro accessdate 2008-08-31 ref  of land. When taken from the Romanian language,  Romania Mare  means  Great Romania . However, it is usually translated to English as  Greater Romania'' instead.
+
+The  Great Depression  meant social unrest, high unemployment, and strikes. In several cases against the Romanian state to violent strikes and riots, especially miners' strike in 1929 in Valea Jiului and strike in Grivitas maintenance workshops. By the mid-1930s, recovering Romania's economy, and industry grew, although about 80% of Romanians still were engaged in agriculture.
+
+ Iron Guard 
+In end of  1930s , Romania's liberal democracy was slowly being replaced by the  Fascism fascist dictatorship .
+
+During the interwar period fascist movement grew Archangel Michael Legion known as the  Iron Guard  organization led by  Corneliu Codreanu Zelea . In 1937 election the party fully supported  Adolf Hitler  and  Nazism  and got 15.5% of the votes and became one of the biggest party. Then came  Carol II of Romania  and ruined it all. In 1938 he seized power over Romania, he dissolved all political parties. Carol II of Romania executed Corneliu Codreanu Zelea along with 12 other leaders.
+
+ World War II 
+ gallery 
+File:Bundesarchiv Bild 183-B03212, Munchen, Staatsbesuch Jon Antonescu bei Hitler.jpg|[[Ion Antonescu]] with [[Adolf Hitler]] in [[Munich]] (June 1941)
+File:Romania1941.png|Romania in 1941
+File:Razboiul Sfant Contra Bolsevismului (1941 stamp).svg|[[Post]]
+
+File:pvgrvm yshy 5.jpg|"Death" in [[Iasi]]
+ gallery 
+
+ Carol II of Romania  declared the country as neutral when  World War II  broke out in 1939, but included since the Soviet Union occupied Bessarabia and northern Bukovina an alliance with  Nazi Germany Hitler's Germany . This occurred after field marshal  Ion Antonescu  forced the  Authoritarianism authoritarian  Carol II of Romania to abdicate. Antonescu appointed himself "conducator", Romania's dictator, and signed at the  Tripartite Pact November 23 of 1940  three-powers pact with Nazi Germany. Hitler's Germany was dependent on a continuous importation of  fuel  and crude  oil  from the Romanian oil fields of  Ploesti . In 1940, yjr  Kingdom of Hungary  took over the legitimate domination in Northern  Transylvania  to the end of the  World War II .
+
+The country's troops fought together with the German Wehrmacht against the Soviet Union.
+In summer of 1941, Romania join Hitler's war against the Soviet Union in combination also  Finland ,  Slovakia  and  Hungary  join Hitlers war. Romania built  concentration camp s and began conducting a  Pogrom massive persecution of Jews , of which became very extreme in the city of Iasi.
+
+ Holocaust in Romania 
+Romania participated in the Holocaust. The author of the book "The Destruction of the European Jews" Raul Hilberg writes follow: "There was / ... / moment when the Germans actually had to intervene and slow the speed with which the Romanian measures were taken." The hunt for Jews in eastern Romania (including Bessarabia, Bukovina, Transnistria and the city of Iasi) had more the character of pogroms than the German, well-organized camps and transport.
+
+There where pogroms in the city of Iasi. The homes for the Jewish minority in Iasi were marked with crosses. On June 27, 1941, Ion Antonescu make a phone call with the city's mayor and Antonescu said into the phone: "clean the city  Iasi  from the Jews." And the Holocaust in Romania has began. Police officers and many civilians went to every Jewish home marked with a cross in the town and murdered thousands of Jews on the same day.
+
+In June 1941, the Romanian dictator Ion Antonescu gave an "illegal secret order" to the special police force. He ordered the police in cooperation with the Romanian Army and the German SS troops to kill all Jews in east Romania within the next coming years. The Jews living on the countryside was being killed right on the spot. The Jews in the cities were first collected in the ghettos and later deported away.
+
+On October 22, 1941 the Soviet union with bombs blow up the Romanian military headquarters in Odessa, and killed 66 Romanian soldiers. As revenge Ion Antonescu decided that for every dead Romanian officer, 200 Soviet communists must be killed and for each dead soldier, 100 communists must be killed. All other Communists were imprisoned and Jewish families were taken hostage in the hope that the partisan movement would cease its operations. ref name levandehistoria.se http://www.levandehistoria.se/book/export/html/2661 ref ref name romania.bloggsida.se http://romania.bloggsida.se/okategoriserade/allt-om-rumanien-fakta-battre-an-wikipedia ref 
+
+The day after in Bucharest, on October 23, 1941, around 5 000 people and the majority were Jews was arrested who later executed by  hanging . In the Soviet village  Dalnik , almost 20,000 Jews were incarcerated in to several locked buildings and burned alive. ref name levandehistoria.se ref name romania.bloggsida.se 
+
+After the massacre, many of the Jews who remained in  Odessa  where sent to various concentration camps. Nearby  Odessa  on October 25, 1941, approximately 40,000 Jews, was gathering together on a special closed military secured area, and the Jews had to stay outdoors for more than ten days without food or supply. Many died of cold and starvation. The survivors where murdered one month later. ref name levandehistoria.se 
+ ref name romania.bloggsida.se 
+
+Totally approximately 469,000 Jews had been murdered by the military and police in Romania between 1941-1944, including the 325,000 murdered Jews in  Bessarabia  and  Bukovina .
+
+ End of war 
+At the end of 1943, the Red Army liberated most of Soviet territory and started advancing westward from its borders to defeat Nazi Germany and its allies. It was in this context that the Soviet forces crossed Romania. If the Soviet Union could hit Romania, Nazi Germany's last hope is gone, said the military leadership of the Red Army. Russians deposited the entire 1.5 million soldiers in the attack against Romania and Romania last reserves consisting only of 138 000 soldiers. During the summer of 1944 it began the attack on Bessarabia (Moldova) and the Romanian army fled the area. On 2 August, the whole Bessarabia (Moldova) is captured by the Red Army. The Russians then went a long way in Romania and on 23 August they reached into the Romanian capital Bucharest. The public opinion turned in the country against Antonescu and of summer 1944 he was deposed and imprisoned. The new government signed a ceasefire and extradited itself to the  Soviet Union . The Red Army killed the members from the old fascist regime (including  Ion Antonescu ) on June 1, 1946.
+
+At the end of the war, Romania was allowed to keep the whole of  Transylvania  in west and  Dobruja  from south, but lost  Bessarabia / Transnistria  and  Odessa Oblast  in the east (with rich oil reserves) which became parts of the Soviet Union.  Bukovina  was split in half because in the north part the majority ethnic group was Ukrainian and in the south part Romanian.
+
+The Soviet Union replaced the royal  monarchy  with a communist regime in 1947. The Soviet Union took the country's resources, which led to increased  poverty  in Romania.
+
+ Romania and communism 
+ File:Coat of arms of PCR.svg thumb|right|125px|The coat of arms of the Communist party in Romania. 
+
+Michael I abdicated the throne and had to leave Romania in 1947 because of the Communists. Romania changed from a monarchy into a  republic . ref cite web url https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html publisher CIA - The World Factbook title Romania accessdate 2008-08-31 ref ref cite web url http://www.ed-u.com/ro.html title Romania - Country Background and Profile publisher ed-u.com accessdate 2008-08-31 ref  The  Union of Soviet Socialist Republics USSR  occupied Romania until the late 1950s, when Soviet troops left Romania. During this time, resources in Romania were taken by the Soviet Union due to agreements made by Communist leaders.
+
+After the Soviet troops left Romania,  Nicolae Ceausescu  wanted Romania to become more independent from Moscow. Romania started following slightly different foreign  wikt:policy policies  than Moscow. After the  Six-Day War  in 1967, Romania began talks with  Israel  and started  wikt:relation relations  with the  Federal Republic of Germany . ref cite web url http://countrystudies.us/romania/75.htm publisher countrystudies.us title Romania: Soviet Union and Eastern Europe publisher Country Studies.us accessdate 2008-08-31 ref  Romania started to have their own relations with  Arab  countries. Romania officials were allowed to participate in peace talks between Israel and  Egypt  and between Israel and the  Palestine Liberation Organization . ref cite web url http://countrystudies.us/romania/80.htm   publisher countrystudies.us  title Middle East policies in Communist Romania publisher Country Studies.us accessdate 2008-08-31 ref 
+
+The national debt Romania owed to other countries went from $3 billion to almost $10 billion between 1977 and 1981. ref cite web last Deletant first  Dennis title New Evidence on Romania and the Warsaw Pact, 1955-1989 publisher Cold War International History Project e-Dossier Series url http://www.wilsoncenter.org/index.cfm?topic_id=1409&fuseaction=topics.publications&doc_id=16367&group_id=13349 accessdate 2008-08-31 ref  The amount of money that Romania owed other countries caused them to  wikt:rely rely  on banks and other lenders from around the world. President Nicolae Ceausescu's  autarky autarchic  ways meant he did not want to rely on other countries and Romania paid back money borrowed from other countries. This affected the Romanian economy. To try to stay in power, Ceausescu had anyone who disagreed with him arrested and put in prison. ref Citebook last  Caraza first  Grigore title  Aiud insangerat publisher  Editura Vremea XXI year 2004 volume Chapter IV isbn 9736450503 language Romanian ref  Many people were killed or hurt. Almost 60,000 people were put in  psychiatric hospital s. ref citebook publisher S.R.I. title "Cartea alba a Securitatii" volume 2 year 1997 ref ref cite news author Gheorghe Gheorghiu-Dej title Speech at the Plenary session of the Central Committee of the Romanian Workers' Party' date 1961-09-30 ref  Ceausescu eventually lost power and was killed in the  Romanian Revolution of 1989 .
+
+ 1989 to 2007 
+In 1989, the National Salvation Front came into power. It was led by  Ion Iliescu . When they came into power, several other  wikt:party parties  from before World War II were remade. These included the  Christian-Democratic National Peasants' Party , the  National Liberal Party (Romania) National Liberal Party  and the  Romanian Social Democrat Party . In April 1990, as a result of several  broken wikt link rally rallies ,  wikt:protest protests  started. The people who protested did not  :wikt:recognize recognize  the results of the  wikt:election election . This was because they thought that members of the National Salvation Front were communists. More and more people protested, and it became a demonstration - a very big protest. This was called the  Golaniad , and it became very violent.
+
+When the National Salvation Front lost power, several other parties were made. These were the  Partidul Social Democrat Social Democratic Party , the Democratic Party, and a couple of other parties from before the war. The Social Democratic Party ruled Romania from 1990 until 1996. Ion Iliescu was the head of state, or person in charge. After 1996, several other parties came into power and lost it. In 2004,  Traian Basescu  became the president.
+
+After the  Cold War , Romania became closer friends with  Western Europe . In 2004, Romania joined  NATO  and hosted the 2008 summit. ref Cite news title  NATO update: NATO welcomes seven new members url  http://www.nato.int/docu/update/2004/04-april/e0402a.htm publisher NATO accessdate 2008-08-31 ref  The country applied in June 1993 for membership in the  European Union  and became an Associated State of the EU in 1995, an Acceding Country in 2004, and a member on January 1, 2007. ref Cite news title EU approves Bulgaria and Romania url http://news.bbc.co.uk/1/hi/world/europe/5380024.stm publisher BBC News accessdate 2008-08-31 ref 
+
+ Geography 
+ gallery 
+File:BaleaLac4.jpg|
+File:Lipovean.jpg|
+File:07.zori in Valeni.2.jpg|
+File:Pietrosu Mare.jpg|
+File:Retezat Mountain - Spring Waterfall 02.JPG|
+ gallery 
+ main Geography of Romania 
+ File:Physical map of Romania.jpg thumb|260px|A  Map physical map  of Romania. 
+
+Romania is a part of southeastern Europe. It borders the  Black Sea  and the  Danube Danube River . The  Carpathian Mountains  lie in the center.
+
+Romania is the biggest country in southeast  Europe  by population. It has an  area  of  convert 238391 km2 mi2 0 lk on . ref cite web  url http://www.status-invest.com/en/site/press/investorbg-02-04-2007/   title ROMANIA, SERBIA  accessdate 2008-07-24  work   ref  It is the  List of European countries in order of geographical area twelfth-largest  country in Europe. Most of Romania's border with  Serbia  and  Bulgaria  is made by the Danube. The Danube joins the  Prut River . The Prut River makes the  Moldova n-Romanian border. The Danube then flows into the area of the  Black Sea  inside Romania. This makes the  Danube Delta . The  river delta delta  is a  biosphere   wikt:reserve reserve  and a  biodiversity   World Heritage Site . ref cite web url http://whc.unesco.org/en/list/588 title Danube Delta publisher UNESCO's World Heritage Center accessdate 2008-01-09 ref  Some of the other major rivers in Romania are the  Siret River Siret , the  Olt River Olt , and the  Mures River Mures . The Siret River runs from the north to the south of  Moldavia . The Olt River runs from the Carpathian Mountains to  Oltenia . The Mures runs through Transylvania from the east to the west.
+
+ Landscape 
+The land in Romania is made up of equal parts of mountains, hills, and low-lying areas. The Carpathian Mountains make up a big part of the center of Romania.  List of mountain peaks in Romania Fourteen of its mountain ranges  are taller than  convert 2000 m ft 0 lk on abbr on . The tallest mountain in Romania is  Moldoveanu Peak , with a peak altitude of  convert 2544 m ft 0 lk on abbr on . ref cite web  url http://www.nationmaster.com/graph/geo_tal_mou_mou-geography-tallest-mountains-mountain   title Geography Statistics > Tallest mountains > Mountain  accessdate 2008-07-24  work   ref 
+
+ Rivers 
+The Danube is the longest  river  in Romania. Its  length  inside Romania is about  convert 1000 km mi 0 lk on . That is almost half of the length of the entire Danube. Almost all of the rivers in Romania are either  wikt:direct direct  or  broken wikt link indirect indirect   tributary tributaries  of the Danube.
+
+ Weather 
+Romania has a  climate  that changes between  temperate climate temperate  and  continental climate continental  climates. The reason for the climate changes is because Romania is near the coast. Romania has four different seasons. The average temperature during the year is  convert 11 degC degF 1 lk on  in southern Romania and  convert 8 degC degF 1 lk on  in the northern part. ref name climate cite web url http://countrystudies.us/romania/34.htm title Romania: Climate publisher U.S. Library of Congress accessdate 2008-01-10 ref 
+
+Lots of rain and snow falls on the highest western mountains. Most of this falls as  snow . In the southern parts of the country, the amount of rain and snow that falls is around  convert 60 cm in 1 lk on . ref ro icon citation url http://www.insse.ro/cms/files/pdf/ro/cap1.pdf title  The 2004 Yearbook publisher Romanian National Institute of Statistics accessdate 2008-08-19 ref 
+
+The lowest temperature ever taken in Romania was  convert -38.5 degC degF 1 lk on , at  Brasov  in 1944. ref name temperature cite web  url http://www.romaniatourism.com/climate.html   title Climate of Romania  accessdate 2008-07-24  work   ref  The highest temperature ever recorded in Romania was  convert 44.5 degC degF 1 lk on , near  Calafat  in the  1950s . ref name temperature 
+
+ Society 
+ gallery 
+File:Venus, Romania -beach-26July2009.jpg|
+File:ViewfromVartopskiresortover-VartopPassAndBihorMountains.jpg|
+File:Siemens AG logo.svg|
+File:A3 near Cheile Turului 2.JPG|
+File:17-buc (1).jpg|
+ gallery 
+
+ class wikitable sortable plainrowheaders style text-align:right; +Estimated origin of the population in Romania, year 2011
+ scope col style width:12em;  Origin
+ scope col Population
+ scope col Percent
+ scope row  Romanians
+   Commas 16463000 
+  82%
+ scope row   Hungarians 
+   Commas 2500000 
+  12.45% ref http://countrystudies.us/romania/40.htm/ ref 
+ scope row   Roma people Gypsies 
+   Commas 620000 
+  3%
+ scope row   Ukrainians 
+   Commas 300000 
+  1.5 % ref name wilson "The Ukrainians: Engaging the 'Eastern Diaspora'". By  Andrew Wilson (historian) Andrew Wilson . (1999). In Charles King, Neil Melvin (Eds.)  Nations Abroad . Wesview Press, pp. 103-132. ISBN 0-8133-3738-0 ref 
+ scope row   Germans 
+   Commas 135000 
+  0.6 % ref cite web url http://www.auswaertiges-amt.de/diplo/en/Laenderinformationen/01-Laender/Rumaenien.html archiveurl http://web.archive.org/web/20081130100705/http://www.auswaertiges-amt.de/diplo/en/Laenderinformationen/01-Laender/Rumaenien.html archivedate 2008-11-30 title Political relations publisher Auswartiges Amt accessdate 2009-09-07 Archived ref 
+ scope row  Others ( Russians ,  Poles ,  Slovaks ,  Croats  etc.)
+   Commas 50000 
+  0.2%
+ scope row  Total population
+   Commas 20068000 
+  100%
+ 
+
+These are mainly region:
+   Nord-Est (development region) Northeast 
+   Vest (development region) West 
+   Nord-Vest (development region) Northwest 
+   Centru (development region) Center 
+   Sud-Est (development region) Southeast 
+   Sud (development region) South 
+   Bucharest-Ilfov (development region) Bucharest-Ilfov 
+   Sud-Vest (development region) Southwest 
+
+ class wikitable sortable plainrowheaders style text-align:right; +Estimated gender of the population in Romania, Year 2010
+ scope col style width:12em;  Gender
+ scope col Total
+ scope col percent
+ scope row   Men 
+   Commas 10004180 
+ 49.28%
+ scope row   Women 
+   Commas 10294390 
+ 50.72%
+ scope row  Total population, year 2010
+   Commas 20298570 
+ 100% ref http://eng.newwelfare.org/2006/02/18/the-pension-system-in-romania/ ref 
+ 
+
+ Language and culture 
+The  wikt:official official  language of Romania is  Romanian language Romanian . The Romanian language is an  Eastern Romance languages Eastern Romance language .
+
+Romania has its own culture because of where it is found. It is the point where 3 different areas meet:  Central Europe ,  Eastern Europe , and the  Balkans . Romanian culture is a mix of all these areas. ref http://www.itcnet.ro/folk_festival/culture.htm Romania - Culture ref  The culture of Romania was influenced by the Greeks, Romans, and Slavs. ref cite web  url http://www.bestofsicily.com/mag/art159.htm   title Sicilian Peoples: The Romans  accessdate 2008-07-24  work   ref 
+
+ Religion 
+Romania is a  secular   state . This means Romania has no  state religion national religion . The biggest religious group in Romania is the Romanian Orthodox Church. It is an  autocephaly autocephalous  church inside of the  Eastern Orthodox Church Eastern Orthodox   full communion communion . In 2002, this religion made up 86.7% of the population. Other religions in Romania include  Roman Catholicism  (4.7%),  Protestantism  (3.7%),  Pentecostalism  (1.5%) and the Romanian Greek-Catholicism (0.9%). ref name census 
+
+ Cities 
+ gallery 
+File:Cluj Napoca river.jpg|[[Cluj-Napoca]]
+File:RO IS Iasi , panoramic view 4.JPG|[[Iasi]]
+File:Sibiuphoto.jpg|[[Sibiu]]
+File:OradeaTownHall.jpg|[[Oradea]]
+File:Craiova - Prefectura judetului Dolj02.jpg|[[Craiova]]
+ gallery 
+ Bucharest  is the  Capital (city) capital  of Romania. It also is the biggest  city  in Romania, with a population of over 1.6 million people. ref name insse.ro 
+
+There are 5 other cities in Romania that have a population of more than 300,000 people. These are  Iasi ,  Cluj-Napoca ,  Timisoara ,  Constanta , and  Craiova . Romania also has 5 cities that have more than 200,000 people living in them:  Galati ,  Brasov ,  Ploiesti ,  Braila , and  Oradea .
+
+Thirteen other cities in Romania have a population of more than 100,000 people. ref citation lang Romanian url http://www.insse.ro/cms/rw/resource/populatia%20la%201%20iulie.htm title Population in Romania date 1 July 2007 publisher Romanian National Institute of Statistics accessdate 13 February 2008 archiveurl http://web.archive.org/web/20080211095441/http://www.insse.ro/cms/rw/resource/populatia%20la%201%20iulie.htm ? archivedate 11 February 2008 ref 
+
+ Economy 
+ gallery 
+File:MittalSteelGalati200607.jpg|
+File:Dacia Logan.jpg|
+
+File:1 leu. Romania, 2005 a.jpg|
+File:Muzeul National de Istorie Naturala Grigore Antipa and skyscraper.jpg|
+ gallery 
+
+Romania joined the  European Union  on January 1, 2007. Romania's  economy  is healthy. Currently, Romania makes around $350 billion in  Gross domestic product  and a  GDP per capita  of $16,540. ref http://www.imf.org/external/pubs/ft/weo/2008/01/weodata/weorept.aspx?sy=2006&ey=2013&scsm=1&ssd=1&sort=country&ds=.&br=1&c=968&s=PPPGDP%2CPPPPC&grp=0&a=&pr.x=13&pr.y=7 ref 
+
+Long into the 1900s, Romania was still a largely agricultural country. During Communism 1947-1989, the country had planned economy. The transition from planned economy to a market economy after the communist regime led to economic collapse in the 1990s, the reasons was that more money was printed, expensive prices and substantial privatization of the companies, which initially leads to skyrocketing unemployment. The reforms in the 1990s allowed foreign investors for the first time to buy land in Romania. When it was going explosively good for the industry in the Latin countries such as  France ,  Italy  and  Spain , these countries began to trade with Romania because it is favorite voice country for them to grow in. Foreign companies expanding in Romania since then, and spurs the market.
+
+ Education 
+The Romanian school is obligatory for 10 years. Children also have the opportunity to be part of a voluntary pre-school at an early age 3-6 years. After school, students can voluntarily take the entrance exam to high school, which has a range of practical and theoretical lines. There are over 40 higher educational institutions, including five universities and five technical colleges. Tuition is free and is a hot political commitment even at the university. The country's minorities have the opportunity to receive instruction in their native language. Since 1989, education has been reformed. But it has been slow and the standard of education varies greatly in different parts of the country, education has improved the standard of urban compared to rural areas where quality can be very low. Romania participates fully in the EU's education program. ref http://www.humanrights.gov.se/php/rapporter/documents/Europa%20och%20Centralasien/Rum%E4nien%2C%20MR-rapport%202010.pdf ref 
+
+ Social welfare 
+The  unemployment  rate in Romania is five per-cent and has been low for many years. ref http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=1985&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=968&s=LUR&grp=0&a=&pr.x=26&pr.y=5 Report for Selected Countries and Subjects ref 
+
+The living standards were very low at the end of the Communist era, but the situation was just only improved a little bit during the 1990s. On the contrary, the living significantly due caused by the large privatization of jobs that resulted in high unemployment and rising prices. In later years lived yet 2010 nearly 10 percent of the population in absolute poverty ref http://www.socionomen.nu/text/rumanien-sedan-finanskrisen-har-barnfattigdomen-okat-igen ref  and of these, 90% live in rural areas. The State social insurance system have relatively broad coverage but resources are extremely small.
+
+Reforms have been initiated and in 1999 the health insurance became privatized and paid by the employers and the employees. Several thousand local trade unions were founded after the revolution, which were later amalgamated (combined) into federations. These unions and federations have helped organise students, pensioners and the unemployed; because these groups of people all have similar needs, concerns and goals.
+
+By the first quarter of 2011 the average monthly household income is 2,318  Romanian leu  (equivalent to approximately PS862 USD).
+The different between  countryside  and  urban area  may vary the income is 36 per-cent higher in the urban area than in the countryside. ref http://www.atkearney.ro/images/romania/pdf/Romanian_households_September_2011.pdf ref 
+
+The pension system is reformed. ref http://www.barcelonareporter.com/index.php?/news/comments/only_three_other_countries_in_the_eu_plan_to_increase_retirement_age_above_/ Only three other countries in the EU plan to increase retirement age above 65 ref ref http://www.pensionfundsonline.co.uk/countryprofiles/romania.aspx country profiles - Pension Funds Online ref ref http://www.romania-insider.com/romanian-parliament-committee-sets-retirement-age-at-60-for-women-64-for-men/15087/ ref 
+
+The most worrying thing is the fact that there are more pensioners than the number of working people. because many who dismissed during the privatizations had per-retirement. Romanian Pensioners average pension at the month is at about 190 euros (equivalent to approximately PS250-300 USD). The current low average retirement age (55 years for men and 57 years for women) will be gradually increased until 2014, when it gets 60 years for women and 65 years for men.
+
+Many of the country's Gypsies have no identity cards and are therefore excluded from the social benefit systems, schools and health care. The State-run health care is free, but the care system is neglected and has deteriorated in recent years due to lack of resources and underpaid staff. In many cases,the patients paying "under the table" to get treatment. here is evidence to suggest that a patient's wealth plays an important role in how they receive medical treatment. ref http://www.manskligarattigheter.gov.se/php/rapporter/documents/Europa%20och%20Centralasien/Rum%E4nien%2C%20MR-rapport%202010.pdf ref 
+
+ Science and technology 
+ File:Traian Vuia aircraft.jpg thumb|right| Traian Vuia , early flight pioneer 
+
+Historically, Romanian researches and inventors have made notable contributions to several fields, such as: aeronautics, medicine, mathematics, computer science/engineering, physics, biophysics, chemistry, biochemistry and biology. In the history of flight,  Traian Vuia  and  Aurel Vlaicu  built and flew some of the earliest successful aircraft, while  Henri Coanda  discovered the  Coanda effect  of fluidics. Preceding him,  Elie Carafoli  was a pioneering contributor to the field of aerodynamics in the world.
+
+ Victor Babes  discovered more than 50 germs and a cure for a disease named after him,  babesiosis ; biologist  Nicolae Paulescu  discovered insulin. Another biologist,  Emil Palade , received the  Nobel Prize  for his contributions to  cell biology .  George Constantinescu  created the  theory of sonics , while  Lazar Edeleanu  was the first chemist to synthesize  amphetamine  and also invented the modern method of  Oil refinery refining   crude oil .  Costin Nenitescu  found new methods for the synthesis of pirilium salts, of  carbene s,  tryptamine ,  serotonin , two new syntheses for the indole nucleus, and a new method of  polymerisation  of  ethylene .
+
+Several  mathematics mathematicians  distinguished themselves as well, among them:  Gheorghe Titeica ,  Spiru Haret ,  Grigore Moisil ,  Miron Nicolescu ,  Nicolae Popescu  and  Stefan Odobleja ; the latter is also regarded as the ideological father behind  cybernetics .
+
+Notable physicists and inventors also include:  Horia Hulubei  in atomic physics,  Serban Titeica  in theoretical physics,  Mihai Gavrila  specialized in quantum theory and discoverer of the  atom atomic dichotomy  phenomenon,  Alexandru Proca  (known for the first meson theory of  nuclear forces  and  Proca's equations  of the vectorial mesonic field),  Stefan Procopiu  known for the first theory of the  magnetic moment  of the electron in 1911 (now known as the  Bohr-Procopiu magneton ),  Theodor V. Ionescu , the inventor of a multiple-cavity  magnetron  (1935), a hydrogen  maser  in 1947,  Stereoscopy 3D imaging  for cinema/television in 1924 and hot deuterium plasma studies for controlled  nuclear fusion ,  Ionel Solomon  known for the  nuclear magnetic resonance  theory in solids,  Nuclear Overhauser effect Solomon equations ref cite web url http://chem.iitm.ac.in/professordetails/chandrakumar/msc_lectures/MSc_Lecture_Notes/The_Solomon_equations.pdf   title The Solomon equations  format PDF  date   accessdate 2011-08-29 ref ref cite web url http://prola.aps.org/abstract/PR/v99/i2/p559_1   title Solomon Equations and NOE  publisher Prola.aps.org  date 1955-03-29  accessdate 2011-08-29 ref  and  photovoltaic  devices,  Petrache Poenaru ,  Nicolae Teclu  and Victor Toma, with the latter known for the invention and construction of the first Romanian computer, the CIFA-1 in 1955. ref Victor Toma- "Tatal calculatoarelor din tarile socialiste".  Romania libera , July 13, 2007 ref 
+
+The nuclear physics facility of the European Union's proposed  Extreme Light Infrastructure Extreme Light Infrastructure (ELI)  laser will be built in Romania. ref cite web url http://www.eli-np.ro/   title ELI-NP   Extreme Light Infrastructure - Nuclear Physics  publisher Eli-np.ro  date   accessdate 2011-08-29 ref  Romania currently has 1,400  watt MW  of  nuclear power  capacity by means of one active  nuclear power plant  ( Cernavoda Nuclear Power Plant Cernavoda ) with 2 reactors, which constitutes around 18% of the national power generation capacity of the country. This makes Romania  nuclear power by country the 23rd largest user of nuclear power in the world .
+
+ Government 
+ gallery 
+File:Basescu & Bush 2006 July 27.jpg|[[President]] [[Traian Basescu]] with [[George W. Bush]]
+File:Tratado de Lisboa 13 12 2007 (081).jpg|
+
+File:Flickr - europeanpeoplesparty - EPP Congress Warsaw (305).jpg|[[Emil Boc]]
+ gallery 
+ Politics 
+The  Constitution of Romania  is found to be based from the Constitution of France's Fifth Republic. ref name Europaworld cite book encyclopedia The Europa World Year Book year 2007 volume 2 edition 48 publisher Routledge location London and New York title Romania pages 3734-3759 isbn 9781857434125 ref  It was passed into law on December 8, 1991. after a  referendum  was held. ref name Europaworld  73  wikt:amendments amendments  were added to the constitution in October of 2003 to bring the constitution of Romania up to code with the constitution of the European Union.
+
+The  legislative branch  of the Romanian government is known as the  Parliament of Romania Parliament . It contains two chambers - the  Senate of Romania Senate , containing 140 members, and the  Chamber of Deputies of Romania Chamber of Deputies , which has 346 members. ref name Europaworld  The members of both chambers are elected every four years through party-list proportional representation. ref name Europaworld 
+
+The  judicial branch  of the Romanian government is separate from the other branches. It is made up of a  wikt:system system  of courts. The court with the most authority is the  High Court of Cassation and Justice , which is the supreme court of Romania. ref cite web url http://www.scj.ro/monogr_en.asp publisher High Court of Cassation and Justice - --Romania title Presentation accessdate 2008-08-31 ref  Other courts, including appeal, county, and local courts also make up the judicial branch of the Romanian Government. The way the system of courts works in Romania is modelled off of the French model of law. ref name Europaworld ref cite web url http://permanent.access.gpo.gov/lps35389/2000//legal_system.html title Romanian Legal system publisher CIA Factbook year 2000 accessdate 2008-01-11 ref  It is based on  Civil law (legal system) civil law .
+
+ Divisions 
+Romania is divided into  Counties of Romania 41 counties , including the municipality of  Bucharest , which is also its own county.
+
+Romania is  wikt:divide divided  further into 319  Cities of Romania cities  and 2,686  Communes of Romania communes . ref cite web language ro url http://www.insse.ro/cms/files/pdf/ro/cap1.pdf chapter 1.8 title Administrative Organisation of Romanian Territory, on December 31, 2005 publisher Romanian National Institute of Statistics accessdate 2008-08-19 ref  Each of the communes has its own council that is led by a  mayor .
+
+ Army 
+The Romanian Army is made up of  Romanian Land Forces Land ,  Romanian Air Force Air , and  Romanian Naval Forces Naval Forces , which are all led by a  Commander-in-chief . The commander-in-chief is given orders by the  Ministry of Defense (Romania) Ministry of Defense . During war, the  President of Romania President  leads the Army. 90,000 people are  broken wikt link enrolled enrolled  in the Romanian Army at last count: 15,000 civilians and 75,000 military people. Of the 75,000 military  broken wikt link personnel personnel  in the Romanian Army, 45,800 are in the land forces, 13,250 are in the air forces, 6,800 are in the naval forces, and 8,800 in other areas of the military. ref cite press release publisher Ministry of National Defense of Romania url http://www.mapn.ro/briefing/030122/030121conf.htm title Press conference date 2003-01-21 accessdate 2008-08-31 ref 
+
+ Related pages 
+   Communes of Romania 
+   Counties of Romania 
+   List of cities in Romania 
+   List of lakes of Romania 
+   List of Romanian writers 
+   Municipalities of Romania 
+   Romania at the Olympics 
+   Romania national football team 
+
+ References 
+ reflist 2 refs 
+ ref name census cite report url http://www.recensamant.ro/pagini/rezultate.html title Official site of the results of the 2002 Census language Romanian accessdate 2008-08-31 dead link date June 2013 ref 
+ ref name insse.ro cite web   url    http://www.insse.ro/cms/files%5Cstatistici%5Ccomunicate%5Calte%5C2012%5CRPL_rezultate%20preliminare.pdf    title   Preliminary Data for 2011 census   date   24 August 2012   accessdate  8 November 2012   publisher    National Institute of Statistics (Romania) INSSE    language   Romanian ref 
+ 
+
+ Other websites 
+ commonscat 
+   http://news.bbc.co.uk/1/hi/world/europe/country_profiles/1057466.stm BBC News Country Profile -  Romania 
+   https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html CIA World Factbook -  Romania 
+   http://www.state.gov/p/eur/ci/ro/ US Department of State -  Romania 
+   http://lcweb2.loc.gov/frd/cs/rotoc.html Federal Research Division, Library of Congress - Romania : a country study 
+   http://www.bnro.ro/En/Info/curs_ext.asp Exchange Rates  - from the  National Bank of Romania 
+   http://www.dreptonline.ro/resurse/resource.php Romanian Law and Miscellaneous - English 
+   http://www.badley.info/history/Romania.index.html Chronology of Romania from the World History Database 
+   http://www.ici.ro/romania/en/index.html ICI.ro - A comprehensive site about Romania 
+   http://www.theeuropeanlibrary.org/portal/libraries/Libraries.php?launch=1&language=en&page=Treasures&country=Romania Treasures of the national library of Romania 
+
+ EU members 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:Romania   
+ Category:European Union member states

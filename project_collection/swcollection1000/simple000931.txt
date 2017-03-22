@@ -1,0 +1,46 @@
+Time
+
+We use  time  to sequence events, to compare their durations and the intervals between them, and to  quantity quantify  the speed at which objects move and things change.
+
+To measure time, we can use anything that repeats itself regularly. One  example  is the dawn of a new  day  (as  Earth   rotation rotates  on its axis). Two more are the phases of the  moon  (as it orbits the Earth), and the seasons of the  year  (as the Earth orbits the  Sun ). Even in ancient times, people developed  calendar s to keep track of the number of days in a year. They also developed  sundial s that used the moving shadows cast by the sun through the day to measure times smaller than a day. Today, highly accurate  clock s can measure times less than a billionth of a second. The study of time  measurement  is  horology .
+
+The  Systeme Internationale SI  (Systeme Internationale) unit of time is one  second , written as  s .
+
+In  Einstein ian physics, time and space can be combined into a single concept. See  space-time continuum .
+
+  Units of time  
+  1  millennium  = 1000 years
+  1  century  = 100 years
+  1  decade  = 10 years
+  1  lustrum  = 5 years
+  1  year  = 12 months [?] 365 days (366 days in  leap year s)
+  1  month  [?] 28 to 31 days [?] 4 weeks 
+  1  fortnight  = 14 days = 2 weeks
+  1  week  = 7 days
+  1  day  = 24 hours
+  1  hour  = 60 minutes
+  1  minute  = 60 seconds
+  1  second  =  International System of Units SI   SI base unit#Base units of measurement base unit  of time
+  1  millisecond  = 1/1,000 second
+  1  microsecond  = 1/1,000,000 second
+  1  nanosecond  = 1/1,000,000,000 second
+  1  picosecond  = 1/1,000,000,000,000 of a second
+  1  femtosecond  = 1/1,000,000,000,000,000 of a second
+  1  attosecond  = 1/1,000,000,000,000,000,000 of a second
+  1  Planck time  = smallest measurable unit of time
+
+  Things to measure time  
+   Clock 
+   Hourglass 
+   Stopwatch 
+   Sundial 
+   Circadian rhythm 
+
+  Time of day  
+   http://www.timeanddate.com/worldclock/ World Clock 
+   http://tycho.usno.navy.mil/what1.html U.S. Naval Observatory 
+   http://www.hexadecimal-time.com Time in    Hexadecimal numeral system 
+
+ Category:Basic English 850 words 
+ Category:Philosophy 
+ Category:Time  

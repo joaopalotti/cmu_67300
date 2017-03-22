@@ -1,0 +1,66 @@
+Democracy
+
+A  democracy  means  rule by the people . ref cite web url   http://www.bbc.co.uk/dna/h2g2/A805952 title BBC - h2g2 - Demokratia - the Athenian Democracy work bbc.co.uk accessdate 13 July 2010 ref  The name is used for different forms of  government , where the people can take part in the decisions that affect the way their  community  is run. In modern times, there are different ways this can be done:
+  The people  meet to decide about new  laws , and changes to existing ones. This is usually called  direct democracy .
+  The people elect their leaders. These leaders take this decision about laws. This is commonly called  representative democracy . The process of choosing is called  election . ref cite web url http://www.innertemple.org.uk/index.php?option=com_content&view=article&id=250&Itemid=198   title Democracy Conference  publisher Innertemple.org.uk  date   accessdate 2010-08-22 ref  Elections are either held periodically, or when an officeholder dies. 
+  Sometimes people can propose new laws or changes to existing laws. Usually, this is done using a  referendum , which needs a certain number of supporters.
+  The people who make the decisions are chosen more or less at random. This is common, for example when choosing a  jury  for a  trial . This method is known as sortition or  allotment . In  a trial, the jury will have to decide the question whether the person is guilty or not. In Europe, trials with a jury are only used for serious crimes, such as  murder ,  hostage  taking or  arson .
+To become a stable democracy, a state usually undergoes a process of  democratic consolidation .
+
+  Elections  
+After people hold an election, the candidates that won are determined. The way this is done can be simple: The candidate with the most votes gets elected. Very often, the  politician politicians  being elected belong to a  political party . Instead of choosing a person, people vote for a party. The party with the most votes then picks the candidates. 
+
+Usually, the people being elected need to meet certain conditions: They need to have a certain  Ageing age  or a government body needs to determine that they are suitably qualified to perform the job. 
+
+Not everyone can vote in an election.  Suffrage  is only given to people who are citizens. Some groups may be excluded, for example  prisoner prisoners . 
+
+For some elections, a country may make voting  Compulsory voting compulsory . Someone who does not vote, and who does not give a good reason usually has to pay a  fine .
+ File:Polity IV 2013.png thumb|350px|The  polity IV Polity IV data series  is one way of measuring how democratic countries are. This map dates from 2013.  
+
+ File:2016 Freedom House world map.png thumb|350px|This map shows the findings of  Freedom House 's survey  Freedom  in the  World  2016. The survey reports how much freedom countries had. Just because countries are the same color does not mean they are exactly the same. ref name FITW-TG-2016 https://freedomhouse.org/sites/default/files/FH_FITW_Report_2016.pdf Freedom in the World 2016 , Freedom House. Retrieved 28 January 2016. ref 
+ center legend inline #179C86 Free (86)   legend inline #F6DD4F Partly Free (59)   legend inline #706EA4 Not Free (50) center 
+
+ File:Democracyindex2.png thumb|350px| Democracy Index  as published in January, 2007. The lighter the country, the more democratic it is. 
+
+ File:Democracy claims 2.PNG right|350px|thumb|Since World War II, countries have accepted the idea of democracy. This map shows which countries that call themselves democracies. The countries that do not include  Saudi Arabia ,  Myanmar  and  North Korea ; also the small countries of Cuba,  Brunei  and  Vatican City 
+
+ legend #0000FF Governments who see themselves as a democracy 
+
+ legend #FF0000 Governments who do not see themselves as a democracy 
+
+  Kinds of democracy  
+Democracy may be direct or indirect.
+
+In a  direct democracy , everyone has the right to make laws together. One modern example of direct democracy is a  referendum , which is the  name  for the kind of way to pass a law where everyone in the community votes on it. Direct democracies are not usually used to run countries, because it is hard to get millions of people to get together all the time to make laws and other decisions. There is not enough time.
+
+In an  Indirect democracy indirect , or representative democracy, people choose representatives to make laws for them. These people can be mayors, councilmen, members of Parliament, or other government officials. This is a much more common kind of democracy. Large communities like cities and countries use this method, but it may not be needed for a small group.
+
+  History  
+  Ancient origins  
+This kind of government was developed long ago by the ancient  Ancient Greece Greeks  in the city of  Athens . They had everyone who was a  citizen  ( slave s,  woman women , foreigners, and children could not vote) get together in one area. The Assembly would talk about what kinds of laws they wanted and voted on them. The Council would suggest the laws. All citizens were allowed in the Assembly. 
+
+The Council were picked by draws ( lottery ). The participants in the Council would change every  year  and the number of people in the Council was at the most 500. For some offices the Athenian citizens would pick a leader by writing the name of their favorite  wikt:candidate candidate  on a piece of  stone  or  wood . The person with the most votes became the  leader .
+
+  Middle Ages  
+In the Middle Ages, there were many systems in which there were elections, although only a few people could join in at this time. The  Parliament of England  began from the  Magna Carta , a document which showed that the King's power was limited, and protected certain rights of the people. The first elected parliament was De Montfort's Parliament in England in 1265.
+
+However, only a few people could actually join in. Parliament was chosen by only a few percent of the people (in 1780, less than 3% of people joined in). ref name nationalarchives cite web url http://www.nationalarchives.gov.uk/pathways/citizenship/rise_parliament/making_history_rise.htm   title Exhibitions & Learning online   Citizenship   Struggle for democracy  publisher The National Archives  date   accessdate 2010-08-22 ref  The ruler also had the power to call parliaments. After a long time, the power of Parliament began to grow. After the  Glorious Revolution  in 1688, the English Bill of Rights made Parliament more powerful. ref name nationalarchives  Later, the ruler became a  symbol  instead of having real power. ref cite web url http://www.nationalarchives.gov.uk/pathways/citizenship/struggle_democracy/getting_vote.htm   title Exhibitions & Learning online   Citizenship   Rise of Parliament  publisher The National Archives  date   accessdate 2010-08-22 ref 
+
+  Other  
+   Majority rule 
+   Direct democracy 
+   Democratic consolidation 
+   Political party 
+   Constitution 
+   Constitutional economics 
+   Political economy 
+   Election 
+   Rule of law 
+   Citizenship 
+   Activism 
+   Politics 
+
+  References  
+ reflist 
+
+ Category:Democracy  

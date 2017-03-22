@@ -1,0 +1,99 @@
+English language
+
+Infobox language
+ name   English
+ pronunciation    IPAc-en ' I NG g l I S ref http://www.oxfordlearnersdictionaries.com/us/definition/english/english_1?q=English English noun  - Oxford Advanced Learner's Dictionary - Oxford University Press. (c)2016. ref 
+ region   
+ speakers   360 million
+ date   2010
+ ref    ref name NE Nationalencyklopedin "Varldens 100 storsta sprak 2010" The World's 100 Largest Languages in 2010 ref 
+ speakers2    Second language L2 : 375 million and 750 million English as a foreign or  second language ref name BritishCouncilEnglish cite web  url http://www.britishcouncil.org/learning-elt-future.pdf   title Future of English accessdate 24 August 2011  publisher The British Council  (page 10) ref 
+ familycolor   Indo-European
+ fam2    Germanic languages Germanic 
+ fam3    West Germanic languages West Germanic 
+ fam4    Anglo-Frisian languages Anglo-Frisian 
+ fam5    English languages Anglic 
+ script    Roman alphabet 
+ nation    English as an official language#Sovereign states 54 countries br English as an official language#Non-sovereign entities 27 non-sovereign entities br United Nations br European Union br Commonwealth of Nations br Council of Europe br International Criminal Court ICC br International Olympic Committee IOC br International Organization for Standardization ISO br NATO br North American Free Trade Agreement NAFTA br Organization of American States OAS br Organisation for Economic Co-operation and Development OECD br Organisation of Islamic Cooperation OIC br OPEC br Pacific Islands Forum PIF 
+ iso1   en
+ iso2   eng
+ iso3   eng
+ lingua   52-ABA
+ map   Anglospeak.svg
+ mapcaption  
+ legend #0000ff Countries where English is an official or de facto official language, or national language, and is spoken fluently by the majority of the population 
+ legend #8ddada Countries where it is an official but not primary language 
+ notice   IPA 
+ File:EN English Language Symbol ISO 639-1 IETF Language Tag Icon.svg thumb|right|upright|EN language code ( ISO 639-1 ) 
+
+ English   is a  West Germanic languages West Germanic language  that was first spoken in  Anglo-Saxon  England in the early  Middle Ages . It is now the most widely used language in the world. ref Mydans, Seth  (14 May 2007)  http://www.nytimes.com/2007/05/14/world/asia/14iht-14englede.5705671.html "Across cultures, English is the word"   New York Times . Retrieved 21 September 2011 ref  
+
+It is spoken in many  country countries  around the world.  Anglosphere  countries include the  United Kingdom , the  United States ,  Canada ,  Australia ,  Republic of Ireland Ireland ,  New Zealand  and a number of  Caribbean  nations. There are about 375 million  native   speech speakers  (people with first language as English), ref Curtis, Andy.  Color, race, and English language teaching: shades of meaning . 2006, page 192. ref  which is the largest after  Mandarin Chinese Mandarin  and  Spanish language Spanish . About 220 million more people speak it as a second language. It is often used in work and in travel, and there are a  billion  people who are learning it. This makes English the second most spoken language, and the most international one in the world. 
+
+English has changed and developed over time. ref Baugh, Albert C. & Cable, Thomas 2012.  A history of the English language . 6th ed, London:  Routledge . ISBN 0-41-565596-X ref  The most obvious changes are the many words taken from  Latin language Latin  and  French language French .  English grammar  has become very different from other Germanic languages, without becoming much like Romance languages. Because nearly 60% of the vocabulary comes from  Latin , English is sometimes called the most Latin of the Germanic languages, and is often mistaken for being a  Romance languages Romance language . ref http://www.conexion-to.it/index.php?option=com_content&view=article&id=184:inglese-tedesco-e-olandese-a-confronto&catid=34:lingue-a-culture&Itemid=60 Comparison between English, German and Dutch (in Italian) ref 
+
+  History  
+As its name suggests, the English language began in  England .  Germany Germanic  tribes ( Saxons ,  Anglo-Saxon Angles , and  Jutes ) came to Britain from around 449  AD . They made their home in the south and east of the island, pushing out the Celtic Britons who were there before them, or making them speak the English language instead of the old  Celtic languages . Some people still speak Celtic languages today, in  Wales  ( Welsh language Welsh ) and elsewhere.  Scottish Gaelic Gaelic  is the Scottish Celtic language, still spoken by some in the  Highlands and Islands . " Scots " is a dialect of English (although some call it a separate language).  Irish Gaelic  is spoken by very few people today.
+
+The Germanic  dialect s of these different tribes became what is now called  Old English language Old English . The word "English" comes from the name of the Angles:  Englas . Old English did not sound or look much like the English spoken today. If English speakers today were to hear or read a passage in Old English, they would understand just a few words.
+
+The closest language to English that is still used today is  Frisian , spoken by about 500,000 people living in the  Netherlands ,  Germany  and  Denmark . Although it is a lot like English (and was even closer before Old English changed to  Middle English ), speakers of the two languages would not be able to understand each other. That is why people suggest that the closest  major  language to English is  Dutch language Dutch  which is spoken in the Netherlands and nearby  Belgium .  German language German  is spoken in Germany,  Austria  and  Switzerland , and some German words are also a lot like English. All these languages belong to the same West Germanic family as English.
+
+Many other people came to England later at different times, speaking different languages, and these languages added more words to make today's English. For example, around 800 AD, many  Denmark Danish  and  Norse   pirate s, also called  Vikings , came to the country, established  Danelaw . So, English got many  Norse  loanwords. Their languages were  Germanic languages , like Old English, but are slightly different. They are called the  North Germanic languages .
+
+When  William the Conqueror  took over England in 1066 AD, he brought his  noble s, who spoke  Norman language Norman , a language closely related to  French language French . The language changed greatly because it was mostly being spoken instead of written for about 300 years (official written documents were in Norman French). English borrowed many words from Norman at that time, and also began to drop the old  Grammatical case word endings . English of this time is called  Middle English .  Geoffrey Chaucer  is a well known writer of Middle English. After more sound changes, Middle English became Modern English.
+
+English continued to take new words from other languages, for example mainly from French (around 30% to 40% of its words), but also  Chinese language Chinese ,  Hindi  and  Urdu ,  Japanese language Japanese ,  Spanish language Spanish  and  Portuguese language Portuguese . Because scientists from different countries needed to talk to one another, they chose names for scientific things in the languages they all knew:  Greek language Greek  and  Latin . Those words came to English also, for example,  photography  ("photo-" means "light" "and "-graph " means "picture" or "writing", in Greek. ref These words come mostly from Greek, but are translated into the  Roman alphabet , which we use. ref  A photograph is a picture made using light), or  telephone . So, English is made of Old English, Danish, Norse, and French, and has been changed by Latin, Greek, Chinese, Hindi, Japanese, and Spanish, and some words from other languages. 
+
+ English grammar  has also changed, becoming simpler and less Germanic. The classic example is the loss of  Case (grammar) case  in grammar. Grammatical case shows the role of a noun, adjective or pronoun in a sentence. In Latin (and other Indo-European languages) this is done by adding  suffix es. English usually does not. The style of English is that meaning is made clear more by  Context (language) context .
+
+The history of the  British Empire  has added to the spread of English. English is an important language in many places today. In  Australia ,  Canada ,  India ,  Pakistan ,  South Africa , and the  United States , among others (those in the  Commonwealth ), English is the main language. Because the  United Kingdom  (the country where England is) and the  United States  have historically been powerful in  commerce  and government, many people find it helpful to learn English to  communication communicate  in science, business, and  diplomacy . This is called learning English as an additional language,  English as a Second Language  (ESL) or English as a Foreign Language (EFL).
+
+ English literature  has many famous stories and plays.   William Shakespeare  was a famous English writer of  poem s and  Play (theatre) plays .  His English is  Early Modern English , though not quite as we use it today.  Later, many  short story short stories  and  novel s also used English. The novel as we know it is first seen in !8th century English. ref  Ian Watt's  The Rise of the Novel: Studies in Defoe, Richardson and Fielding  (London, 1957); John J. Richetti, Popular Fiction before Richardson. Narrative Patterns 1700-1739 (1969); Lennard J. Davis,  Factual Fictions: The Origins of the English Novel  (New York: Columbia University Press, 1983); J. Paul Hunter,  Before Novels: The Cultural Contexts of Eighteenth-Century English Fiction  (New York: Norton, 1990).  ref  Today, many famous  song s and  movie s (cinema films) use the English language.
+
+  Spelling differences  
+English uses strange  Orthography spelling  when written. Different words can use the same letters and combinations for very different sounds. For example, "-ough" is different in through (threw), rough (ruff), dough (doe) or cough (coff). This makes it a very difficult language to learn. ref name age cite news title It's offishal - English iz darned hard to learn last Smith, Bridie 2009 publisher The Age language English accessdate 2009-11-29 ref  Many English speaking countries spell words differently. In the  United States , some words are spelled differently from the way they are spelled in the  United Kingdom  and many other countries (such as those of the  British Commonwealth ) where English is the main language. These different ways of spelling are sometimes called "American English" and "British English". For example, "colour" is spelled "color" in the USA, and "programme" is spelled "program" in the USA. Even the word "spelled" is different in British English, where it is "spelt". However, with greater  globalization  or globalisation (ideas spreading around the world), and the spread of US culture through  television  and US computer programmes, some British people now sometimes use American English terms.
+
+ Vocabulary 
+ File:Origins of English PieChart 2D.svg thumb|200px|Influences on English vocabulary 
+Nearly 60% of the vocabulary in the English language comes from Latin and Neo-Latin languages (mainly French):
+
+   Langues d'oil Langue d'oil  (French) : 29.3%
+   Latin , including modern scientific and technical Latin: 28.7%
+   Germanic languages : 24% (inherited from  Old English /Anglo-Saxon, Proto-Germanic,  Old Norse , etc. without including Germanic words borrowed from a Romance languages)
+  Greek: 5.32%
+  Italian, Spanish and Portuguese: 4.03%
+  Derived from proper names: 3.28%
+  All other languages: less than 1%
+
+However, in the most common words, the proportion of Germanic origin words is much higher.
+Also, besides the simple vocabulary, there are expressions and typical short phrases, which are also often of Germanic origin.
+
+ Related pages 
+   Indian English 
+   American English 
+   Australian English 
+   British English 
+   Canadian English 
+   Jamaican English 
+   New Zealand English 
+   Pakistani English 
+   Scottish English 
+
+ References 
+ reflist 
+
+ Other websites 
+ 
+ InterWiki code en 
+   http://bbclearningenglish.com/ BBC resources for English language students 
+   http://learnenglishfeelgood.com/ Resources for English language students 
+   http://linguapress.com/grammar/ The main points of English grammar, clearly presented with examples 
+   http://a4esl.org/ Activities for English language students 
+   http://www.online-utility.org/english/index.jsp Tools For English Language 
+
+ Official UN languages 
+ Germanic languages 
+
+ Category:English language   
+ Category:Languages of India

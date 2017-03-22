@@ -1,0 +1,50 @@
+Taxonomy
+
+Image:Scientific classification.svg right|100px|The hierarchy of scientific classification 
+
+ Taxonomy  is a branch of  science . It is about the  law s and  principle s of classifying things. ref Oxford English dictionary ref  From one type of taxonomy, many classifications might be produced.
+
+The best-known kind of taxonomy is used for the  Biological classification classification  of lifeforms (living and extinct). Each organism has a scientific name. This name is part of the  biological classification  of that  species . The name is the same all over the world, so that when scientists from different places talk or write about the living thing, they can understand each other. In addition, a species has a position in the  Tree of life (biology) tree of life . Thus the  crow  is  Corvus corone , a member of the  Corvidae   Family (biology) family , and they are  passerine   bird s. That is well agreed, but the classification of other groups is not agreed at present, and often several classifications are being discussed.
+
+Living things are classified into three  Domain (biology) domains :  bacteria ,  archaea  and  eukaryotes . The highest rank in a domain is the  Kingdom (biology) kingdom . Each kingdom has many smaller groups in it, called  Phylum phyla . ref See  List of animal phyla ref  Each phylum has more smaller groups in it, called  Class (biology) classes . This pattern looks like branches on a tree with smaller branches growing from them. Each species is put into a group because of what it does, how and what it eats, special body parts, and so on. At the end of the pattern, the groups ( Genus genera ) are very small. Then each species in the genus is given its own name. 
+
+When someone writes about a living thing and its formal scientific name, they write the genus and species name. This is known as  binomial nomenclature , because it uses two names for each  organism . The first is the  genus  name, and the second is the  species  in that genus. The scientific name of the  domestic cat  is  Felis catus . Sometimes it is enough to write  F. catus . 
+
+These are the major groups ( taxon rank s) used in taxonomy:
+
+ Kingdom (biology) Kingdom  -->  Phylum  -->  Class (biology) Class  -->  Order (biology) Order  -->  Family (biology) Family  -->  Genus  -->  Species 
+
+Some  mnemonic s (sayings to help a person remember something):
+  King Phillip Came Over From Greater Spain,
+
+When people started naming species,  Latin language Latin  was a language widely used in  Europe . All species names are still written in Latin. This has some advantages. Since Latin is no longer spoken, it is unchanging, and is owned by no-one. It gets over the problem of every language having its own names for animals and plants.
+
+Scientists used to write the official description of each new species in Latin. On 1 January 2012, the  International Botanical Congress  changed to allow English (as well as Latin) for describing new plant species. ref cite web title Veni, vidi, vici - and now history first Adrian last Higgins work Washington Post date 19 January 2012 page A1 url http://www.highbeam.com/doc/1P2-30538042.html ref  The  International Code of Zoological Nomenclature  recommends choosing a language that is widely used, and that is used in the places where the species lives.
+
+  Cladism  
+An important modern approach to taxonomy is  Clade cladism . This approach is based on the branching (tree-like) course of  evolution . Like traditional  Linnaeus Linnaean  classification, it uses  traits  to decide on the branches of the classification. It insists on groups being  monophyletic . This has the effect that  birds  are not a class but a sub-group of  dinosaurs . It also means the ranking system described above would be abolished. 
+
+So cladism has different principles of taxonomy, and produces a different kind of taxonomy. Decisions, where possible, are supported by  DNA   sequence analysis . Present-day  biological classification  is a mixture of the old Linnaean and the modern cladistic principles of taxonomy. In parts, it is changing rapidly. The classifications presented in Wikipedia at present are often a compromise between the two systems. The details are regularly discussed.
+
+  Turmoil in taxonomy  
+Today, there are many changes in the classification of living things. This turmoil in taxonomy has led to many alternative  Biological classification classifications . It is caused partly from the move from  Linnaeus Linnaean  to  Cladistics cladistic  principles, ref name Ridley Ridley, Mark 1986.  Evolution and classification . Longman, London. ISBN 0-582-44497-7 ref  and partly by the use of  DNA sequence  data in taxonomy. An example is: the way  derived  groups like birds should not be classified at the same level as the group they evolved from. Yet birds have traditionally been a  Class (biology) class  under the Linnaean system. 
+
+The turmoil sometimes results in differences between related pages. Pages may rely on different references and different authors' opinions as to the present best arrangement.
+
+The following source is good on the differences between cladistic and taxonomic classification systems:
+ Grant, Verne 2003.  Incongruence between cladistic and taxonomic systems.  American Journal of Botany .  90  (9) 1263-1270.  http://www.amjbot.org/content/90/9/1263.full 
+
+  Related pages  
+ Molecular clock 
+ Molecular evolution 
+ Sequence analysis 
+ Biological classification 
+ Military taxonomy 
+
+  References  
+ Reflist 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Taxonomy Taxonomy  Citizendium
+
+ Category:Taxonomy  

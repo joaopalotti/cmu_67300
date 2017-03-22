@@ -1,0 +1,3 @@
+Cost Of Living
+
+REDIRECT  Cost_of_living 

@@ -1,0 +1,186 @@
+Republic of China
+
+See also Taiwan 
+ Infobox country
+ native_name    lang zh-tw Zhong Hua Min Guo  small Ref label  names a small br <center> Chunghwa Minkuo br Zhonghua Minguo 
+ conventional_long_name   Republic of China
+ common_name   Taiwan
+ image_flag   Flag of the Republic of China.svg
+ alt_flag   A red flag, with a small blue rectangle in the top left hand corner on which sits a white sun composed of a circle surrounded by 12 rays.
+ image_coat   Republic of China National Emblem.svg
+ symbol_type   Emblem
+ alt_coat   A blue circular emblem on which sits a white sun composed of a circle surrounded by 12 rays.
+ image_map   LocationTaiwan.svg
+ map_caption   red area shows territories controlled by ROC
+ national flower   plumflower.jpg
+ alt_map   A map depicting the location of the Republic of China in East Asia and in the World.
+ national_anthem   " National Anthem of the Republic of China " br <<Zhong Hua Min Guo Guo Ge >> 
+ br br " National Flag Anthem " br <<Zhong Hua Min Guo Guo Qi Ge >> 
+ capital    Taipei ref name capital cite web  title   Yearbook 2004  publisher   Government Information Office of the Republic of China  year   2004  quote   Taipei is the capital of the ROC  url    http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/2004/P045.htm ref Ref label taipeinote b 
+ latd 25  latm 02  lats 00  latNS N
+ longd 121  longm 38  longs 00  longEW E
+ largest_city    New Taipei City New Taipei 
+ 
+ official_languages    Standard Chinese Mandarin ref cite web url http://www.britannica.com/EBchecked/topic/580902/Taiwan   title Taiwan (self-governing island, Asia) publisher Britannica Online Encyclopedia  date 1975-04-05  accessdate 2009-05-07 ref 
+ languages_type    Official script s
+ languages    Traditional Chinese 
+ regional_languages    Taiwanese Hokkien br Hakka language Hakka Chinese br Formosan languages ref name yb09 cite web url http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/ch02.html title The Republic of China Yearbook 2009. Chapter 2 - People and Language year 2009 publisher Government Information Office accessdate 2 May 2010 archiveurl http://web.archive.org/web/20100803010351/http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/ch02.html archivedate 3 August 2010 ref 
+ ethnic_groups    nowrap >95%  Han Chinese sfnp Exec. Yuan 2014 p 36   br nowrap [?]  70%  Hoklo people Hokkien br nowrap [?]  14%  Hakka people Hakka br nowrap raise 0.1em [?]  14%  Waishengren efn name waishengren Waishengren  usually refers to people who  immigrated  from mainland China to Taiwan after 1945, also the Chinese refugees migrated to Taiwan due to the  Chinese Civil War , and to their descendants born in Taiwan. It does not include citizens of the People's Republic of China who more recently moved to Taiwan. br nowrap 2.3%  Taiwanese aborigines Aborigines efn Taiwanese aborigines are officially categorised into  List of ethnic groups in Taiwan 16 separate ethnic groups  by the Republic of China.  harvp Exec. Yuan 2014 p 49   
+ government_type    Presidential system Presidential   republic 
+ leader_title1    President of the Republic of China President 
+ leader_name1    Tsai Ing-wen ref name op cite web title Office of the President, Republic of China url http://english.president.gov.tw/ accessdate 17 December 2016 ref 
+ leader_title2    Vice President of the Republic of China Vice President 
+ leader_name2    Chen Chien-jen 
+ leader_title3    Premier of the Republic of China Premier 
+ leader_name3    Lin Chuan 
+ area_km2   36,191.4667
+ area_sq_mi   13,973.6
+ area_rank   136th
+ area_magnitude   1 E10
+ percent_water   10.34
+ population_estimate   23,174,528 ref name taiwan-popstat cite web url http://sowf.moi.gov.tw/stat/month/m1-01.xls   title MOI Statistical Information Service  date   accessdate 2011-06-22 ref Ref label popnote c 
+ population_estimate_year   2011
+ population_estimate_rank   49th
+ population_density_km2   640
+ population_density_sq_mi   1,658
+ population_density_rank   16th
+ demonym    Taiwanese people Taiwanese ref cite web url http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm   title The ROC's Humanitarian Relief Program for Afghan Refugees  publisher Gio.gov.tw  date 2001-12-11  accessdate 2009-05-07  archiveurl    http://web.archive.org/web/20041215030432/http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm   archivedate   December 15, 2004 ref ref cite web url http://www.gio.gov.tw/taiwan-website/4-oa/20051111/2005111101.html   title Taiwanese health official invited to observe bird-flu conference  publisher Gio.gov.tw  date 2005-11-11  accessdate 2009-05-07 ref ref cite web url http://geography.about.com/library/weekly/aa030900a.htm   title Demonyms - Names of Nationalities  publisher Geography.about.com  accessdate 2009-05-07 ref  or  Chinese people Chinese ref Although the territories controlled by the ROC imply that the demonym is "Taiwanese", some consider that it is "Chinese" due to the claims of the ROC over all of China. Taiwanese people have various opinions regarding their own  #National identity national identity . ref  or both
+ GDP_PPP   $900,210 billion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=528&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr1.x=92&pr1.y=10 title Republic of China (Taiwan) publisher International Monetary Fund accessdate 2011-09-20 ref  
+ GDP_PPP_rank   19th
+ GDP_PPP_year   2011
+ GDP_PPP_per_capita   $39,245 ref name imf2  
+ GDP_PPP_per_capita_rank   20th
+ GDP_nominal   $489.387 billion ref name imf2 
+ GDP_nominal_rank   24th
+ GDP_nominal_year   2011
+ GDP_nominal_per_capita   $21,832 ref name imf2  
+ GDP_nominal_per_capita_rank   37th
+ sovereignty_type   Establishment
+ sovereignty_note    Xinhai Revolution 
+ established_event1    Wuchang Uprising 
+ established_date1   10 October 1911
+ established_event2   Republic established
+ established_date2   1 January 1912
+ established_event3    Retrocession Day End of Japanese rule in Taiwan 
+ established_date3   25 October 1945
+ established_event4    Constitution of the Republic of China Constitution 
+ established_date4   25 December 1947
+ established_event5    Taiwan after World War II#From authoritarianism to democracy Government relocated to Taipei 
+ established_date5   7 December 1949
+ established_event6    Withdrawal from the United Nations Withdrawal from the UN 
+ established_date6   25 October 1971
+ established_event7    Republic of China presidential election, 1996 First direct presidential election 
+ established_date7   23 March 1996
+ HDI   0.868
+ HDI_change   increase
+ HDI_ref    ref name HDI-1 Due to its political status, the UN has not calculated an HDI for the ROC. The ROC government calculated its HDI for 2010 to be 0.868, and would rank 18th among countries. ref ref name HDI-2 http://www.dgbas.gov.tw/public/Attachment/11715383471.doc ref 
+ HDI_year   2010
+ HD1_rank   18
+ HDI_category    color green Very high 
+ Gini 34.1
+ Gini_ref    ref Regularly check CIA factbook or  Cite journal url http://eng.stat.gov.tw/public/data/dgbas03/bs4/ninews_e/9808/t14e.xls   title  Household Income distribution of major countries ref 
+ Gini_year 2008
+ Gini_category span style color:#fc0; medium span 
+ currency    New Taiwan dollar  (NT$)
+ currency_code   TWD
+ country_code   TPE
+ time_zone    Chungyuan Standard Time CST 
+ utc_offset    UTC+8 +8 
+ time_zone_DST   not observed
+ utc_offset_DST    UTC+8 +8 
+ date_format   yyyy-mm-dd  br  yyyyNian mYue dRi   br  ( Common Era CE ;  Chinese calendar CE+2697 )  or   Minguo calendar Min Guo yyNian mYue dRi  
+ drives_on   right
+ cctld    .tw ,  .Tai Wan  , ref cite web
+  url http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt 
+  title ICANN Board Meeting Minutes
+  publisher ICANN
+  date 25 June 2010  ref   .Tai Wan  
+ calling_code    +886 
+ footnotes  
+a.  note names  See also  Name of China#Official names Names of China .
+b.  note taipeinote  Nanking (now Nanjing) was the seat of the government from 1928 until 1949 except during wars, when the government retreated to Taipei. br 
+c.  note popnote  Population and density ranks based on 2008 figures. 
+
+The  Republic of China  ( zh t Zhong Hua Min Guo  s Zhong Hua Min Guo  p sub Zhonghua Minguo sub ), also known as Republic of China (Taiwan), is a  democratic   island   country  in  East Asia . It is usually called  Taiwan . The  People's Republic of China People's Republic of China (PRC)  is to the northwest;  Japan  is to the northeast; the  Philippines  is to the south. Chinese Nationalist lost the  Chinese Civil War  to Communists in 1949, and moved the government of Republic of China from  Nanjing  to  Taipei . It still claim the ownership of the whole China including Mainland China.
+
+Republic of China is one of the strongest economy in East Asia.
+
+  Territory  
+The territory the Republic of China (ROC) controls is known by most people as the island of  Taiwan . Most places on Taiwan Island are called " Taiwan Province " by the government of the Republic of China for official business, except the two largest cities of  Taipei  and  Kaohsiung . West of Taiwan Island, there are three small  archipelago groups of islands  that also belong to ROC. They are:
+  The  Pescadores  (Penghu, Peng Hu Lie Dao ): They also are part of Taiwan Province.
+   Quemoy  (Kinmen, Jin Men ): A part of  Fujian  province, called Kinmen County(Jin Men Xian ).
+   Matsu Islands Matsu  (Ma Zu Lie Dao ): the smallest county, called Lienchiang County(Lian Jiang Xian ), also part of  Fujian  province
+   Senkaku Islands Diaoyutai Islands :The Diaoyutai Islands (Diao Yu Tai Lie Yu |Diaoyutai Lieyu) are a group of islands where nobody lives that the Republic of China (ROC) claims it belong to them, but also claimed by the People's Republic of China (PRC) and Japan. In Japanese, the islands are known as the  Senkaku Islands  (Jian Ge Zhu Dao , Senkaku Shoto?). The islands are now under the control of Japan.
+   Dong-Sha Islands :The Pratas Islands or Dong-Sha Islands (Dong Sha Qun Dao ) consists of three islands in the northeastern South China Sea, 340 km southeast of Hong Kong.
+   Taiping  (Traditional Chinese: Tai Ping Dao |Taiping), also known as Itu Aba, is the largest of the Nansha Islands (Spratly Islands) in the South China Sea.
+
+The ROC used to govern  Mainland China  too. Now it is governed by the Communist  People's Republic of China  see  #History History  and  Political problems of China . However, ROC still declares Mainland China as its territory officially. The Republic of China also used to  Mongolia .
+
+ File:Republic of China (orthographic projection, historical).svg right|250px|alt=Republic_of_China_(orthographic_projection,_historical).svg|thumb|This is the territory of the Republic of China between 1912 and 1949. 
+
+ Administrative divisions 
+ File:Taiwan ROC political divisions labeled.svg 260px 
+
+There are administrative divisions in different levels and types.
+
+ Provinces (Sheng  sheng) br (1st level):
+ Taiwan Province, Republic of China Taiwan Province 
+ Fujian Province, Republic of China Fujian Province 
+
+ Special municipalities (Zhi Xia Shi  zhixiashi) br (1st and 2nd level):
+ New Taipei City 
+ Taipei City 
+ Taichung City 
+ Tainan City 
+ Kaohsiung City 
+
+ Provincial cities (Shi  shi) br (2nd level):
+ Keelung City 
+ Hsinchu City 
+ Chiayi City 
+
+ Counties (Xian  xian) br (2nd level):
+ Changhua County 
+ Chiayi County 
+ Hsinchu County 
+ Hualien County 
+ Kinmen County 
+ Lienchiang County 
+ Miaoli County 
+ Nantou County 
+ Penghu County 
+ Pingtung County 
+ Taitung County 
+ Taoyuan County 
+ Yilan County 
+ Yunlin County 
+
+157 Districts (Qu  qu), 17 Country-controlled cities (Xian Xia Shi  xianxiashi), 41 Urban Townships (Zhen  zhen), and 153 Rural Townships (Xiang  xiang) stand the 3rd level. Districts stand under either Special municipalities or Provincial cities; Country-controlled cities, Urban Townships, and Rural Townships stand under Counties.
+
+Villages (Li  li or Cun  cun) stand the 4th level, and Neighborhoods (Lin  lin) stand the 5th level.
+
+  History  
+The Nationalists, led by Dr.  Sun Yat-sen , got rid of the  Qing Dynasty  ruled by the  Manchu s, then they established the ROC and ended Imperial Dynastic Rule in late-1911. The ROC at that time had Mainland China and all of what is now called Mongolia.
+
+After the Japanese were defeated by the Allies during  World War II , Taiwan was controlled by the ROC.
+
+In 1949, the  Communist Party of China Chinese Communists  fought a  civil war war  against the Nationalists and won. They established the  People's Republic of China . The Nationalists left mainland China and arrived in Taiwan.
+
+  Politics  
+After the ROC created a base on Taiwan, it hoped one day to capture the Mainland. But Chinese Communists grew stronger, so the Nationalists never did go back. The Communists say they replaced the ROC as the only government of China and also calls Taiwan their own.
+
+There are those people in Taiwan who want to never be a part of the  People's Republic of China .  They believe in complete  Taiwan independence  and want to rename the ROC (Taiwan) to "Republic of Taiwan" so Taiwan can no longer have any ancestral connection to China or Chinese culture. Some other people wish to unite with the People's Republic of China; they want  Chinese reunification . Some still want to attack the PRC and reunify China under the Republic of China. Some others want the  status quo , which means keeping everything the way it is now.
+
+  Language  
+Most Taiwanese people speak the  Standard Chinese language  known as  Mandarin language Mandarin , and others speak local dialects such as  Min Nan  (Taiwanese) or  Hakka language Hakka . The  Cantonese language , spoken in parts of southern China (for example, the province of  Guangdong ,  Hong Kong  and  Macau ), is not spoken in Taiwan. A small percentage of Aboriginal Taiwanese speak  aboriginal  languages, but the rest of the Chinese people have treated them badly, and many of these people, and their languages, struggle to survive. Some older Taiwanese people who went to school while the country was under Japanese rule can speak  Japanese language Japanese .
+
+After the Nationalist government fled the Mainland in 1948-49, they brought their language, Mandarin, with them, and made Mandarin the only official language. Then everyone in the ROC had to learn Mandarin. But, unlike the people in Mainland China, the Taiwanese never changed to  simplified Chinese characters  and so they have always used  traditional Chinese characters . In the past, students were not allowed to speak their  mother tongue  in school and were expected to speak only Mandarin. Taiwanese, Hakka, and native languages were considered bad until the early 1990s, when education in these languages began to be taught in some school systems. They were promoted, but by this time, many young people could speak only Mandarin.
+
+ References 
+ Reflist 
+
+ sisterlinks Republic of China 
+
+ asia 
+
+ Category:Taiwan  

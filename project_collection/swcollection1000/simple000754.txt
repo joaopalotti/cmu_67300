@@ -1,0 +1,110 @@
+Currency
+
+Currency  is the  unit  of  money  used by the people of a  country  or Union for buying and selling  Product (consumer goods) goods  and  service s.
+
+Certain currencies are said to be "pegged" or "fixed" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the  Cape Verde Cape Verdian   escudo  is pegged to the  Euro . If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency. Many countries have used systems where their money was pegged to something other than currency, for example  gold . When they do this, as the value of gold increases, so does the value of their money. Doing this is commonly called using the "Gold standard". Most countries stopped using the Gold standard in the 20th century. 
+
+Some well-known currencies are:
+  the  United States dollar 
+  the Euro
+  the  Pound sterling British pound 
+
+Currency  names  of the world, in order of the first letter, by currency name:
+
+   Afghan afghani Afghani  -  Afghanistan 
+   Baht  -  Thailand 
+   Balboa (currency) Balboa  -  Panama  ( United States dollar U.S. dollar  used for paper money)
+   Birr  -  Ethiopia 
+   Venezuelan bolivar Bolivar  -  Venezuela 
+   Boliviano  -  Bolivia 
+   Cedi  -  Ghana 
+   Costa Rican colon Colon  -  Costa Rica 
+   Cordoba (currency) Cordoba  -  Nicaragua 
+  Crown -  Czech Republic  ( koruna ),  Denmark  ( Danish krone krone ),  Estonia  ( kroon ),  Iceland  ( krona ),  Norway  ( Norwegian krone krone ),  Sweden  ( krona ). See also: British  Crown (coin) 
+   Dalasi  -  The Gambia 
+   Dinar  -  Algeria ,  Bahrain ,  Iraq ,  Jordan ,  Kuwait ,  Serbia ,  Tunisia  
+   Dirham  -  Morocco ,  United Arab Emirates ,  Libya ,  Qatar ,  Jordan 
+   Dollar  - Many countries
+   Dong (currency) Dong  -  Vietnam 
+   Drachma  - ( Greece --now uses  euro )
+   Armenian dram Dram  -  Armenia 
+   Escudo  -  Cape Verde , ( Portugal --now uses  euro )
+   Euro  
+   European Union  (as an organisation; the euro is not  legal tender  in every EU country.)
+  EU members:  Austria ,  Belgium ,  Estonia ,  Finland ,  France  (except Pacific territories using  CFP Franc ),  Germany ,  Greece ,  Republic of Ireland Ireland ,  Italy ,  Latvia ,  Lithuania ,  Luxembourg ,  Netherlands ,  Portugal ,  Slovakia ,  Spain . 
+  Countries that have made legal agreements with the EU to use the euro:  Andorra ,  Monaco ,  San Marino ,  Vatican City .
+  Countries that unilaterally use the euro:  Montenegro  and  Kosovo .
+  Currencies pegged to the euro:  Cape Verde Cape Verdian   escudo ,  CFA franc ,  CFP Franc ,  Comoran francs ,  Bulgaria n  lev ,  Danish krone , the  convertible marka  of  Bosnia and Herzegovina  
+   Forint  -  Hungary 
+   Franc  
+  Swiss franc -  Switzerland ,  Liechtenstein .
+   CFA franc  -  Benin ,  Burkina Faso ,  Burundi ,  Cameroon ,  Central African Republic ,  Chad ,  Cote d'Ivoire ,  Democratic Republic of the Congo ,  Equatorial Guinea ,  Gabon ,  Guinea ,  Guinea-Bissau ,  Republic of the Congo , 
+   CFP Franc  - France's Pacific territories of  New Caledonia ,  French Polynesia ,  Wallis and Futuna .
+  Comoran francs -  Comoros  (pegged to the French franc, then the euro).
+  Djiboutian franc -  Djibouti  (pegged to the US dollar since 1973).
+  Formerly using  Luxembourg franc Begian-luxembourgish franc  -  Belgium ,  Luxembourg .
+  Formerly using French franc:  Andorra ,  Monaco ,  France  (including:  French Guiana ,  Guadeloupe ,  Martinique  and  La Reunion ,  Saint Pierre and Miquelon  and  Mayotte ). 
+   Gourde  -  Haiti 
+   Guilder  -  Aruba ,  Netherlands Antilles  ( Netherlands --now uses  euro )
+   Iranian real  -  Iran 
+   Kina  -  Papua New Guinea 
+   Czech koruna Koruna  -  Czech Republic  ( Slovakia  now uses  euro )
+   Kroon  -  Estonia 
+   Swedish krona Krona  -  Iceland ,  Sweden 
+   Danish krone Krone  -  Denmark ,  Faroe Islands ,  Greenland ,  Norway 
+   Kuna  -  Croatia 
+   Kwacha  -  Zambia  and  Malawi 
+   Kwanza  -  Angola 
+   Kyat  -  Burma 
+   Lari  -  Georgia (country) Georgia 
+   Latvian lats Lats  -  Latvia 
+   Lek (currency) Lek  -  Albania 
+   Lempira  -  Honduras 
+   Leone  -  Sierra Leone 
+   Leu  -  Romania ,  Moldova 
+   Lev  -  Bulgaria 
+   Lira  - ( Cyprus ,  Italy ,  San Marino ,  Vatican City --now use  euro )
+   Turkish lira  -  Turkey 
+   Litas  -  Lithuania 
+   Manat 
+   Azerbaijani manat  -  Azerbaijan 
+   Turkmen manat  -  Turkmenistan 
+   Deutsche Mark Mark  - ( Germany -- now uses  euro )
+   Marka  -  Bosnia and Herzegovina 
+   Markka  - ( Finland  now uses  euro )
+   Nakfa  -  Eritrea 
+   Namibian dollars  -  Namibia 
+   Ngultrum  -  Bhutan 
+   Pataca  -  Macau 
+   Peseta  - ( Andorra ,  Spain --now use  euro )
+   Peso  -  Argentina ,  Chile ,  Colombia ,  Cuba ,  Dominican Republic  ( Dominican peso ,  Mexico ,  Philippines ,  Uruguay 
+   Pound (currency) Pound  -  Cyprus ,  Egypt ,  Falkland Islands ,  Gibraltar ,  Guernsey ,  Jersey ,  United Kingdom  ( Republic of Ireland Ireland --now uses  euro )
+   Pula (currency) Pula  -  Botswana 
+   Quetzal (currency) Quetzal  -  Guatemala 
+   South African rand Rand  -  South Africa 
+   Real (currency) Real  -  Brazil 
+   Renminbi  -  People's Republic of China 
+   Riel  -  Cambodia 
+   Ringgit  -  Malaysia 
+   Saudi riyal Riyal  -  Saudi Arabia 
+   Rouble  -  Belarus ,  Russia 
+   Rufiyah  -  Maldives 
+   Rupee  -  Republic of India ,  Mauritius ,  Nepal ,  Pakistan ,  Seychelles ,  Sri Lanka 
+   Rupiah  -  Indonesia 
+   Schilling  - ( Austria --now uses  euro )
+   Shekel  -  Israel ,  Gaza Strip ,  West Bank 
+   Shilling  -  Kenya 
+   Sol (currency) Sol  -  Peru 
+   Som  -  Kyrgyzstan 
+   Sucre (currency) Sucre  -  Ecuador 
+   Taka  -  Bangladesh 
+   Tenge  -  Kazakhstan 
+   Tolar  -  Slovenia 
+   Toman  -  Iran 
+  Vietnam ~ Dong (DVN) 
+   Won  -  North Korea ,  South Korea 
+   Yen  -  Japan 
+   Renminbi Yuan  -  People's Republic of China 
+   Zloty  -  Poland 
+
+ Category:Currency  

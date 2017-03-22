@@ -1,0 +1,42 @@
+Internet
+
+File:Internet map 1024.jpg thumb|319x319px|Internet  map 
+
+The  internet  is an informal term for the world-wide communication  computer network network  of computers. It sends information quickly between computers around the world. It has millions of smaller domestic,  academic ,  business , and  government  networks, which together carry many different kinds of  information . The  World Wide Web  is one of its biggest services. It is used by a few billion people all over the world.
+
+  History  
+The internet was developed in the  United States  by the " United States Department of Defense  Advanced Research Projects Agency" ( DARPA ). It was first connected in October, 1969, ref Cite web
+  url   http://www.walthowe.com/navnet/history.html 
+  title A brief history of the internet
+  work walthowe.com
+  accessdate 13 July 2010
+ ref  and was called  ARPANET . The  World Wide Web  was created
+at  CERN  in  Switzerland  in 1990 by a  United Kingdom British  ( UK )  man  named  Tim Berners-Lee .
+
+Today, people can pay  money  to access the internet from  internet service provider s. Some services on the Internet cost nothing to use. Sometimes the people who offer these free services use  advertising  to make money from them.
+The alternative (other) name, "net" came from "inter(net)".
+
+  Services on the internet  
+The internet is used for many things, such as  electronic mail ,  online chat ,  computer file file  transfer, and the interlinked  web page s and other documents of the  World Wide Web .
+
+The most used service on the internet is the  World Wide Web  (which is also called the "Web"). The Web contains  website s, including  blog s and  wiki s like  Wikipedia .  Webpage s on the internet can be seen and read by anyone (unless the page needs a  password , or it is blocked).
+
+The second biggest use of the internet is to send and receive e-mail. E-mail is private and goes from one  :wikt:user user  to another.  Instant messaging  (such as  AIM  or  ICQ ) is similar to email, but allows two or more people to chat to each other much faster.
+
+Some governments think the Internet is a bad thing, and block all or part of it.  For example, the Chinese government thinks that Wikipedia is bad. Many times no one in  China  can read it or add to it. ref cite web author posted by abennett  url http://www.itworld.com/040614wikipedia   title Chinese censors block access to Wikipedia  publisher ITworld  date 2004-06-14  accessdate 2009-10-16 ref  Some  parent s block parts of the internet they think are bad for  child ren to see. Well-known examples of the whole internet being blocked are in  North Korea ref cite web url http://www.rsf.org/IMG/pdf/Internet_enemies_2009_2_.pdf   title Rapport @ 09 GB  format PDF  date   accessdate 2009-10-16 ref  and  Myanmar .
+
+   Dangers on the internet 
+The internet can also be a dangerous place. Information that people put on the internet is not always checked, and some may not be true. Some may even be harmful. Also, if someone sends information through the internet, sometimes other people can read it even when they are not supposed to. For example,  Facebook  has had some problems with  wikt:privacy privacy  settings. A person can post information on a website, but this is often a bad idea unless the person is very sure of what they are doing. A good way to check for a secure website is to make sure the  URL  starts with  nowiki https:// nowiki  instead of  nowiki http:// nowiki , this means it is a secure site. (This only stops other people from reading what a user types. It does not mean the website is safe)
+  Some websites may trick people into  download ing  computer virus viruses  that can harm a computer or  spyware  that  spy spies  on its users (looks at what they are doing and tells someone else).  E-mails can also have harmful files with them as "attachments". ref cite web url http://www.wiredsafety.org/internet101/viruses.html   title Internet Safety: Internet 101 - Viruses, worms and Trojans  publisher Wiredsafety.org  date   accessdate 2009-10-16 ref 
+  In  IRC internet chatrooms , people might be preying on others or trying to  stalking stalk  or  abuse  them.
+  The internet contains content that many people find offensive such as  pornography , as well as content intended to be offensive.
+  Criminals may  Identity theft steal people's personal information  or  Internet fraud trick people into sending them money .
+
+ Related pages 
+   Media studies 
+   World Wide Web 
+
+  References  
+ reflist 
+
+ Category:Internet  

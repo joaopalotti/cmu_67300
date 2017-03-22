@@ -1,0 +1,71 @@
+Dublin
+
+More information:   http://danehvadonot.blogspot.com/ Dublin Travel Guide 
+ Infobox settlement
+  official_name             Dublin  br   Baile Atha Cliath 
+  image_flag                
+  flag_size                 
+  image_shield              Dublin_city_coa.gif  
+  shield_size               125px
+  motto                      lang la Obedientia Civium Urbis Felicitas   br   Latin language Latin : literally, "The citizens' obedience is the city's happiness" (rendered more loosely as "Happy the city where citizens obey" by the council itself) 
+  image_skyline   Dublin_lead_image.jpg	
+  imagesize   240px  
+  image_caption    Top:   Dublin Custom House ,  Middle :  O'Connell Street ,  Bottom left:   Temple Bar, Dublin Temple Bar ,  Bottom right:   Phoenix Park .
+  image_map                 Ireland map County Dublin City.png 
+  mapsize                   230px
+  map_caption               Location of Dublin
+  subdivision_type           Country 
+  subdivision_name           Republic of Ireland Ireland 
+  subdivision_type1          Province 
+  subdivision_name1          Leinster 
+  government_type            Cities in Ireland City 
+  leader_title               Lord Mayor of Dublin Lord Mayor 
+  leader_name                Brendan Carr 
+  unit_pref                 Metric
+  area_total_km2            114.99 
+  area_urban_km2            921
+  area_metro_km2            6980
+  population_total          505,739
+  population_urban          1,045,769
+  population_metro          1,661,185
+  population_blank1_title   Demonym 
+  population_blank1        Dubliner, Dub, Jackeen
+  timezone                   Western European Time WET  
+  utc_offset                +0
+  timezone_DST               Irish Standard Time IST  
+  utc_offset_DST            +1
+  latd   53  latm   20  lats   52  latNS   N
+  longd   6  longm   15   longs   35  longEW   W
+  coordinates_display       inline,title
+  postal_code_type          Postal districts
+  postal_code               D1-18, 20, 22, 24, D6W
+  area_code                 01
+  website                    URL http://www.dublincity.ie 
+ 
+ for the town in the U.S. state of Virginia Dublin, Virginia 
+ Dublin  is the  capital (city) capital city  of  Republic of Ireland Ireland . ref name BBC.co cite news  url   http://news.bbc.co.uk/2/hi/europe/country_profiles/1038581.stm   title BBC News - Ireland country profile  work BBC News   publisher British Broadcasting Corporation BBC   location London, England London   accessdate 2 February 2011 ref  The Greater Dublin Area has a  population  of 1,187,176 people. ref cite web  url   http://www.cso.ie/statistics/popofeachprovcountycity2006.htm   title CSO: Statistics: Population of each Province, County and City 2006  work cso.ie  year 2011 [last update]  accessdate 2 February 2011 ref  Dublin is also the biggest  city  on the  island  of  Ireland .
+
+Dublin was built by the  Vikings  and is built upon the  river Liffey .
+The river divides the city into two parts,  North Dublin  and  South Dublin .
+
+Many famous  writer s lived in Dublin.  Oscar Wilde  and  George Bernard Shaw  were born in Dublin.  James Joyce  is probably Dublin's best known and most  international  writer.
+
+Dublin is home to  Ireland 's largest stadium,  Croke Park . It can hold up to 85,000 people. Croke Park is the usual venue for all Ireland  hurling  and  Gaelic football football  finals.
+
+ References 
+ Reflist 
+
+  Other websites  
+ commons Dublin 
+   http://reflectingcity.com/ "The Reflecting City" 
+   http://www.dubchamber.ie/Uploads/Policy.pdf Dublin GDP stats 
+   http://www.wikimapia.org/#y=53330000&x=-6250000&z=11&l=1&m=a WikiSatellite view of Dublin at WikiMapia 
+   http://www.dublinblog.ie The Dublin Community Blog 
+   http://www.travelingluck.com/Europe/Ireland/Dublin/-1502554_Dublin.html Satellite map of Dublin  - Including local geographic features.
+   http://www.dublin.es/ Dublin  - Tourist information.
+
+ Cities in the Republic of Ireland nocat yes 
+ European capitals 
+
+ Category:Dublin   
+ Category:Cities with more than 500,000 inhabitants

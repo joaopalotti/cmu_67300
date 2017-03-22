@@ -1,0 +1,54 @@
+Chemistry
+
+File:Chemicals in flasks.jpg thumb|200px|Chemistry is the science of  chemical elements  and  compounds . 
+ Chemistry  is a branch of   science  that deals with  chemical element s and  Chemical compound compounds , and how these things work together. It is the study of the  material s (things) that make up our bodies and everything in the  world  around us.
+
+ History 
+Before 1600, people studied substances to figure out how to do things such as turn lead into gold, but no one managed to do that. This was called alchemy. Alchemists (people that did alchemy) did discover some useful things, though. Sulphuric acid and nitric acid were two substances that they discovered.
+Only a few elements were known. Some of them are mercury, silver, gold, and carbon.
+
+Chemistry began as a true science during the 1600s. This is when chemists discovered the simplest  substance s that make up all other substances. These simple substances are called elements. One of the things that they learned is that gold and lead are two different elements, so you can not change one into the other by a chemical reaction. The first element discovered after 1600 was  phosphorus , a strange white glowing solid.
+
+Elements were discovered more and more rapidly. People separated the air into many parts and isolated the  noble gas es from it. They also processed special minerals from a mine in  Sweden  to get  rare earth metal s.  Radioactivity  was also discovered. Today chemists have discovered 118 different elements. Some are very common, like  oxygen . Many are very rare and expensive, like  platinum . Some cannot be found on earth and can only be made in labs, like  rutherfordium .
+
+Since the 1920s, the increased understanding of  physics  has changed chemists'  theory theories  about  chemical reaction s.  With smaller and faster  computer s, chemists have built better tools for  Analytical chemistry analyzing  substances. These tools have been sent to study chemicals on  Mars .  Police also use those tools to study  evidence  from  crime   wikt:scene scene s.
+
+ Types of chemistry 
+There are several types of chemistry.  Analytical chemistry  looks at which  chemicals are in things. For example, looking at how much  arsenic  is in food.  Organic chemistry  looks at things that have  carbon  in them. For example, making  acetylene .  Inorganic chemistry  looks at things that do not have carbon in them. One example is making an  integrated circuit .
+
+A large area of chemistry is  polymer chemistry . This looks at plastics. One example is making  nylon . Because plastics are made of carbon, polymer chemistry is part of organic chemistry. Another area is  biochemistry . This looks at the chemistry of living things. An example would be seeing how  arsenic  poisons people. Biochemistry is also part of organic chemistry. There are many other small branches of chemistry.                  
+
+ wikt:concept Concepts  of chemistry 
+ Basic concepts 
+The basic unit of an  Chemical element element  is called an  atom . An atom is the smallest building block that you can cut an element into without the element breaking down (turning into a lighter element, for example through  nuclear fission  or  radioactive decay ). A  chemical compound  is a  substance  made up of two or more elements. In a compound, two or more atoms are joined together to form a  molecule . The tiniest speck of dust or drop of  liquid , that one can see is made up of many millions or billions of these molecules.  Mixture s are  substance s where chemicals are mixed but not reacted. An example would be mixing sand and salt. This can be undone again to produce salt and sand separately. Chemical compounds are changed by a chemical reaction. An example would be heating  sodium bicarbonate , common baking soda. It will make water,  carbon dioxide , and  sodium carbonate . This reaction cannot be undone.
+
+One very important concept in chemistry is that different atoms interact with one another in very specific proportions.  For example, two hydrogen atoms interacting with one oxygen atom lead to the water molecule, H sub 2 sub O.  This relationship is known as the "Law of constant proportions" and leads to the idea of "stoichiometry", a term that refers to the ratios of different atoms in chemical compounds.  For example, in water, there are always exactly 2 hydrogen atoms to 1 hydrogen atom.  In carbon dioxide, there are exactly 2 oxygen atoms for 1 carbon atom.  These relationships are described using chemical formulas such as H sub 2 sub O  (two hydrogen atoms and one oxygen atom) and CO sub 2 sub  (one carbon atom and two hydrogen atoms).
+
+ Mole 
+Because atoms of different elements react with one another in very specific proportions but atoms of different elements have different weights, chemists often describe the amount of different elements and compounds in terms of the number of "moles".  A "mole" of any element contains the same number of atoms:  602,214,150,000,000,000,000,000 atoms). The  atomic mass  of an element can be used to see how much of the element makes a mole. For example, the atomic mass of copper is about 63.55. That means about 63.55  gram s of copper metal has a mole of atoms. The atomic mass of chlorine is about 35.45. That means 35.45 grams of chlorine has a mole of atoms in it.  
+
+Moles can be used to see how many molecules are in chemical compounds, too.  Copper(II) chloride  is an example. CuCl sub 2 sub  is its chemical formula. There is one copper atom (63.55) and two chlorine atoms (35.45 * 2 = 70.90). Add all the molar masses of the elements together to get the molar mass of the chemical compound (63.55 + 70.90 = 134.45). That means in 134.45 grams of copper(II) chloride, there is one mole of copper(II) chloride molecules. This concept is used to calculate how much chemicals are needed in a chemical reaction if no reactants (chemicals that are reacted) should be left. If too much reactant is used, there will be some reactants left in the chemical reaction.
+
+ Acids and bases 
+ Acid s and  base (chemistry) bases  are common chemicals. Acids release H sup + sup   ion s when in water, and bases release  Hydroxide OH sup - sup  ions when in water. Acids can react with bases. The H sup + sup  ion is taken from the acid by the base. This makes water, H sub 2 sub O. A salt is also made when an acid and a base react together. An example would be reacting  hydrochloric acid  (HCl) and  sodium hydroxide  (NaOH). Hydrochloric acid releases H sup + sup  and Cl sup - sup  ions in water. The base releases Na sup + sup  and OH sup - sup  ions. The H sup + sup  and the OH sup - sup  react to make water. There is a solution of  sodium chloride  (NaCl) left. Sodium chloride is a  salt .
+
+ Usefulness 
+Chemistry is very useful in everyday life and makes up the foundation of many branches of science. Most objects are made by chemists (people who do chemistry). Chemists are constantly working to find new and useful substances. Chemists make new  Medicine drugs  and materials like  paint s that we use every day.
+
+ Safety 
+ File:Cyril Ponnamperuma analyzing a moon sample.jpg thumb|200px|This chemist is wearing safety  glasses , a lab coat and  glove s. He is looking at a rock from the  moon . 
+Many chemicals are harmless, but there are some chemicals that are dangerous. For example,  mercury(II) chloride  is very  wikt:toxic toxic .  Chromate s can cause  cancer .  Tin(II) chloride  pollutes water easily.  Hydrochloric acid  can cause bad burns. Some chemicals like  hydrogen  can explode or catch fire. To stay safe, chemists experiment with chemicals in a chemical lab. They use special equipment and clothing to do reactions and keep the chemicals contained. The chemicals used in  Medicine drugs  and in things like  bleach  have been tested to make sure they are safe if used correctly.
+
+  Related pages  
+   Periodic table 
+   List of common elements 
+   Common chemical apparatus 
+   Laboratory techniques 
+   Chemical techniques 
+   Glycerol 
+   Aerosol 
+
+ commonscat 
+ BranchesofChemistry 
+
+ Category:Chemistry  

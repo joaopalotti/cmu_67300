@@ -1,0 +1,108 @@
+MediaWiki
+
+Selfref For the MediaWiki  Wikipedia:Namespace namespace  on Wikipedia, see  Wikipedia:MediaWiki namespace . 
+ Infobox software
+  name   MediaWiki
+  logo    File:MediaWiki-smaller-logo.png 135px|The  MediaWiki  logo. The brackets around the  sunflower  symbolise the way internal links are created when editing pages 
+  screenshot    Image:Simple English Wikipedia screenshot.png 220px 
+  collapsible   yes
+  caption   The  Main Page  of the  Simple English Wikipedia  which runs on MediaWiki
+  author  
+  developer    Wikimedia Foundation ,  br  Tim Starling (release manager)
+  released   25 January 2002
+  latest release version   1.27.1
+  latest release date    start date and age 2016 08 22 ref name version Cite web
+                            url https://lists.wikimedia.org/pipermail/mediawiki-announce/2016-August/000195.html 
+                            title nowiki [MediaWiki-announce] nowiki  Security Release - 1.27.1, 1.26.4, 1.23.15
+                            work MediaWiki-announce mailing list
+                            publisher Wikimedia Foundation
+                            accessdate 16 September 2016 ref 
+  operating system    Cross-platform 
+  platform   
+  language   More than 350 languages
+  genre    Wiki 
+  license    GPLv2 +
+  website    https://www.mediawiki.org/ mediawiki.org 
+ 
+ MediaWiki  is the name of the  software  that runs all of the  Wikimedia  projects.  MediaWiki was released in 2003.  It is free server-based software which is licensed under the  GNU  General Public License (GPL).  The software is licensed under the  GPL . This means it is  free content , or  open source .
+
+MediaWiki is designed to be run on a large  web server  farm for a website that gets millions of hits per day.  MediaWiki is a very powerful, scalable software and a feature-rich wiki implementation, that uses  PHP  to process and display data stored in its  MySQL  database.  Pages use MediaWiki's  Wikitext  format, so that users without knowledge of  XHTML  or  Cascading Style Sheets CSS  can edit them easily.
+
+When a user submits an edit to a page, MediaWiki writes it to the database, but without deleting the previous versions of the page, thus allowing easy reverts in case of vandalism or spamming. MediaWiki can manage image and multimedia files, too, which are stored in the filesystem. For large wikis with lots of users, MediaWiki supports  caching  and can be easily coupled with Squid proxy server software.
+
+All Wikimedia projects run on MediaWiki version   CURRENTVERSION . ref http://meta.wikimedia.org/wiki/Special:Version Meta wiki's version page ref 
+
+  Usage  
+
+As MediaWiki is more flexible, therefore many websites use MediaWiki rather than other types of wiki software. Besides Wikimedia,  Wikia  is also another company that uses MediaWiki greatly for people to contribute information.
+
+There are also some websites that uses MediaWiki as a content management system. ref http://www.mediawiki.org/wiki/Sites_using_MediaWiki/corporate Sites using MediaWiki for corporations ref 
+
+  Extensions  
+In MediaWiki, a system administrator can choose to install extensions which are provided on the main MediaWiki website. Some are from the MediaWiki developers, while others are from programmers from all around the world.
+
+Most extensions can be download from Wikimedia's  subversion (software) Subversion  repository. However, there are some other extensions that other people host themselves.
+
+Some extensions had been added to the main software along the development of MediaWiki. ref http://www.mediawiki.org/wiki/Category:Obsolete_extensions MediaWiki's category of extensions that became part of the software ref  For example, the  mw:Extension:+sysop Makesysop  extension is an extension to promote a user into an administrator or a bureaucrat.
+
+There were a total of 2124 extensions as of October 4, 2013. ref mediawikiwiki:Extension_Matrix MediaWiki's Extension matrix, displaying 2000 out of  2124  members of Category:Extensions ref 
+
+  Namespaces  
+In the default installation of MediaWiki, the software has 17 namespaces ref name Namespace http://www.mediawiki.org/wiki/Help:Namespace MediaWiki helppage on namespaces ref (18 actually, but one does not have a namespace), namely:
+  Article (No namespace, like this page)
+  Talk - for main namespace talk page
+  User - the user page, also from  Special:MyPage 
+  User talk - the user talk page, also from  Special:MyTalk 
+  Project - The project namespace(like on this wiki, is Wikipedia)
+  Project talk - The project page talk page
+  File - Page for images and sounds
+  File talk - Talk about the media
+  MediaWiki - Software pages, can only be changed from an administrator
+  MediaWiki talk - Talk about the software page, anyone can write in this namespace
+  Template - for templates
+  Template talk - talk about the template
+  Help - Help pages(like  Help:Contents )
+  Help talk - talk about the help page
+  Category - Categorising pages
+  Category talk - talk about the category
+  Special - Special pages of the MediaWiki software
+  Media - Namespace to directly link to the file
+
+Additional namespaces can be added using the  mw:Manual:LocalSettings.php settings file  from the installation of MediaWiki. ref http://www.mediawiki.org/wiki/Manual:Using_custom_namespaces MediaWiki's guide on making custom namespaces ref 
+
+  Bugs  
+As MediaWiki is a complex software, there would always be bugs in the software, especially for new extensions. Therefore, Wikimedia has created a  bugzilla  website for people who see a bug to tell the developers of MediaWiki.
+
+Some extensions of MediaWiki use the  mediazilla: Wikimedia Bugzilla , while some just use the talk pages of the extension page.
+
+  Skins  
+ File:VectorNavigation-en.png thumb|300px|The vector skin on English Wikipedia. 
+During the development of MediaWiki, different skins have come into the main software. For example, Wikipedia used to be using Nostalgia. ref http://nostalgia.wikipedia.org Wikipedia site that uses Nostalgia ref  But it changed to Monobook before the new Vector skin came up in 1.16. ref http://blog.wikimedia.org/blog/2010/05/13/a-new-look-for-wikipedia/ Blog post on Wikimedia's blog about the vector skin. ref 
+
+A survey done by Wikimedia showed that more people prefer the Vector skin.
+
+It is possible to change the skin that a user wants to see a wiki as by going to their  Special:Preferences preferences .
+
+  More information  
+ More information about the software: 
+
+   mw: Main MediaWiki website 
+   m:MediaWiki MediaWiki on Meta Wiki 
+   m:MediaWiki User's Guide MediaWiki User's Guide on Meta Wiki 
+   :en:Wikipedia:PHP script FAQ PHP script FAQ 
+   :en:Wikipedia:PHP script automatic wikification PHP script automatic wikification  (former feature)
+   mw:How to become a MediaWiki hacker How to become a MediaWiki hacker  (installation advice)
+
+  References  
+ reflist 2 
+
+ Other websites 
+   mail:wikitech-l Wikitech-L  mailing list (technical discussions regarding the development)
+   mw:Sites using MediaWiki Sites using MediaWiki 
+   http://sourceforge.net/projects/wikipedia/ Sourceforge: MediaWiki Project page   Now changed to  mw: MediaWiki.org .
+   http://sourceforge.net/tracker/?group_id=34373&atid=411192 Sourceforge: MediaWiki Bug reports   Now changed to  mediazilla: Wikimedia Bugzilla .
+   http://sourceforge.net/tracker/?atid=411195&group_id=34373 Sourceforge: MediaWiki Feature requests   Now changed to Wikimedia Bugzilla .
+   betawiki: Translatewiki.net  - The place to translate MediaWiki messages.
+
+ Category:Wiki software 
+ Category:Wikimedia

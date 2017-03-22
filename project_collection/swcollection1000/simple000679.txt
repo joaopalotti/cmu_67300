@@ -1,0 +1,27 @@
+Software
+
+File:OpenOffice.org Writer.png thumb| OpenOffice.org  writer, an example of software. 
+
+ Computer software  (often called just  software ) is a set of instructions and associated documentation that tells a computer what to do or how to perform a task or it can mean all the software on a computer, including the  computer program applications  and the  operating system .  Applications are programs that do a specific thing, such as a game or a  word processor .  The operating system ( Mac OS ,  Microsoft Windows ,  Linux , etc.) is software that helps the applications run, and controls the display and the keyboard.
+
+The word software was first used in the late  1960s  to show the difference from  computer hardware , which are the parts of a machine that can be seen and touched.  Software is the instructions that the computer follows. Before  compact disc s (CDs) or  Internet   download s, software came on various  computer data storage  media like paper  punched card punch cards , magnetic  floppy disk discs  or  magnetic tape . 
+
+If you compare computers to  music  and  musical instrument s you can think of hardware as being the instruments and software being the musical notes. 
+
+The word  firmware  is sometimes used to describe a style of software that is made specially for a particular type of computer (or other electronic device) and is usually stored on a  Flash memory  or  ROM  chip in the computer. Firmware usually refers to a piece of software that directly controls a piece of hardware, for example the firmware for a CD drive or the firmware for a  modem .
+
+  Categories  
+Computer software can be put into categories based on common function, type, or field of use. There are three broad classifications: 
+ Application software  are the computer programs for performing user tasks such as  word processing  and  web browsers . 
+ System software  is used to start and run computer systems and networks. This includes  operating system s. 
+ Computer programming  tools  (also known as  development software ) are used to create application and system software.  This is done by translating and combining  Source code computer program source code  and  Library (computing) libraries  into  Random-access memory executable RAMs .  These include  compiler s and  linker (computing) linker s.
+
+ Related pages 
+ commonscat Software 
+   Computer program 
+   Free software 
+   Software engineering 
+
+
+ Category:Software   
+ Category:Computer science

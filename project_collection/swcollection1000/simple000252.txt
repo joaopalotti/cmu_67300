@@ -1,0 +1,25 @@
+Knowledge
+
+Knowledge  means the things which are  true , as opposed to  opinion .  Information  which is correct is knowledge. Knowledge can always be supported by  evidence . If a statement is not supported by evidence, then it is not knowledge. The evidence makes it justified; it is not an opinion or a guess.
+
+Knowledge can refer to a theoretical or practical understanding of a subject. This was the point of Ryle's distinction between "knowing that" and "knowing how". ref Ryle, Gilbert 1949.  The concept of mind . London: Hutchinson, Chapter 2 Knowing how and knowing that. ref   It can be implicit (as with practical skill or expertise) or explicit (as with the theoretical understanding of a subject); it can be more or less formal or systematic. ref cite web url http://oxforddictionaries.com/view/entry/m_en_us1261368#m_en_us1261368 title knowledge: definition of knowledge in Oxford dictionary (American English) (US) work oxforddictionaries.com ref  In  philosophy , the study of knowledge is called  epistemology . The philosopher  Plato  defined knowledge as "justified true belief". This definition is the subject of the  Gettier problems . 
+
+All knowledge is a claim to be true, but the claim can be incorrect. The only claims ( proposition s) which are certainly true are circular, based on how we use words or terms. We can correctly claim that there are 360 degrees in a circle, since that is part of how circles are defined. The point of Aristotle's  syllogism  was to show that this kind of reasoning had a machine-like form:
+ If all swans are white, and this is a swan, then it must be white. 
+But actually, in the real world, not all swans are white.
+
+The most widely accepted way to find reliable knowledge is the  scientific method . Yet one thing all  philosophy of science philosophers of science   agree is that there is that scientific knowledge is just the best we can do at any one time. All scientific knowledge is provisional, not a claim of absolute truth.
+
+ Religion and knowledge  
+Knowledge in religion is different in that it depends on  faith ,  belief  and the  authority  of religious leaders, not on evidence of a scientific or legal kind. There are differing views on whether religious statements should be regarded as knowledge.
+
+In many expressions of  Christianity , such as  Catholicism  and  Anglicanism , knowledge is one of the seven gifts of the  Holy Spirit . ref cite web url http://www.scborromeo.org/ccc/p3s1c1a7.htm#1831 title Part Three, No. 1831 work Catechism of the Catholic Church accessdate 2007-04-20 ref 
+In the  Garden of Eden  knowledge is the factor that made humans greedy and treacherous. But in the  Book of Proverbs  it states: 'to be wise you must first obey the LORD' (9:10).
+
+In Islam, knowledge has great significance. "The All-Knowing" ( al-'Alim ) is one of the Names of God, reflecting distinct properties of God in Islam. The  Qur'an  asserts that knowledge comes from God ( cite quran 2 239 style nosup expand no ) and various  hadith  encourage getting knowledge.  Muhammad  is reported to have said "Seek knowledge from the cradle to the grave" and "Verily the men of knowledge are the inheritors of the prophets". Islamic scholars, theologians and jurists are often given the title  alim , meaning 'knowledgeable'.
+
+  References  
+ references 
+
+ Category:Basic English 850 words 
+ Category:Epistemology

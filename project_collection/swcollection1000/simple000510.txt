@@ -1,0 +1,57 @@
+Volapuk
+
+Infobox language
+ name Volapuk
+ image Volapuk symbol.svg
+ imagesize 100px
+ imagecaption Logo of the Volapuk movement (2nd phase)
+ creator Johann Martin Schleyer 
+ created 1879-1880
+ setting International: mostly in  Europe 
+ speakers 20 ref name speakers http://www.villagevoice.com/2000-08-01/art/p-k-memory/ "Puk, Memory: Why I Learned a Universal Language No One Speaks"  by Paul LaFarge.  The Village Voice , August 2000. ref 
+ date 2000
+ fam2 International auxiliary language 
+ posteriori vocabulary from  English language English ,  German language German , and  French language French 
+ agency        Kadam Volapuka 
+ script Latin script Latin 
+ iso1 vo iso2 vol iso3 vol
+ 
+ Volapuk  is a constructed language created in  1880  by  Johann Martin Schleyer . Schleyer was a Catholic priest from  Germany . He felt that  God  had told him in a dream to make an international language. Volapuk conventions took place in  1884 ,  1887 , and  1889 . The aim was to help people from different cultures speak to each other.
+
+Volapuk became less popular after 1887 when  Esperanto  was published. Part of the reason was that Esperanto is easier to learn with a simpler  grammar . There are only 25-30 Volapuk speakers in the world today.
+
+The vocabulary of Volapuk is mostly  English language English , with some words from  German language German  and  French language French . 
+
+"Vol" and "puk" come from the English words "world" and "speech". The grammar is based on  Indo-European languages .
+
+An example of Volapuk is the translation of the  Lord's prayer :
+
+ poem 
+     lang vo O Fat obas, kel binol in suls, paisaludomoz nem ola! 
+    Komomod monargan ola! 
+    Jenomoz vil olik, as in sul, i su tal! 
+    Bodi obsik vadeliki govolos obes adelo! 
+    E pardolos obes debis obsik, 
+    as id obs aipardobs debeles obas. 
+    E no obis nindukolos in tendadi; 
+    sod aidalivolos obis de bas. 
+    Jenosod! 
+ poem  
+
+ References 
+ reflist 
+
+  Other websites  
+
+   http://personal.southern.edu/~caviness/Volapuk/VolVifik/volvif00.html Basic course in Volapuk, in English 
+   http://personal.southern.edu/~caviness/Volapuk/Misc/volagram.html Basic grammar of Volapuk, in Esperanto 
+   http://home.earthlink.net/~erilaz/volapop.html Volapop: A site about popular culture written in Volapuk  
+   http://www.yahoogroups.com/group/voydasbuk Discussion group on the vocabulary and grammar of Volapuk 
+   http://members.xoom.it/volapuk/ A complete Italian grammar of Volapuk (1888) by V. Amoretti 
+   http://members.xoom.it/volapuk/ Una grammatica completa di Volapuk in lingua italiana (1888) a cura di V. Amoretti 
+   http://www.yahoogroups.com/group/volapuk General Volapuk discussion group 
+   http://volapuk.com/ Flenef bevunetik Volapuka  / International Friendship of The World Language
+   http://vo.wikipedia.com Wikipedia in Volapuk 
+ 
+
+ Category:Constructed languages

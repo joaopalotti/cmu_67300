@@ -1,0 +1,90 @@
+Scientific method
+
+Scientific method  refers to ways to investigate  phenomenon phenomena , get new  knowledge , correct  error s and mistakes, and test  Theory theories .  
+
+The  Oxford English Dictionary  says that scientific method is: "a method or procedure that has characterized natural science since the 17th century, consisting in systematic observation, measurement, and experiment, and the formulation, testing, and modification of  Hypothesis hypotheses ". ref Oxford English Dictionary - entry for  scientific . ref 
+
+A scientist gathers  Empiricism empirical  and  Measurement measurable   evidence , and uses sound reasoning. ref 
+"Rules for the study of natural philosophy". Newton, Isaac 1687, 1713, 1726.  Philosophiae Naturalis Principia Mathematica . 3rd ed, University of California Press. ISBN 0-520-08817-4 From I. Bernard Cohen and Anne Whitman's 1999 translation, pp. 794-6, from Book  3 ,  The System of the World . ref  New knowledge often needs adjusting, or fitting into, previous knowledge. ref name Goldhaber  Goldhaber, Alfred Scharff & Nieto, Michael Martin 2010. Photon and graviton mass limits.  Rev. Mod. Phys .  82 : 939-979.  http://rmp.aps.org/abstract/RMP/v82/i1/p939_1 ref  
+
+  Criterion  
+What distinguishes a scientific method of inquiry is a question known as 'the  criterion' . It is an answer to the question: is there a way to tell whether a concept or theory is science, as opposed to some other kind of knowledge or belief? There have been many ideas as to how it should be expressed.  Logical positivism Logical positivists  thought a  Scientific theory theory  was scientific if it could be verified; ref Mach, Ernst (1905, 1926) 1976.  Knowledge and error: sketches on the psychology of enquiry . Dordrecht: Reidel. ref ref Schlick, Moritz (1925) 1974.  General theory of knowledge . Vienna: Springer-Verlag. ref ref Ayer A.J. 1936 [2nd ed 1946].  Language, truth and logic . Gollancz, London. ref  but  Karl Popper  thought this was a mistake. He thought a theory was not scientific unless there was some way it might be  falsifiability refuted . ref  Popper, Karl 1959.  The logic of scientific discovery . London & New York: Routledge Classics. ISBN 0-415-27844-9 ref ref Kuhn T.S. 1970.  The structure of scientific revolutions . 2nd ed, University of Chicago Press. p206 ISBN 0-226-45804-0 ref ref name Bunge Bunge, Mario 1967.  Scientific research . Volume 1: The search for system; volume 2: The search for truth. Springer-Verlag, Berlin & New York. Reprinted as  Philosophy of science , Transaction, 1998. ref ref Ziman, John 1978.  Reliable knowledge: an exploration of the grounds for belief in science . Cambridge University Press. ISBN 0-521-22087-4 ref  On the other hand, Paul Feyerabend thought there was no criterion. For him, "anything goes", or whatever works, works. ref Feyerabend, Paul 1975.  Against method: outline of an anarchist theory of knowledge . London: New Left. ISBN 0-902308-91-2 ref 
+
+Scientists try to let reality speak for itself. They support a theory when its predictions are confirmed, and challenge it when its predictions prove false. Scientific researchers offer hypotheses as explanations of phenomena, and design  experiment s to test these hypotheses. Since big theories cannot be tested directly, it is done by testing predictions derived from the theory. These steps must be repeatable, to guard against mistake or confusion by any particular experimenter.  
+
+Scientific inquiry is generally intended to be as  objectivity (science) objective  as possible. To reduce  bias ed interpretations of results, scientists publish their work, and so share  data  and methods with other scientists.
+
+  Stages  
+ Science  and things that are not science (such as  pseudoscience ) are often distinguished by whether they use the scientific method. One of the first people to create an  summary outline  of the steps in the scientific method was  John Stuart Mill . ref cite web url http://plato.stanford.edu/entries/mill/#SciMet title John Stuart Mill (Stanford Encyclopedia of Philosophy) publisher plato.stanford.edu accessdate 2009-07-31 ref ref cite web url http://www.baam.emich.edu/baamsciencelessons/baammillsrules.htm title BAAM Science Lessons--Mill's Methods publisher www.baam.emich.edu accessdate 2009-07-31 ref 
+
+There is no one scientific method, but in general it is usually written as a number of steps:
+   Come up with a question about the world.  All scientific work begins with having a question to ask or a problem to solve. ref name Bunge sup I, p9 sup  Sometimes just coming up with the right question is the hardest part for a scientist. The question should be answerable by means of an experiment.
+   Create a  wikt:hypothesis hypothesis   ndash  one possible answer to the question.  A hypothesis in science is a word meaning "An educated guess about how something works". It should be possible to prove it right or wrong. For example, a statement like "Blue is a better color than green" is not a scientific hypothesis. It cannot be proved right or wrong. "More people like the color blue than green" could be a scientific hypothesis, though, because one could ask many people whether they like blue more than green and come up with an answer one way or the other.
+   Design an  experiment .  If the hypothesis is truly scientific, it should be possible to design an experiment to test it. An experiment should be able to tell the scientist if the hypothesis is wrong; it may not tell him or her if the hypothesis is right. In the example above, an experiment might involve asking many people what their favorite colors are. Making an experiment can be very difficult though. What if the key question to ask people is not what colors they  like , but what colors they  hate ? How many people need to be asked? Are there ways of asking the question that could change the result in ways that were not expected? These are all the types of questions that scientists have to ask, before they make an experiment and do it. Usually scientists want to test only one thing at a time. To do this, they try to make every part of an experiment the same for everything, except for the thing they want to test.
+   Experiment and collect the data.  Here the scientist tries to run the experiment they have designed before. Sometimes the scientist gets new ideas as the experiment is going on. Sometimes it is difficult to know when an experiment is finally over. Sometimes experimenting will be very difficult. Some scientists spend most of their lives learning how to do good experiments.
+ Why-questions . Explanations are answers to why-questions. ref name Bunge sup II, p3 sup 
+   Draw conclusions from the experiment.  Sometimes results are not easy to understand. Sometimes the experiments themselves open up new questions. Sometimes results from an experiment can mean many different things. All of these need to be thought about carefully.
+   Communicate them to others.  A key element of science is sharing the results of experiments, so that other scientists can then use the knowledge themselves and all of science can benefit. Usually scientists do not trust a new claim unless other scientists have looked it over first to make sure it sounds like real science. This is called  peer review  ("peer" here means "other scientists"). Work that passes peer review is published in a  academic journal scientific journal .
+
+Although written as a list, this is really a cycle: a scientist may go round it a number of times before being satisfied with the answer.
+
+Not all scientists use the above "scientific method" in their day to day work. Sometimes the actual work of science looks nothing like the above. But on the whole it is thought to be a good method for finding out things about the world which are reliable, and is the model for thinking about scientific knowledge most used by scientists.
+
+  Example: dissolving sugar in water  	
+Let's say we are going find out the effect of temperature on the way sugar  Solvation dissolves  in a glass of  water . Below is one way to do this, following the  scientific method step by step.
+ 	
+  Aim  
+Does sugar dissolve faster in hot water or cold water? Does the  temperature  affect how fast the sugar dissolves? This is a question we might want to ask.
+
+  Planning the experiment  
+One simple experiment would be to dissolve sugar in water of different temperatures and to keep track of how much time it takes for the sugar to dissolve. This would be a  test  of the  hypothesis idea  that the  wikt:rate rate  of dissolving varies according to the  kinetic energy  of the  solvent .
+
+We want to make sure to use the exact same amount of water in each trial, and the exact same amount of sugar. We do this to make sure that the temperature alone causes the effect. It might be, for example, that the ratio of sugar to water is also a factor in the rate of dissolving. To be extra careful, we might also run the experiment so that the water temperature does not change during the experiment.
+
+This is called "isolating a  variable ". This means that, of the  wikt:factor factor s which might have an effect, only one is being changed in the experiment.
+
+  Running the experiment  
+We will do the experiment in three trials, which are exactly the same, except for the temperature of the water.
+ We put exactly 25 grams of sugar into exactly 1 liter of water almost as cold as ice. We do not stir. We notice that it takes 30 minutes before all the sugar is dissolved. 
+ We put exactly 25 grams of sugar into exactly 1 liter of room temperature water (20 degC). We do not stir. We notice that it takes 15 minutes before all the sugar is dissolved. 
+ We put exactly 25 grams of sugar into exactly 1 liter of warm water (50 degC). We do not stir. We notice that it takes 4 minutes before all the sugar is dissolved.
+
+  Drawing conclusions  
+One way that makes it easy to see results is to make a table of them, listing all of the things that changed each time we ran the experiment. Ours might look like this:
+ border 1 cellpadding 4 cellspacing 0 bgcolor #efefef  Temperature
+  Dissolving time
+ align right 1 degC
+ align right 30 min
+ align right 20 degC
+ align right 15 min
+ align right 50 degC
+ align right 4 min
+ 
+
+If every other part of the experiment was the same (we did not use more sugar one time than the other, we did not stir one time or the other, etc.), then this would be very good evidence that heat affects how fast sugar is dissolved. 
+
+We cannot know for sure, though, that there is not something else affecting it. An example of a  hidden cause  might be that sugar dissolves faster each time more sugar is dissolved into the same pot. This is probably not true, but if it were, it could make the results exactly the same: three trials, and the last one would be fastest. We have no reason to think that this is true at this time, but we might want to note it as another possible answer.
+
+  Historical aspects  
+
+
+Elements of scientific method were worked out by some early students of nature. 
+  "We consider it a good principle to explain the phenomena by the simplest hypothesis possible."  Ptolemy  (85 ndash 165 AD). ref name Franklin cite book author   Franklin, James  year  2001 title  The science of conjecture: evidence and probability before Pascal publisher The Johns Hopkins University Press , 241. ref  This is an early example of what we call  Occam's razor . ref   Ptolemy  was a Greek who (probably) lived and worked in  Alexandria . He is famous for his work on astronomy and geography. ref 
+
+ Ibn al-Haytham  (Alhazen) (965-1039),  Robert Grosseteste  (1175-1253) and  Roger Bacon  (1214-1294), all made some progress in developing scientific method. 
+
+ However, it was not until the 17th century that the experimental method was agreed to be the main way to find the truth. This was done in  western Europe  by men like  Galileo ,  Kepler ,  Hooke ,  Boyle ,  Halley  and  Newton . At the same time, the  microscope  and the  telescope  were invented (both in  Holland ), and the  Royal Society  was formed. Both instruments and societies helped science greatly.
+
+  Related pages  
+ Falsifiability 
+ Philosophy of science 
+ Blind experiment 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Scientific_method Scientific method  - Citizendium
+
+  References  
+ reflist 
+
+ Category:Philosophy of science 
+ Category:Experiments  

@@ -1,0 +1,192 @@
+Help:How to change pages
+
+This page tells you  how to edit  (change) or make new pages on Wikipedia. Anyone can make pages. If you are learning how to make pages, or just want to test an idea, it is a good idea to begin in the  Wikipedia:Sandbox Sandbox .
+
+Click on "change this page" at the top of any page, then you can write in the large edit box that will appear. 
+
+The "Change summary" box you will see at the bottom of that page is used to tell others what you are changing or trying to do. For example, if you are writing a new article about dogs, you can put "new article about dogs" in the change summary.
+
+You can also press "Show preview" to see what the page will look like before anyone else does, and check for mistakes. When you are all ready, and you want to send the page, press " Save Page " - and like that your page is on Wikipedia!
+
+To make a new page, find or make a "red link" with the article name on Wikipedia, for example  poodle , if you want to write about poodles.
+
+You can also write the page name in the "search" box in the sidebar to the left on every page, then click " Go ". If there is no page already with that exact name, the search results page will say: " There is no page titled [PAGENAME] . You can  create this page ". From that page, just click on the redlink that says "create this page" to get to the "edit box" and make a new page. 
+
+You can also create a new article from this page by typing its name in the box below:
+
+ width 60% style border:1px solid black 
+ inputbox 
+type=create
+width=45
+ inputbox 
+ 
+
+The page name should be  singular , for example "Poodle" not "Poodles". The first letter will automatically be capitalized (upper case) in the title, whether you give it a capital or not.  If there are two or more words in the title, they should be capitalized only if it is a proper name, for example "Elvis Presley" not "Elvis presley". If the words are not a proper name, do not use capital letters, for example "Big cat" not "Big Cat".
+
+In the first sentence of the new page you make, write the name of the page in  bold  writing.
+
+ Making an encyclopedia page 
+ see also Help:Cheatsheet 
+ Bold text 
+
+ These words are in "bold" (heavy) text:  one, two, three 
+
+To make text bold, use three  apostrophes  (') before and after the word.
+(An apostrophe is also called a single quote or an inverted comma.)
+
+For example:  code nowiki '''Bold text''' nowiki code  =  Bold text 
+
+ Italics 
+
+ These words are in "italics" (slanted):  one, two, three 
+
+To make text in italics, use two apostrophes (') before and after the word.
+ br 
+For example:  nowiki ''Italic text'' nowiki  =  Italic text 
+
+ Links to other Wikipedia pages 
+
+To make a link to another Wikipedia page, put the name of the page inside two square brackets ([[).
+ br 
+For example:  nowiki [[London]] nowiki  =  London 
+
+You can also make different words appear, other than the actual name of the linked article:  br 
+ London The wonderful city of London  (this link is also to "London"). 
+To do this, write:  nowiki [[London|The wonderful city of London]] nowiki 
+
+Other letters added to the actual link will automatically appear as part of the link, like this: br 
+ nowiki There are three [[London]]s  nowiki  =  There are three  London s. br 
+ nowiki [[London]]ers nowiki  =  London ers.
+
+ Links to other language Wikipedia pages 
+
+On the left sidebar are links "in other languages", for example German ("Deutsch") and Catalan (Catala). The links are for the same article but in a different language. These links are updated from  Wikidata .
+
+ Links to other pages not on Wikipedia 
+
+To make a link to other websites that are not on Wikipedia, write the address inside one square bracket ([), then after a single space, you can write a name for the page, then you have to close the word again with another bracket: ].
+ br 
+For example:  nowiki [http://www.google.co.uk Google] nowiki  =  http://www.google.co.uk Google 
+ br 
+
+To link to the  Simple English Wiktionary  for a word, write  nowiki [[wikt:wantedword|wantedword]] nowiki .  (Note that  nowiki [[wiktionary:wantedword|wantedword]] nowiki  links to the EN Wiktionary instead.)
+For example:  nowiki [[wikt:alternate|alternate]] nowiki  gives  wikt:alternate alternate .
+
+ Minor (very small) edits (changes) 
+
+When you save a page you can also say it is a "minor (small) change". This means a very small change, for example changing one or two words. When you look at  Special:Recentchanges Newest changes , you can choose if you want to see all the changes marked  m  for 'minor', or hide them.
+
+It is not right to make a big change and mark it as a 'minor (small) change'. If this happens, it is best to explain that it was a mistake.
+
+ Section headings 
+
+The page you are reading now, "How to edit", has headings (titles). The first heading is "Making an encyclopedia page". Under that heading there is a smaller heading (a 'subheading'): "Bold text".
+
+To make a big heading, write it in this way:
+
+ nowiki ==Big heading== nowiki 
+
+To make a smaller heading, write it in this way:
+
+ nowiki ===Smaller heading=== nowiki 
+
+To make an even smaller heading, write it in this way:
+
+ nowiki ====Even smaller heading==== nowiki 
+
+When you make four or more headings, Wikipedia automatically makes a table of contents - a list of all the headings - at the start of the page. You do not need to make the table, you only need to make the headings. Do not start the page by writing a heading. Write some general information first.
+
+ Lists 
+
+This is a list:
+  Dogs
+  Cats
+  Birds
+
+To make a list, write it in this way: br 
+ nowiki * Dogs nowiki   br 
+ nowiki * Cats nowiki   br 
+ nowiki * Birds nowiki   br 
+
+You can make lists in other lists:
+  Dogs
+  big dogs
+ german shepherds
+  small dogs
+  poodles
+
+Write different lists in this way: br 
+ nowiki * Dogs nowiki   br 
+ nowiki ** big dogs nowiki   br 
+ nowiki *** german shepherds nowiki   br 
+ nowiki ** small dogs nowiki   br 
+ nowiki *** poodles nowiki   br 
+
+ Making a space at the start of a line 
+
+You can also make a space at the start of a line, like this:
+
+Dogs
+ big dogs
+ small dogs
+Cats
+
+You can make a space in this way:
+
+ nowiki :big dogs nowiki 
+
+If you write more colons (:) there will be more spaces, like this:
+
+Hi!
+ Hi!
+ Hi!
+ Hi!
+ Hi!
+ Hi!
+Hi!
+
+ Putting text in the centre of the page 
+ br 
+ center This text is in the centre. center 
+
+You can put text in the centre in this way:
+
+ nowiki <center>This is in the centre</center> nowiki 
+
+The code must use the American spelling (center) and not the British (centre), or it will not work.
+
+ Making a line across the page 
+
+Here is a line going across the page:
+
+ 
+
+You can make a line with four hyphens (dashes), in this way:
+
+ nowiki ---- nowiki 
+
+ What are talk pages? 
+
+One example of a talk page is  Talk:Light . On that page, people are talking about the article  Light . On a talk page, we talk to other people about the Wikipedia articles. 
+
+If you have a problem with a page and you want to talk about it, click on "talk" at the top of the page.
+
+When you write on a talk page, write your name. You can write your name automatically; write three tildes (~):
+
+for example:  nowiki ~~~ nowiki  =  User:Saintswithin Saintswithin 
+
+When you write four tildes, you also get the time:
+
+for example:  nowiki ~~~~ nowiki  =  User:Saintswithin Saintswithin  21:45, 8 Oct 2004 (UTC)
+
+When you write five tildes, you get just the time, without your name:
+
+for example:  nowiki ~~~~~ nowiki  = 14:23, 4 May 2006 (UTC)
+
+ Related pages 
+   Help:How to use images 
+   Wikipedia:How to copy-edit 
+   Wikipedia:How to write Simple English pages 
+   Wikipedia:Aids for writing Simple English 
+
+ Category:Help

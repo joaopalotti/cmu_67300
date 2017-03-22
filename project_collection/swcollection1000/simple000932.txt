@@ -1,0 +1,53 @@
+Force
+
+for the Star Wars term The Force  
+In  physics ,  force  is a push or a pull that changes or tends to change the state of rest or uniform motion of an object or changes the direction or shape of an object. Force causes objects to  acceleration accelerate , add to the object's overall  pressure ,  torque change direction , or  Deformation change shape . Force is measured in Newtons. ( N ).
+
+A force is always a push, pull, or a twist, and it affects objects by pushing them up, pulling them down, pushing them to a side, or by changing their motion or shape in some other way.
+
+  Newton's Second Law  
+According to  Newton's laws of motion#Second law Newton's Second Law of Motion , the formula for finding force is:
+ math F = ma math 
+where  math F math  is the force,  br 
+ math m math  is the  mass  of an object,  br 
+and  math a math  is the  acceleration  of the object.
+
+This formula says that when there is a force on an object then it will move faster and faster.
+If the force is weak and the object is heavy, then it will take a long time to increase the speed very much, 
+but if the force is strong and the object is light, then it will move a lot faster very quickly.
+
+  Weight  
+
+Gravity is an acceleration. Everything that has a mass is being pulled toward the Earth because of that acceleration. This pull is a force called weight. 
+
+One can take the equation above and change  math a math  to the standard  gravity   g , then a formula about the gravity on earth can be found:
+
+ math W = mg math 
+where  math W math  is the  weight  of an object,  br 
+ math m math  is the mass of an object,  br 
+and  math g math  is the acceleration due to gravity at  sea level . It is about  math 9.8m/s^2 math .
+
+This formula says that when you know the mass of an object, then you can calculate how much force there is on the object because of gravity.
+You must be on earth to use this formula. If you are on the moon or another planet, then you can use the formula but  g  will be different.
+
+Force is a  vector , so it can be stronger or weaker and it can also point in different  direction directions . 
+Gravity always points down into the ground (if you are not in space).
+
+  Gravitational force  
+
+Another equation that says something about gravity is:
+
+ math {F}=\frac{Gm_{1}m_{2}}{d^2} math 
+
+ math F math  is force;  math G math  is the  gravitational constant , which is used to show how gravity accelerates an object;  math m_{1} math  is the mass of one object;  math m_{2} math  is the mass of the second object; and  math d math  is the distance between the objects.
+
+This equation is used to calculate how the earth moves around the sun and how the moon moves around the earth. It is also used to calculate how other planets, stars and objects in space move around.
+
+The equation says that if two objects are very heavy then there is a strong force between them because of gravity.
+If they are very far apart then the force is weaker.
+
+
+
+ Category:Force   
+
+ gd:Neart

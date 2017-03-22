@@ -1,0 +1,325 @@
+France
+
+Infobox country
+ conventional_long_name   French Republic
+ native_name    native name fr Republique francaise icon no 
+ common_name   France
+ image_flag   Flag of France.svg
+ image_coat   Armoiries republique francaise.svg
+ symbol_type   National emblem
+ national_motto    br " Liberte, egalite, fraternite lang fr nocat true Liberte, egalite, fraternite " br small "Liberty, Equality, Fraternity" 
+ national_anthem   " La Marseillaise " br center File:La Marseillaise.ogg center 
+ other_symbol_type   
+ other_symbol   
+ image_map   EU-France.svg
+ map_caption    map_caption  location_color dark green  country Metropolitan France   region Europe  region_color dark grey  subregion the European Union  subregion_color green  legend EU-France.svg 
+ image_map2   Outre-mer en sans Terre Adelie.png
+ map2_width   250px
+ map_caption2   Territory of the French Republic. sup a sup 
+ capital    Paris 
+ latd 48  latm 51.4  latNS N  longd 2  longm 21.05  longEW E
+ largest_city   capital
+ official_languages    French language French refn group note name one French is an official language throughout the French Republic. For information about the official and unofficial regional languages also spoken see  Languages of France . 
+ demonym   French
+ government_type    Unitary state Unitary   Semi-presidential system semi-presidential   constitutional republic 
+ leader_title1    President of France President 
+ leader_name1    Francois Hollande 
+ leader_title2    Prime Minister of France Prime Minister 
+ leader_name2    Bernard Cazeneuve 
+ legislature    Parliament of France Parliament 
+ upper_house    Senate of France Senate 
+ lower_house    National Assembly of France National Assembly 
+ sovereignty_type    History of France Formation 
+ established_event1    nowrap Frankish Kingdom br small (unified by  Clovis I Clovis ) 
+ established_date1   486
+ established_event2    nowrap Kingdom of France br small ( Treaty of Verdun ) 
+ established_date2   843
+ established_event3    nowrap French First Republic French Republic br small ( National Convention ) 
+ established_date3   1792
+ established_event4    nowrap Constitution of France Current constitution br small ( French Fifth Republic Fifth Republic ) 
+ established_date4   4 October 1958
+ accessionEUdate   25 March 1957
+ EUseats   78
+ FR_metropole    nowrap Metropolitan France 
+ FR_IGN_area_km2   551695
+ FR_IGN_area_rank   47th
+ FR_IGN_area_magnitude   1 E11
+ FR_cadastre_area_magnitude   1 E11
+ FR_IGN_area_sq_mi   213010
+ FR_cadastre_area_km2   543965
+ FR_cadastre_area_rank   47th
+ FR_cadastre_area_sq_mi   210026
+ area_km2   674843
+ area_sq_mi   260558  
+ area_rank   41st
+ area_magnitude   1 E11
+ FR_foot    refn group note name two Including all the  overseas department s but excluding  Overseas territory (France) overseas territories  and the French territory of  Adelie Land Terre Adelie  in  Antarctica  where sovereignty is suspended since the signing of the  Antarctic Treaty  in 1959. 
+ FR_foot2    refn group note name three French  Institut Geographique National National Geographic Institute  data, which includes bodies of water. 
+ FR_foot3    refn group note name four French  Land Register  data, which exclude lakes, ponds and  glacier s larger than 1 km2 (0.386 sq mi or 247 acres) as well as the estuaries of rivers. 
+ FR_foot4    refn group note name two 
+ FR_foot5    refn group note name five Metropolitan France  only. The  population density  for the whole territory of the French Republic (including overseas departments and territories) is  pop density 65350000 674843 km2 sqmi . 
+ FR_total_population_estimate   65,350,000 ref name population 
+ FR_total_population_estimate_year   2012
+ FR_total_population_estimate_rank   19th
+ FR_metropole_population   63,460,000 ref fr   cite web  url http://www.insee.fr/fr/themes/tableau.asp?reg_id=0&ref_id=NATnon02145   title Population totale par sexe et age au 1er janvier 2011, France metropolitaine  first Government of France   last INSEE   accessdate January 2012 ref 
+ FR_metropole_population_estimate_rank   22nd
+ population_density_km2   116
+ population_density_sq_mi   301  
+ population_density_rank   89th
+ GDP_nominal    nowrap $2.609 trillion ref name imf2 
+ GDP_nominal_rank   5th
+ GDP_nominal_year   2012
+ GDP_nominal_per_capita   $41,141 ref name imf2 
+ GDP_nominal_per_capita_rank   23rd
+ GDP_PPP_year   2012
+ GDP_PPP    nowrap $2.254 trillion ref name imf2 cite web url http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=49&pr.y=17&sy=2012&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=132&s=NGDP%2CNGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=   title France publisher International Monetary Fund accessdate 17 April 2013 ref 
+ GDP_PPP_rank   9th
+ GDP_PPP_per_capita   $35,548 ref name imf2 
+ GDP_PPP_per_capita_rank   24th
+ Gini_year   2008
+ Gini_change     
+ Gini   32.7  
+ Gini_ref    ref name CIA cite web  url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html   title CIA World Factbook  publisher CIA  date   accessdate 16 April 2013 ref 
+ Gini_rank  
+ HDI_year   2013
+ HDI_change   increase  
+ HDI   0.893  
+ HDI_ref    ref name HDI cite web  url http://hdr.undp.org/en/media/HDR_2013_CH.pdf   title Human Development Report 2013  year 2013 publisher UN  accessdate 14 March 2013 ref 
+ HDI_rank   20th
+ currency    unbulleted list  nowrap Euro refn group note name six Whole of the French Republic except the overseas territories in the Pacific Ocean.   nowrap CFP franc refn group note name seven French overseas territories in the Pacific Ocean only. 
+ currency_code   EUR, XPF
+ time_zone   CET refn group note name eight CET applies to  Metropolitan France  only.  Time Zone s across the French Republic span from UTC-10 ( French Polynesia PF ) to UTC+12 ( Wallis and Futuna WF ). 
+ utc_offset   +1
+ time_zone_DST   CEST refn group note name nine CEST applies to Metropolitan France only. Not all overseas territories observe  Daylight Saving Time . 
+ utc_offset_DST   +2
+ drives_on   right
+ calling_code    Telephone numbers in France 33 refn group note name eleven The overseas regions and collectivities form part of the  French telephone numbering plan , but have their own country calling codes:  Guadeloupe  +590;  Martinique  +596;  French Guiana  +594,  Reunion  and  Mayotte  +262;  Saint Pierre and Miquelon  +508. The overseas territories are not part of the French telephone numbering plan; their country calling codes are:  New Caledonia  +687,  French Polynesia  +689;  Wallis and Futuna  +681. 
+ ISO_3166-1_alpha2  
+ ISO_3166-1_alpha3   FRA
+ ISO_3166-1_numeric  
+ sport_code   FRA
+ vehicle_code   F
+ cctld    .fr refn group note name ten In addition to  .fr , several other Internet TLDs are used in French overseas  departements  and territories:  .re ,  .mq ,  .gp ,  .tf ,  .nc ,  .pf ,  .wf ,  .pm ,  .gf  and  .yt . France also uses  .eu , shared with other members of the European Union. The  .cat  domain is used in  Catalan Countries Catalan-speaking territories . 
+ footnote_a   Excluding  Adelie Land  in Antarctica, where sovereignty is suspended.
+ 
+ France  ( lang-fr France ), officially the  French Republic  ( lang-fr Republique francaise ), is a  country  in  Western Europe . Its  capital (city) capital city  is  Paris . It is a member of the  European Union . It is known for its  culture , its many  monument s and  structure s, and places such as the  Louvre , the  Eiffel Tower , the  Arc de Triomphe ,  Giverny ,  Mont Saint Michel ,  Versailles , and  Notre Dame de Paris . France is divided into 13  Regions of France regions  that are further subdivided  Departments of France departements . ref cite web  url http://www.france-property-and-information.com/France-regions.htm   title Regions of France  accessdate 2010-08-03  date 2008  format htm  publisher French Property, Services and Information Ltd  ref 
+
+The country has been one of the  great power s since the end of the 17th century. In the 18th and 19th centuries it had a big  colony colonial empire  across  West Africa  and  Southeast Asia . Now, this does not exist. 
+
+It is the most visited country in the world. About 82 million foreign tourists visit it every year. ref name tourism.stat cite web publisher Direction du Tourisme (French government's tourism agency) url http://www.tourisme.gouv.fr/fr/z2/stat/tis/att00018288/TIS_EVE2007_2008-5.pdf title Le tourisme international en France en 2007 accessdate 2008-06-05 format PDF archiveurl http://web.archive.org/web/20080624195206/http://www.tourisme.gouv.fr/fr/z2/stat/tis/att00018288/TIS_EVE2007_2008-5.pdf archivedate 24 June 2008   fr icon ref  France is a founding member of the  European Union . It has the largest land area of any member. France is also a founding member of the  United Nations , and a member of the  G8  and  NATO . ref name nato cite web url http://www.nato.int/cps/en/natolive/nato_countries.htm   title NATO - Member countries  publisher Nato.int  date 2010-07-30  accessdate 2010-08-03 ref  It is one of the five permanent members of the  United Nations Security Council . It has  nuclear weapons , including active warheads, and also has  Nuclear power nuclear power plants .
+
+Some well-known cities in France include  Paris ,  Lyon ,  Marseille ,  Bordeaux ,  Lille ,  Toulouse ,  Nice ,  Strasbourg ,  Rennes  and  Nantes .
+
+  Geography and climate  
+France is in  Western Europe . ref cite web url http://www.essex.ac.uk/armedcon/world/europe/western_europe/default.html title Western Europe accessdate 2 August 2010 ref  France has  border s with  Belgium ,  Luxembourg ,  Germany ,  Switzerland ,  Italy ,  Monaco ,  Andorra , and  Spain . ref name kwintessential1 cite web url http://www.kwintessential.co.uk/articles/article/France/Geography-of-France/540 title French Geography accessdate 2 August 2010 ref  France has two  mountain  ranges near its borders: the  Alps  in the east and the  Pyrenees  in the south. ref name kwintessential1  There are many rivers in France, including the  Seine  and the  Loire River Loire . ref cite web url http://www.francethisway.com/tourism/french-rivers.php title French Rivers accessdate 2 August 2010 ref  In the north and the west of France, there are low hills and river valleys.
+
+In France there are many different  climate s. ref cite web url http://www.worldtravelguide.net/country/92/climate/Europe/France.html title Climates of France author World Travel Guide accessdate 2 August 2010 ref  The  Atlantic Ocean Atlantic  has a major effect on the weather in the north and west. This means the temperature is about the same most of the year. It is in the marine west coast climate region. In the east, winters are cold and the  weather  is good. Summers are hot and stormy. In the south, winters are cool and  rain wet . Summers are hot and dry. ref cite web url http://www.francetourism.com/practicalinfo/general.htm   publisher French Tourist Office accessdate 2009-09-30 title Practical Information on France - General ref  The north has a temperate climate similar to that of the United Kingdom and other Northern European countries.
+
+France has the second-largest  Exclusive Economic Zone  (EEZ) in the world. ref cite web url http://www.developpementdurable.com/economie/2010/07/A2769/mediterranee-la-france-prend-le-controle-en-creant-une-zone-economique-exclusive.html title EEZ of France accessdate 1 August 2010   fr icon ref  It covers 11,035,000  square kilometre km sup 2 sup  (4,260,637  square miles sq mi ). Only the  United States  has a larger one .
+
+  History  
+The name "France" comes from the  Latin  word  Francia , which literally means "land of the  Franks " or "Frankland". ref cite web url http://www.thesunchronicle.com/articles/2008/04/20/features/3057797.txt title Origin of Francia author The Sun Chronicle accessdate 3 August 2010 ref 
+
+The borders of modern France are about the same as those of ancient  Gaul .  Celt ic Gauls inhabited Ancient Gaul.  Julius Caesar  conquered Gaul for  Roman Empire Rome  in the 1st century BC. ref cite web url http://www.discoverfrance.net/France/History/Roman_Empire.shtml title Caesar Conquered Gaul work discoverfrance.net author Discover France accessdate 3 August 2010 ref  Eventually, the Gauls adopted  Romance languages Roman  speech ( Latin , from which the  French language  evolved) and Roman culture.  History of Christianity Christianity  first appeared in the 2nd and 3rd centuries AD. It became firmly established by the fourth and fifth centuries.
+
+ File:Map France 1477-fr.svg thumb|left|France in 1477. Red line: Limit of the Kingdom of France; Light blue: the royal domain 
+In the 4th century AD, the  Germanic peoples Germanic tribes , principally the  Franks  invaded the Gauls. This is how the name  Francie  appeared. The modern name "France" comes from the name of the  Capetian dynasty Capetian  Kings of France around Paris. The Franks were the first tribe of Europe after the fall of the Roman Empire to convert to  Christianity rather than  Arianism . The French called themselves "the most Christian Kingdom of France". ref cite web url http://www.wf-f.org/03-1-France.html title France used this pretext to call themselves this author wff accessdate 3 August 2010 ref 
+
+The  Treaty of Verdun  (843), divided  Charlemagne 's  Empire  into three parts. ref cite web url http://www.francebalade.com/histo/carolin.htm title Division of Charlemagne's empire into three parts author France Balade accessdate 3 August 2010   fr icon ref  The biggest area was Western Francia. It is similar to modern France.
+
+The  Carolingian   dynasty   rule d France until 987, when  Hugh Capet of France Hugh Capet  became  King of France . His descendants, the  Capetian dynasty Direct Capetians , the  House of Valois  and the  House of Bourbon ,  wikt:unify unified  the country with many wars and dynastic inheritance. The monarchy was the most  great power power ful during the 17th century and the reign of  Louis XIV of France . ref cite web url http://www.uncg.edu/rom/courses/dafein/civ/timeline.htm title French History - Le Grand Siecle author UNCG accessdate 3 August 2010 ref  At that time, France had the  Demographics of France largest population in Europe . The country had a big influence over European  politics ,  economy , and  culture .  French language French  became the common language of  diplomacy  in international affairs. Much of the  Age of Enlightenment Enlightenment  happened in France. French scientists made big  Science scientific  discoveries in the 18th century. France also  invasion conquered  many  French overseas collectivities overseas possessions  in the Americas, Africa and Asia. ref cite web url http://www.understandfrance.org/France/History3.html title French colonies History author Understand France accessdate 3 August 2010 ref 
+
+France had a  monarchy  until the  French Revolution  in 1789. King  Louis XVI of France Louis XVI  and his wife,  Marie Antoinette , were  executed  in 1793. ref cite web url http://www.lucidcafe.com/library/95nov/antoinette.html title Louis XVI and Marie-Antoinette's executions author Lucidcafe accessdate 3 August 2010 ref  Thousands of other French citizens were also killed.  Napoleon Bonaparte  took control of the Republic in 1799. He later made himself Emperor of the First Empire (1804-1814). His armies conquered most of  Europe continental Europe . ref cite web url http://www.napoleonguide.com/campind.htm title Campaigns of Napoleon Bonaparte author Napoleonguide.com accessdate 3 August 2010 ref  The  metric system  was invented by French scientists during the French revolution.
+
+After Napoleon's final defeat in 1815 at the  Battle of Waterloo , another  monarchy arose. Later  Louis-Napoleon Bonaparte  created the Second Empire in 1852. Louis-Napoleon was removed after the defeat in the  Franco-Prussian war  of 1870. The Third Republic replaced his  regime . ref cite web url http://www.intellego.fr/soutien-scolaire-3eme/aide-scolaire-Education-civique-juridique-et-sociale/Les-regimes-politiques-de-France-de-1780-a-nos-jours./31424 title Regimes of France author Intellego accessdate 3 August 2010   fr icon ref 
+
+The large  French colonial empire  in the 19th century included parts of  West Africa  and  Southeast Asia . The culture and politics of these regions were  influence d by France. Many  colony ex-colonies  officially speak the  French language French  language. ref cite web url http://www.alsintl.com/resources/languages/French/ title French language in Colonies author alsintl.com accessdate 3 August 2010 ref 
+
+The country was where both the  WWI First  and  WWII Second World Wars  took place. During the  First World War , millions were killed in the trenches including over a million in the  Battle of the Somme . ref cite web url http://www.firstworldwar.com/battles/somme.htm title Battle of the Somme author firstworldwar.com accessdate 3 August 2010 ref  The conditions were very poor. The last surviving veteran was Pierre Picault who died on 20 November 2008 at the age of 109. ref name France http://dersdesders.free.fr/france.html Ders Des Ders Report - France   fr icon ref 
+During the Second World War,  Nazi s  wikt:occupy occupied  France. The Allies landed in Normandy on June 6, 1944 and began the  Battle of Normandy . German forces lost France in just a few months.
+
+  Divisions  
+ 
+The 13 regions and 96  departments of France departments  of  metropolitan France  includes  Corsica  ( Corse , lower right). The Paris area is expanded. France is divided into (administrative)  region s. 22 of them are in  Metropolitan France :
+
+   Auvergne-Rhone-Alpes 
+   Bourgogne-Franche-Comte 
+   Brittany 
+   Centre-Val de Loire 
+   Corsica 
+   Grand Est 
+   Hauts-de-France 
+   Ile-de-France 
+   Normandy 
+   Nouvelle-Aquitaine 
+   Occitanie 
+   Pays de la Loire 
+   Provence-Alpes-Cote d'Azur 
+
+Corsica has a different status than the other 12 metropolitan regions. It is called  collectivite territoriale .
+
+France also has five  Overseas Regions of France overseas regions :
+   Guadeloupe  (in the Caribbean)
+   French Guiana  (in South America)
+   Martinique  (in the Caribbean)
+   Reunion  (in the Indian Ocean).
+   Mayotte  (in the Indian Ocean)
+These four overseas regions have the same status as the metropolitan ones. They are like the overseas American states of  Alaska  and  Hawaii .
+
+Then France is divided into 101  Departments of France departments . The departments are divided into 342  Arrondissements of France arrondissements . The  arrondissements  are re-divided into 4,032  Cantons of France cantons . The smallest  Administrative division subdivision  is the  Communes of France commune . On January 1, 2008,  INSEE  counted 36,781 communes in France. 36,569 of them are in  metropolitan France  and 212 of them are in  overseas France . ref fr icon   cite web url http://www.insee.fr/fr/methodes/nomenclatures/cog/documentation.asp  title Code officiel geographique - Presentation first Government of France  last INSEE accessdate 2008-06-27 ref ref fr icon   cite web url http://www.insee.fr/fr/methodes/default.asp?page=nomenclatures/cog/outremer.htm  title Code des collectivites d'outre-mer (COM) first Government of France  last INSEE accessdate 2008-06-27 ref 
+
+  Government  
+The government of France is  a  semi-presidential system  determined by the  French Constitution  of the French Fifth  French Republic Republic . ref cite web url http://www.absoluteastronomy.com/topics/Semi-presidential_system title France's political system ref  The constitution declares the nation to be "an indivisible,  secular ,  Democracy democratic , and  social   Republic ". It provides for a  separation of powers . ref cite web url http://www.unc.edu/depts/europe/francophone/principles_en.pdf title Separation of Powers author Guy Carcassonne publisher unc.edu accessdate 4 August 2010 ref 
+
+  Military  
+ File:Gaule96.jpg thumb|right|Nuclear  aircraft carrier   Charles de Gaulle 
+ File:French Republican Guard Bastille Day 2007 n4.jpg thumb|upright|French Republican Guard 
+
+The French  armed forces  are divided into four branches:
+  The  Armee de Terre  (Army)
+  The  Marine Nationale  (Navy)
+  The  Armee de l'Air  (Air Force)
+  The  Gendarmerie Nationale  (A military force which acts as a  National   Rural   Police )
+
+France has about 359,000 military personnel. ref citeweb url http://www.csis.org/media/csis/pubs/060626_asia_balance_powers.pdf title Number of military personnel in France, page 32 ref ref Citeweb url http://www.csis.org/media/csis/pubs/westmb012302%5B1%5D.pdf title Number of military personnel in France, page 112 ref  France spends 2.6% of its  gross domestic product  (GDP) on  defense (military) defense . This is the highest in the  European Union . France and the  UK  spend 40% of the EU defence  budget . About 10% of France's defence budget is for its  nuclear weapons  force.
+
+  Foreign relations  
+ see also European Union United Nations Security Council 
+
+France is a member of the  United Nations . ref cite web url http://www.un.org/en/members/index.shtml#f title Members of the UN publisher United Nations accessdate 4 August 2010 ref  It is a permanent member of the  United Nations Security Council  and has  veto  rights. ref cite web url http://www.un.org/sc/members.asp title Members of the Security council publisher United Nations accessdate 4 August 2010 ref  It is also a member of the  World Trade Organisation  (WTO). It hosts the headquarters of the  Organisation for Economic Co-operation and Development OECD ,  UNESCO  and  Interpol . In  1953 , the  United Nations  asked France to choose a  coat of arms  to represent them internationally. The French emblem is now on their  passport s.
+
+France was a founding member of the  European Union . ref cite web url http://europa.eu/abc/history/index_en.htm title History of the EU publisher European Union accessdate 5 August 2010 ref  In the 1960s, France wanted to exclude the  United Kingdom  from the  organisation . It wanted to build its own  Economy economic   Influence power  in continental  Europe .  France and  Germany  became closer after  World War II .  This was to try to become the most influential country in the EU.  It limited the influence of the new  Eastern Europe an members. France is a member of the  North Atlantic Treaty Organisation  (NATO). ref name nato  However, under  Charles de Gaulle President de Gaulle , it left the joint military command. In the early 1990s, France received  criticism  for its underground  nuclear weapons nuclear  tests in  French Polynesia . France vigorously opposed the  2003 invasion of Iraq . ref cite web url http://news.bbc.co.uk/2/hi/middle_east/2688117.stm title Opposition of the war in Iraq publisher BBC website accessdate 5 August 2010 ref  France retains strong political and economic influence in its former  Africa n colonies. For instance it has supplied economic aid and troops for peace-keeping missions in the  Ivory Coast  and  Chad .
+
+  Economy  
+ File:A380 Reveal 2.jpg thumb|left|The first completed  Airbus A380  in  Toulouse  on 18 January 2005. Airbus is a symbol of the  globalisation  of the French and European economy. 
+
+France is a member of the  G8  group of  wikt:lead#Verb leading   wikt:industry industrialised  countries. France has the eighth-largest economy in the world by  gross domestic product Gross domestic product (GDP)  (which takes into account how much it costs to live in different countries and  inflation  rates). ref cite web url    https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html title   CIA World Factbook GDP PPP data update of 2008 publisher   US Government date   20 November 2008 ref  France and 11 other  European Union  members jointly launched the  euro  on 1 January 1999 and started using it in 2002. ref cite web url http://news.bbc.co.uk/2/hi/business/1845045.stm title Euro launched in 12 countries ref 
+
+France's economy has nearly 2.9 million registered companies. ref citeweb url http://www.journaldunet.com/management/repere/entreprises_france_type.shtml title Number of companies in France ref  The government has a considerable influence over  railway ,  electricity ,  aircraft , and  telecommunications  firms (as it owns big companies like  SNCF  and  Electricite de France EDF  (French electricity)). ref cite web url http://investisseurs.edf.com/the-edf-group/edf-investors/stock-information/shareholding-policy-117065.html title Shareholding policy date 31 December 2007 publisher Electricite de France accessdate 2009-04-05 ref  France has an important aerospace (design of  aircraft  and  spacecraft ) industry led by  Airbus . ref Fr icon   cite web url http://www.ademe.fr/midi-pyrenees/documents/a_3/cnes_dossier_presse.pdf  title France  author CNES  format PDF accessdate 2007-05-30 ref  It can also launch  rocket s from  French Guiana . ref cite web url http://www.russianspaceweb.com/kourou_origin.html title Rocket launch site in Kourou ref 
+
+France has invested a lot in  nuclear power . This made France the smallest producer of  Greenhouse gas carbon dioxide  among the seven most industrialised countries in the world. ref cite web url http://www.bls-frenchcourses.com/french-economy-industry-GB.html title France, smallest producer of CO2 ref  As a result, 59 nuclear power plants generate  most of the electricity produced in the country (78% in 2006, ref cite web  author DGEMP / Observatoire de l'energie date April 2007 url http://www.industrie.gouv.fr/energie/statisti/se_elec.htm title Electricite en France: les principaux resultats en 2006. accessdate 2007-05-23 ref  up from only 8% in 1973, 24% in 1980, and 75% in 1990).
+
+France is the leading agricultural producer and exporter in Europe. ref cite web url http://www.ameinfo.com/185827.html title France is the leading agricultural producer and exporter in Europe ref  France exports  wheat ,  poultry ,  dairy  products,  beef , and  pork . It is also famous for its  wine  industry. France received 10 billion euros in 2006 from the European Community as  broken wikt link subsidy subsidies  to its farmers. ref name BBCCap cite news url    http://news.bbc.co.uk/2/hi/europe/4407792.stm title   Q&A: Common Agricultural Policy  publisher   BBC News date   20 November 2008 ref 
+
+At one time, the Factory Act of 1833 limited the workday for women and children to 11 hours a day. ref cite web  url http://www.nationalarchives.gov.uk/education/lesson13.htm   title 1833 Factory Act  accessdate 2010-03-14  coauthors Kew, Richmond, Surrey  format htm  work The National Archives  ref 
+
+  Demographics  
+On 1 January 2008, it was estimated that 63.8 million people live in France, including in the  Overseas Regions of France . ref name entire cite web url http://www.insee.fr/en/themes/document.asp?ref_id=ip1170&reg_id=0 title Demographic report 2007 - The birth rate remains very high publisher  Government of France - INSEE accessdate 2008-01-15 ref  61,875,000 of these live in metropolitan France, the part of the country that is within  Europe . ref name entire 
+
+  Ethnic groups  
+The major ethnic groups living in France today are descended from  Celt Celtic people  and  Ancient Rome Roman people . ref name USStateDeptBN  The significant minority groups living in France are:
+ Teutonic, that is  Germanic peoples ref name USStateDeptBN 
+ Slavic peoples Slavic ref name USStateDeptBN 
+ people from  North Africa ref name USStateDeptBN 
+ Sub-Saharan African - people from  Africa  who live south of the  Sahara  desert ref name USStateDeptBN 
+ people from  Indochina ref name USStateDeptBN 
+ people from the  Basque Country (greater region) Basque Country  of southwest Europe ref name USStateDeptBN 
+
+  Culture  
+ File:Claude Monet 1899 Nadar.jpg thumb|upright| Claude Monet , founder of the  Impressionism Impressionist  movement 
+  Language  
+ main French language 
+ French language French  is the official  language  of France. It belongs to the  Romance language  group, which includes  Italian language Italian  and  Spanish language Spanish . Many regional  dialect s are also used in France.  Alsatian language Alsatian , a  Germany German  dialect, is spoken in  Alsace  and in parts of  Lorraine  in eastern France. French was the language of  diplomacy  and  culture  in  Europe  between the 17th and 19th century and is still widely used. ref cite web url http://www.history.com/encyclopedia.do?articleId=207636 archiveurl http://web.archive.org/web/20080423103843/http://www.history.com/encyclopedia.do?articleId=207636 archivedate 2008-04-23 title France an important language of diplomacy ref 
+
+Some people in France also speak  Basque language Basque ,  Breton language Breton ,  Catalan language Catalan ,  Corsican language Corsican ,  German language German ,  Flemish language Flemish , and  Occitan language Occitan .
+
+  Religion  
+ bar box
+ title France religiosity
+ titlebar #ddd
+ left1 religion
+ right1 percent
+ float right
+ bars 
+ bar percent Christianity blue 54 
+ bar percent Not religious gray 31 
+ bar percent Islam green 4 
+ bar percent Judaism pink 1 
+ bar percent Other religions br or no opinion brown 10 
+ 
+
+France is a  Secularism secular  country and the  constitution  guarantees freedom of  religion . ref cite web url http://www.assemblee-nationale.fr/connaissance/constitution.asp title Constitution of 1958 accessdate 13 August 2010 publisher Assemblee Nationale   fr icon ref  The  population  is about 51%  Roman Catholic , and 31% of people are  Agnosticism agnostics  or  Atheism atheists . 4% are  Islam Muslim , 3% say they are  Protestantism Protestant  and 1% say they are  Judaism Jewish . 10% are from other religions or do not have an opinion about religion. ref cite web  author Catholic World News  publisher   year 2003  url http://www.catholicculture.org/news/features/index.cfm?recnum=48547   title France is no longer Catholic, survey shows  accessdate 2007-01-11 ref ref name religion ro icon   http://www.cotidianul.ro/franta_nu_mai_e_o_tara_catolica-20395.html Franta nu mai e o tara catolica ,  Cotidianul  2007-01-11 ref  There are also  Zoroastrian ,  Unitarian Universalism Unitarian Universalist ,  Jainism Jain  and  Wicca n communities. Religions founded in France include  Raelism .
+
+According to a Poll in 2005: ref name EUROBAROMETER cite web  url http://ec.europa.eu/public_opinion/archives/ebs/ebs_225_report_en.pdf    title  Eurobarometer on Social Values, Science and technology 2005 - page 11 format   pdf  accessdate 2007-05-05 ref 
+
+   34%  of French citizens responded that  "they believe there is a  God " .
+   27%  answered that  "they believe there is some sort of  spirit  or life force" .
+   33%  answered that  "they do not believe there is any sort of spirit, God, or life force" .
+
+  Literature  
+ main French literature 
+ File:Dartagnan-musketeers.jpg right|thumb| The Three Musketeers  by  Alexandre Dumas, pere Alexandre Dumas 
+French literature began in the  Middle Ages . ref cite web url http://www.discoverfrance.net/France/Literature/DF_literature.shtml title French literature started in the Middle Ages ref  French was divided into several dialects at the time. Some authors  spelling spelled  words differently from one other.
+
+During the 17th century,  Pierre Corneille ,  Jean Racine ,  Moliere ,  Blaise Pascal  and  Rene Descartes  were the main authors. ref cite web url http://17emesiecle.free.fr/Auteurs.php title French authors of the 17th century author 17eme siecle accessdate 2 August 2010 ref 
+
+In the 18th and 19th centuries, French literature and poetry reached its best. The 18th century saw writings of authors,  essay ists and  moral ists as  Voltaire  and  Jean-Jacques Rousseau .
+As for French children's literature in those times,  Charles Perrault  wrote stories such as " Little Red Riding Hood ", " Beauty and the Beast ", " Sleeping Beauty " and " Puss in Boots ". ref cite web url http://www.perraultfairytales.com/en/stories title Perrault's tales accessdate 2010-09-12 publisher PerraultFairyTales.com ref 
+
+Many famous French novels were written in the 19th century by authors such as  Victor Hugo ,  Alexandre Dumas, pere Alexandre Dumas  and  Jules Verne . They wrote popular novels like  The Three Musketeers ,  The Count of Monte-Cristo ,  Twenty Thousand Leagues Under the Sea ,  The Hunchback of Notre-Dame  and  Les Miserables . Other 19th century fiction writers include  Emile Zola ,  Guy de Maupassant ,  Theophile Gautier  and  Stendhal . ref cite web  url http://www.discoverfrance.net/France/Literature/DF_literature.shtml   title French Literature  accessdate 2010-08-03  last Boorsch  first Jean  date 1996  format html  work Discoverfrance.net  page 5  ref 
+
+Famous novels were written during the 20th century by  Marcel Proust ,  Antoine de Saint-Exupery ,  Albert Camus ,  Jean-Paul Sartre  and  Michel Houellebecq . 
+
+  Sports  
+ File:TourDeFrance 2005 07 09.jpg right|thumb|The  Peloton  (means "pack" in French) of the  Tour de France 
+The  Tour de France   cycling   Racing race  in July is one of the best-known  sport ing events. ref cite web url http://www.weightlossdietinformation.com/the-tour-de-france-the-most-famous-bicycle-race-in-the-world.html title Famous tour de France author Damian Papworth accessdate 2010-09-16 ref  It is a three-week race of around 3,500 km that covers most of France and ends in the centre of Paris, on the  Avenue des Champs-Elysees .  Football (soccer) Football  is another popular sport in France. The French team won the  FIFA World Cup  in 1998 and the  UEFA European Football Championship  in 1984 and 2000. France also hosts the  24 Hours of Le Mans   car race . France also hosted the  Rugby World Cup  in 2007 and finished fourth. ref cite web  url http://french.lovetoknow.com/Popular_French_Sports   title Popular French Sports  accessdate 2010-08-03  last1 Dautaj  first1 Jacqueline  last2 Delp  first2 Valorie  last3 Finley  first3 Amy  work LoveToKnow Corp.  ref 
+France is closely associated with the  Olympic Games Modern Olympic Games . At the end of the 19th century, the  Baron   Pierre de Coubertin  suggested having the Olympic Games again. France hosted the  Summer Olympics  twice, in 1900 and 1924, in  Paris . France also hosted the  Winter Olympic Games Winter Games  three times: in 1924 in  Chamonix , in 1968 in  Grenoble , and in 1992 in  Albertville .
+
+  Cuisine    
+ File:Terrine de saumon au basilic.JPG thumb|right|230px|Basil salmon  Terrine (food) terrine 
+
+French cuisine has influenced the style of cooking throughout Europe, and its chefs work in restaurants throughout the world. ref cite web url http://www.delices-du-monde.fr/recettes-francaise.html title Diversity of French Cuisine accessdate 1 August 2010 fr icon ref 
+
+The roots of modern  haute cuisine  lie in chefs like  Francois Pierre La Varenne La Varenne  (1615-1678) and the notable chef of  Napoleon ,  Marie-Antoine Careme  (1784-1833). These chefs developed a lighter style of food compared to the food of the  Middle Ages . They used fewer spices, and more  herb s and creamy ingredients.
+
+Typical ingredients like  roux  and fish stock, and techniques such as  marinade marinading , and dishes such as  ragout , were invented. Careme was an expert patissier (pastry-maker), and this is still a mark of French cooking. He developed basic sauces, his 'mother sauces'; he had over a hundred sauces in his repertoire, based on the half-dozen mother sauces.
+
+French cuisine was introduced in the 20th century by  Auguste Escoffier Georges Auguste Escoffier  (1846-1935). He was a genius at organisation. He worked out how to run large restaurants, as in a big hotel or a palace; how the staff should be organised; how the menu was prepared. He had methods for everything. Escoffier's largest contribution was the publication of  Le Guide Culinaire  in 1903, which established the fundamentals of French cookery. Escoffier managed the restaurants and cuisine at the  Savoy Hotel  and  Carlton Hotel  in  London , the  Hotel Ritz Paris , and some of the greatest cruise ships.
+
+Escoffier, however, left out much of the culinary character to be found in the  regions of France .
+
+Gastro-tourism and the  Guide Michelin  helped to acquaint people with the rich  bourgeois  and peasant cuisine of the French countryside in the 20th century.  Gascony Gascon  cuisine has also had great influence over the cuisine in the southwest of France. Many dishes that were once regional have proliferated in variations across the country.  Cheese  and  wine  are a major part of the cuisine, playing different roles regionally and nationally. ref cite web url http://www.goodcooking.com/frcheese.htm title French Cheeses accessdate 1 August 2010 ref ref cite web url http://www.franceway.com/cheese/ title French Cheese accessdate 1 August 2010 ref ref cite web url http://trifter.com/practical-travel/world-cuisine/top-10-most-tasty-cuisines-in-the-world/ title The world's best cuisines accessdate 1 August 2010 ref  In the  north  of France, people often prefer to use  butter  to  wikt:cook cook . In the  south , they prefer  olive oil  and  garlic . ref cite web url http://www.google.com/hostednews/afp/article/ALeqM5jvmxWfyZ2tFVA3qcmC7DkX6SMi5g title Butter and oil in French Cuisine accessdate 1 August 2010 ref  In France, each  Regions of France region  has its own special  dish ;  choucroute  in  Alsace ,  quiche  in  Lorraine ,  cassoulet  in the  Languedoc-Roussillon , and  tapenade  in  Provence-Alpes-Cote d'Azur .
+
+In November 2010,  French gastronomy  was added by  UNESCO  to its lists of the world's 'intangible cultural heritage'. ref http://www.dallasnews.com/sharedcontent/dws/news/world/stories/DN-culture_17int.ART.State.Edition1.b21e71.html Bon appetit: Your meal is certified by the U.N.  Dallas Morning News ref ref http://www.unesco.org/new/en/media-services/single-view/news/celebrations_healing_techniques_crafts_and_culinary_arts_added_to_the_representative_list_of_the_intangible_cultural_heritage/ Celebrations, healing techniques, crafts and culinary arts added to the Representative List of the Intangible Cultural Heritage ref 
+
+  Tourism  
+ File:Chateau-de-versailles-cour.jpg thumb|The  Palace of Versailles  is one of the most popular tourist destinations in France. 
+France is the number one  tourist  destination in the world. In 2007, 81.9 million foreign tourists visited France. ref name tourism.stat   Spain  comes second (58.5 million in 2006) and the  United States  come third (51.1 million in 2006).
+Some of the most famous attractions in Paris, are the  Eiffel Tower  and the  Arc de Triomphe . Another one is  Mont Saint Michel , in  Normandy . ref cite web url http://www2.culture.gouv.fr/deps/mini_chiff_03/fr/musee.htm title Musees et Monuments historiques ref 
+
+A European  Disneyland  is located in a  suburb  east of Paris. The resort opened in 1992 and is also a popular tourist destination in  Europe .
+
+ Related pages 
+ France at the Olympics 
+ France national football team 
+ List of rivers of France 
+
+  References  
+ File:Paris 06 Eiffelturm 4828.jpg thumb|right|110px| Eiffel Tower 
+ reflist 2 refs 
+
+ ref name population fr   cite web url http://www.insee.fr/fr/themes/document.asp?ref_id=ip1332 title Bilan demographique 2010 first Government of France last INSEE accessdate 20 January 2011 ref 
+
+ 
+
+ Notes 
+ references group note 
+
+  Other websites  
+ commons France 
+ Wikivoyage 
+ spoken article Simple en France.ogg 2009-03-17 
+   cite web url http://about-france.com title Clear but detailed information about France author About-France.com 
+   cite web url https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html title CIA World Factbook - France author Central Intelligence Agency 
+   cite web url http://www.lescommunes.com/index.en.html title Cities and Towns in France author Lescommunes.com accessdate 2010-08-08 
+
+ Europe 
+ G8 
+ European Union 
+ North Atlantic Treaty Organisation (NATO) 
+
+ Category:France   
+ Category:European Union member states 
+ Category:Former good articles 
+ Category:French-speaking countries 
+ Category:G8 nations

@@ -1,0 +1,98 @@
+Computer science
+
+Computer science  is the study of how to manipulate, manage, transform and  encode   information . 
+
+There are many different areas in computer science. Some of the areas consider problems in an  wikt:abstract abstract  way. Some areas need special  machine s, called  computer s.
+
+A person who works with computers will often need  mathematics ,  science , and  logic  in order to make and use computers.
+
+  Common tasks for a computer scientist  
+  Asking questions  
+This is so that they can find new and easier ways to do things, and the way to approach problems with this information.
+
+  Asking the right question  
+Computers can do some things easily (for example: simple math, or sorting out a list of names from A-to-Z). But computers cannot answer questions when there is not enough information, or when there is no real answer. Also, computers may take too much time to finish long  wikt:task tasks . For example, it may take too long to find the shortest way through all of the towns in the USA - so instead a computer will try to make a  heuristic close guess . A computer will answer these simpler questions much faster.
+
+  Answering the question  
+ Algorithm s are complicated steps of instructions describing how to complete a task, such as solving a problem. Think about  playing cards , for example. A computer scientist wants to sort the cards. First he wants to sort them out by color. Then he wants to order them by number (2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, and Ace). The computer scientist may see different ways to sort the playing cards. He must now think about how he will do it. When he decides, he has created an algorithm. After making the algorithm, the scientist needs to test whether the algorithm always does what it should. Then, the scientist can see how well his program sorts the cards.
+
+A simple but very slow algorithm could be: drop the cards, pick them up, and check whether they are sorted. If they are not, do it again. This method will work, but it will often take a very long time.
+ 
+A person may do this better by looking through all the cards, finding the first card (2 of diamonds), and putting it at the start. After this, he looks for the second card, and so on. This works much faster, and does not need much space. This sorting algorithm is a selection sort.
+
+Computer science began during  World War II  and separated from the other sciences during the 1960s and 1970s. Now, computer science uses special methods of doing things, and has its own special words. It is related to  electrical engineering ,  mathematics , and  language science .
+
+Computer science looks at the  theory theoretical  parts of computers.  Computer engineering  looks at the physical  computer hardware parts  of computers (hardware), and  software engineering  looks at the use of  software computer programs  and how to make them.
+
+  Parts of computer science  
+  Central math  
+  Boolean algebra (when something can only be true or false)
+   Computer numbering formats  (how computers count)
+   Discrete mathematics  (math with numbers a person can count)
+   Symbolic logic  (clear ways of talking about math)
+  Order of Precedent (which math operations are performed first)
+
+  How an ideal computer works  
+   Algorithmic information theory  (how easily can a computer answer a question?)
+   computational complexity theory Complexity theory  (how much  time  and memory does a computer need to answer a question?)
+   Computability theory  (can a computer do something?)
+   Information theory  (math that looks at  information data  and how to process data)
+   Computation Theory of computation  (how to answer questions on a computer using algorithms)
+   Graph theory  (math that looks for directions from one point to another)
+   Type theory  (what kinds of data should computers work with?)
+   Denotational semantics  (math for  computer languages )
+   Algorithm s (looks at how to answer a question)
+   Compiler s (turning words into computer programs)
+   Lexical analysis  (how to turn words into data)
+   Microprogram ming (how to control the most important part of a computer)
+   Operating system s (big computer programs, e.g.  Linux ,  Microsoft Windows ,  Mac OS )  to control the computer hardware and software.
+   Cryptography  (hiding data)
+
+  Computer science at work  
+   Artificial intelligence  (making computers learn and talk, similar to people)
+   Computer algebra  (using computers for  Mathematics Mathematical problems )
+   Computer architecture  (building a computer)
+   Computer graphics  (making pictures with computers)
+   Computer network s (joining computers to other computers)
+   Computer program  (how to tell a computer to do something)
+   Computer programming  (writing, or making, computer programs)
+   Computer security  (making computers and their data safe)
+   Database s (a way to sort and keep data)
+   Data structure  (how to build or group data)
+   Distributed computing  (using more than one computer to solve a difficult problem)
+   Information retrieval  (getting data back from a computer)
+   Programming language s ( language s that a  programmer  uses to make computer programs)
+   Program specification  (what a program is supposed to do)
+   Program verification  (making sure a computer program does what it should do, see  debugging )
+   Robot s (using computers to control machines)
+   Software engineering  (how  programmer s write programs)
+
+  What computer science does  
+   Benchmark  (testing a computer's power or speed)
+   Computer vision  (how computers can see and understand images)
+   Collision detection  (how computers help robots move without hitting something)
+   Data compression  (making data smaller)
+   Data structure s (how computers group and sort data)
+   Data acquisition  (putting data into computers)
+   Design pattern s (answers to common  software engineering  problems)
+   Digital signal processing  (cleaning and "looking" at data)
+   File format s (how a  Computer file file  is arranged)
+   Human-computer interaction  (how humans use computers)
+   Information security  (keeping data safe from other people)
+   Internet  (a large  network  that joins almost all computers)
+   Web application s (computer programs on the Internet)
+   Software optimization Optimization  (making  software computer programs  work faster)
+   Software metric s (ways to measure computer programs, such as counting lines of code or number of operations)
+   Very large system integration VLSI design  (the making of a very large and complex computer system)
+
+ Related pages 
+ commonscat 
+   Computing 
+   Turing Award 
+   IEEE John von Neumann Medal 
+   Computer jargon 
+   Jargon file Computer slang 
+   Computer science basic topics 
+   List of words about computers Encyclopedia of Computer Terms 
+
+ Category:Computer science  

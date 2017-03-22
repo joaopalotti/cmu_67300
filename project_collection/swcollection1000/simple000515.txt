@@ -1,0 +1,123 @@
+Venus
+
+Infobox Planet
+  bgcolour   #EDD58B
+  name   Venus
+  symbol    File:Venus symbol.svg 25px|Astronomical symbol of Venus 
+  image    File:Venus-real color.jpg 240px|Venus 
+  caption  
+  epoch   J2000
+  aphelion   108,942,109 km br 0.728 231 28  Astronomical unit AU 
+  perihelion   107,476,259 km br 0.718 432 70 AU
+  semimajor   108,208,930 km br 0.723 332 AU
+  eccentricity   0.006 8
+  period   224.700 69  day br 0.615 197 0  julian year (astronomy) yr br 1.92 Venus  solar day 
+  synodic_period   583.92 days ref name nssdc 
+  avg_speed   35.02 km/s
+  inclination   3.394 71deg to  Ecliptic br 3.86deg to  Ecliptic#Ecliptic and planets Sun's equator br 2.19deg to  Invariable plane ref name meanplane cite web
+   date 2009-04-03
+   title The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+   url http://home.comcast.net/~kpheider/MeanPlane.gif 
+   accessdate 2009-04-10  (produced with  http://chemistry.unina.it/~alvitagl/solex/ Solex 10  written by Aldo Vitagliano; see also  Invariable plane ) ref 
+  asc_node   76.670 69deg
+  arg_peri   54.852 29deg
+  satellites   None ref cite web url http://solarsystem.nasa.gov/planets/profile.cfm?Object=Venus&Display=Moons title NASA: Solar System Exploration: Planets: Venus: Moons accessdate 2011-03-31 date 2011-02-16 author Harvey, Samantha publisher NASA ref 
+  physical_characteristics   yes
+  mean_radius    nowrap 6,051.8 +- 1.0 km ref name Seidelmann2007 cite journal
+    last  Seidelmann  first  P. Kenneth
+    coauthors  Archinal, B. A.; A'hearn, M. F.;  et al. 
+    title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+    journal  Celestial Mechanics and Dynamical Astronomy
+    volume 90   pages 155-180   year 2007
+    doi 10.1007/s10569-007-9072-y
+    url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y 
+    accessdate 2007-08-28  ref br 0.949 9 Earths
+  flattening   0 ref name Seidelmann2007 
+  surface_area   4.60 e 8  km2 br 0.902 Earths
+  volume   9.38 e 11 km3 br 0.857 Earths
+  mass   4.868 5 e 24  kg br 0.815 Earths
+  density   5.204 g/cm3
+  surface_grav   8.87 Acceleration m/s sup 2 sup br nowrap 0.904  g-force g 
+  escape_velocity   10.46 km/s
+  sidereal_day   -243.018 5 day
+  rot_velocity    convert 6.52 km/h m/s abbr on 
+  axial_tilt   177.3deg ref name nssdc cite web
+    url    http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html 
+    title Venus Fact Sheet   publisher NASA
+    last Williams   first David R.
+    date April 15, 2005   accessdate 2007-10-12  ref 
+  right_asc_north_pole    nowrap 18 h 11 min 2 s br 272.76deg ref 
+ cite web
+    title Report on the IAU/IAG Working Group on cartographic coordinates and rotational elements of the planets and satellites
+    publisher International Astronomical Union
+    year 2000
+    url http://www.hnsky.org/iau-iag.htm 
+    accessdate 2007-04-12 ref 
+  declination   67.16deg
+  albedo   0.65 ( Geometric albedo geometric ) or 0.75 ( Bond albedo bond ) ref name nssdc 
+  magnitude   up to -4.6 ref name nssdc  (crescent) br -3.8 (full) ref name ephemeris cite web
+   last Espenak   first Fred   year 1996   url http://sunearth.gsfc.nasa.gov/eclipse/TYPE/venus2.html    title Venus: Twelve year planetary ephemeris, 1995-2006
+   work NASA Reference Publication 1349
+   publisher NASA/Goddard Space Flight Center
+   accessdate 2006-06-20 ref 
+  angular_size    nowrap 9.7" - 66.0" ref name nssdc 
+  temperatures   yes
+  temp_name1    Kelvin 
+  mean_temp_1   735 K ref name nssdc ref 
+ cite web
+    title Venus: Facts & Figures   publisher NASA
+    url http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Venus&Display=Facts&System=Metric 
+    accessdate 2007-04-12 ref ref name compare cite web
+    title Space Topics: Compare the Planets: Mercury, Venus, Earth, The Moon, and Mars 
+    publisher Planetary Society
+    url   http://www.planetary.org/explore/topics/compare_the_planets/terrestrial.html 
+    accessdate 2007-04-12  ref 
+  temp_name2    Celsius 
+  mean_temp_2   461.85 degC
+  mean_name3    Fahrenheit 
+  mean_temp_3   863.33&ndsp;degF
+  pronounce     IPA-en 'vi:n@s en-us-Venus.ogg 
+  adjectives    Venusian  or (rarely)  Cytherean , Venerean
+  atmosphere   yes
+  surface_pressure   93 bar (unit) bar  (9.3 Pascal (unit) MPa )
+  atmosphere_composition   ~96.5%  Carbon dioxide br ~3.5%  Nitrogen br 0.015%  Sulfur dioxide br 0.007%  Argon br 0.002%  Water vapor br 0.001 7%  Carbon monoxide br 0.001 2%  Helium br 0.000 7%  Neon br trace  Carbonyl sulfide br trace  Hydrogen chloride br trace  Hydrogen fluoride 
+ 
+ about the  planet other uses Venus (disambiguation) 
+ Venus  is the second  planet  from the  sun . ref in our  Solar System ref  It is a  terrestrial planet  because it has a solid,  Rock (geology) rocky  surface like other planets in the inner solar system. Astronomers have known Venus for thousands of years. The  Ancient Rome ancient Romans  named it after their  god dess  Venus (mythology) Venus . Venus is the brightest thing in the night sky except for  the Moon . It is sometimes called the  morning star  or the  evening star  as at some  elongation s it is easily seen just before the sun comes up in the morning and, at other elongations, just after the sun goes down in the evening. Venus comes closer to the  Earth  than any other planet does.
+
+Venus is sometimes called the  sister  planet of Earth as they are quite similar in size and  gravity . In other ways the planets are very different. Venus'  atmosphere  (air) is mostly  carbon dioxide  with clouds of  sulfuric acid sulphuric acid . ref citeweb url http://www.windows.ucar.edu/tour/link=/venus/atmosphere.html title The Atmosphere of Venus ref  Sulphuric acid is a  chemical  that is very  poison ous to  human s. 
+
+The thick atmosphere has made it hard to see the surface, and until the twenty-first century many people thought things might  life live  there. The  pressure  on Venus' surface is 92 times that of Earth. Venus has no  Satellite (natural) moons .  Venus spins very slowly on its axis and it spins in the  Retrograde and direct motion opposite direction  to the other planets.
+
+  Physical Properties  
+ File:Venus globe.jpg thumb|left| Radar  view of the surface of Venus ( Magellan spacecraft ) 
+Venus is a terrestrial planet so, like the Earth, its surface is made of rock. Venus is much hotter than Earth. All the  carbon dioxide  in the atmosphere acts like a  blanket , trapping heat from the Sun. This effect is called the  greenhouse effect  and it is very strong on Venus. This makes the surface of Venus the hottest of any planet's surface in the Solar System with an  estimate d  average   temperature  of  convert 480 degC degF 1 . ref citeweb url http://filer.case.edu/sjr16/advanced/venus.html title Venus - an overview ref ref citeweb url http://hypertextbook.com/facts/2000/GeorgeRyabov.shtml title Temperature on the Surface of Venus ref  This is hot enough to  melting melt   lead  or  zinc .
+
+  Geography  
+Venus has no oceans because it is much too hot for water. Venus' surface is a dry desert. Because of the clouds, only  radar  can map the surface. It is about 80% smooth,  Rock (geology) rocky   plain s, made mostly of  basalt . Two higher areas called  continent s make up the north and south of the planet. The north is called  Ishtar Terra  and the south is called  Aphrodite Terra . They are named after the  Babylon ian and  Greek god desses of love. ref Batson R.M., Russell J.F. (1991),  Naming the Newly Found Landforms on Venus , Abstracts of the Lunar and Planetary Science Conference, v. 22, p. 65 ref 
+
+  Atmosphere  
+
+Venus'  atmosphere  is mostly  carbon dioxide  and  nitrogen   gas  with  cloud s of  sulphuric acid . Because the atmosphere is so thick or dense the  pressure  is very high. The pressure is 92 times the pressure on Earth, enough to crush many things.
+
+It is impossible to see the planet's surface from  Outer space space  as the thick  cloud  layer  reflection reflects  60% of the light that hits it. The only way scientists are able to see it is by using  infrared  and  UV ultraviolet   camera s and  radar .
+
+ Transit of Venus 
+ main Transit of Venus 
+
+Venus can sometimes be seen passing between the sun and earth. Venus looks like a black dot when seen through a special telescope. These "transits" happen in pairs eight years apart. Then it's more than a hundred years to the next pair.
+
+  Related pages  
+   List of planets 
+
+  References and Notes  
+ reflist 
+
+  Other websites  
+   http://www.nineplanets.org/venus.html Nine Planets: Venus 
+   http://csep10.phys.utk.edu/astr161/lect/venus/venus.html The Planet Venus 
+   http://www.mentallandscape.com/V_DigitalImages.htm Images of Venus 
+ http://stevechallis.net/Venus.php Venus 
+ Solar System 
+
+ Category:Venus (planet)  

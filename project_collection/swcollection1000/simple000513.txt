@@ -1,0 +1,204 @@
+Verb
+
+ExamplesSidebar 35% 
+  The cat  slept 
+  That  is  John
+  She  loves  you
+  They  are running  
+   Go  there on Monday
+  He  said , "hello!"
+   Can  you  play  the piano?
+  The  sleeping  baby  looks  beautiful
+  She  saw  the girl who  had been bitten  by the dog 
+
+A  verb  is a kind of word ( part of speech ) that tells about an  wikt:action action  or a  wikt:state state . It is the main part of a  sentence :  every sentence has a verb. In  English language English , verbs are the only kind of word that changes to show  past tense past  or present  Grammatical tense tense . ref name EngGram Huddleston R. & Pullum G.K 2005.  A Student's Introduction to English Grammar.  Cambridge: Cambridge University Press ref  
+
+Every  language  in the world has verbs, but they are not always used in the same ways. They also can have different properties in different languages. For example, in some other languages (e.g.,  Chinese language Chinese  &  Indonesian language Indonesian ) verbs do not change for past and present tense. This means the  definition  above only works well for English verbs.
+
+There are sixteen verbs used in  Wikipedia:Basic English alphabetical wordlist Basic English . They are:  be ,  Wikt:do do ,  Wikt:have have ,  Wikt:come come ,  go ,  see ,  Wikt:seem seem ,  Wikt:give give ,  Wikt:take take ,  Wikt:keep keep ,  Wikt:make make ,  Wikt:put put ,  Wikt:send send ,  Wikt:say say ,  Wikt:let let ,  Wikt:get get . 
+
+  The word 'verb'  
+The word  verb  originally comes from  *were- , a  Proto-Indo-European language Proto-Indo-European  word meaning "a word". It comes to English through the Latin  verbum  and the Old French  verbe .
+
+  Verbal phrase  
+In  simple sentence s, the verb may be one word:  The cat  sat  on the mat . However, the verb may be a  phrase :  The cat  will sit  on the mat . 
+
+Verbal phrases can be extremely difficult to analyse:  I'm afraid I will need to be going soon . There seem to be three verbal phrases here, which mean something like  Sorry, I must go soon .
+
+  Verb forms  
+In English and many other languages, verbs change their form. This is called  inflection . Most English verbs have six inflected forms (see the table), but  be  has eight different forms.
+
+ class wikitable style text-align:left +Forms of English verbs
+ rowspan 3 Primary forms    past : walked   She  u walked u  home
+ 3rd  singular  present : walks   She  u walks u  home
+ plain  wikt:present present : walk   They  u walk u  home
+ rowspan 3 Secondary forms    plain form : walk   She should  u walk u  home
+ gerund : walking   She is  u walking u  home
+ past  participle : walked   She has  u walked u  home
+ 
+
+You should notice that some of the verb forms look the same. You can say they have the same  shape . For example, the plain present and the plain form of  walk  have the same shape. The same is true for the past and the past  participle . But these different forms can have different shapes in other verbs. For example, the plain present of  be  is usually  are  but the plain form is  be . Also, the past of  eat  is  ate , but the past participle is  eaten . When you look for a verb in the dictionary, it is usually the plain form that you look for.
+
+An English sentence must have at least one primary-form verb. Each main  clause  can only have one primary-form verb.
+
+  Kinds of Verbs  
+English has two main kinds of verbs: normal verbs (called  lexical verb s) and  auxiliary verb s. The difference between them is mainly in where they can go in a sentence. Some verbs are in both groups, but there are very few auxiliary verbs in English. There are also two kinds of auxiliary verbs:  modal verb s and non-modal verbs. The table below shows most of the English auxiliaries and a small number of other verbs.
+
+ class wikitable style text-align:left +Kinds of English verbs
+ colspan 2  auxiliary verbs   lexical verbs
+ rowspan 5  modal verbs 
+   Can  you play the piano?   I  fell 
+  I  will  not be there   I didn't  fall 
+   Shall  we go   I  had  breakfast.
+  Yes, you  may    I'm  playing  soccer.
+  You  must  be joking   Must you  make  that noise?
+ rowspan 3  non-modal verbs 
+   Have  you seen him?   Have you  seen  him?
+  I  did  see it   I did  see  it
+  He  is  sleeping   He is  sleeping 
+ 
+
+There are several auxiliary verbs:
+  To  do  (do, does, did)
+  To  be  (am, is, are, was, were): Creates a progressive tense
+  To  have  (have, has, had): Creates a perfect tense
+
+The following verbs are  modal auxiliaries .
+  Can
+  Could
+  May
+  Might
+  Must
+  Shall
+  Should
+
+Auxiliary verbs also inflect for  negation . Usually this is done by adding  not  or  n't . ref name EngGram 
+  You should n't  be here.
+  He is n't  at home.
+  We have n't  started yet.
+
+  Use of the auxiliary  do   
+Sometimes the verb  do .  It does not really change the meaning.
+  I  do  talk (Present)
+  I  did  go (Past)
+
+It is also used in the negative when no other auxiliary verbs are used.
+  I  don't  talk (Present)
+  I  didn't  go (Past)
+
+Many other languages do not use the verb  do  as an auxiliary verb.  They use the simple present for  do , and the simple past or perfect for  did 
+
+  Tense, aspect, and mood  
+Many people think that all different ways of using verbs are all different tenses. This is not true. There are three main systems related to the verb:  tense (grammar) tense ,  aspect (grammar) aspect , and  mood (grammar) mood .
+
+  Tense  
+Tense is mainly used to say  when  the verb happens: in the past, present, or future. In order to explain and understand tense, it is useful to imagine time as a line on which  past tense ,  present tense  and  future tense  are  wikt:position positioned . ref Sangmeister, Lisa. (2009).  http://books.google.com/books?id=guppGxH8DQAC&pg=PA11&dq= Past Tense in English: From OE to PDE,  p. 11 . ref 
+
+Some languages have all three tenses, some have only two, and some have no tenses at all.  English language English  and  Japanese language Japanese  for example have only two tenses: past and present. ref name EngGram   Chinese language Chinese  and  Indonesian language Indonesian  verbs do not show tense. Instead they use other words in the sentence to show when the verb happens.
+
+ class wikitable style text-align:left +English tenses
+ Past tense     Present tense 
+  She  walked  home    She  walks  home
+  He  ran  quickly    He  runs  quickly
+  I  could  swim well   I  can  swim well
+   Did  you live here?    Do  you live here?
+ 
+
+  Aspect  
+Aspect usually shows us things like whether the action is finished or not, or if something happens regularly. English has two  Grammatical aspect aspects :  progressive aspect progressive  and  perfect aspect perfect . In English, aspect is usually shown by using participle verb forms. Aspect can combine with present or past tense.
+
+  Progressive aspect  
+English uses the gerund-participle, usually together with the auxiliary  be  (and its forms am, is, are, was, and were) to show the progressive aspect.
+  I' m sleeping . (present progressive)
+  He  was studying  English last night. (past progressive)
+  He  will be going  to the store tomorrow (future progressive)
+
+Many other languages, such as  French language French , do not use progressive tenses.
+
+  I' ve seen  him twice. (present perfect)
+  I  had lived  there for three years. (past perfect)
+
+The past perfect can be used to express an unrealized hope, wish, etc.
+  He  had intended  to bake a cake but ran out of flour.
+  She  had wanted   to buy him a gift but he refused.
+
+After  If ,  wish  and  would rather , the past perfect can be used to talk about past events that never happened.
+   If  only I  had been born  standing up!
+  I  wish  you  had told  me that before.
+  I  would rather  you  had gone  somewhere else.
+
+  Mood  
+Finally, English  mood  is now usually shown by using  modal verb s. In the past, English had a full mood system but that has almost completely disappeared. The subjunctive mood now uses the plain form. There is also a form of  be  that is used in conditionals to show that something is not true (e.g., If I  were  a bird, I would fly to California.)
+
+  Sentence parts that go with verbs  
+Certain parts of a sentence naturally come before verbs or after them, but these are not always the same for all verbs. The main sentence parts are:  subject ,  object ,  complement , and  modifier . 
+
+  Subjects  
+Almost all English sentences have subjects, but sentences that are orders (called  imperative s) usually do not have any subjects. A subject usually comes before a verb, but it can also come after auxiliary verbs. In the following examples, the subject is underlined and the primary verb is in bold.
+   u We u   need  you.
+   u The food u   was  good.
+   u The small boy u  with red hair  is  sleeping.
+   Can   u you u  see the car?
+   Come  here. (no subject)
+
+  Objects  
+Many verbs can be followed by an object. These verbs are called  transitive verb s. In fact, some verbs must have an object (e.g.,  take ), but some verbs never take an object (e.g.,  sleep ). Verbs that do not take an object are called  Transitivity (grammar) intransitive  verbs. Some verbs can even have two objects. They are called  Transitivity (grammar) ditransitive  verbs. In the following examples, the object is underlined and the primary verb is in bold.
+  I'm sleeping. (no object)
+  I  took   u the book u  from him.
+  I  gave   u him u   u the book u . (2 objects)
+  I  am  happy. (no object)
+  I  became  a teacher. (complement, no object)
+  I  slept  in my bed (1 object)
+
+  Complements  
+Some verbs can or must be followed by a  complement . These verbs are called  linking verbs  or  copula . In the following examples, the complement is underlined and the verb is in bold.
+  He  is   u good u .
+  He  is   u a boy u .
+  She  became   u sick u .
+  She  became   u a manager u .
+  It  looks   u nice u .
+
+  Modifiers  
+Verbs can be modified by various  modifier s, mainly  adverb s. Note that verbs generally do not need modifiers; it's usually a choice. In the following examples, the adverb is underlined and the verb is in bold.
+  The boy  ran   u quickly u .
+  The  u freely u   swinging  rope hit him.
+
+Verbs also commonly take a variety of other modifiers including  preposition s.
+
+  Differences between verbs and other words  
+Sometimes a verb and another word can have the same shape. In these cases you can usually see the difference by looking at various properties of the words.
+
+  Verbs vs. adjectives  
+Sometimes a verb and an  adjective  can have the same shape. Usually this happens with participles. For example, the present participle  interesting  and the adjective  interesting  look the same. Verbs are different from adjectives, though, because they cannot be modified by  very ,  more , or  most . ref name EngGram  For example, you can say "That is  very  interesting," so you know  interesting  is an adjective here. But you cannot say "My teacher is very interesting me in math" because in this sentence  interesting  is a verb. On the other hand, if you cannot change the 'be' verb to 'seem' or 'become', it is probably a verb. 
+  He was isolated / He became isolated ( isolated  is an adjective)
+  The door was opening / *The door became opening ( opening  is a verb)
+
+  Verbs vs. nouns  
+The gerund-particle sometimes looks like a  noun . This is especially true when it is used as a subject, as in the following example:
+   Running  is good for you.
+
+The main differences between these verbs and nouns are: modifiers, number, and object/complement
+
+  Modifiers  
+Verbs cannot generally be modified by adjectives and nouns cannot generally be modified by adverbs. So, in "Running regularly is good for you",  running  is a verb because it is modified by  regularly , an adverb.
+
+  Number  
+Verbs cannot change for number, so if you can make the word  plural , it is a noun, not a verb. For example, "this drawing is nice" can change to "these drawings are nice", so  drawing  is a noun. But "drawing trees is fun" cannot change to "drawings trees is fun", so it is a verb here.
+
+  Object/complement  
+Many verbs can take objects or complements, but nouns cannot. ref name EngGram  So, in "parking the car is hard",  parking  is a verb because it takes the object  the car . But, if you say, "there's no parking", parking may be a noun because it does not have an object.
+
+  Verbs vs. prepositions  
+Some verbs have become  preposition s. ref name EngGram  Again, usually these share a shape with participles. Here are some examples:
+   Given  the problems, I do not think we should go.
+  We have many helpers,  including  John. 
+   According  to the map, we are here.''
+  He went to hospital  following''' the fight.
+
+The main difference between verbs and prepositions is that verbs have a subject. Even if the subject is not written, you can understand what it is. Prepositions do not have a subject. ref name EngGram 
+
+  References  
+ reflist 
+ wiktionary 
+
+ Category:Grammar

@@ -1,0 +1,134 @@
+Yellow
+
+colorswatch yellow 
+ Yellow  is the  colour  of:
+  The outer skin of a  banana 
+  The outer skin of a  lemon 
+  The color of  urine 
+
+  Meaning of yellow  
+
+  Yellow can represent  light  and the  sun 's rays as well as lightning.
+
+  The phrase "yellow" used to be used as a sign of cowardice.
+
+  In China, yellow is the color of royalty. Emperors used to wear yellow.
+
+  On road signs in the  USA , yellow means "warning" or "danger". It is used to mean this because it is easy to see. Some animals, like  bee s and  hornet s, also use the color in combination with  black  as a warning so that other animals will know to stay away from them.
+
+  Inkjet printers use yellow ink as one of their three basic colors, along with  cyan  ink and  magenta  ink.
+
+  Tones of yellow colour comparison chart  
+<ul>
+<li style = "background-color: #ffffe0;"> Yellow Mist (web colour Light Yellow) (Hex: #FFFFE0) (RGB: 255, 255, 224)</li>
+<li style = "background-color: #fdf5e6;"> Old Lace (web colour) (Hex: #FDF5E6) (RGB: 253, 245, 230)</li>
+<li style = "background-color: #faf0e6;"> Linen (web colour) (Hex: #FAF0E6) (RGB: 250, 240, 230)</li>
+<li style = "background-color: #faebd7;"> Antique White (web colour) (Hex: #FAEBD7) (RGB: 250, 235, 215) </li>
+<li style = "background-color: #ffebcd;"> Blanched Almond (web colour) (Hex: #FFEBCD) (RGB: 255, 235, 205) </li>
+<li style = "background-color: #fafad2;"> Light Goldenrod (web colour) (Hex: #FAFAD2) (RGB: 250, 250, 210)</li>
+<li style = "background-color: #fffacd;"> Lemon Chiffon (web colour) (Lemon Cream) (Hex: #FFFACD) (RGB: 255, 250, 205)</li>
+<li style = "background-color: #fff8dc;"> Cornsilk (web colour) (Hex: #FFF8DC) (RGB: 255, 248, 220)</li>
+<li style = "background-color: #f5f5dc;"> Beige (web colour) (Hex: #F5F5DC) (RGB: 245, 245, 220)</li>
+<li style = "background-color: #fffdd0;"> Cream (Hex: #FFFDD0) (RGB: 255, 253, 208)</li>
+<li style = "background-color: #ffefd5;"> Papaya Whip (web colour) (Hex: #FFEFD5) (RGB: 255, 239, 213)</li>
+<li style = "background-color: #fbe7b2;"> Banana Mania (Crayola) (Hex: #FBE7B2) (RGB: 251, 231, 128)</li>
+<li style = "background-color: #ffe4b5;"> Moccasin (web colour) (Hex: #FFE4B5) (RGB: 255, 228, 182)</li>
+<li style = "background-color: #fadfad;"> Peach-Yellow (Hex: #FADFAD) (RGB: 250, 223, 173)</li>
+<li style = "background-color: #f5deb3;"> Wheat (web colour) (Hex: #F5DEB3) (RGB: 245, 222, 179)</li>
+<li style = "background-color: #ffe4c4;"> Bisque (web colour) (Hex: #FFE4C4) (RGB: 255, 228, 196) </li>
+<li style = "background-color: #ffdead;"> Navajo White (web colour) (Hex: #FFDEAD) (RGB: 255, 222, 173)</li>
+<li style = "background-color: #f0e68c;"> Light Khaki (X11 "Khaki") (Hex: #F0E68C) (RGB: 240, 230, 140)<li>
+<li style = "background-color: #ecebbd;"> Pale Spring Bud (Crayola "Spring Green") (Hex: #ECEBBD) (RGB: 236, 235, 189)</li>
+<li style = "background-color: #eee8aa;"> Pale Goldenrod (web colour) (Hex: #EEE8AA) (RGB: 238, 232, 170)</li>
+<li style = "background-color: #ffff99;"> Pale Canary Yellow (Crayola Canary) (Hex: #FFFF99) (RGB: 255, 255, 153)</li>
+<li style = "background-color: #f0dc82;"> Buff (HexF0DC82) (RGB: 240, 220, 130)</li>
+<li style = "background-color: #eedc82;"> Flax (Hex: #EEDC82) (RGB: 238, 220, 130)</li> 
+<li style = "background-color: #ebc2af;"> Zinnwaldite (Hex: #EBC2AF) (RGB: 235, 194, 175)<li>
+<li style = "background-color: #edc9af;"> Desert Sand (Crayola) (Hex: #EDC9AF) (RGB: 237, 201, 175)<li>
+<li style = "background-color: #ffdab9;"> Peach Puff (web color) (Hex: #FFDAB9) (RGB: 255, 218, 185)</li>
+<li style = "background-color: #ffe5b4;"> Peach (Hex: #FFE5B4) (RGB: 255, 229, 180)</li>
+<li style = "background-color: #ffcba4;"> Deep Peach (Crayola Peach) (Hex: #FFCBA4) (RGB: 255, 203, 164)</li>
+<li style = "background-color: #ffcc99;"> Peach-Orange (Hex: #FFCC99) (RGB: 255, 204, 153)</li>
+<li style = "background-color: #fdd5b1;"> Bright Apricot (Crayola Apricot) (Hex: #FDD5B1) (RGB: 253, 213, 177)</li>
+<li style = "background-color: #fbceb1;"> Apricot (Hex: #FBCEB1) (RGB: 251, 206, 177)</li>
+<li style = "background-color: #fed85d;"> Dandelion (Crayola) (Hex: #FED85D) (RGB: 254, 216, 93)</li>
+<li style = "background-color: #ffdb58;"> Mustard (Hex: #FFDB58) (RGB: 255, 219, 88)</li>
+<li style = "background-color: #f8dd5c;"> Energy Yellow (Xona.com Color List) (Hex: #F8DD5C) (RGB: 248, 221, 92)</li>
+<li style = "background-color: #fcd667;"> Medium Goldenrod (Crayola Goldenrod) (Hex: #FCD667) (RGB: 252, 214, 103)</li>
+<li style = "background-color: #f8de7e;"> Mellow Yellow (Hex: #F8DE7E) (RGB: 248, 222, 126)<li>
+<li style = "background-color: #fce883;"> Medium Yellow (Crayola Yellow) (Hex: #FCE883) (RGB: 252, 232, 131)</li>
+<li style = "background-color: #fbec5d;"> Maize (Corn) (Hex: #FBEC5D) (RGB: 251, 236, 93)</li>
+<li style = "background-color: #ffff66;"> Ultra Yellow (Unmellow Yellow) (Crayola) (Hex: #FFFF66) (RGB: 255, 255, 102)<li>
+<li style = "background-color: #fefe22;"> Laser Lemon (Crayola) (Hex: #FEFE22) (RGB: 254, 254, 34)<li>
+<li style = "background-color: #ffff00;"> YELLOW (Electric Yellow) (Hex: #FFFF00) (RGB: 255, 255, 0)<li>
+<li style = "background-color: #FDFD02;"> Pooh (Hex: #FDFD02) (RGB: 255, 253, 2)<li>
+<li style = "background-color: #fff700;"> Lemon Yellow (Lemon) Hex: #FFF700) (RGB: 255, 247, 0)<li>
+<li style = "background-color: #ffef00;"> Process Yellow (Pigment Yellow) (Printer's Yellow) (Canary Yellow) (Hex: #FFEF00) (RGB: 255, 239, 0)<li>
+<li style = "background-color: #ffdf00;"> Golden Yellow (Hex: #FFDF00) (RGB: 255, 223, 0)<li>
+<li style = "background-color: #ffd800;"> School Bus Yellow (Hex: #FFD800) (RGB: 255, 216, 0)<li>
+<li style = "background-color: #ffd700;"> Golden (web color Gold) (Hex: #FFD700) (RGB: 255, 215, 0)<li>
+<li style = "background-color: #ffcc33;"> Sunglow (Crayola) (Hex: #FFCC33) (RGB: 255, 204, 51)<li>
+<li style = "background-color: #ffc901;"> Supernova (Xona.com Color List) (Hex: #FFC901) (RGB: 255, 201, 1)<li>
+<li style = "background-color: #ffcc00;"> Tangerine Yellow (Hex: #FFCC00) (RGB: 255, 204, 0)<li>
+<li style = "background-color: #ffc430;"> Saffron (Hex: #F4C430) (RGB: 244, 196, 48)</li>
+<li style = "background-color: #fcc200;"> Golden Poppy (Hex: #FCC200) (RGB: 252, 194, 0)</li>
+<li style = "background-color: #ffbf00;"> Amber (Hex: #FFBF00) (RGB: 255, 191, 0)</li>
+<li style = "background-color: #ffba00;"> Selective Yellow (Hex: #FFBA00) (RGB: 255, 186, 0)</li>
+<li style = "background-color: #ffb97b;"> Macaroni and Cheese (Crayola) (Hex: #FFB79B) (RGB: 255, 185, 123)</li>
+<li style = "background-color: #f4a460;"> Sandy Brown (web color) (Hex: #F4A460) (RGB: 244, 164, 96) <li>
+<li style = "background-color: #ff9966;"> Atomic Tangerine (Crayola) (Hex: #FF9966) (RGB: 255, 153, 102)</li>
+<li style = "background-color: #ef9b0f;"> Gamboge (Hex: #EF9B0F) (RGB: 239, 155, 15)</li>
+<li style = "background-color: #e6be8a;"> Pale Gold (Crayola Gold) (Hex: #E6BE8A) (RGB: 230, 190, 138)</li>
+<li style = "background-color: #c3a368;"> Brass (Hex: #C3A368) (RGB: 195, 163, 104)</li>
+<li style = "background-color: #a98f64;"> California Gold (Hex: #A98F64) (RGB: 169, 143, 100)</li>
+<li style = "background-color: #c5b356;"> Vegas Gold (Hex: #C5B356) (RGB: 197, 179, 88)</li>
+<li style = "background-color: #cfb53b;"> Old Gold (Hex: #CFB53B) (RGB: 207, 181, 59)</li>
+<li style = "background-color: #d4af37;"> Metallic Gold (Hex: #D4AF37) (RGB: 212, 175, 55)</li>
+<li style = "background-color: #daa520;"> Goldenrod (web color) (Hex: #DAA520) (RGB: 218, 165, 32)</li>
+<li style = "background-color: #cba135;"> Satin Sheen Gold (Hex: #CBA135) (RGB: 203, 16, 53)</li>
+<li style = "background-color: #c1a004;"> Buddha Gold (Xona.com Color List) (Hex: #C1A004) (RGB: 193, 160, 4)</li>
+<li style = "background-color: #cd853f;"> Peru (web color) (Hex: #CD853F) (RGB: 205, 133, 63)<li>
+<li style = "background-color: #cc7722;"> Ochre (Hex: #CC7722) (RGB: 204, 119, 34)<li>
+<li style = "background-color: #b8860b;"> Dark Goldenrod (web color) (Hex: #b8860B) (RGB: 184, 134, 11)</li>
+<li style = "background-color: #737000;"> Bronze Yellow (Hex: #737000) (RGB: 115, 112, 0)</li>
+<li style = "background-color: #967117;"> Sandy Taupe (Hex: #967117) (RGB: 150, 113, 23)</li>
+<li style = "background-color: #c19a6b;"> Fallow (Hex: #C19A6B) (RGB: 193, 154, 107)<li> 
+<li style = "background-color: #c3b091;"> Khaki (HTML/CSS) (Hex: #C3B091) (RGB: 195, 176, 145)<li>
+<li style = "background-color: #cdb891;"> Ecru (Hex: #C3B091) (RGB: 205, 184, 145)<li>
+<li style = "background-color: #bdb76b;"> Dark Khaki (X11 "Dark Khaki") (Hex: #BDB76B) (RGB: 189, 183, 107)<li>
+<li style = "background-color: #e4d00a;"> Citrine (Hex: #E4D00A) (RGB: 228, 208, 10)</li>
+<li style = "background-color: #d1e231;"> Pear (Hex: #D1E231) (RGB: 209, 226, 49)</li>
+<li style="background-color: #ecf245;"> Starship (Xona.com Color List) (Hex: #E3DD39) (RGB: 227, 221, 57)<li>
+<li style = "background-color: #dfff00;"> Chartreuse Yellow (Hex: #DFFF00) (RGB: 223, 255, 0)</li>
+<li style = "background-color: #cfff04;"> Neon Yellow (Hex: #FFFFE0) (RGB: 207, 255, 4)</li>
+<li style = "background-color: #ccff00;"> Electric Lime (Crayola) (Hex: #CCFF00) (RGB: 204, 255, 0)</li>
+<li style = "background-color: #bfff00;"> Lime (Hex: #BFFF00) (RGB: 191, 255, 0)</li>
+<li style = "background-color: #adff2f;"> Green-Yellow (web color) (Hex: #ADFF2F) (RGB: 173, 255, 47)</li>
+<li style = "background-color: #a7fc00;"> Spring Bud (Hex: #A7FC00) (RGB: 167, 252, 0)</li>
+<li style = "background-color: #9acd32;"> Yellow-Green (web color) (Hex: #9ACD32) (RGB: 154, 205, 50)<li>
+<li style = "background-color: #a1c50a;"> Citrus (Xona.com Color List) (Hex: #A1C50A) (RGB: 161, 197, 10)</li>
+<li style = "background-color: #bdda57;"> June Bud (Hex: #BDDA57) (RGB: 189, 218, 87)</li>
+<li style = "background-color: #c9dc89;"> Medium Spring Bud (Hex: #C9DC89) (RGB: 202, 220, 137)</li>
+<li style = "background-color: #f1e788;"> Pale Green-Yellow (Crayola Green-Yellow) (Hex: #F1E788) (RGB: 242, 231, 136)</li>
+<li style = "background-color: #d1e189;"> Lime Pulp (Hex: #D1E189) (RGB: 209, 225, 137)</li>
+<li style = "background-color: #9ab973;"> Olivine (Hex: #9AB973) (RGB: 154, 185, 115)</li>
+<li style = "background-color: #93c572;"> Pistachio (Hex: #93C572) (RGB: 147, 197, 146)</li>
+<li style = "background-color: #acb78e;"> Swamp Green (Hex: #ACB78E) (RGB: 172, 183, 142)</li>
+<li style = "background-color: #78866b;"> Camouflage Green (Hex: #78866B) (RGB: 120, 134, 107)</li>
+<li style = "background-color: #556b2f; color: #fffffe"> Dark Olive Green (web color) (Hex: #556B2F) (RGB: 85, 107, 47)</li> 
+<li style = "background-color: #6b8e23; color: #ffffff"> Olive Drab (web color) (Hex: #6B8E23) (RGB: 107, 142, 135)</li> 
+<li style = "background-color: #808000;"> Olive (web color) (Hex: #808000) (RGB: 128, 128, 0)</li>
+<li style = "background-color: #837050; color: #fffffe"> Shadow (Crayola) (Hex: #837050) (RGB: 131, 112, 80) </li>
+<li style = "background-color: #734a12; color: #ffffff"> Raw Umber (Hex: #734A12) (RGB: 115, 74, 18)<li> 
+</ul>
+
+ Related pages 
+{{commonscat}}
+  [[List of colors]]
+  [[Amber (color)|Amber]]
+  [[Gold (color)|Gold]]
+
+{{colors}}
+
+[[Category:Basic English 850 words]]
+[[Category:Colors]]

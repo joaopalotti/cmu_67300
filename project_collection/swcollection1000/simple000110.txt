@@ -1,0 +1,22 @@
+Cube
+
+File:Cube.svg thumb|A cube has 6 sides of equal length and width 
+ File:Selpologne.jpg thumb|A magnified crystal of salt 
+A  cube  is a block with all  right angle s and whose  height ,  width  and  depth  are all the same. 
+
+A cube is one of the simplest  Platonic solid mathematical shape s in space. Something that is shaped like a cube is sometimes referred to as  cubic .
+
+  Relative 2-dimensional shape  
+The basic difference between a cube and a  Square (geometry) square  is, a cube is a  3D  figure (having 3  dimension s) i.e. length, breadth and height while a square has only 2 dimensions i.e. length and breadth.
+The 2-dimensional ( 2D ) shape (like a circle, square, triangle, etc.) that a cube is made of is  square (geometry) squares . The sides (faces) of a cube are squares. The edges are straight  line s. The corners (vertices) are at right angles.  A cube has 8 corners, 12 edges and 6 faces, as in the most usual kind of  dice .  A  tesseract  carries this idea into the fourth dimension ( 4D ) and is made of 8 cubes.
+
+  Volume  
+  The  volume  of a cube is the  length  of any one of the edges (they are all the same length so it does not matter which edge is used)  cubed . 
+  This means you multiply the number by itself, and then by itself again. 
+  If the edge is named 'd' (See Diagram), the equation would be this: Volume=dxdxd (or Volume=d sup 3 sup ).
+
+  Cubic shaped things  
+   Dice 
+   Box es
+
+ Category:Platonic solids

@@ -1,0 +1,27 @@
+Shape of the universe
+
+File:Observable Universe with Measurements 01.png thumb|right|350px|Visualization of the 93 billion light year - or 28 billion parsec - three-dimensional observable universe. The scale is such that the fine grains represent collections of large numbers of  supercluster s. The  Virgo Supercluster  - home of  Milky Way  - is marked at the center, but is too small to be seen in the image. 
+
+The  shape of the Universe  cannot be discussed with everyday terms, because all the terms need to be those of  Einstein ian  relativity . The geometry of the universe is therefore not the ordinary  Euclidean geometry  of our everyday lives.
+
+According to the  special theory of relativity , it is impossible to say whether two distinct events occur at the same time if those events are separated in space.  To speak of "the shape of the universe (at a point in time)" is naive from the point of view of special relativity. Due to the relativity of  wikt:simultaneity simultaneity  we cannot speak of different points in space as being "at the same point in time" nor, therefore, of "the shape of the universe at a point in time".
+
+What  Astrophysics astrophysicists  do is ask whether a particular model of the universe is consistent with what is known through observations and measurements of the universe. If the observable universe is smaller than the entire universe (in some models it is many orders of magnitude smaller or even infinitesimal), observation is limited to a part of the whole. 
+
+Consideration of the shape of the universe can be split into two: br 
+   local  geometry, which relates especially to the  curve curvature  of the universe, especially in the  observable universe , and
+   global  geometry, which relates to the  topology  of the universe as a whole, measurement of which may not be possible. br 
+
+The observable universe is the basis for testing any model of the universe. It is a spherical volume (a ball) centered on the observer, regardless of the shape of the universe as a whole. Every location in the universe has its own observable universe, which may or may not overlap with the one centered on Earth.
+
+Recent measurements have led  NASA  to state, "We now know that the universe is flat with only a 0.4% margin of error". ref http://map.gsfc.nasa.gov/universe/uni_shape.html ref  Within one model, the FLRW model, the present most popular shape of the Universe found to fit observational data is the infinite flat model. ref What "flat" means is very roughly what one expects of a Euclidean space: a subset of n-dimensional space that is congruent to a Euclidean space of lower dimension. The flats in two-dimensional space are points and lines, and the flats in three-dimensional space are points, lines, and planes. ref ref cite journal
+ series The early universe and the cosmic microwave background: theory and observations journal The Early Universe and the Cosmic Microwave Background: Theory and Observations. Proceedings of the NATO Advanced Study Institute volume 130 title Topology of the universe and the cosmic microwave background radiation first1 Marek last1 Demianski first2 Norma last2 Sanchez first3 Yuri N. last3 Parijskij publisher Springer year 2003 isbn 1-4020-1800-2 page 161 url http://books.google.com/books?id=KhTJZG-U3ssC bibcode 2003eucm.book..159D ,  http://books.google.com/books?id=KhTJZG-U3ssC&pg=PA161 Extract of page 161 ref  There are other models that also fit the data.
+
+  References  
+ reflist 
+
+
+ Category:Geometry 
+ Category:Cosmology 
+
+ zh:Yu Zhou #Yu Zhou De Xing Zhuang 

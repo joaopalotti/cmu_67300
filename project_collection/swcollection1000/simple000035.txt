@@ -1,0 +1,193 @@
+Austria
+
+Infobox country maxwidth 250px width 250px
+  local_name                    Austria
+ conventional_long_name Republic of Austria
+ native_name    native name de Republik Osterreich icon no 
+  common_name                   Austria
+  image_flag                    Flag of Austria.svg
+  image_coat                    Austria Bundesadler 2.svg
+  image_map                     EU-Austria.svg
+ map_caption                     map caption location_color dark green region Europe region_color dark grey subregion the  European Union subregion_color green legend EU-Austria.svg 
+  national_motto               
+  national_anthem                lang de Land der Berge, Land am Strome Spaces 2 small ( German language German )  br Land of Mountains, Land by the River small br center File:Land der Berge Land am Strome instrumental.ogg center 
+  official_languages             German language German 
+ languages_type                  Spoken language s
+ languages                       Austro-Bavarian ,  Alemannic German Alemannic  in Vorarlberg. Locally also  Slovene language Slovene ,  Burgenland Croatian  and  Hungarian language Hungarian 
+ ethnic_groups    91.1%  Austrians , br 8.9% foreigners - br 4% former  Yugoslavs , br 1.6%  Turks in Austria Turks , br 2.4% others and unspecified ref cite web  url https://www.cia.gov/library/publications/the-world-factbook/geos/au.html   title Austria  author World Factbook  date 3 August 2010  work publisher CIA  accessdate 14 August 2010 ref 
+  ethnic_groups_year            2001
+  capital                        Vienna 
+ latd 48  latm 12  latNS N  longd 16  longm 21  longEW E
+  largest_city                   Vienna 
+  government_type                Federal republic Federal   Parliamentary republic 
+  leader_title1                  President of Austria President 
+  leader_name1                   Alexander Van der Bellen 
+  leader_title2                  Chancellor of Austria Chancellor 
+  leader_name2                  Christian Kern (SPO)
+  leader_title3                  List of Presidents of the National Council of Austria President of the National Council 
+  leader_name3                   Barbara Prammer  ( SPO )
+  sovereignty_type               Austrian State Treaty Independence 
+  established_event1             Austrian State Treaty  in force
+  established_date1             27 July 1955 (Duchy: 1156,  Austrian Empire : 1804,  First Austrian Republic : 1918-1938, Second Republic since 1945)
+  accessionEUdate               1 January 1995
+  area_km2                      83,855
+  area_rank                     115th
+  area_magnitude                1 E10
+  percent_water                 1.7
+  area_sq_mi                    32,377  
+  population_estimate           8,414,638  ref name Population cite web url http://www.statistik.at/web_de/dynamic/statistiken/bevoelkerung/bevoelkerungsstand_und_veraenderung/056447   title Bevolkerungsstand und -veranderung  publisher Statistik Austria  date 2011-05-19  accessdate 2011-07-24 ref 
+  population_estimate_year      2011
+  population_estimate_rank      92nd
+  population_density_km2        99
+  population_density_rank       99th
+  population_density_sq_mi      257  
+  population_census             8,032,926
+  population_census_year        2001
+  GDP_PPP                       $343 billion  ref name imf2 cite web  url http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?sy=2012&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=122&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=74&pr.y=5   title Austria  publisher International Monetary Fund   accessdate October 2012 ref 
+  GDP_PPP_year                  2011
+  GDP_PPP_rank                 
+  GDP_PPP_per_capita            $40.979 ref name imf2 
+  GDP_PPP_per_capita_rank      
+  Gini                          26
+  Gini_ref                       ref cite web url https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html title Distribution of family income - Gini index work The World Factbook publisher CIA accessdate 1 September 2009 ref 
+  Gini_year                     2007
+  Gini_category                  span style color:#090; low span 
+  GDP_nominal                   $405 billion ref name imf2 
+  GDP_nominal_rank             
+  GDP_nominal_year              2011
+  GDP_nominal_per_capita        $48,350 ref name imf2 
+  GDP_nominal_per_capita_rank  
+  HDI_year                      2011
+  HDI                           0.885
+  HDI_change                    increase
+  HDI_ref                        ref name HDI cite web url http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf title Human Development Report 2011 year 2011 publisher United Nations accessdate 8 November 2011 ref 
+  HDI_rank                      19th
+ HDI_category                    span style color:#090; very high span 
+  FSI                           26
+  FSI_year                      2007
+  FSI_rank                      166th
+ FSI_category                    span style color:#090; Sustainable span 
+  currency                       Euro  ( Euro sign EUR ) 2
+  currency_code                 EUR
+  time_zone                      Central European Time CET 
+  drives_on                     right
+  utc_offset                    +01
+  time_zone_DST                  Central European Summer Time CEST 
+  utc_offset_DST                +02
+  demonym                        Austrians Austrian 
+  cctld                          .at  3
+  calling_code                   Telephone numbers in Austria 43 
+  footnote1                      Slovene language Slovene ,  Croatian language Croatian ,  Hungarian language Hungarian  are officially recognised regional languages and  Austrian Sign Language  is a protected minority language throughout the country.
+  footnote2                     Euro since 1 Jan 1999 virtual, since 1 Jan 2002 real currency; before: Austrian  Schilling .
+  footnote3                     The  .eu  domain is also used, as it is shared with other  European Union  member states.
+ 
+ Austria  ( lang-de Osterreich ; officially called  Republic of Austria ), is a country in  Central Europe . Around Austria there are  Germany ,  Czech Republic ,  Slovakia ,  Hungary ,  Slovenia ,  Italy ,  Switzerland , and  Liechtenstein . Currently, the chancellor is  :en:Christian_Kern Christian Kern . The previous chancellor was  Werner Faymann  (2008 - 2016). Austria has been a  state member-state  of the  European Union EU  since  1995 .
+
+The people in Austria speak  German language German , a few also  Hungarian language Hungarian ,  Slovenian language Slovenian  and  Croatian language Croatian . The capital of Austria is  Vienna  (Wien).
+
+Austria is more than a thousand years old. Its history can be followed to the  ninth century . At that time the first people moved to the land now known as Austria. The name "Ostarrichi" is first written in an official document from  996 . Since then this word has developed into the Modern German word  Osterreich,  which literally means "East Kingdom."
+
+  Politics  
+Austria is a  democracy democratic   republic . It is a  Neutrality (international relations) neutral  state, that means it does not take part in wars with other countries. It has been in the  United Nations  since 1955 and in the  European Union  since 1995.
+
+Austria is also a  federation federal  state and divided into nine states ( lang-de Bundeslander ): 
+   Burgenland  ( Burgenland )
+   Carinthia (state) Carinthia  ( Karnten )
+   Lower Austria  ( Niederosterreich )
+   Salzburgerland Salzburg(erland)  ( Salzburg )
+   Styria  ( Steiermark )
+   Tyrol (state) Tyrol  ( Tirol )
+   Upper Austria  ( Oberosterreich )
+   Vienna  ( Wien )
+   Vorarlberg  ( Vorarlberg )
+
+More information:  States of Austria .
+
+  History  
+  Ancient times  
+There has been human settlement in the area that is now Austria for a long time. The first settlers go back to the Paleolithic age. That was the time of the  Neanderthal s. They left works of art such as the  Venus of Willendorf . In the Neolithic age people were living there to dig for  mineral  resources, especially  copper .  Otzi the Iceman Otzi , a  mummy  found in a  glacier  between Austria and Italy, is from that time. In the  Bronze Age  people built bigger settlements and fortresses, especially where there were  mineral  resources.  Salt mine Salt mining  began near  Hallstatt . At that time,  Celt s began to form the first states.
+
+  The Romans  
+ File:Austria Romana.png left|thumb|Map 
+ The Roman cities and their modern names 
+The Romans came 15 B.C. to Austria and made the Celtic Regnum Noricum to a province. Modern Austria was part of three provinces, Raetia, Noricum and Pannonia. The border in the north was the  Danube .
+
+ Shown on the map 
+ Vindobona-Vienna
+ Carnuntum- Petronell and Bad Deutsch-Altenburg
+ Savaria- Szombathely  (Hungary)
+ Favianis- Mautern an der Donau
+ Lauriacum- Lorch near Enns
+ Boiotro-  Passau  (Germany)
+ Iuvavum-  Salzburg 
+ Sabiona- Saben bei Klausen (Italy)
+ Aguntum- close to Lienz
+ Teurnia- close to Spital an der Drau
+ Virunum - Zollfeld in Carinthia
+ Brigantium- Bregenz
+
+ Others 
+ Lentia- Linz
+ Ovilava- Wels
+ Veldidena- Wilten (now part of Innsbruck)
+ Flavia Solva- near Leibniz
+
+  Modern times  
+Austria was the  Austrian Empire  from about 800 to  1918  and was ruled by The House of  Habsburg  for most of that period. Between 1867 and 1918 it was a part of  Austria-Hungary . Then it became a  republic . The  First Republic  was from 1918 to 1938. From 1938 to 1945 Austria was part of  Nazi Germany . The  Second Republic  was started in 1945.
+
+  Geography  
+ see also List of settlements in Austria 
+ File:Au-map.png thumb|left|150px|Map of Austria 
+Austria is a largely  mountain ous country since it is partially in the  Alps . The high mountainous Alps in the west of Austria flatten somewhat into low lands and plains in the east of the country where the  Danube  flows.
+
+  Culture  
+  Music and Arts  
+Many famous composers were Austrians or born in Austria. There are  Wolfgang Amadeus Mozart ,  Haydn Joseph Haydn ,  Franz Schubert ,  Anton Bruckner ,  Johann Strauss I Johann Strauss, Sr. ,  Johann Strauss II Johann Strauss, Jr.  and  Gustav Mahler . In modern times there were  Arnold Schoenberg ,  Anton Webern  and  Alban Berg , who belonged to the  Second Viennese School .
+
+Austria has many  artist s, there are  Gustav Klimt ,  Oskar Kokoschka ,  Egon Schiele  or  Friedensreich Hundertwasser ,  Inge Morath  or  Otto Wagner  and scienc.
+
+  Food  
+Famous Austrian dishes are  Wiener Schnitzel ,  Apfelstrudel ,  Schweinsbraten ,  Kaiserschmarren ,  Knodel ,  Sachertorte  and  Tafelspitz . But you can also find a lot of local dishes like  Karntner Reindling  (a kind of cake),  Karntner Nudeln  (also called "Karntner Kasnudeln", you may write it "...nudln" too),  Tiroler Knodl  (may be written "...knodel"; in English maybe called "dumpings"),  Tiroler Schlipfkrapfen  (another kind of "Karntner Nudeln"),  Salzburger Nockerl  (also may be written ..."Nockerln"),  Steirisches Wurzelfleisch  (..."Wurzlfleisch") or  Sterz  ("Steirischer Sterz").
+
+ UNESCO World Heritage Sites in Austria 
+ Historic Centre of  Salzburg  -- 1996
+ Schonbrunn Palace  -- 1996
+ Hallstatt - Mount Dachstein Dachstein   Salzkammergut  Cultural Landscape -- 1997
+ Semmering Railway  -- 1998
+ Historic Centre of  Graz  and  Schloss Eggenberg (Graz) Schloss Eggenberg  -- 1999 (extended in 2010)
+ Wachau  Cultural Landscape -- 2000
+ Historic Centre of  Vienna  -- 2001
+ Lake Neusiedl  -- 2001
+
+ Gallery 
+ gallery 
+File:1113 - Hallstatt.JPG|Hallstatt
+File:1702 - Salzburg - View from Festung Hohensalzburg.JPG|Salzburg
+File:Schloss Schoenbrunn Panorama.jpg|Schonbrunn palace
+File:Adlitzgraben-Viadukt-02.jpg|Semmering railway
+File:Graz, Austria skyline - July 2004.jpg|Graz
+File:Graz Schloss Eggenberg front facade.jpg|Schloss Eggenberg
+File:Wachau Unterloiben Oberloiben Panorama.jpg|Wachau
+File:Donau-Wien-UNOcity.jpg|Vienna
+File:Podersdorf Nordstrand.jpg|Neusiedler See
+ gallery 
+
+ Related pages 
+   List of rivers of Austria 
+
+ References 
+ reflist 
+
+ Other websites 
+   commonscat-inline 
+   Wikivoyage-inline 
+
+
+ States of Austria 
+ European Union 
+ Europe 
+
+ Category:Austria   
+ Category:European Union member states 
+ Category:German-speaking countries 
+ Category:Federations

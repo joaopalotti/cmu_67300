@@ -1,0 +1,79 @@
+Language
+
+Language  is the normal way  human s  communication communicate . ref name Oxford Concise Oxford dictionary . p764 ref  Only  human s use language, though many other animals communicate in various ways. 
+
+Human language has  syntax , a set of  rule s for connecting  word s together to make  Proposition statements  and  question questions . Language can also be changed, by adding new words, for example, to describe new things. Other animals may inherit a set of calls which have pre-set functions. 
+
+Language may be done by  speech  or by  writing  or by moving the hands to make  Sign language signs . It follows that language is  not  just any way of communicating. Even some human communication is not language: see  non-verbal communication . Humans also use language for  thought thinking .
+
+Language is a word that may be used by extension: 
+  The language of a  community  or  country .
+  The ability of  speech .
+   Formal language  in  mathematics ,  logic  and  computing .
+   Sign language  for deaf people (people who cannot hear).
+  A type of  school  subject.
+
+ UNESCO  says that 2,500 languages are at risk of becoming  extinction extinct . ref cite web   url http://www.bbc.co.uk/languages/guide/languages.shtml    title BBC Languages   publisher British Broadcasting Corporation   accessdate February 04, 2012 ref 
+
+  Universals of language  
+All languages share certain things which separate them from all other kinds of communication. ref Scalise, Sergio; Magni, Elisabetta; Bisetto, Antonietta (eds) 2009.  Universals of language today . Studies in Natural Language and Linguistic Theory, vol 76. Springer Verlag. ref ref name Chao Yuan Ren Chao 1968.  Language and symbolic systems . Cambridge. ref 
+ A language has rules which are shared by a community.
+ All human languages are based on  sound  and  hearing , or in the case of  sign language ,  Sight vision . All the basic sound units, or  phoneme s, have this in common: they can be spoken by the human  voice , and heard by the human  ear .
+ The sounds come out in a  sequence , not all at once. This is mimicked in writing, where the marks are put on the paper or screen in the same sequence.
+ The stream of sounds have little gaps between them, and come in bigger packages. We call the bigger packets  sentence s or  question s or replies or comments.
+ In most languages,  English language English  being one, the  syntax  or order of the words can change the meaning: "the cat sat on the man" is different from "the man sat on the cat".
+ Word s (which may be made up of more than one phoneme) divide up into two classes: content and non-content. Content words have  semantics meaning : nouns, verbs, adjectives,  Et cetera etc . Non-content words are there to make the language work:  and ,  not ,  in ,  out ,  what , etc.  Grammar  consists of studying how words fit together to mean something.
+ All languages have:
+  sentences with two types of expression:  noun s and  verb s:  Jill is  here.
+   adjective s to modify nouns:  good  food.
+  ways of linking: sink  or  swim.
+  dummy elements: Jill likes to swim,  so  do I.
+  devices to order or ask questions: Get up! Are you ill?
+  Most of the languages have a  writing system written form . Before the invention of audio recording, the writing system was the only way to keep track of spoken information.
+  All languages constantly evolve. New words appear, new form of saying things, new accents.
+There are many more things in common between languages. ref Greenberg J.H. (ed) 1966.  Universals of language . 2nd ed, MIT Press. ref 
+
+  Inheritance  
+The capacity to learn and use language is  Heredity inherited . Normally, all humans are born with this capability.  Which  language is learned by a child depends on which language is spoken by the child's community. The  capacity  is inherited, but the particular language is learned.
+
+Children have a special period, from about 18 months to about four years, which is critical for learning the language. If this is seriously disrupted, then their language skills will be damaged.  Older people learn differently, so they seldom learn a  second language  as well as they learn their native language.
+
+ Types of language  
+ Mathematics  and  computer science  use created languages called  formal language s (like computer  programming language s), but these may or may not be 'true' languages. Mathematics itself is seen as a language by many. Some people consider  musical notation  to be a way of writing the musical language.
+
+ Chinese language Chinese  is the language with the most native speakers in the world, but Chinese is not really a language. It is a close family of  Dialect dialects , some of which are as different as  Romance languages  are from one another.
+
+English is often called "the international language",or the world's  lingua franca . It is the main second language of the world and the international language of  science ,  travel ,  technology ,  business ,  diplomacy , and  entertainment .
+   English  as a first language: 380 million. ref Crystal, David 1995.  The Cambridge encyclopedia of the English language .  Cambridge. ref sup p108 sup 
+  English as an official second language: up to 300 million.
+  English taught as a second language, but with no official status: anyone's guess, up to 1000 million/1 billion.
+   Chinese  (Mandarin): 390 million native speakers. ref name Chao sup p96 sup ref 850 million claimed by English Wikipedia ( Chinese language ) but without specific reference. ref 
+Some languages are made up so that a lot of people around the world can learn them, without the new languages being tied to any specific country or place. These are called  Constructed language constructed languages . One of the most popular of these languages is  Esperanto , which is sometimes called "La Internacia Lingvo," or "The International Language." Another of these languages is called  Volapuk , which was popular about a hundred years ago but is much less popular now. It has mostly been replaced by languages like  Esperanto ,  Interlingua , and  Ido .
+
+Part of the reason that  Volapuk  became unpopular is that some sounds are hard to say for people who speak  Spanish language Spanish  or English, two of the most widely spoken languages in the world.
+
+  Related pages  
+ wiktionary 
+ commonscat 
+   Alphabet 
+   Basic English 
+   English as a foreign language 
+   English language 
+   Historical linguistics 
+   Language education 
+   Language families and languages 
+   Linguistics 
+   List of languages 
+   Orthography 
+   Phonology 
+   Second language 
+   Semantics 
+   Speech therapy 
+
+  Sources  
+ Reflist 
+
+  Other websites  
+   http://en.citizendium.org/wiki/Language_(general) Language (general)  -Citizendium 
+
+ Category:Language  

@@ -1,0 +1,266 @@
+Albert Einstein
+
+nobelprize Physics 
+ Infobox scientist
+  name          Albert Einstein
+  image         Albert Einstein Head.jpg
+  caption       Albert Einstein, 1947
+  birth_date     Birth date df yes 1879 3 14 
+  birth_place    Ulm ,  Kingdom of Wurttemberg ,  German Empire 
+  death_date     Death date and age df yes 1955 4 18 1879 3 14 
+  death_place    nowrap Princeton, New Jersey Princeton ,  New Jersey , U.S. 
+  children       Lieserl Einstein "Lieserl"  (1902-1903?) br Hans Albert Einstein Hans Albert  (1904-1973) br Eduard Einstein Eduard "Tete"  (1910-1965)
+  spouse         Mileva Maric (1903-1919) br nowrap Elsa Lowenthal (1919-1936) 
+  residence     Germany, Italy, Switzerland, Austria, Belgium, United States
+  citizenship    Plainlist 
+   Kingdom of Wurttemberg  (1879-1896)
+   Statelessness Stateless  (1896-1901)
+   Switzerland  (1901-1955)
+   Austria-Hungary  (1911-1912)
+   German Empire  (1914-1918)
+   Weimar Republic  (1919-1933)
+   United States  (1940-1955)
+ 
+  nationality   German, American
+  ethnicity   Jewish
+  fields       Physics 
+  workplaces    Plainlist 
+  Swiss  Patent Office  ( Bern )
+   University of Zurich 
+   Karl-Ferdinands-Universitat Charles University in Prague 
+   ETH Zurich 
+   Caltech 
+   Prussian Academy of Sciences 
+   Kaiser Wilhelm Institute 
+   Leiden University University of Leiden 
+   Institute for Advanced Study 
+ 
+  alma_mater    Plainlist 
+   ETH Zurich 
+   University of Zurich 
+ 
+  doctoral_advisor     Alfred Kleiner 
+  thesis_title         Folgerungen aus den Capillaritatserscheinungen  thesis_url           http://dx.doi.org/10.1002/andp.19013090306 
+  thesis_year         1901
+  academic_advisors    Heinrich Friedrich Weber 
+  notable_students     Plainlist 
+   Ernst G. Straus 
+   Nathan Rosen 
+   Leo Szilard 
+   Raziuddin Siddiqui ref cite web url http://www.ias.ac.in/currsci/apr25/articles32.htm   title Mohammad Raziuddin Siddiqui  publisher Ias.ac.in  date 2 January 1998  archiveurl http://web.archive.org/web/20040601194117/http://www.ias.ac.in/currsci/apr25/articles32.htm archivedate 1 June 2004 accessdate 11 January 2014 ref 
+ 
+  known_for    Plainlist 
+   General relativity  and  special relativity 
+   Photoelectric effect 
+   Mass-energy equivalence 
+   Brownian motion Theory of Brownian Motion 
+   Einstein field equations 
+   Bose-Einstein statistics 
+   Bose-Einstein condensate 
+   Bose-Einstein correlations 
+   Classical unified field theories Unified Field Theory 
+   EPR paradox 
+ 
+  awards    Plainlist 
+   Nobel Prize in Physics  (1792)
+   Matteucci Medal  (1921)
+   Copley Medal  (1925)
+   Max Planck Medal  (1929)
+   Time 100: The Most Important People of the Century Time  Person of the Century  (1999)
+ 
+  signature   Albert Einstein signature 1934.svg 
+
+ Albert Einstein  (14 March 1879 - 18 April 1955) was a German-born  theoretical physics theoretical physicist  who developed the  general relativity general theory of relativity , one of the two pillars of modern physics (alongside  quantum mechanics ). ref Zahar, Elie (2001),  Poincare's Philosophy. From Conventionalism to Phenomenology , Carus Publishing Company,  http://books.google.com/?id=jJl2JAqvoSAC&pg=PA41 Chapter 2, p.41 , ISBN 0-8126-9435-X. ref 
+
+He received the  Nobel Prize in Physics  in 1921, but not for  relativity . ref It was awarded for the  photoelectric effect : The Nobel Prize in Physics 1921.  http://www.webcitation.org/5bLXMl1V0 ref  His  Wikt:theory theories  of  special relativity special  and  general relativity  are of great importance to many  Wikt:branch branches  of  physics  and  astronomy . They have been given experimental confirmation by many  experiment s and  observation s.
+
+Einstein is  celebrity well known  for his  theory theories  about  light ,  matter ,  gravity ,  Space (physics) space , and  time . His most well known  equation  is  math E=mc^2 math . It means that  energy  and  mass  are different forms of the same thing.
+
+Einstein published more than 300 scientific papers and over 150 non-scientific works. He received honorary doctorate degrees in science, medicine and philosophy from many European and American  universities .
+
+Near the beginning of  World War II , he warned President  Franklin D. Roosevelt  that Germany might be  Wikt:develop developing  an  Wikt:atom atomic   Wikt:weapon weapon , and recommended that the U.S. begin  Wikt:nuclear nuclear  weapons  Wikt:research research . ref http://books.google.com/books?id=6IKVA0lY6MAC&pg=PA28&lpg=PA28&dq=einstein+%22Catholic+elementary+school%22&source=bl&ots=rn-6c9y5U9&sig=jEmNcKzdh42rgKpgxeNnfOqOpkk&hl=en&ei=KCKLSrH7Ioe6MJfk2ckP&sa=X&oi=book_result&ct=result&resnum=1#v=onepage&q=einstein%20%22Catholic%20elementary%20school%22&f=false Einstein: the life and times, By Ronald William Clark ref  That research, begun by a newly  Wikt:establish established   Manhattan Project , resulted in the U.S. becoming the first and only country to have nuclear weapons during the war.
+
+  Life  
+Einstein was born [at Ulm] in  Wurttemberg ,  Germany , on 14 March 1879. ref cite web  url   http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html   title Albert Einstein - Biographical  first   last   work nobelprize.org  year 2015  accessdate 25 June 2015 ref  His family was  Jewish , but was not very  Wikt:religious religious . However, later in life Einstein became very interested in his  Judaism . Einstein did not begin speaking until after age two. According to his younger sister, Maja, "He had such difficulty with language that those around him feared he would never learn". ref "Einstein: his Life and Universe" by Walter Isaacson ref  When Einstein was around four, his father gave him a  magnetism magnetic   compass . He tried hard to understand how the needle could seem to move itself so that it always pointed north. The needle was in a closed case, so clearly nothing like wind could be pushing the needle around, and yet it moved. So in this way Einstein became interested in studying  science  and  mathematics . His compass  Wikt:inspire inspired  him to  Wikt:explore explore  the world of science.
+
+When he became older, he went to a school in  Switzerland . After he graduated, he got a job in the  patent  office there. While he was working there, he wrote the papers that first made him famous as a great scientist.
+
+Einstein had two severely disabled children with his first wife Mileva. His daughter "Lieserl" (her real name may never be known) was born about a year before their marriage in January 1902. ref Albert Einstein, Mileva Maric:  The Love Letters, Princeton, N.J. 1992, p. 73</ref> She spent her very short life (believed to be less than 2 years) in the care of  Serbia n grandparents where it is believed she died from  scarlet fever .<ref>Albert Einstein, Mileva Maric:  The Love Letters, Princeton, N.J. 1992, p. 78 ref  Some believe she may have been born with the  disorder  called  Down syndrome  but it has never been  Wikt:prove proved . Her very existence only became known to the world in 1986 when a shoe box containing 54 love letters (mostly from Einstein), exchanged between Mileva and Einstein from late 1897 to September 1903, was discovered by Einstein's granddaughter in an attic in California. ref Citation last Golden first Frederic date Sep. 26, 1999 magazine Time Magazine title Einstein's Lost Child url   http://www.time.com/time/magazine/article/0,9171,31490,00.html accessdate 10/31/2009 ref  Their son, Eduard, was diagnosed with  schizophrenia . He spent decades in hospitals, and died in the Zurich sanatorium in 1965.
+
+In 1917, Einstein became very sick with an illness that almost killed him. His cousin  Elsa Einstein Elsa Lowenthal  nursed him back to health. After this happened, Einstein divorced Mileva, and married Elsa on 2 June 1919.
+
+Just before the start of  World War I , he moved back to Germany, and became  director (education) director  of a school there. He lived in  Berlin  until the  Nazi   government  came to power. The  Nazis  hated people who were Jewish or who came from Jewish families. They accused Einstein of helping to create "Jewish physics," and German physicists tried to prove that his theories were wrong.
+
+In 1933, under death threats from the  Nazis  and hated by the Nazi-controlled German press, Einstein and Elsa moved to Princeton, New Jersey in the  United States , and in 1940 he became a United States  citizen .
+
+During  World War II , Einstein and  Leo Szilard  wrote to the U.S. president,  Franklin D. Roosevelt , to say that the United States should invent an  atomic bomb  so that the  Nazi  government could not beat them to the punch. He was the only one who signed the letter. He was, however, not part of the  Manhattan Project , which was the  Wikt:project project  that created the atomic bomb.
+
+Einstein, a Jew but not an Israeli citizen, was offered the presidency in 1952 but turned it down, stating "I am deeply moved by the offer from our State of Israel, and at once saddened and ashamed that I cannot accept it." ref http://www.jewishvirtuallibrary.org/jsource/Quote/Einstein_On_Presidency.html Albert Einstein on his decision not to accept the Presidency of Israel ref  Ehud Olmert was reported to be considering offering the presidency to another non-Israeli,  Elie Wiesel , but he was said to be "very not interested". ref http://fr.jpost.com/servlet/Satellite?cid=1159193468801&pagename=JPost/JPArticle/ShowFull Olmert backs Peres as next president  Jerusalem Post, 18 October 2006 ref 
+
+He taught physics at the  Institute for Advanced Study  at  Princeton, New Jersey  until his death on 18 April 1955 of a  Wikt:burst burst   aortic aneurysm . He was still writing about  quantum physics  hours before he died.
+He was awarded the  Nobel Prize in Physics .
+
+  Theory of special relativity  
+The  Special relativity theory of special relativity  was published by Einstein in 1905, in a paper called "On the Electrodynamics of Moving Bodies". It says that both distance measurements and time measurements change near the  speed of light . This means that as you get closer to the speed of light (nearly 300,000 kilometres per second), lengths appear to get shorter, and clocks tick more slowly. Einstein said that Special Relativity is based on two ideas. The first is that the  laws of physics  are the same for all  wikt:observer observers  that are not moving  wikt:relation in relation to  each other. All the people on a jet airplane would not be moving much in relation to each other, but the people in two different jet airplanes that come toward each other would be moving toward each other very fast. The people who are all going in the same direction at the same speed are said to be in an "inertial frame." The second idea is that any observer, no matter how fast that observer moves in relation to us, is always the same. A vacuum is a volume without any matter in it.
+
+ File:SpaceshipMeasuresSpeedOfLight.svg 400px|thumb|right|Light from both stars is measured as having the same speed 
+People who are in the same "frame" (think of them as being in a big box so that they all go places together and at the same speed) will measure how long something takes to happen in the same way. Their clocks will keep the same time. But people moving in another "frame" will look over at them and see that their clocks were moving at a different rate. The reason that this happens is actually quite simple. It is the consequence of two ideas. One idea we have seen already. No matter what you are doing, even if you are moving toward a distant star at half the speed of light, or if you are moving away from it at half the speed of light (or any other speed, it does not matter), if you measure the speed of the light coming from that star it will always be the same number. The other idea goes against our ordinary ideas. The other idea says that who is standing still and who is moving is whoever you  say  is standing still or moving. How can that be?
+
+Imagine you were all alone in a different universe. That universe has no suns, planets, or anything else. It just has you and your spaceship. Are you moving? Are you standing still? Those questions do not  mean  anything. Why? Because when we say we are moving we mean that we can measure our distance from something else at one time and measure the distance at another time and the numbers will not be the same. If the numbers get bigger we are moving away. If the numbers get smaller we are moving closer. Suppose a sailor is standing on the edge of a very long boat with a flat top. Her boyfriend is standing on the dock. They are still very close together, so they shout to each other. The boat starts to leave. The sailor runs toward the back of the boat at the same speed that the boat moves forward so she and her boyfriend can keep talking. As far as her boyfriend is concerned, she is not moving. So to have  movement  you must have at least two things. We do not think about it because when we sit on the earth in a park, which is moving very fast around the sun, we think we are not moving because we do not get any closer or farther away from the trees in the park.
+
+Now imagine that another spaceship appears in this other universe. On your spaceship you say that their spaceship is coming closer to yours. After all, you do not feel yourself moving. On their spaceship they say that your spaceship is coming closer to theirs. They do not feel themselves to be moving either. Somebody on an airplane can be moving at several hundred kilometers per hour, but they say, "I am just sitting here."
+
+ File:Dribble over Strait.svg 400px|thumb|Distance traveled is relative to different standards of reference 
+
+Let us try to stretch our minds a bit. Imagine that a basketball player is on a glass airplane on the ground. People outside can see him very easily. He begins to walk from the back of the airplane toward the front of the airplane, bouncing his basketball as he goes. Maybe the distance between the places where his basketball hits the floor of the airplane is about one meter or one yard. If some people are under the airplane they can mark the place directly under the airplane where the ball hits the floor. Those marks are a meter or maybe a yard apart. So everybody agrees that the bounces are about a meter or a yard apart. Later the plane takes off. People still watch it from on the ground. But this time bounce number 5 is over a place in Gibraltar and bounce number 6 is over a place in Spain. The distance between bounces is measured in kilometers or miles on the ground, but the people on the plane get the same answers they did while the plane was on the ground.
+
+Now suppose some people are on a big spaceship and they want to make a very accurate clock. So they make a long tunnel between decks from what would be like the top of an airplane to what would be the bottom of an airplane. At one end they put a mirror, and at the other end they put a simple machine. It shoots one short burst of light toward the mirror and then waits. The light hits the mirror and bounces back. When it hits a light detector on the machine, the machine says, "Count = 1," it simultaneously shoots another short burst of light toward the mirror, and when that light comes back the machine says, "Count = 2." Of course since light is very fast the count changes very fast. They decide that a certain number of bounces will be defined as a second, and they make the machine change the seconds counter every time it has detected that number of bounces. Every time it changes the seconds counter it also flashes a light out through a porthole under the machine. So somebody out taking a space walk will see the light flashing every second.
+
+ File:Light-clock.png 400px|thumb|Light clock faster at rest and slower in motion 
+
+Every grade school child learns the formula d=rt (distance equals rate multiplied by time). We know the speed of light, and we can easily measure the distance between the machine and the mirror and multiple that to give the distance the light travels. So we have both  d  and  r , and we can easily calculate  t . The people on the spaceship compare their new "light clock" with their various wrist watches and other clocks, and they are satisfied that they can measure time well using their new light clock.
+
+Now this spaceship happens to be going very fast. It is not coming to Earth to visit, but it does happen to fly over the North Pole. There is a science station with a telescope at the North Pole. They see a flash from the clock on the space ship, and then they see another flash. Only the flashes do not come a second apart. They come at a slower rate. The reason is that the situation is like the basketball player on the airplane. The ball is pushed downward by the player's hand. That is the light in the spaceship's machine firing off a burst toward the mirror. The ball hits the floor and bounces. That is like the light hitting the mirror and being reflected. The ball returns to the player's hand. That is like the light hitting the machine and triggering a new burst of light. Note that the distance between the place on the ground where the basketball is seen to hit the floor and the distance on the ground where the basketball is seen to return to the basketball player's hand is some great distance. Depending on how fast the plane is going, it might be a kilometer or even a mile away.
+
+So the man on the North Pole sees the light flash on the side of the spaceship when it is thousands of miles away, and then sees the next flash when the spaceship has gotten thousands of miles closer. The way the North Pole man sees it, the light started out, let's say, 100,000 miles away and hit its return point when it was perhaps 90,000 miles away. So instead of just traveling twice the diameter of the space ship (perhaps several hundred meters or yards) the light has traveled 10,000 miles. Light always goes at the same speed,  d = rt , and so the time this trip took is going to be much greater - as seen by the man on the North Pole. That is why the clock on the spaceship is not flashing once a second  for the Earth observer. 
+
+Special relativity also relates energy with mass, in Albert Einstein's E=mc sup 2 sup  formula.
+
+  Mass-energy equivalence  
+E=mc sup 2 sup , also called the mass-energy equivalence, is one of the things that Einstein is most famous for. It is a famous equation in  physics  and math that shows what happens when mass changes to energy or energy changes to mass. The "E" in the equation stands for energy. Energy is a number which you give to objects depending on how much they can change other things. For instance, a brick hanging over an egg can put enough energy onto the egg to break it. A feather hanging over an egg does not have enough energy to hurt the egg.
+
+There are three basic forms of energy:  potential energy ,  kinetic energy , and  rest energy . Two of these forms of energy can be seen in the examples given above, and in the example of a pendulum.
+
+ File:PendulumEnergy.svg A pendulum converts potential energy to kinetic energy and back. 
+
+A cannonball hangs on a rope from an iron ring. A horse pulls the cannonball to the right side. When the cannonball is released it will move back and forth as diagrammed. It would do that forever except that the movement of the rope in the ring and rubbing in other places causes  friction , and the friction takes away a little energy all the time. If we ignore the losses due to friction, then the energy provided by the horse is given to the cannonball as potential energy. (It has energy because it is up high and can fall down.) As the cannonball swings down it gains more and more speed, so the nearer the bottom it gets the faster it is going and the harder it would hit you if you stood in front of it. Then it slows down as its kinetic energy is changed back into potential energy. "Kinetic energy" just means the energy something has because it is  moving.  "Potential energy" just means the energy something has because it is in some higher position than something else.
+
+When energy moves from one form to another, the amount of energy always remains the same. It cannot be made or destroyed. This rule is called the "conservation law of energy". For example, when you throw a ball, the energy is transferred from your hand to the ball as you release it. But the energy that was in your hand, and now the energy that is in the ball, is the same number. For a long time, people thought that the  conservation of energy  was all there was to talk about.
+
+When energy transforms into mass, the amount of energy does not remain the same. When mass transforms into energy, the amount of energy also does not remain the same. However, the amount of matter and energy remains the same. Energy turns into mass and mass turns into energy in a way that is defined by Einstein's equation,  E = mc sup 2 sup . 
+ File:Albert Einstein (Nobel).png thumb|right|180px|A picture of Einstein after winning his Nobel Prize, 1921 
+The "m" in Einstein's equation stands for  mass . Mass is the amount of  matter  there is in some body. If you knew the number of protons and neutrons in a piece of matter such as a brick, then you could calculate its total mass as the sum of the masses of all the protons and of all the neutrons. (Electrons are so small that they are almost negligible.) Masses pull on each other, and a very large mass such as that of the Earth pulls very hard on things nearby. You would weigh much more on Jupiter than on Earth because Jupiter is so huge. You would weigh much less on the Moon because it is only about one-sixth the mass of Earth. Weight is related to the mass of the brick (or the person) and the mass of whatever is pulling it down on a spring scale -- which may be smaller than the smallest moon in the solar system or larger than the Sun.
+
+Mass, not weight, can be transformed into energy. Another way of expressing this idea is to say that matter can be transformed into energy. Units of mass are used to measure the amount of matter in something. The mass or the amount of matter in something determines how much energy that thing could be changed into. 
+ File:Einstein 1921 portrait2.jpg thumb|left|180px|Albert Einstein, 1921 
+Energy can also be transformed into mass. If you were pushing a baby buggy at a slow walk and found it easy to push, but pushed it at a fast walk and found it harder to move, then you would wonder what was wrong with the baby buggy. Then if you tried to run and found that moving the buggy at any faster speed was like pushing against a brick wall, you would be very surprised. The truth is that when something is moved then its mass is increased. Human beings ordinarily do not notice this increase in mass because at the speed humans ordinarily move the increase in mass in almost nothing.
+
+As speeds get closer to the speed of light, then the changes in mass become impossible not to notice. The basic experience we all share in daily life is that the harder we push something like a car the faster we can get it going. But when something we are pushing is already going at some large part of the speed of light we find that it keeps gaining mass, so it gets harder and harder to get it going faster. It is impossible to make any mass go at the speed of light because to do so would take  infinity infinite  energy.
+
+Sometimes a mass will change to energy. Common examples of elements that make these changes we call  radioactivity  are  radium  and  uranium . An atom of uranium can lose an  alpha particle  (the atomic nucleus of helium) and become a new element with a lighter nucleus. Then that atom will emit two electrons, but it will not be stable yet. It will emit a series of alpha particles and electrons until it finally becomes the element Pb or what we call lead.  By throwing out all these particles that have mass it has made its own mass smaller. It has also produced energy. ref George Gamow,  One, Two, Three...Infinity,  p. 170ff ref 
+
+In most radioactivity, the entire mass of something does not get changed to energy. In an atomic bomb, uranium is transformed into  krypton  and  barium . There is a slight difference in the mass of the resulting krypton and barium, and the mass of the original uranium, but the energy that is released by the change is huge. One way to express this idea is to write Einstein's equation as:
+
+E = (m sub uranium sub  - m sub krypton and barium sub ) c sup 2 sup 
+ 
+The c sup 2 sup  in the equation stands for the speed of light squared. To square something means to multiply it by itself, so if you were to square the speed of light, it would be 299,792,458 meters per second, times 299,792,458 meters per second, which is approximately  br 
+(3*10 sup 8 sup ) sup 2 sup  =
+(9*10 sup 16 sup  meters sup 2 sup )/seconds sup 2 sup = br 
+90,000,000,000,000,000 meters sup 2 sup /seconds sup 2 sup br 
+So the energy produced by one kilogram would be: br 
+E = 1 kg * 90,000,000,000,000,000 meters sup 2 sup /seconds sup 2 sup br 
+E = 90,000,000,000,000,000 kg meters sup 2 sup /seconds sup 2 sup br 
+or br 
+E = 90,000,000,000,000,000 joules br 
+or br 
+E = 90,000 terajoule
+
+About 60 terajoules were released by  Little Boy the atomic bomb that exploded over Hiroshima . ref Los Alamos National Laboratory report LA-8819,  The yields of the Hiroshima and Nagasaki nuclear explosions  by John Malik, September 1985. Available online at  http://www.mbe.doe.gov/me70/manhattan/publications/LANLHiroshimaNagasakiYields.pdf ref  So about two-thirds of a gram of the radioactive mass in that atomic bomb must have been lost (changed into energy), when the uranium changed into krypton and barium.
+
+ BEC 
+The idea of a  Bose Einstein Condensation Bose-Einstein condensate  came out of a collaboration between S. N. Bose and Prof. Einstein. Einstein himself did not invent it but, instead, refined the idea and helped it become popular.
+
+ Zero-point energy 
+The concept of zero-point energy was developed in Germany by Albert Einstein and Otto Stern in 1913.
+
+ Momentum, mass, and energy 
+ File:AlbertEinsteinStatue-InIsraelAcademyOfSciencesAndHumanities-ByRobertBerks.JPG thumb|250px|right|Statue of Albert Einstein in the  Israel Academy of Sciences and Humanities . 
+
+In classical physics,  momentum  is explained by the equation: br 
+ p = mv
+where
+ p represents momentum
+ m represents mass
+ v represents velocity (speed)
+
+When Einstein generalized classical physics to include the increase of mass due to the velocity of the moving matter, he arrived at an equation that predicted energy to be made of two components. One component involves "rest mass" and the other component involves momentum, but momentum is not defined in the classical way. The equation typically has values greater than zero for both components:
+
+ E sup 2 sup  = (m sub 0 sub c sup 2 sup ) sup 2 sup  + (pc) sup 2 sup 
+where
+ E represents the energy of a  particle 
+ m sub 0 sub  represents the mass of the particle when it is not moving
+ p represents the momentum of the particle when it is moving
+ c represents the speed of light.
+
+There are two special cases of this equation. 
+ File:Albert Einstein in later years.jpg thumb|right|180px|Einstein in his later years, c. 1950s 
+A  photon  has no rest mass, but it has momentum. (Light reflecting from a mirror pushes the mirror with a force that can be measured.) In the case of a photon, because its m sub 0 sub  = 0, then:
+ E sup 2 sup  = 0 + (pc) sup 2 sup 
+ E = pc
+ p = E/c
+
+The energy of a photon can be computed from its frequency n or wavelength l. These are related to each other by  Max Planck Planck 's relation, E = hn = hc/l, where h is the  Planck constant  (6.626x10 sup -34 sup  joule-seconds). Knowing either frequency or wavelength, you can compute the photon's momentum.
+
+In the case of motionless particles with mass, since p = 0, then:
+ E sub 0 sub sup 2 sup  = (m sub 0 sub c sup 2 sup ) sup 2 sup  + 0
+which is just
+ E sub 0 sub  = m sub 0 sub c sup 2 sup 
+
+Therefore, the quantity "m sub 0 sub " used in Einstein's equation is sometimes called the "rest mass." (The "0" reminds us that we are talking about the energy and mass when the speed is 0.)  This famous "mass-energy relation" formula (usually written without the "0"s) suggests that mass has a large amount of energy, so maybe we could convert some mass to a more useful form of energy. The  nuclear power  industry is based on that idea.
+
+Einstein said that it was not a good idea to use the classical formula relating momentum to velocity, p = mv, but that if someone wanted to do that, he would have to use a particle mass m that changes with speed:
+ m sub v sub sup 2 sup  = m sub 0 sub sup 2 sup  / (1 - v sup 2 sup /c sup 2 sup )
+In this case, we can say that E = mc sup 2 sup  is also true for moving particles.
+
+  The General Theory of Relativity  
+ General relativity 
+
+The  General Theory of Relativity  was published in 1915, ten years after the  special theory of relativity  was created. Einstein's general theory of relativity uses the idea of  spacetime .  Spacetime is the fact that we have a four-dimensional universe, having three spatial (space) dimensions and one temporal (time) dimension. Any physical event happens at some place inside these three space dimensions, and at some moment in time.  According to the general theory of relativity, any mass causes spacetime to curve, and any other mass follows these curves. Bigger mass causes more curving.  This was a new way to explain  gravitation  ( gravity ).
+
+General relativity explains gravitational lensing, which is  light  bending when it comes near a massive object. This explanation was proven correct during a  solar eclipse , when the sun's bending of starlight from distant stars could be measured because of the darkness of the eclipse.
+
+General relativity also set the stage for  cosmology  (theories of the structure of our  universe  at large distances and over long times). Einstein thought that the universe may curve a little bit in both space and time, so that the universe always had existed and always will exist, and so that if an object moved through the universe without bumping into anything, it would return to its starting place, from the other direction, after a very long time. He even changed his equations to include a "cosmological constant," in order to allow a  mathematical model  of an unchanging universe. The general theory of relativity also allows the universe to spread out (grow larger and less dense) forever, and most scientists think that  astronomy  has proved that this is what happens. When Einstein realized that good models of the universe were possible even without the cosmological constant, he called his use of the cosmological constant his "biggest blunder," and that constant is often left out of the theory. However, many scientists now believe that the cosmological constant is needed to fit in all that we now know about the universe.
+
+A popular theory of cosmology is called the  Big Bang . According to the Big Bang theory, the universe was formed 15 billion years ago, in what is called a " gravitational singularity ". This singularity was small, dense, and very hot. According to this theory, all of the matter that we know today came out of this point.
+
+Einstein himself did not have the idea of a " black hole ", but later scientists used this name for an object in the universe that bends spacetime so much that not even light can escape it. They think that these ultra-dense objects are formed when giant stars, at least three times the size of our sun, die. This event can follow what is called a  supernova . The formation of black holes may be a major source of gravitational waves, so the search for proof of gravitational waves has become an important scientific pursuit.
+
+  Beliefs  
+
+Many scientists only care about their work, but Einstein also spoke and wrote often about  politics  and world  peace . He liked the ideas of  socialism  and of having only one  government  for the whole world. He also worked for  Zionism , the effort to try to create the new country of  Israel .
+
+Einstein's family was Jewish, but Einstein never practiced this  religion  seriously. He liked the ideas of the Jewish  philosopher   Baruch Spinoza  and also thought that  Buddhism  was a good religion. proof date February 2012 
+
+Even though Einstein thought of many ideas that helped scientists understand the world much better, he disagreed with some scientific theories that other scientists liked. The theory of  quantum mechanics  discusses things that can happen only with certain  probability probabilities , which cannot be predicted with better  precision  no matter how much  information  we might have. This theoretical pursuit is different from  statistical mechanics , in which Einstein did important work. Einstein did not like the part of quantum theory that denied anything more than the probability that something would be found to be true of something when it was actually measured; he thought that it should be possible to predict anything, if we had the correct theory and enough information. He once said, "I do not believe that God plays  dice  with the  Universe ."
+
+Because Einstein helped science so much, his name is now used for several different things. A  unit  used in  photochemistry  was named for him. It is equal to  Avogadro's number  multiplied by the energy of one  photon  of light. The chemical element  Einsteinium  is named after the scientist as well. ref cite web  url http://education.jlab.org/itselemental/ele099.html   title  Einsteinium named after Einstein  accessdate 2008-12-05  format   work   ref  In  slang , we sometimes call a very smart person an "Einstein."
+
+  Criticism  
+Most scientists think that Einstein's theories of special and general relativity work very well, and they use those ideas and formulas in their own work. Einstein could not agree that phenomena in  quantum mechanics  can happen out of pure chance. He believed that all natural phonomena have explanations that do not include pure chance. He spent much of his later life trying to find a " unified field theory " that would include his general relativity theory,  Maxwell's equations Maxwell's theory of electromagnetism , and perhaps a better quantum theory. Most scientists do not think that he succeeded in that attempt.
+
+  References  
+ reflist 
+
+ Einstein, Albert and Infeld, Leopold 1938.  The evolution of physics: from early concept to relativity and quanta . Cambridge University Press. A non-mathematical account.
+
+  Other websites  
+ commons Albert Einstein Albert Einstein 
+ wikiquote 
+   http://www.cartesio-episteme.net/fis/mueller.htm G.O.Mueller  This book is written in German.
+   http://www.juliantrubin.com/einsteininvent.html What Did Albert Einstein Invent? 
+
+ Nobel Prize in Physics 
+
+ DEFAULTSORT:Einstein, Albert 
+ Category:1879 births 
+ Category:1955 deaths 
+ Category:Albert Einstein   
+ Category:American physicists 
+ Category:Cardiovascular disease deaths in the United States 
+ Category:Deaths from aortic aneurysm 
+ Category:German Jews 
+ Category:German physicists 
+ Category:Jewish American scientists 
+ Category:Naturalized citizens of the United States 
+ Category:Nobel Prize in Physics winners 
+ Category:Swiss scientists

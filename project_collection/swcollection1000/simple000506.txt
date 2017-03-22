@@ -1,0 +1,142 @@
+Uranus
+
+Infobox Planet
+  bgcolour   #DEF
+  name   Uranus
+  symbol    File:Uranus symbol.svg 25px|Astronomical symbol of Uranus 
+  image    File:Uranus2.jpg 240px 
+  caption   Uranus, as seen by  Voyager 2 
+  discovery   yes
+  discoverer    William Herschel 
+  discovered   March 13, 1781
+  orbit_ref  
+ ref name horizons cite web
+   last   Yeomans   first   Donald K.  date   July 13, 2006
+   url    http://ssd.jpl.nasa.gov/?horizons 
+   title   HORIZONS System   publisher   NASA JPL
+   accessdate   2007-08-08   -- At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun". ref Ref_label A a none 
+  epoch    J2000 
+  aphelion   3 004 419 704 kilometer km br 20.083 305 26 Astronomical unit AU 
+  perihelion   2 748 938 461 km br 18.375 518 63 AU
+  semimajor   2 876 679 082 km br 19.229 411 95 AU
+  eccentricity   0.044 405 586
+  period   30 799.095 day s br 84.323 326  julian year (astronomy) yr 
+  synodic_period   369.66 days ref name fact cite web url    http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html title   Uranus Fact Sheet publisher   NASA last   Williams first   Dr. David R. accessdate   2007-08-10 date   January 31, 2005 ref 
+  avg_speed   6.81 km/s ref name fact 
+  inclination   0.772 556deg br 6.48deg to  Sun 's equator 
+  asc_node   73.989 821deg
+  arg_peri   96.541 318deg
+  mean_anomaly   142.955 717deg
+  satellites    Uranus' natural satellites 27 
+  physical_characteristics   yes
+  flattening   0.022 9 +- 0.000 8 Ref_label B b none 
+  mean_radius    nowrap val fmt commas 25362 7 u km ref name Seidelmann Archinal A'hearn et al. 2007 cite journal  doi   10.1007/s10569-007-9072-y  last1   Seidelmann  first1   P. Kenneth  last2   Archinal  first2   Brent A.  last3   A'Hearn  first3   Michael F.  display-authors   3  last4   Conrad  first4   Albert R.  last5   Consolmagno  first5   Guy J.  last6   Hestroffer  first6   Daniel  last7   Hilton  first7   James L.  last8   Krasinsky  first8   Georgij A.  last9   Neumann  first9   Gregory A.  last10 Oberst   first10 Jurgen    last11 Stooke   first11 Philip J.   last12 Tedesco   first12 Edward F.   last13 Tholen   first13 David J.   last14 Thomas   first14 Peter C.   last15 Williams   first15 Iwan P.   year   2007  title   Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006  journal   Celestial Mechanics and Dynamical Astronomy  volume   98  issue   3  pages   155-180  pmid     pmc     bibcode   2007CeMDA..98..155S  ref    sfnRef Seidelmann Archinal A'hearn et al. 2007 ref 
+  surface_area   8.115 6 e 9 km2 ref name nasafact cite web url    http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Facts title   NASA: Solar System Exploration: Planets: Uranus: Facts & Figures publisher   NASA last   Munsell first   Kirk accessdate   2007-08-13 date   May 14, 2007 ref Ref_label C c none br 15.91 Earths
+  volume   6.833 e 13 km3 ref name fact Ref_label C c none br 63.086 Earths
+  mass    nowrap (8.6810 +- 0.0013) e 25   kilogram kg br 14.536 Earths ref name Jacobson1992 cite journal last Jacobson first R.A. coauthors Campbell, J.K.; Taylor, A.H.; Synnott, S.P. title The masses of Uranus and its major satellites from Voyager tracking data and Earth-based Uranian satellite data journal The Astronomical Journal volume 103 issue 6 pages 2068-2078 year 1992 doi 10.1086/116211  url http://adsabs.harvard.edu/abs/1992AJ....103.2068J ref br 
+ standard gravitational parameter GM =5 793 939 +- 13 km3/s2
+  density   1.27 g/cm3 ref name fact Ref_label C c none 
+  surface_grav   8.69 Acceleration m/s2 ref name fact Ref_label C c none br 0.886 g-force g 
+  escape_velocity   21.3 km/s ref name fact 
+  rot_velocity   2.59 km/s br 9,320 km/h
+  axial_tilt   97.77deg ref name Seidelmann2007 cite journal last  Seidelmann first  P. Kenneth coauthors  Archinal, B. A.; A'hearn, M. F.;  et al. title  Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006 journal  Celestial Mech. Dyn. Astr.  volume 90 pages 155-180 year 2007 doi 10.1007/s10569-007-9072-y url http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y ref 
+  right_asc_north_pole    nowrap 17 h 9 min 15 s br 257.311deg ref name Seidelmann2007 
+  declination   -15.175deg ref name Seidelmann2007 
+  albedo   0.300 ( Bond albedo bond ) br 
+0.51 ( Geometric albedo geom. ) ref name fact 
+  magnitude   5.9 ref name ephemeris cite web title Twelve Year Planetary Ephemeris: 1995 - 2006 author Fred Espenak work NASA url http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html year 2005 accessdate 2007-06-14 ref  to 5.32 ref name fact 
+  angular_size   3.3"-4.1" ref name fact 
+  temperatures   yes
+  temp_name1   1 bar (unit) bar  level ref name Podolak1995 cite journal last Podolak first M. coauthors Weizman, A.; Marley, M. title Comparative models of Uranus and Neptune journal Planet. Space Sci. volume 43 issue 12 pages 1517-1522 year 1995  url http://adsabs.harvard.edu/abs/1995P%26SS...43.1517P doi 10.1016/0032-0633(95)00061-5 ref 
+  min_temp_1  
+  mean_temp_1   76 kelvin K 
+  max_temp_1  
+  temp_name2   0.1 bar  br ( tropopause ) ref name Lunine1993 cite journal title The Atmospheres of Uranus and Neptune last Lunine first Jonathan. I. journal   Annual Review of Astronomy and Astrophysics volume 31 pages 217-263 year 1993 doi 10.1146/annurev.aa.31.090193.001245  url http://adsabs.harvard.edu/abs/1993ARA%26A..31..217L ref 
+  min_temp_2   49 K
+  mean_temp_2   53 K
+  max_temp_2   57 K
+  adjectives   Uranian
+  atmosphere   yes
+  atmosphere_ref  
+ ref name Lunine1993 ref name Lindal1987 cite journal last Lindal first G.F. coauthors Lyons, J.R.; Sweetnam, D.N.;  et al. title The Atmosphere of Uranus: Results of Radio Occultation Measurements with Voyager 2  journal J. Of Geophys. Res. volume 92 pages 14,987-15,001 year 1987 url http://adsabs.harvard.edu/abs/1987JGR....9214987L doi 10.1029/JA092iA13p14987 ref ref name Conrath1987 cite journal author B. Conrath  et al. title The helium abundance of Uranus from Voyager measurements journal Journal of Geophysical Research volume 92 pages 15003-15010 yar 1987 url http://adsabs.harvard.edu/abs/1987JGR....9215003C doi 10.1029/JA092iA13p15003 year 1987 ref Ref_label D d none 
+  scale_height   27.7 km ref name fact 
+  atmosphere_composition    (Below 1.3 bar) br 
+ Chemical element Elements : br 
+83 +- 3%  hydrogen  (H sub 2 sub ) br 
+15 +- 3%  helium br 
+2.3%  methane br 
+0.009%  hydrogen deuteride (HD) ref name Feuchtgruber1999 cite journal last Feuchtgruber first H. coauthors Lellouch, E.; B. Bezard;  et al. title Detection of HD in the atmospheres of Uranus and Neptune: a new determination of the D/H ratio year 1999 journal Astronomy and Astrophysics volume 341 pages L17-L21 url http://adsabs.harvard.edu/abs/1999A%26A...341L..17F ref br 
+ Ice s : br ammonia br water br ammonium hydrosulfide (NH sub 4 sub SH) br methane (CH sub 4 sub )
+ 
+ otheruses 
+ Uranus  is the seventh  planet  from the  Sun  in the  Solar System .  It is a  gas giant . It is the third largest planet in the solar system. The planet is made of  ice ,  gas es and  liquid   metal . Its  atmosphere  contains  hydrogen ,  helium  and  methane . The  temperature  on Uranus is -197 degrees  celsius C  (79 Kelvin K ) near the top of its atmosphere, but its small solid core (about 55% the mass of Earth) is probably about 5,000K.  The planet is  axial tilt tilted  on its  Axis (mathematics) axis  so much that it is sideways. It has five big moons, many small ones, and a small system of  Planetary ring 13 planetary ring s.
+
+The distance between Uranus and the Sun is about 2.8 billion  kilometer km .  Uranus completes its  orbit   around the Sun in 84 earth years. It completes its turn around itself in 17 hours and 14 minutes.  This means there are about 43,000 Uranian  day s in one Uranian  year . ref library.thinkquest.org/C005921/Uranus/uranLocOrb.htm ref 
+
+Uranus was discovered in  1781 . ref cite book last Gay first Peter coauthors Time-Life Books title Age of Enlightenment year 1966 publisher Time pages 25 chapter The Practical Philosophers ref   This planet can be seen with the naked eye under perfect conditions.  John Flamsteed  saw it decades earlier but mistook it for a star (34 Tauri).
+
+Uranus is named after the Greek  Uranos god Uranus , who was a  god  of  sky .
+
+  Moons  
+Uranus has 27 known  Natural satellite moons . The names for these moons are chosen from characters from the works of  Shakespeare  and  Alexander Pope . ref name Faure2007 cite encyclopedia last  Faure first Gunter coauthors Mensing, Teresa title Uranus: What Happened Here? encyclopedia Introduction to Planetary Science year 2007 publisher Springer Netherlands editor Faure, Gunter; Mensing, Teresa M. doi 10.1007/978-1-4020-5544-7_18 ref ref name Nineplanets cite web  title Uranus  url http://www.nineplanets.org/uranus.html publisher nineplanets.org  accessdate 2007-07-03 ref 
+
+The five biggest moons are  Miranda (moon) Miranda ,  Ariel (moon) Ariel ,  Umbriel (moon) Umbriel ,  Titania (moon) Titania  and  Oberon (moon) Oberon . Many moons have yet to be discovered. They remain a mystery.
+
+  Exploring  
+In 1986,  NASA 's  Voyager 2  visited Uranus. The visit is the only attempt to investigate the planet from a short distance.
+
+  Clouds  
+Uranus is covered in blue clouds. The clouds, made of methane, are difficult to see as they are low in the atmosphere. ref Cite web
+  url   http://www.windows.ucar.edu/tour/link=/uranus/atmosphere/U_clouds_overview.html 
+  title Uranus Clouds, overview
+  work windows.ucar.edu
+  accessdate 29 March 2010
+ ref  There are  also violent storms on the surface with winds that blow at 160 miles per hour. Scientists are studying the clouds to try and understand the storms on the planet. ref Cite web
+  url   http://www.space.com/scienceastronomy/uranus_images_041110.html 
+  title SPACE.com -- New Images Reveal Clouds on Planet Uranus
+  work space.com
+  accessdate 29 March 2010
+ ref 
+
+  Rings  
+ File:Uranian rings scheme.png 100px|left|thumb|The scheme of Uranus's ring-moon system. Solid lines denote rings; dashed lines denote orbits of moons 
+
+The planet  Uranus  has a system made of  13 rings  which is far fewer than the  rings of Saturn  but more than those around  Jupiter  and  Neptune .  The rings of Uranus were discovered in 1977. ref name Elliot1977 cite web title The rings of Uranus author Elliot J.L; Dunham, E. & Mink D. work  Cornell University url http://www.nature.com/nature/journal/v267/n5609/abs/267328a0.html year 1977 accessdate June 9, 2007 ref  More than 200 years ago, William Herschel also reported observing rings, but modern astronomers do not believe that he saw them, because they are very dark and faint. Two additional rings were discovered in 1986 in images taken by the  Voyager 2 , ref name Smith1986 cite journal last  Smith first B.A. coauthors Soderblom L.A.   et al   title Voyager 2 in the Uranian system: Imaging Science results  journal Science volume 233 pages 97-102  year 1986 bibcode 1986Sci...233...43S  doi 10.1126/science.233.4759.43  pmid 17812889 issue  4759 ref  and two outer rings were found in 2003-2005 by the  Hubble Space Telescope . ref cite web title NASA's Hubble discovers new rings and moons around Uranus  work Hubblesite url http://hubblesite.org/newscenter/archive/releases/2005/33/  year 2005 accessdate June 9, 2007 ref   The rings are probably mainly composed of frozen water.
+
+The rings of Uranus are thought to be relatively young, not more than 600 million years old. The Uranian ring system probably began from the collisional fragmentation of moons that once existed around the planet. After colliding, the moons probably broke up into many particles, which survived as narrow, optically dense rings only in zones of maximum  stability .
+
+  General properties  
+ File:Uranian rings PIA01977.jpg thumb|left|100px|Uranus's inner rings. The bright outer ring is the epsilon ring; eight other rings are visible 
+
+The ring system of Uranus has thirteen distinct rings. In order of increasing distance from the planet they are: 1986U2R/z, 6, 5, 4, a, b, e, g, d, l, e, n, m rings. They can be divided into three groups: nine narrow main rings (6, 5, 4, a, b, e, g, d, e), two dusty rings (1986U2R/z, l) and two outer rings (m, n). The rings of Uranus   consist mainly of macroscopic particles and  little  dust , although dust is known to be present in 1986U2R/z, e, d, l, n and m rings. 
+
+In addition to these well-known rings, there may be numerous optically thin dust bands and faint rings between them. These faint rings and dust bands may exist only temporarily. Some of them became visible during a series of ring plane-crossing events in 2007. ref name dePater2007 cite journal last de Pater first Imke coauthors Hammel H B.  et al   title The dark side of the rings of Uranus  journal Science year 2007 volume 317 pages 1888-1890  url http://adsabs.harvard.edu/abs/2007Sci...317.1888D  doi 10.1126/science.1148103 pmid 17717152 issue 5846 ref  A number of dust bands between the rings were observed in forward-scattering  Ref_label A a none  geometry by  Voyager 2 .  All rings of Uranus show  azimuth al brightness variations.
+
+The rings are made of an extremely dark material. The rings are slightly red in the  ultraviolet  and visible parts of the  spectrum  and grey in  near-infrared . ref name Baines1998 cite journal last Baines first Kevin H.  et al    title Near-Infrared absolute photometric imaging of the Uranian system  journal Icarus year 1998 volume 132  pages 266-284 url http://adsabs.harvard.edu/abs/1998Icar..132..266B doi 10.1006/icar.1998.5894 ref  They show no identifiable  spectrum analysis spectral features . The  chemical composition  of the ring particles is not known. However, they cannot be made of pure water ice like the  rings of Saturn  because they are too dark, darker than the  moons of Uranus inner moons of Uranus . This shows that they are probably a mixture of the ice and a dark material.  The nature of this material is not clear, but it may be  organic compound s considerably darkened by the  charged particle  irradiation from the Uranian  magnetosphere . The rings' particles may consist of a heavily processed material which was initially similar to that of the inner moons. ref name Baines1998 File:Uranusandrings.jpg thumb|A 1998 false-colour near- infrared  image of Uranus showing  cloud  bands,  planetary ring rings , and  Natural satellite moons  obtained by the  Hubble Space Telescope 's  Near Infrared Camera and Multi-Object Spectrometer NICMOS camera 
+
+As a whole, the ring system of Uranus is unlike either the faint dusty  rings of Jupiter  or the broad and complex  rings of Saturn , some of which are composed of very bright material--water ice. However, there are similarities with some parts of the latter ring system; the Saturnian F ring and the e ring are both narrow, relatively dark and are shepherded by a pair of moons. The newly discovered outer rings of Uranus are similar to the outer G and E rings of  Saturn (planet) Saturn . Narrow ringlets existing in the broad Saturnian rings also resemble the narrow rings of Uranus. In addition, dust bands observed between the main rings of Uranus may be similar to the rings of Jupiter. In contrast, the  Rings of Neptune Neptunian ring  system is quite similar to that of Uranus, although it is less complex, darker and contains more dust. The Neptunian rings are also positioned further from the planet.
+
+  Orbit and rotation  
+Uranus revolves around the Sun once every 84 Earth years. Its average distance from the Sun is roughly 3  1,000,000,000 (number) billion km (about 20  Astronomical Units AU ). The intensity of sunlight on Uranus is about 1/400 that on Earth. ref cite web title Next Stop Uranus  url http://www.astrosociety.org/education/publications/tnl/04/04.html year 1986 accessdate June 9, 2007 ref  Its orbital elements were first calculated in 1783 by  Pierre-Simon Laplace . ref Forbes, George 1909.  History of Astronomy . ref  With time, discrepancies began to appear between the predicted and observed orbits, and in 1841,  John Couch Adams  first proposed that the differences might be due to the gravitational tug of an unseen planet. In 1845,  Urbain Le Verrier  began his own independent research into Uranus's orbit. On September 23, 1846,  Johann Gottfried Galle   Discovery of Neptune located a new planet , later named  Neptune , at nearly the position predicted by Le Verrier. ref cite web title Mathematical discovery of planets author O'Connor, J J and Robertson, E F url http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Neptune_and_Pluto.html year 1996 accessdate June 13, 2007 ref 
+
+The rotational period of the interior of Uranus is 17 hours, 14 minutes, clockwise ( retrograde motion retrograde ). As on all  giant planet s, its upper atmosphere experiences very strong winds in the direction of rotation. At some latitudes, such as about two-thirds of the way from the equator to the south pole, visible features of the atmosphere move much faster, making a full rotation in as little as 14 hours. ref cite web title Uranus work NASA World Book author Peter J. Gierasch and Philip D. Nicholson url http://www.nasa.gov/worldbook/uranus_worldbook.html year 2004 accessdate June 9, 2007 dead link date May 2012 ref 
+
+ Related pages 
+   List of planets 
+
+  References  
+ reflist 2 
+
+  Other websites  
+ sisterlinks Uranus 
+   http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html NASA's Uranus fact sheet 
+   http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus Uranus Profile  by  http://solarsystem.nasa.gov NASA's Solar System Exploration 
+   http://www2.keck.hawaii.edu/news/science/uranus/ Keck pictures of Uranus show best view from the ground  -- Press release with some photographs showing rings, satellites and clouds
+  News reports of December 22, 2005 rings and moons discovery
+   http://space.com/scienceastronomy/051222_uranus.html New Moons and Rings found at Uranus ,  SPACE.com 
+   http://www.msnbc.msn.com/id/10574903/ Two more rings discovered around Uranus ,  MSNBC 
+   http://www.projectshum.org/Planets/uranus.html Planets--Uranus  A kid's guide to Uranus.
+
+ Solar System 
+
+ Category:Uranus (planet)  

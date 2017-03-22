@@ -1,0 +1,44 @@
+Schwerin
+
+Infobox German Location
+ Art   Town
+ image_photo   Schloss Schwerin 070506.jpg
+ image_caption    Schweriner Schloss  (parliament of  Mecklenburg-Vorpommern )
+ Wappen   DEU Schwerin COA.svg
+ lat_deg   53   lat_min   38
+ lon_deg   11   lon_min   25
+ Lageplan  
+ Lageplanbeschreibung  
+ Bundesland   Mecklenburg-Vorpommern
+ Kreis   urban
+ Hohe   38
+ Flache   130.46
+ Einwohner   96280
+ Stand   2006-12-31
+ PLZ   19053, 19055, 19057, 19059, 19061, 19063
+ PLZ-alt   2750
+ Vorwahl   0385
+ Kfz   SN
+ Gemeindeschlussel   13 0 04 000
+ Gliederung   18 boroughs
+ Website    http://www.schwerin.de/ schwerin.de 
+ Burgermeister   Angelika Gramkow
+ Burgermeistertitel   Oberburgermeister
+ Partei   Die Linke
+ pop_ref  
+ ref http://www.statistik-mv.de/berichte/ Population data ref 
+ 
+ Schwerin  is the  capital (city) capital city  of the  States of Germany state  of  Mecklenburg-Western Pomerania . It has a  population  of 97,000. It is the second biggest  city  (behind  Rostock ) in the state. It is the smallest capital of a German state.
+
+ gallery 
+Image:Schwerin Castle Aerial View Island Luftbild Schweriner Schloss Insel See.jpg|[[Schwerin Castle]]
+ gallery 
+
+  References  
+ reflist 
+
+ Europe-stub 
+ Commonscat 
+
+ Category:Urban districts of Mecklenburg-Vorpommern 
+ Category:States of the Holy Roman Empire
