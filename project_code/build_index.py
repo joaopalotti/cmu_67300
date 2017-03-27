@@ -53,22 +53,40 @@ class IIndex:
             wordB,doc3:freq3,doc5:freq5,doc6:freq6....
 
         """
+        stopwords = set(stopword_list)
+
+        docid = 0
+        doc_mapping = {}
+
+        iindex = {}
 
         for f in self.files:
             text = open_file(f)
-            tokens = tokenize(text, stopword_list, stemming_func)
-            # ...
-            # ....
-            # ....
-            pass
+            tokens = tokenize(text, stopwords, stemming_func)
+            doc_mapping[os.path.basename(f)] = docid
+
+            print("Processing (%d) - %d Tokens - %s" % (docid, len(tokens), f))
+            for token in tokens:
+                if token not in iindex:
+                    iindex[token] = {}
+
+                if docid not in iindex[token]:
+                    iindex[token][docid] = 0
+
+                iindex[token][docid] += 1
+            docid += 1
 
         # Save to document mappings to disk:
         with open("docs.map","w") as fout:
-            #fout.write(...)
-            pass
+            for docname,docid in doc_mapping.items():
+                fout.write("%s,%d\n" % (docname, docid))
 
         # Save iindex to disk:
         with open("iindex.map","w") as fout:
-            #fout.write(...)
-            pass
+            for token, doc_freq in iindex.items():
+                fout.write("%s" % (token))
+
+                for docid,freq in doc_freq.items():
+                    fout.write(",%s:%d" % (docid,freq))
+                fout.write("\n")
 

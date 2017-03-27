@@ -21,7 +21,6 @@ with open("stopwords.txt") as fstop:
     stopwords = [sw.strip() for sw in fstop.readlines()]
 
 # you will need to adjust this parameter to map the location of this collection in your computer
-myindex = IIndex("../project_collection/swcollection")
-myindex.create(stopword_list=stopwords, stemming_func=porter.stem)
-
+myindex = IIndex("../project_collection/swcollection1000/")
+myindex.create(stopword_list=stopwords, stemming_func=snowball.stem)
 

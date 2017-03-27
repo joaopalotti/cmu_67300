@@ -28,24 +28,23 @@ def tokenize(text, stopwords = set([]), stemming_func = None):
     tokens = []
 
     # replace punctuation for white space
-    pass
+    text = re.sub("\W", " ", text)
 
     # remove double white spaces:
-    pass
+    text = " ".join(text.split())
 
     # split text to obtain tokens:
-    pass
+    tokens = [t.lower() for t in text.split()]
 
     # Remove stopwords if needed
     if len(stopwords) > 0:
-        pass
+        tokens = [t for t in tokens if t not in stopwords]
 
     # Apply some stemming if desired
     if stemming_func is not None:
-        pass
+        tokens = [stemming_func(t) for t in tokens]
 
     return tokens
-
 
 def load_index(index_file, docmap_file):
     """
