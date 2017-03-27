@@ -34,9 +34,11 @@ with open("queries.txt") as qfile:
 # load my favorite model
 model = DohaQatarTFSearchModel(index_file="./iindex.map", document_mapping_file="./docs.map")
 
+systemName = "joao1"
+
 # run each one of the queries...
 for query_id, query_str in query_list:
-    model.search(query_id, query_str, stopwords, snowball.stem)
+    model.search(query_id, query_str, systemName, stopwords, snowball.stem)
 
 
 # """

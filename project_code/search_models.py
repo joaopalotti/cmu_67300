@@ -51,10 +51,10 @@ class DohaQatarTFSearchModel(SearchModel):
     def __prepare_query(self, query, stopwords=[], stemming_func=None):
         return tokenize(query, stopwords, stemming_func)
 
-    def search(self, query_id, query_str, stopwords, stemming_func):
+    def search(self, query_id, query_str, systemName, stopwords, stemming_func):
 
         # I do not care about what you are searching for, I just care for the query "Doha Qatar"
-        #query_str = "Doha Qatar"
+        query_str = "Doha Qatar"
 
         query_tokens = self.__prepare_query(query_str, stopwords, stemming_func)
 
@@ -94,6 +94,6 @@ class DohaQatarTFSearchModel(SearchModel):
         docRank = 1
         for docid, score in result_list[:100]: # only the top 100 documents...
             # TREC Format: <topicId, Q0, docName, docRank, score, runName>
-            print "%d\tQ0\t%s\t%d\t%.2f\t%s" % (query_id, self.docmap[docid], docRank, score, "joaoRun1")
+            print "%d\tQ0\t%s\t%d\t%.2f\t%s" % (query_id, self.docmap[docid], docRank, score, systemName)
             docRank += 1
 
