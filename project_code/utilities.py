@@ -50,6 +50,25 @@ def load_index(index_file, docmap_file):
     """
     Loads the index into memory
     """
-    #return iindex, docmap
-    pass
+    iindex = {}
+    with open(index_file, "r") as f:
+
+        for line in f.readlines():
+            fields = line.strip().split(",")
+            token = fields[0]
+            freqs = fields[1:]
+            iindex[token] = {}
+            for f in freqs:
+                docid, freq = f.split(":")
+                iindex[token][int(docid)] = int(freq)
+
+    docmap = {}
+    with open("docs.map","r") as f:
+        for line in f.readlines():
+            w, c = line.strip().split(",")
+            docmap[int(c)] = w # NOTE THAT WE ARE NOW SWAPPING THE DOCUMENT NAME AND THE DOCUMENT ID
+
+    return  iindex, docmap
+
+
 
